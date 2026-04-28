@@ -4,6 +4,12 @@
 
 pnpm workspace monorepo using TypeScript. Each package manages its own dependencies.
 
+## Telegram Bot (Python)
+
+A standalone Python bot lives in `telegram_bot/`. It is independent of the Node.js monorepo and must be run separately on a machine with Python 3.10+.
+
+See `telegram_bot/README.md` for full setup and usage instructions.
+
 ## Stack
 
 - **Monorepo tool**: pnpm workspaces
