@@ -20,9 +20,16 @@ def _optional_env(name: str, default: str = "") -> str:
     return os.getenv(name, default).strip()
 
 
+def _sanitize_secret_like_value(value: str) -> str:
+    cleaned = value.strip()
+    if len(cleaned) >= 2 and cleaned[0] == cleaned[-1] and cleaned[0] in {"'", '"'}:
+        cleaned = cleaned[1:-1].strip()
+    return cleaned
+
+
 def _first_present(names: tuple[str, ...], default: str = "") -> str:
     for name in names:
-        value = os.getenv(name, "").strip()
+        value = _sanitize_secret_like_value(os.getenv(name, ""))
         if value:
             return value
     return default
@@ -42,13 +49,32 @@ def _bool_env(name: str, default: bool) -> bool:
 
 
 def _validate_telegram_bot_token(value: str) -> str:
-    token = value.strip()
+    token = _sanitize_secret_like_value(value)
     if not re.match(r"^\d{6,}:[A-Za-z0-9_-]{20,}$", token):
         raise ValueError(
             "TELEGRAM_BOT_TOKEN does not look like a valid BotFather token. "
             "It should look like '123456789:AA...' without quotes or extra spaces."
         )
     return token
+
+
+def _validate_chat_id(value: str, env_name: str) -> str:
+    chat_id = _sanitize_secret_like_value(value)
+    if not chat_id:
+        return ""
+    if chat_id.startswith("@"):
+        if not re.match(r"^@[A-Za-z0-9_]{4,}$", chat_id):
+            raise ValueError(
+                f"{env_name} does not look like a valid Telegram username-based chat id. "
+                "Use @channelusername without quotes."
+            )
+        return chat_id
+    if not re.match(r"^-?\d+$", chat_id):
+        raise ValueError(
+            f"{env_name} does not look like a valid numeric Telegram chat id. "
+            "Use values like -1001234567890 without quotes."
+        )
+    return chat_id
 
 
 @dataclass(frozen=True)
@@ -89,8 +115,14 @@ class Settings:
             telegram_bot_token=_validate_telegram_bot_token(
                 _first_present(("TELEGRAM_BOT_TOKEN", "BOT_TOKEN")) or _require_env("TELEGRAM_BOT_TOKEN")
             ),
-            telegram_channel_id=_first_present(("TELEGRAM_CHANNEL_ID", "CHANNEL_ID")) or _require_env("TELEGRAM_CHANNEL_ID"),
-            telegram_group_id=_first_present(("TELEGRAM_GROUP_ID", "GROUP_ID")),
+            telegram_channel_id=_validate_chat_id(
+                _first_present(("TELEGRAM_CHANNEL_ID", "CHANNEL_ID")) or _require_env("TELEGRAM_CHANNEL_ID"),
+                "TELEGRAM_CHANNEL_ID",
+            ),
+            telegram_group_id=_validate_chat_id(
+                _first_present(("TELEGRAM_GROUP_ID", "GROUP_ID")),
+                "TELEGRAM_GROUP_ID",
+            ),
             news_api_key=_first_present(("NEWS_API_KEY", "NEWSAPI_KEY")) or _require_env("NEWS_API_KEY"),
             news_api_url=_optional_env("NEWS_API_URL", "https://newsapi.org/v2/everything"),
             current_affairs_query=_optional_env(
