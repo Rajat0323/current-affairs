@@ -84,7 +84,12 @@ class Settings:
     telegram_group_id: str
     news_api_key: str
     news_api_url: str
+    newsdata_api_key: str
+    newsdata_api_url: str
     current_affairs_query: str
+    newsdata_india_query: str
+    newsdata_world_query: str
+    newsdata_india_country: str
     news_language: str
     news_page_size: int
     max_articles_per_cycle: int
@@ -96,6 +101,12 @@ class Settings:
     openai_model: str
     telegram_send_mcq_polls: bool
     mcqs_per_article: int
+
+    def __post_init__(self) -> None:
+        if not self.news_api_key and not self.newsdata_api_key:
+            raise ValueError(
+                "Set at least one news provider key: NEWS_API_KEY or NEWSDATA_API_KEY."
+            )
 
     @property
     def chat_ids(self) -> list[str]:
@@ -123,12 +134,23 @@ class Settings:
                 _first_present(("TELEGRAM_GROUP_ID", "GROUP_ID")),
                 "TELEGRAM_GROUP_ID",
             ),
-            news_api_key=_first_present(("NEWS_API_KEY", "NEWSAPI_KEY")) or _require_env("NEWS_API_KEY"),
+            news_api_key=_first_present(("NEWS_API_KEY", "NEWSAPI_KEY")),
             news_api_url=_optional_env("NEWS_API_URL", "https://newsapi.org/v2/everything"),
+            newsdata_api_key=_first_present(("NEWSDATA_API_KEY",)),
+            newsdata_api_url=_optional_env("NEWSDATA_API_URL", "https://newsdata.io/api/1/latest"),
             current_affairs_query=_optional_env(
                 "CURRENT_AFFAIRS_QUERY",
                 "India OR government OR parliament OR economy OR summit OR diplomacy OR science OR sports",
             ),
+            newsdata_india_query=_optional_env(
+                "NEWSDATA_INDIA_QUERY",
+                "India OR government OR parliament OR economy OR summit OR diplomacy OR science OR sports",
+            ),
+            newsdata_world_query=_optional_env(
+                "NEWSDATA_WORLD_QUERY",
+                "government OR parliament OR economy OR summit OR diplomacy OR science OR sports",
+            ),
+            newsdata_india_country=_optional_env("NEWSDATA_INDIA_COUNTRY", "in"),
             news_language=_optional_env("NEWS_LANGUAGE", "en"),
             news_page_size=_int_env("NEWS_PAGE_SIZE", 10),
             max_articles_per_cycle=_int_env("MAX_ARTICLES_PER_CYCLE", 2),

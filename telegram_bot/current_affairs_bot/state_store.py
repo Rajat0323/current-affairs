@@ -15,6 +15,9 @@ class StateStore:
         state = self._load()
         return article.url in state
 
+    def posted_urls(self) -> set[str]:
+        return set(self._load().keys())
+
     def mark_posted(self, article: Article) -> None:
         state = self._load()
         state[article.url] = {

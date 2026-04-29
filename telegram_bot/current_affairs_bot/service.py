@@ -27,8 +27,9 @@ class CurrentAffairsService:
         self.state_store = state_store
 
     def run_cycle(self, dry_run: bool = False) -> int:
-        articles = self.news_client.fetch_latest()
-        fresh_articles = [article for article in articles if not self.state_store.was_posted(article)]
+        posted_urls = self.state_store.posted_urls()
+        articles = self.news_client.fetch_latest(posted_urls=posted_urls)
+        fresh_articles = [article for article in articles if article.url not in posted_urls]
         selected_articles = list(reversed(fresh_articles[: self.settings.max_articles_per_cycle]))
         if not selected_articles:
             LOGGER.info(

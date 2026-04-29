@@ -4,7 +4,10 @@ A lightweight Python bot that fetches live news, turns it into short current-aff
 
 ## What it does
 
-- Pulls the latest articles from a NewsAPI-compatible endpoint.
+- Pulls the latest articles using multiple providers with fallback:
+  - `newsdata.io` India-focused query first
+  - `newsdata.io` worldwide query second
+  - `NewsAPI` worldwide query as an additional fallback
 - Uses an OpenAI-compatible LLM API to create:
   - a short readable current-affairs summary
   - "why it matters" points for government exam aspirants
@@ -77,22 +80,35 @@ The workflow file is:
 
 It supports:
 
-- scheduled runs every 30 minutes
+- scheduled runs every 15 minutes
 - manual runs from the Actions tab
 - committing `telegram_bot/data/posted_articles.json` back to the repo so posted-news state survives across runs
 
 ### Required repository secrets
 
-- `NEWS_API_KEY`
 - `TELEGRAM_BOT_TOKEN`
 - `TELEGRAM_CHANNEL_ID`
 - `OPENAI_API_KEY`
 
 ### Optional repository secrets
 
+- `NEWS_API_KEY`
+- `NEWSDATA_API_KEY`
 - `TELEGRAM_GROUP_ID`
 - `OPENAI_BASE_URL`
 - `OPENAI_MODEL`
+
+Set at least one of `NEWS_API_KEY` or `NEWSDATA_API_KEY`.
+
+### Optional repository variables
+
+- `CURRENT_AFFAIRS_QUERY`
+- `NEWSDATA_INDIA_QUERY`
+- `NEWSDATA_WORLD_QUERY`
+- `NEWSDATA_INDIA_COUNTRY`
+- `NEWS_PAGE_SIZE`
+- `MAX_ARTICLES_PER_CYCLE`
+- `REQUEST_TIMEOUT_SECONDS`
 
 If `OPENAI_MODEL` is not set, the bot defaults to `gpt-4.1-mini`.
 
