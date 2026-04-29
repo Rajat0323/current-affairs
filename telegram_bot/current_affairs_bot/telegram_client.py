@@ -1,11 +1,15 @@
 import html
 import json
+import logging
 from datetime import datetime
 
 import requests
 
 from current_affairs_bot.config import Settings
 from current_affairs_bot.models import Article, GeneratedPost, MCQ
+
+
+LOGGER = logging.getLogger(__name__)
 
 
 class TelegramClient:
@@ -16,13 +20,26 @@ class TelegramClient:
 
     def broadcast(self, article: Article, generated_post: GeneratedPost) -> None:
         message = self._build_post_message(article, generated_post)
+        successful_chats = 0
+        failures: list[str] = []
+
         for chat_id in self.settings.chat_ids:
-            self._send_message(chat_id, message)
-            if self.settings.telegram_send_mcq_polls:
-                for mcq in generated_post.mcqs[: self.settings.mcqs_per_article]:
-                    self._send_quiz(chat_id, mcq)
-            elif generated_post.mcqs:
-                self._send_message(chat_id, self._build_mcq_message(generated_post.mcqs))
+            try:
+                self._send_message(chat_id, message)
+                if self.settings.telegram_send_mcq_polls:
+                    for mcq in generated_post.mcqs[: self.settings.mcqs_per_article]:
+                        self._send_quiz(chat_id, mcq)
+                elif generated_post.mcqs:
+                    self._send_message(chat_id, self._build_mcq_message(generated_post.mcqs))
+                successful_chats += 1
+            except Exception as exc:
+                failures.append(f"{chat_id}: {exc}")
+                LOGGER.warning("Telegram delivery failed for chat %s: %s", chat_id, exc)
+
+        if successful_chats == 0 and failures:
+            raise RuntimeError("Telegram broadcast failed for all chats. " + " | ".join(failures))
+        if failures:
+            LOGGER.warning("Telegram broadcast partially succeeded. Failed chats: %s", " | ".join(failures))
 
     def _send_message(self, chat_id: str, text: str) -> None:
         response = self.session.post(
@@ -72,6 +89,16 @@ class TelegramClient:
                 f"Response: {payload}"
             )
 
+        if response.status_code == 400 and isinstance(payload, dict):
+            description = str(payload.get("description", ""))
+            if "chat not found" in description.lower():
+                raise RuntimeError(
+                    f"Telegram {method_name} failed because the target chat was not found. "
+                    "This usually means TELEGRAM_GROUP_ID or TELEGRAM_CHANNEL_ID is wrong, "
+                    "or the bot has not been added to that chat. "
+                    f"Response: {payload}"
+                )
+
         if not response.ok:
             raise RuntimeError(
                 f"Telegram {method_name} failed with HTTP {response.status_code}. Response: {payload}"
@@ -92,6 +119,7 @@ class TelegramClient:
         why_it_matters = "\n".join(
             f"- {html.escape(point)}" for point in generated_post.why_it_matters
         )
+        hashtags = self._build_hashtags(article, generated_post)
         source = html.escape(article.source)
         source_url = html.escape(article.url, quote=True)
         published_at = html.escape(self._format_datetime(article.published_at))
@@ -101,7 +129,8 @@ class TelegramClient:
             f"<b>Summary:</b>\n{summary}\n\n"
             f"<b>Why it matters for UPSC/SSC:</b>\n{why_it_matters}\n\n"
             f"<b>Source:</b> <a href=\"{source_url}\">{source}</a>\n"
-            f"<b>Published:</b> {published_at}"
+            f"<b>Published:</b> {published_at}\n\n"
+            f"{hashtags}"
         )
 
     def _build_mcq_message(self, mcqs: list[MCQ]) -> str:
@@ -134,4 +163,42 @@ class TelegramClient:
         if len(value) <= limit:
             return value
         return value[: limit - 3].rstrip() + "..."
+
+    def _build_hashtags(self, article: Article, generated_post: GeneratedPost) -> str:
+        text = " ".join(
+            [
+                article.title,
+                article.description,
+                generated_post.title,
+                generated_post.summary,
+                " ".join(generated_post.why_it_matters),
+            ]
+        ).lower()
+
+        tags = ["#CurrentAffairs", "#UPSC", "#SSC", "#GK", "#GovtExams"]
+
+        keyword_tags = [
+            ("economy", "#Economy"),
+            ("budget", "#Economy"),
+            ("rbi", "#Economy"),
+            ("government", "#Polity"),
+            ("parliament", "#Polity"),
+            ("bill", "#Polity"),
+            ("scheme", "#Schemes"),
+            ("science", "#ScienceTech"),
+            ("technology", "#ScienceTech"),
+            ("space", "#ScienceTech"),
+            ("summit", "#InternationalRelations"),
+            ("diplomacy", "#InternationalRelations"),
+            ("iran", "#InternationalRelations"),
+            ("sports", "#Sports"),
+            ("environment", "#Environment"),
+            ("climate", "#Environment"),
+        ]
+
+        for keyword, tag in keyword_tags:
+            if keyword in text and tag not in tags:
+                tags.append(tag)
+
+        return " ".join(tags[:8])
 
