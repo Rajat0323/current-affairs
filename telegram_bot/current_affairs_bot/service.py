@@ -35,6 +35,7 @@ class CurrentAffairsService:
             return 0
 
         posted_count = 0
+        failure_count = 0
         for article in selected_articles:
             try:
                 generated_post = self.llm_client.generate_post(article)
@@ -47,7 +48,10 @@ class CurrentAffairsService:
                     LOGGER.info("Posted article to Telegram: %s", article.title)
                 posted_count += 1
             except Exception:
+                failure_count += 1
                 LOGGER.exception("Failed to process article: %s", article.title)
+        if posted_count == 0 and failure_count > 0:
+            raise RuntimeError("The bot found fresh articles but failed to process all of them.")
         return posted_count
 
     def run_forever(self) -> None:
