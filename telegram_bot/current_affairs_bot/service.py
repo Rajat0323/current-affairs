@@ -31,9 +31,19 @@ class CurrentAffairsService:
         fresh_articles = [article for article in articles if not self.state_store.was_posted(article)]
         selected_articles = list(reversed(fresh_articles[: self.settings.max_articles_per_cycle]))
         if not selected_articles:
-            LOGGER.info("No new articles found in this cycle.")
+            LOGGER.info(
+                "No new articles found in this cycle. fetched=%s fresh=%s already_posted=%s",
+                len(articles),
+                len(fresh_articles),
+                len(articles) - len(fresh_articles),
+            )
             return 0
 
+        LOGGER.info(
+            "Preparing %s fresh article(s) from %s fetched candidates.",
+            len(selected_articles),
+            len(articles),
+        )
         posted_count = 0
         failure_count = 0
         for article in selected_articles:

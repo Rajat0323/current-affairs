@@ -3,7 +3,8 @@ name: Current Affairs Bot
 on:
   workflow_dispatch:
   schedule:
-    - cron: "*/15 * * * *"
+    # Keep a 15-minute cadence, but avoid the busiest :00 slot on GitHub Actions.
+    - cron: "7,22,37,52 * * * *"
 
 permissions:
   contents: write
@@ -68,6 +69,29 @@ jobs:
 
       - name: Run bot cycle
         run: python main.py --once
+
+      - name: Summarize posting result
+        shell: bash
+        run: |
+          if git diff --quiet -- data/posted_articles.json; then
+            {
+              echo "## Current Affairs Bot"
+              echo
+              echo "No new articles were posted in this run."
+              echo
+              echo "This bot only posts article URLs that are not already present in data/posted_articles.json."
+            } >> "$GITHUB_STEP_SUMMARY"
+          else
+            {
+              echo "## Current Affairs Bot"
+              echo
+              echo "New article data was posted and the state file changed."
+              echo
+              echo '```'
+              git diff --numstat -- data/posted_articles.json
+              echo '```'
+            } >> "$GITHUB_STEP_SUMMARY"
+          fi
 
       - name: Commit updated posted-article state
         shell: bash
