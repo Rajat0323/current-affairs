@@ -35,10 +35,7 @@ class TelegramClient:
             },
             timeout=self.settings.request_timeout_seconds,
         )
-        response.raise_for_status()
-        payload = response.json()
-        if not payload.get("ok", False):
-            raise RuntimeError(f"Telegram sendMessage failed: {payload}")
+        self._handle_response(response, "sendMessage")
 
     def _send_quiz(self, chat_id: str, mcq: MCQ) -> None:
         response = self.session.post(
@@ -54,10 +51,28 @@ class TelegramClient:
             },
             timeout=self.settings.request_timeout_seconds,
         )
-        response.raise_for_status()
-        payload = response.json()
-        if not payload.get("ok", False):
-            raise RuntimeError(f"Telegram sendPoll failed: {payload}")
+        self._handle_response(response, "sendPoll")
+
+    def _handle_response(self, response: requests.Response, method_name: str) -> None:
+        try:
+            payload = response.json()
+        except ValueError:
+            payload = {"raw_text": response.text}
+
+        if response.status_code == 404:
+            raise RuntimeError(
+                f"Telegram {method_name} failed with HTTP 404. "
+                "This usually means TELEGRAM_BOT_TOKEN is invalid or expired. "
+                f"Response: {payload}"
+            )
+
+        if not response.ok:
+            raise RuntimeError(
+                f"Telegram {method_name} failed with HTTP {response.status_code}. Response: {payload}"
+            )
+
+        if not isinstance(payload, dict) or not payload.get("ok", False):
+            raise RuntimeError(f"Telegram {method_name} failed: {payload}")
 
     def _build_post_message(self, article: Article, generated_post: GeneratedPost) -> str:
         title = html.escape(generated_post.title)

@@ -1,6 +1,7 @@
 from dataclasses import dataclass
 from pathlib import Path
 import os
+import re
 
 from dotenv import load_dotenv
 
@@ -40,6 +41,16 @@ def _bool_env(name: str, default: bool) -> bool:
     return raw in {"1", "true", "yes", "on"}
 
 
+def _validate_telegram_bot_token(value: str) -> str:
+    token = value.strip()
+    if not re.match(r"^\d{6,}:[A-Za-z0-9_-]{20,}$", token):
+        raise ValueError(
+            "TELEGRAM_BOT_TOKEN does not look like a valid BotFather token. "
+            "It should look like '123456789:AA...' without quotes or extra spaces."
+        )
+    return token
+
+
 @dataclass(frozen=True)
 class Settings:
     telegram_bot_token: str
@@ -75,7 +86,9 @@ class Settings:
         load_dotenv(BASE_DIR / ".env")
         state_relative_path = Path(_optional_env("STATE_FILE", "data/posted_articles.json"))
         return cls(
-            telegram_bot_token=_first_present(("TELEGRAM_BOT_TOKEN", "BOT_TOKEN")) or _require_env("TELEGRAM_BOT_TOKEN"),
+            telegram_bot_token=_validate_telegram_bot_token(
+                _first_present(("TELEGRAM_BOT_TOKEN", "BOT_TOKEN")) or _require_env("TELEGRAM_BOT_TOKEN")
+            ),
             telegram_channel_id=_first_present(("TELEGRAM_CHANNEL_ID", "CHANNEL_ID")) or _require_env("TELEGRAM_CHANNEL_ID"),
             telegram_group_id=_first_present(("TELEGRAM_GROUP_ID", "GROUP_ID")),
             news_api_key=_first_present(("NEWS_API_KEY", "NEWSAPI_KEY")) or _require_env("NEWS_API_KEY"),
