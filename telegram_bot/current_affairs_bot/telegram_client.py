@@ -38,26 +38,32 @@ class TelegramClient:
         self._handle_response(response, "sendMessage")
 
     def _send_quiz(self, chat_id: str, mcq: MCQ) -> None:
-        response = self.session.post(
+        response = self._post_poll(chat_id, mcq, is_anonymous=False)
+        payload = self._response_payload(response)
+        description = str(payload.get("description", "")).lower() if isinstance(payload, dict) else ""
+
+        if response.status_code == 400 and "non-anonymous polls can't be sent to channel chats" in description:
+            response = self._post_poll(chat_id, mcq, is_anonymous=True)
+
+        self._handle_response(response, "sendPoll")
+
+    def _post_poll(self, chat_id: str, mcq: MCQ, is_anonymous: bool) -> requests.Response:
+        return self.session.post(
             f"{self.base_url}/sendPoll",
             data={
                 "chat_id": chat_id,
                 "question": self._fit_text(mcq.question, 280),
                 "options": json.dumps([self._fit_text(option, 90) for option in mcq.options]),
                 "type": "quiz",
-                "is_anonymous": "false",
+                "is_anonymous": "true" if is_anonymous else "false",
                 "correct_option_id": mcq.answer_index,
                 "explanation": self._fit_text(mcq.explanation, 180),
             },
             timeout=self.settings.request_timeout_seconds,
         )
-        self._handle_response(response, "sendPoll")
 
     def _handle_response(self, response: requests.Response, method_name: str) -> None:
-        try:
-            payload = response.json()
-        except ValueError:
-            payload = {"raw_text": response.text}
+        payload = self._response_payload(response)
 
         if response.status_code == 404:
             raise RuntimeError(
@@ -73,6 +79,12 @@ class TelegramClient:
 
         if not isinstance(payload, dict) or not payload.get("ok", False):
             raise RuntimeError(f"Telegram {method_name} failed: {payload}")
+
+    def _response_payload(self, response: requests.Response) -> dict | list | str:
+        try:
+            return response.json()
+        except ValueError:
+            return {"raw_text": response.text}
 
     def _build_post_message(self, article: Article, generated_post: GeneratedPost) -> str:
         title = html.escape(generated_post.title)
