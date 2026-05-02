@@ -23,6 +23,7 @@ class TelegramClient:
         pending_reveals: list[PendingGroupReveal] = []
         successful_chats = 0
         failures: list[str] = []
+        group_success = False
 
         if self.settings.telegram_channel_id:
             chat_id = self.settings.telegram_channel_id
@@ -44,12 +45,15 @@ class TelegramClient:
             try:
                 pending_reveals = self._post_group_discussions(article, generated_post)
                 successful_chats += 1
+                group_success = True
             except Exception as exc:
                 failures.append(f"{chat_id}: {exc}")
                 LOGGER.warning("Telegram delivery failed for chat %s: %s", chat_id, exc)
 
         if successful_chats == 0 and failures:
             raise RuntimeError("Telegram broadcast failed for all chats. " + " | ".join(failures))
+        if self.settings.telegram_require_group and self.settings.telegram_group_id and not group_success:
+            raise RuntimeError("Telegram group delivery failed. " + " | ".join(failures))
         if failures:
             LOGGER.warning("Telegram broadcast partially succeeded. Failed chats: %s", " | ".join(failures))
         return pending_reveals

@@ -106,6 +106,7 @@ Set at least one of `NEWS_API_KEY` or `NEWSDATA_API_KEY`.
 
 ### Optional repository variables
 
+- `TELEGRAM_REQUIRE_GROUP`
 - `TELEGRAM_BRAND_NAME`
 - `TELEGRAM_CHANNEL_REF`
 - `TELEGRAM_GROUP_REF`
@@ -125,6 +126,8 @@ Set at least one of `NEWS_API_KEY` or `NEWSDATA_API_KEY`.
 
 - The channel keeps the current full-post format.
 - The group does not receive the same summary post.
+- `TELEGRAM_GROUP_REF` is only for public discovery/footer text.
+- Actual group posting always requires `TELEGRAM_GROUP_ID`.
 - For each fresh article, the group now gets:
   - 1 discussion starter
   - 1 quiz prompt per MCQ

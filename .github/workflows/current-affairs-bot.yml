@@ -25,6 +25,7 @@ jobs:
       TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN || secrets.BOT_TOKEN }}
       TELEGRAM_CHANNEL_ID: ${{ secrets.TELEGRAM_CHANNEL_ID || secrets.CHANNEL_ID }}
       TELEGRAM_GROUP_ID: ${{ secrets.TELEGRAM_GROUP_ID || secrets.GROUP_ID }}
+      TELEGRAM_REQUIRE_GROUP: ${{ vars.TELEGRAM_REQUIRE_GROUP || 'true' }}
       TELEGRAM_BRAND_NAME: ${{ vars.TELEGRAM_BRAND_NAME || 'Current Affairs Hub' }}
       TELEGRAM_CHANNEL_REF: ${{ vars.TELEGRAM_CHANNEL_REF || '' }}
       TELEGRAM_GROUP_REF: ${{ vars.TELEGRAM_GROUP_REF || '' }}

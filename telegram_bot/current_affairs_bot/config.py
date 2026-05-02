@@ -128,6 +128,7 @@ class Settings:
     openai_model: str
     telegram_send_mcq_polls: bool
     mcqs_per_article: int
+    telegram_require_group: bool
     telegram_brand_name: str
     telegram_channel_ref: str
     telegram_group_ref: str
@@ -140,6 +141,16 @@ class Settings:
         if not self.news_api_key and not self.newsdata_api_key:
             raise ValueError(
                 "Set at least one news provider key: NEWS_API_KEY or NEWSDATA_API_KEY."
+            )
+        if self.telegram_require_group and not self.telegram_group_id:
+            raise ValueError(
+                "TELEGRAM_GROUP_ID is required because TELEGRAM_REQUIRE_GROUP is enabled. "
+                "TELEGRAM_GROUP_REF is only a public link/username and does not send posts by itself."
+            )
+        if self.telegram_group_ref and not self.telegram_group_id:
+            raise ValueError(
+                "TELEGRAM_GROUP_REF is set, but TELEGRAM_GROUP_ID is missing. "
+                "Use TELEGRAM_GROUP_ID for actual group posting."
             )
 
     @property
@@ -200,6 +211,7 @@ class Settings:
             openai_model=_first_present(("OPENAI_MODEL", "LLM_MODEL"), "gpt-4.1-mini"),
             telegram_send_mcq_polls=_bool_env("TELEGRAM_SEND_MCQ_POLLS", True),
             mcqs_per_article=_int_env("MCQS_PER_ARTICLE", 3),
+            telegram_require_group=_bool_env("TELEGRAM_REQUIRE_GROUP", True),
             telegram_brand_name=_optional_env("TELEGRAM_BRAND_NAME", "Current Affairs Hub"),
             telegram_channel_ref=_validate_public_ref(
                 _optional_env("TELEGRAM_CHANNEL_REF"),
