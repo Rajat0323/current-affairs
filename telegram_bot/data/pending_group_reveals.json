@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "e71b0d7cc95546009d9dabcb449c8f37",
-    "article_title": "SC Ruling on Bengal Counting Staff",
-    "question": "What was the Supreme Court's decision regarding the Election Commission's choice of counting staff in West Bengal?",
+    "reveal_id": "9f6a5b9683a8416a82d8d0e0272cafe9",
+    "article_title": "IPL 2026: GT vs PBKS",
+    "question": "Which teams are playing in Match 46 of IPL 2026?",
     "answer_label": "B",
-    "answer_text": "Denied Trinamool's plea",
-    "explanation": "The Supreme Court declined to interfere with the ECI's decision, effectively denying Trinamool's plea.",
-    "due_at": "2026-05-02T20:57:44.899857+00:00"
+    "answer_text": "Gujarat Titans vs Punjab Kings",
+    "explanation": "Gujarat Titans are hosting Punjab Kings in Match 46 of IPL 2026.",
+    "due_at": "2026-05-02T21:53:29.406411+00:00"
   },
   {
-    "reveal_id": "86ea9290ac044f448b494fc12be3955c",
-    "article_title": "SC Ruling on Bengal Counting Staff",
-    "question": "Who will be appointed as counting supervisors and assistants in the West Bengal Assembly elections?",
+    "reveal_id": "a8dcc3b38027495da4f895d524bfc9b6",
+    "article_title": "IPL 2026: GT vs PBKS",
+    "question": "Where will the GT vs PBKS match be held?",
     "answer_label": "B",
-    "answer_text": "Central government and PSU employees",
-    "explanation": "The ECI decided to appoint Central government and Central Public Sector Undertaking employees as counting staff.",
-    "due_at": "2026-05-02T20:57:48.688222+00:00"
+    "answer_text": "Narendra Modi Stadium",
+    "explanation": "The match will be held at the Narendra Modi Stadium in Ahmedabad.",
+    "due_at": "2026-05-02T21:53:30.095895+00:00"
   },
   {
-    "reveal_id": "5f622eb950d24ae096764d09f34e71c8",
-    "article_title": "SC Ruling on Bengal Counting Staff",
-    "question": "What instruction did the Supreme Court give to the Election Commission of India?",
-    "answer_label": "B",
-    "answer_text": "To follow its circular in letter and spirit",
-    "explanation": "The Supreme Court directed the ECI to follow its circular strictly, ensuring fairness and transparency.",
-    "due_at": "2026-05-02T20:57:49.303059+00:00"
+    "reveal_id": "5cd555cbf47b45c6beb0b1687d6fd6e4",
+    "article_title": "IPL 2026: GT vs PBKS",
+    "question": "What is the current position of Gujarat Titans in the IPL 2026 league stage?",
+    "answer_label": "D",
+    "answer_text": "Fifth place",
+    "explanation": "Gujarat Titans are currently in the fifth-place position after winning 5 of 9 games.",
+    "due_at": "2026-05-02T21:53:30.786681+00:00"
   },
   {
-    "reveal_id": "033c295e10324b43afd03d0ad251998f",
-    "article_title": "SP Noida Protest",
-    "question": "Which party staged a protest at the City Magistrate office in Noida?",
+    "reveal_id": "498f2e12eb064bf080e99031e1b80cdb",
+    "article_title": "Falta Residents Protest",
+    "question": "What is the reason for the protest by Falta residents?",
     "answer_label": "B",
-    "answer_text": "Samajwadi Party",
-    "explanation": "The Samajwadi Party's Noida unit led the protest, submitting a 9-point memorandum on civic issues.",
-    "due_at": "2026-05-02T20:57:56.127824+00:00"
+    "answer_text": "Alleging TMC intimidation",
+    "explanation": "The residents are protesting due to alleged intimidation by TMC, demanding strict action against those responsible.",
+    "due_at": "2026-05-02T21:53:35.125144+00:00"
   },
   {
-    "reveal_id": "e48799cca8454e83b9472f208bf135ae",
-    "article_title": "SP Noida Protest",
-    "question": "Where was the protest staged by the Samajwadi Party in Noida?",
-    "answer_label": "B",
-    "answer_text": "Sector 19 City Magistrate Office",
-    "explanation": "The protest was held at the City Magistrate office in Sector 19 of Noida.",
-    "due_at": "2026-05-02T20:57:56.772580+00:00"
-  },
-  {
-    "reveal_id": "c3e226684a5b4386ac81dfc62bd7db8c",
-    "article_title": "SP Noida Protest",
-    "question": "What was submitted by the Samajwadi Party to the City Magistrate office?",
+    "reveal_id": "262d6655b2354d51a2d3654bb59c4ff0",
+    "article_title": "Falta Residents Protest",
+    "question": "Which forces have been deployed to maintain order in Falta?",
     "answer_label": "C",
-    "answer_text": "A 9-point memorandum",
-    "explanation": "The Samajwadi Party submitted a 9-point memorandum highlighting civic issues in Noida.",
-    "due_at": "2026-05-02T20:57:57.405584+00:00"
+    "answer_text": "CRPF and RAF",
+    "explanation": "Both CRPF and RAF have been deployed to maintain law and order during the protest.",
+    "due_at": "2026-05-02T21:53:35.825091+00:00"
+  },
+  {
+    "reveal_id": "a52ffae9d63f4beaafa61c9cace8a57f",
+    "article_title": "Falta Residents Protest",
+    "question": "What is the context of the protest in Falta?",
+    "answer_label": "B",
+    "answer_text": "Ahead of West Bengal Assembly results",
+    "explanation": "The protest is happening ahead of the West Bengal Assembly election results.",
+    "due_at": "2026-05-02T21:53:36.530933+00:00"
   }
 ]
