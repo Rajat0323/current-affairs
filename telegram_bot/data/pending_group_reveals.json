@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "08d97774b9414360a50b2a4539e8bcc9",
-    "article_title": "Jabalpur Boat Tragedy",
-    "question": "Where did the boat tragedy occur?",
+    "reveal_id": "02546e5a35bf43048ffa75e0b7514d8f",
+    "article_title": "LPG Price Hike Hits Migrant Homes",
+    "question": "What is the main issue affecting migrant homes in Delhi?",
     "answer_label": "B",
-    "answer_text": "Jabalpur",
-    "explanation": "The boat capsized in Jabalpur district at Bargi Dam.",
-    "due_at": "2026-05-02T12:33:39.466501+00:00"
+    "answer_text": "LPG price hike",
+    "explanation": "The article mentions the sharp rise in LPG costs as the primary cause of distress.",
+    "due_at": "2026-05-02T14:15:45.887633+00:00"
   },
   {
-    "reveal_id": "202d3355dc674b7489417e5ec430629c",
-    "article_title": "Jabalpur Boat Tragedy",
-    "question": "How many people are still missing after the boat tragedy?",
+    "reveal_id": "25dbb0131d2348439f5767bdd3828a60",
+    "article_title": "LPG Price Hike Hits Migrant Homes",
+    "question": "Which city is experiencing a quiet crisis due to the LPG price hike?",
+    "answer_label": "B",
+    "answer_text": "Delhi",
+    "explanation": "The article specifically mentions Delhi as the city affected by the LPG price hike.",
+    "due_at": "2026-05-02T14:15:49.653902+00:00"
+  },
+  {
+    "reveal_id": "bb69ca2015a14eff92cd1217b9fe909a",
+    "article_title": "LPG Price Hike Hits Migrant Homes",
+    "question": "What is the demographic most affected by the LPG price hike in Delhi?",
     "answer_label": "C",
-    "answer_text": "6",
-    "explanation": "Six tourists are still missing after the incident.",
-    "due_at": "2026-05-02T12:33:43.358495+00:00"
+    "answer_text": "Working-class neighborhoods",
+    "explanation": "The article states that the working-class neighborhoods in Delhi are experiencing widespread distress due to the LPG price hike.",
+    "due_at": "2026-05-02T14:15:50.323002+00:00"
   },
   {
-    "reveal_id": "f5d79529d853445d95d236bb68306dcb",
-    "article_title": "Jabalpur Boat Tragedy",
-    "question": "What has the Madhya Pradesh government done in response to the tragedy?",
+    "reveal_id": "463a9b2c817e498e8651d8eb41946f0b",
+    "article_title": "MP Boat Tragedy",
+    "question": "What was the alleged reason for the mother and son holding each other in the MP boat tragedy?",
+    "answer_label": "B",
+    "answer_text": "To create a protective air buffer",
+    "explanation": "The mother and son were attempting to create a protective air buffer to increase their chances of survival.",
+    "due_at": "2026-05-02T14:15:57.297087+00:00"
+  },
+  {
+    "reveal_id": "6a997d54db2e4b2092492f998da365a3",
+    "article_title": "MP Boat Tragedy",
+    "question": "What was the status of the life jackets on the MP tourism boat?",
+    "answer_label": "B",
+    "answer_text": "They were locked below deck",
+    "explanation": "The life jackets were locked below deck, which may have contributed to the tragedy.",
+    "due_at": "2026-05-02T14:15:57.920912+00:00"
+  },
+  {
+    "reveal_id": "bdff59c72fbe4146a68e2ca4c03d9aec",
+    "article_title": "MP Boat Tragedy",
+    "question": "What has the Chief Minister of Madhya Pradesh promised in response to the boat tragedy?",
     "answer_label": "C",
-    "answer_text": "Ordered a probe into the incident",
-    "explanation": "The state government has ordered a probe into the incident to investigate the causes and allegations of negligence.",
-    "due_at": "2026-05-02T12:33:43.941940+00:00"
-  },
-  {
-    "reveal_id": "3e2acdf8f6174004a7ff6085008995c0",
-    "article_title": "Tata Sons CIC Status",
-    "question": "What might happen if RBI rejects Tata Sons' plea to shed its CIC status?",
-    "answer_label": "B",
-    "answer_text": "It will have to go for an IPO",
-    "explanation": "If RBI rejects the plea, Tata Sons will have to go for an Initial Public Offering and list its shares on stock exchanges.",
-    "due_at": "2026-05-02T12:33:51.448932+00:00"
-  },
-  {
-    "reveal_id": "74fdd0b0cf514969b6fe8e6bf5089993",
-    "article_title": "Tata Sons CIC Status",
-    "question": "What is the current status of Tata Sons that it wants to shed?",
-    "answer_label": "B",
-    "answer_text": "Core Investment Company",
-    "explanation": "Tata Sons currently holds a Core Investment Company status, which it wants to shed.",
-    "due_at": "2026-05-02T12:33:52.129080+00:00"
-  },
-  {
-    "reveal_id": "c4820bf6d59840db8be2fc0b7b9c099b",
-    "article_title": "Tata Sons CIC Status",
-    "question": "Which regulatory body is involved in deciding Tata Sons' plea?",
-    "answer_label": "B",
-    "answer_text": "RBI",
-    "explanation": "The Reserve Bank of India is the regulatory body involved in deciding Tata Sons' plea to shed its CIC status.",
-    "due_at": "2026-05-02T12:33:52.751087+00:00"
+    "answer_text": "To take action against those responsible",
+    "explanation": "The Chief Minister has promised to take action against those responsible for the tragedy.",
+    "due_at": "2026-05-02T14:15:58.552218+00:00"
   }
 ]
