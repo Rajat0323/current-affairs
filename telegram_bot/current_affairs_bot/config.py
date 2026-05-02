@@ -122,6 +122,7 @@ class Settings:
     poll_interval_minutes: int
     request_timeout_seconds: int
     state_file: Path
+    group_reveal_state_file: Path
     openai_api_key: str
     openai_base_url: str
     openai_model: str
@@ -132,6 +133,8 @@ class Settings:
     telegram_group_ref: str
     telegram_call_to_action: str
     telegram_discovery_keywords: tuple[str, ...]
+    group_answer_delay_minutes: int
+    group_discussion_call_to_action: str
 
     def __post_init__(self) -> None:
         if not self.news_api_key and not self.newsdata_api_key:
@@ -153,6 +156,9 @@ class Settings:
     def from_env(cls) -> "Settings":
         load_dotenv(BASE_DIR / ".env")
         state_relative_path = Path(_optional_env("STATE_FILE", "data/posted_articles.json"))
+        reveal_state_relative_path = Path(
+            _optional_env("GROUP_REVEAL_STATE_FILE", "data/pending_group_reveals.json")
+        )
         return cls(
             telegram_bot_token=_validate_telegram_bot_token(
                 _first_present(("TELEGRAM_BOT_TOKEN", "BOT_TOKEN")) or _require_env("TELEGRAM_BOT_TOKEN")
@@ -188,6 +194,7 @@ class Settings:
             poll_interval_minutes=_int_env("POLL_INTERVAL_MINUTES", 30),
             request_timeout_seconds=_int_env("REQUEST_TIMEOUT_SECONDS", 30),
             state_file=(BASE_DIR / state_relative_path).resolve(),
+            group_reveal_state_file=(BASE_DIR / reveal_state_relative_path).resolve(),
             openai_api_key=_first_present(("OPENAI_API_KEY", "LLM_API_KEY")) or _require_env("OPENAI_API_KEY"),
             openai_base_url=_first_present(("OPENAI_BASE_URL", "LLM_BASE_URL"), "https://api.openai.com/v1"),
             openai_model=_first_present(("OPENAI_MODEL", "LLM_MODEL"), "gpt-4.1-mini"),
@@ -209,6 +216,11 @@ class Settings:
             telegram_discovery_keywords=_csv_env(
                 "TELEGRAM_DISCOVERY_KEYWORDS",
                 "UPSC current affairs, SSC current affairs, daily current affairs, current affairs quiz, government exam preparation, GK updates",
+            ),
+            group_answer_delay_minutes=_int_env("GROUP_ANSWER_DELAY_MINUTES", 30),
+            group_discussion_call_to_action=_optional_env(
+                "GROUP_DISCUSSION_CALL_TO_ACTION",
+                "Reply with your reason or one keyword you would revise from this topic.",
             ),
         )
 

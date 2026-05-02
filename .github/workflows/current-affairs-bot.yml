@@ -30,6 +30,8 @@ jobs:
       TELEGRAM_GROUP_REF: ${{ vars.TELEGRAM_GROUP_REF || '' }}
       TELEGRAM_CALL_TO_ACTION: ${{ vars.TELEGRAM_CALL_TO_ACTION || 'Follow for daily UPSC/SSC current affairs, exam-focused summaries, and quick MCQ practice.' }}
       TELEGRAM_DISCOVERY_KEYWORDS: ${{ vars.TELEGRAM_DISCOVERY_KEYWORDS || 'UPSC current affairs, SSC current affairs, daily current affairs, current affairs quiz, government exam preparation, GK updates' }}
+      GROUP_ANSWER_DELAY_MINUTES: ${{ vars.GROUP_ANSWER_DELAY_MINUTES || '30' }}
+      GROUP_DISCUSSION_CALL_TO_ACTION: ${{ vars.GROUP_DISCUSSION_CALL_TO_ACTION || 'Reply with your reason or one keyword you would revise from this topic.' }}
       NEWS_API_KEY: ${{ secrets.NEWS_API_KEY || secrets.NEWSAPI_KEY }}
       NEWSDATA_API_KEY: ${{ secrets.NEWSDATA_API_KEY }}
       OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY || secrets.LLM_API_KEY || secrets.GROQ_API_KEY }}
@@ -46,6 +48,7 @@ jobs:
       TELEGRAM_SEND_MCQ_POLLS: ${{ vars.TELEGRAM_SEND_MCQ_POLLS || 'true' }}
       MCQS_PER_ARTICLE: ${{ vars.MCQS_PER_ARTICLE || '3' }}
       STATE_FILE: data/posted_articles.json
+      GROUP_REVEAL_STATE_FILE: data/pending_group_reveals.json
 
     steps:
       - name: Check out repository
@@ -87,22 +90,22 @@ jobs:
       - name: Summarize posting result
         shell: bash
         run: |
-          if git diff --quiet -- data/posted_articles.json; then
+          if git diff --quiet -- data; then
             {
               echo "## Current Affairs Bot"
               echo
-              echo "No new articles were posted in this run."
+              echo "No new data state changed in this run."
               echo
-              echo "This bot only posts article URLs that are not already present in data/posted_articles.json."
+              echo "That usually means there were no fresh articles and no due answer reveals to send."
             } >> "$GITHUB_STEP_SUMMARY"
           else
             {
               echo "## Current Affairs Bot"
               echo
-              echo "New article data was posted and the state file changed."
+              echo "Bot state changed in this run."
               echo
               echo '```'
-              git diff --numstat -- data/posted_articles.json
+              git diff --numstat -- data
               echo '```'
             } >> "$GITHUB_STEP_SUMMARY"
           fi
@@ -112,7 +115,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/posted_articles.json
+          git add data
           if git diff --staged --quiet; then
             echo "No state changes to commit."
             exit 0

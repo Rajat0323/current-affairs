@@ -13,6 +13,9 @@ A lightweight Python bot that fetches live news, turns it into short current-aff
   - "why it matters" points for government exam aspirants
   - 3 practice MCQs
 - Posts the summary to a Telegram channel and optionally a Telegram group.
+- Keeps channel and group content different:
+  - channel gets the full summary + source + hashtags
+  - group gets discussion starters, quiz prompts, polls, and delayed answer reveals
 - Sends MCQs as Telegram quiz polls, or you can switch them off and keep them as text.
 - Stores posted article URLs in `data/posted_articles.json` to avoid reposting.
 - Adds a branded footer, discovery keywords, and optional public channel/group references to each post.
@@ -108,6 +111,8 @@ Set at least one of `NEWS_API_KEY` or `NEWSDATA_API_KEY`.
 - `TELEGRAM_GROUP_REF`
 - `TELEGRAM_CALL_TO_ACTION`
 - `TELEGRAM_DISCOVERY_KEYWORDS`
+- `GROUP_ANSWER_DELAY_MINUTES`
+- `GROUP_DISCUSSION_CALL_TO_ACTION`
 - `CURRENT_AFFAIRS_QUERY`
 - `NEWSDATA_INDIA_QUERY`
 - `NEWSDATA_WORLD_QUERY`
@@ -115,6 +120,17 @@ Set at least one of `NEWS_API_KEY` or `NEWSDATA_API_KEY`.
 - `NEWS_PAGE_SIZE`
 - `MAX_ARTICLES_PER_CYCLE`
 - `REQUEST_TIMEOUT_SECONDS`
+
+### Group behavior
+
+- The channel keeps the current full-post format.
+- The group does not receive the same summary post.
+- For each fresh article, the group now gets:
+  - 1 discussion starter
+  - 1 quiz prompt per MCQ
+  - 1 poll per MCQ
+  - 1 delayed answer reveal per MCQ in a later cycle
+- Pending answer reveals are stored in `data/pending_group_reveals.json`.
 
 If `OPENAI_MODEL` is not set, the bot defaults to `gpt-4.1-mini`.
 

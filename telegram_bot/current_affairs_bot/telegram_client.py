@@ -1,12 +1,13 @@
 import html
 import json
 import logging
-from datetime import datetime
+from datetime import datetime, timedelta, timezone
+import uuid
 
 import requests
 
 from current_affairs_bot.config import Settings
-from current_affairs_bot.models import Article, GeneratedPost, MCQ
+from current_affairs_bot.models import Article, GeneratedPost, MCQ, PendingGroupReveal
 
 
 LOGGER = logging.getLogger(__name__)
@@ -18,11 +19,13 @@ class TelegramClient:
         self.session = requests.Session()
         self.base_url = f"https://api.telegram.org/bot{self.settings.telegram_bot_token}"
 
-    def broadcast(self, article: Article, generated_post: GeneratedPost) -> None:
+    def broadcast(self, article: Article, generated_post: GeneratedPost) -> list[PendingGroupReveal]:
+        pending_reveals: list[PendingGroupReveal] = []
         successful_chats = 0
         failures: list[str] = []
 
-        for chat_id in self.settings.chat_ids:
+        if self.settings.telegram_channel_id:
+            chat_id = self.settings.telegram_channel_id
             try:
                 message = self._build_post_message(chat_id, article, generated_post)
                 self._send_message(chat_id, message)
@@ -36,10 +39,44 @@ class TelegramClient:
                 failures.append(f"{chat_id}: {exc}")
                 LOGGER.warning("Telegram delivery failed for chat %s: %s", chat_id, exc)
 
+        if self.settings.telegram_group_id:
+            chat_id = self.settings.telegram_group_id
+            try:
+                pending_reveals = self._post_group_discussions(article, generated_post)
+                successful_chats += 1
+            except Exception as exc:
+                failures.append(f"{chat_id}: {exc}")
+                LOGGER.warning("Telegram delivery failed for chat %s: %s", chat_id, exc)
+
         if successful_chats == 0 and failures:
             raise RuntimeError("Telegram broadcast failed for all chats. " + " | ".join(failures))
         if failures:
             LOGGER.warning("Telegram broadcast partially succeeded. Failed chats: %s", " | ".join(failures))
+        return pending_reveals
+
+    def send_group_answer_reveal(self, reveal: PendingGroupReveal) -> None:
+        if not self.settings.telegram_group_id:
+            return
+        self._send_message(self.settings.telegram_group_id, self._build_group_answer_reveal(reveal))
+
+    def _post_group_discussions(self, article: Article, generated_post: GeneratedPost) -> list[PendingGroupReveal]:
+        group_id = self.settings.telegram_group_id
+        if not group_id:
+            return []
+
+        reveals: list[PendingGroupReveal] = []
+        self._send_message(group_id, self._build_group_starter_message(generated_post))
+        for mcq in generated_post.mcqs[: self.settings.mcqs_per_article]:
+            self._send_message(group_id, self._build_group_question_prompt(generated_post, mcq))
+            self._send_quiz(group_id, mcq)
+            reveals.append(self._build_pending_reveal(generated_post, mcq))
+        LOGGER.info(
+            "Posted %s discussion prompt(s) and %s poll(s) to the Telegram group for article: %s",
+            len(generated_post.mcqs[: self.settings.mcqs_per_article]) + 1,
+            len(generated_post.mcqs[: self.settings.mcqs_per_article]),
+            article.title,
+        )
+        return reveals
 
     def _send_message(self, chat_id: str, text: str) -> None:
         response = self.session.post(
@@ -135,6 +172,51 @@ class TelegramClient:
             f"{discovery_footer}\n\n"
             f"{hashtags}"
         )
+
+    def _build_group_starter_message(self, generated_post: GeneratedPost) -> str:
+        why_it_matters = html.escape(generated_post.why_it_matters[0]) if generated_post.why_it_matters else "Important for exam preparation."
+        return (
+            "<b>Discussion Starter</b>\n\n"
+            f"<b>Topic:</b> {html.escape(generated_post.title)}\n"
+            f"<b>Exam Focus:</b> {why_it_matters}\n\n"
+            f"{html.escape(self.settings.group_discussion_call_to_action)}"
+        )
+
+    def _build_group_question_prompt(self, generated_post: GeneratedPost, mcq: MCQ) -> str:
+        return (
+            "<b>Quick Quiz</b>\n\n"
+            f"<b>Topic:</b> {html.escape(generated_post.title)}\n"
+            f"<b>Question:</b> {html.escape(mcq.question)}\n\n"
+            "Vote in the poll and drop your reason in the chat before the answer reveal."
+        )
+
+    def _build_pending_reveal(self, generated_post: GeneratedPost, mcq: MCQ) -> PendingGroupReveal:
+        answer_label = ["A", "B", "C", "D"][mcq.answer_index]
+        due_at = datetime.now(timezone.utc) + timedelta(minutes=self.settings.group_answer_delay_minutes)
+        return PendingGroupReveal(
+            reveal_id=uuid.uuid4().hex,
+            article_title=generated_post.title,
+            question=mcq.question,
+            answer_label=answer_label,
+            answer_text=mcq.options[mcq.answer_index],
+            explanation=mcq.explanation,
+            due_at=due_at.isoformat(),
+        )
+
+    def _build_group_answer_reveal(self, reveal: PendingGroupReveal) -> str:
+        sections = [
+            "<b>Answer Reveal</b>",
+            "",
+            f"<b>Topic:</b> {html.escape(reveal.article_title)}",
+            f"<b>Question:</b> {html.escape(reveal.question)}",
+            f"<b>Correct Answer:</b> {html.escape(reveal.answer_label)}. {html.escape(reveal.answer_text)}",
+            f"<b>Exam Angle:</b> {html.escape(reveal.explanation)}",
+            "",
+            html.escape(self.settings.group_discussion_call_to_action),
+        ]
+        if self.settings.telegram_channel_ref:
+            sections.extend(["", f"<b>For full summary:</b> {html.escape(self.settings.telegram_channel_ref)}"])
+        return "\n".join(sections)
 
     def _build_mcq_message(self, mcqs: list[MCQ]) -> str:
         sections: list[str] = ["<b>Practice MCQs</b>"]

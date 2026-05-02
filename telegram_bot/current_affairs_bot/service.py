@@ -4,7 +4,7 @@ import time
 from current_affairs_bot.config import Settings
 from current_affairs_bot.llm_client import LLMClient
 from current_affairs_bot.news_client import NewsClient
-from current_affairs_bot.state_store import StateStore
+from current_affairs_bot.state_store import PendingRevealStore, StateStore
 from current_affairs_bot.telegram_client import TelegramClient
 
 
@@ -19,24 +19,28 @@ class CurrentAffairsService:
         llm_client: LLMClient,
         telegram_client: TelegramClient,
         state_store: StateStore,
+        pending_reveal_store: PendingRevealStore,
     ) -> None:
         self.settings = settings
         self.news_client = news_client
         self.llm_client = llm_client
         self.telegram_client = telegram_client
         self.state_store = state_store
+        self.pending_reveal_store = pending_reveal_store
 
     def run_cycle(self, dry_run: bool = False) -> int:
+        reveal_count = self._process_due_group_reveals(dry_run=dry_run)
         posted_urls = self.state_store.posted_urls()
         articles = self.news_client.fetch_latest(posted_urls=posted_urls)
         fresh_articles = [article for article in articles if article.url not in posted_urls]
         selected_articles = list(reversed(fresh_articles[: self.settings.max_articles_per_cycle]))
         if not selected_articles:
             LOGGER.info(
-                "No new articles found in this cycle. fetched=%s fresh=%s already_posted=%s",
+                "No new articles found in this cycle. fetched=%s fresh=%s already_posted=%s pending_reveals_processed=%s",
                 len(articles),
                 len(fresh_articles),
                 len(articles) - len(fresh_articles),
+                reveal_count,
             )
             return 0
 
@@ -54,7 +58,8 @@ class CurrentAffairsService:
                     LOGGER.info("Dry run preview for article: %s", article.title)
                     LOGGER.info("Summary: %s", generated_post.summary)
                 else:
-                    self.telegram_client.broadcast(article, generated_post)
+                    pending_reveals = self.telegram_client.broadcast(article, generated_post)
+                    self.pending_reveal_store.add_many(pending_reveals)
                     self.state_store.mark_posted(article)
                     LOGGER.info("Posted article to Telegram: %s", article.title)
                 posted_count += 1
@@ -64,6 +69,29 @@ class CurrentAffairsService:
         if posted_count == 0 and failure_count > 0:
             raise RuntimeError("The bot found fresh articles but failed to process all of them.")
         return posted_count
+
+    def _process_due_group_reveals(self, dry_run: bool = False) -> int:
+        due_reveals = self.pending_reveal_store.due_reveals()
+        if not due_reveals:
+            return 0
+
+        LOGGER.info("Processing %s due group answer reveal(s).", len(due_reveals))
+        sent_ids: set[str] = set()
+        processed = 0
+        for reveal in due_reveals:
+            try:
+                if dry_run:
+                    LOGGER.info("Dry run answer reveal for topic: %s", reveal.article_title)
+                else:
+                    self.telegram_client.send_group_answer_reveal(reveal)
+                    sent_ids.add(reveal.reveal_id)
+                processed += 1
+            except Exception:
+                LOGGER.exception("Failed to send pending group answer reveal: %s", reveal.reveal_id)
+
+        if not dry_run and sent_ids:
+            self.pending_reveal_store.remove_ids(sent_ids)
+        return processed
 
     def run_forever(self) -> None:
         LOGGER.info("Starting scheduler with %s-minute interval.", self.settings.poll_interval_minutes)
@@ -83,5 +111,6 @@ def build_service(settings: Settings) -> CurrentAffairsService:
         llm_client=LLMClient(settings),
         telegram_client=TelegramClient(settings),
         state_store=StateStore(settings.state_file),
+        pending_reveal_store=PendingRevealStore(settings.group_reveal_state_file),
     )
 
