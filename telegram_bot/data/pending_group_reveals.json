@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "ef6135af6dd844cbb1b8a716f262b260",
-    "article_title": "Nepal Demolishes Illegal Structures",
-    "question": "What was the target of Nepal's demolition drive in Kathmandu?",
+    "reveal_id": "46810bb7b3064190815a4450181c7770",
+    "article_title": "Ajith Kumar's Racing Documentary",
+    "question": "What is the title of Ajith Kumar's documentary?",
     "answer_label": "A",
-    "answer_text": "Riverbank squatters",
-    "explanation": "The demolition drive targeted riverbank squatters, clearing 2,000 illegal structures.",
-    "due_at": "2026-05-02T22:51:33.325769+00:00"
+    "answer_text": "Gladiators",
+    "explanation": "The documentary is titled Gladiators, which is about Ajith Kumar's high-speed racing career.",
+    "due_at": "2026-05-02T23:39:01.142828+00:00"
   },
   {
-    "reveal_id": "d380ecca448a4257bf8a48b6a528e639",
-    "article_title": "Nepal Demolishes Illegal Structures",
-    "question": "How many illegal structures were demolished in Kathmandu?",
+    "reveal_id": "2002aa9cf17443e2b41dd811d135cbf2",
+    "article_title": "Ajith Kumar's Racing Documentary",
+    "question": "What is the subject of the documentary Gladiators?",
+    "answer_label": "B",
+    "answer_text": "His high-speed racing career",
+    "explanation": "The documentary Gladiators is about Ajith Kumar's high-speed racing career.",
+    "due_at": "2026-05-02T23:39:05.019424+00:00"
+  },
+  {
+    "reveal_id": "24e87ade706e477f941ce0ea8331eca0",
+    "article_title": "Ajith Kumar's Racing Documentary",
+    "question": "How will the documentary Gladiators be released?",
     "answer_label": "C",
-    "answer_text": "2,000",
-    "explanation": "The Nepal government demolished 2,000 illegal structures in Kathmandu.",
-    "due_at": "2026-05-02T22:51:34.034937+00:00"
+    "answer_text": "In theaters",
+    "explanation": "The documentary Gladiators is set for theatrical release.",
+    "due_at": "2026-05-02T23:39:05.682798+00:00"
   },
   {
-    "reveal_id": "fa9e34b44dc248d8a340f177b599f990",
-    "article_title": "Nepal Demolishes Illegal Structures",
-    "question": "Why is the opposition criticizing the Nepal government's demolition drive?",
-    "answer_label": "B",
-    "answer_text": "Lack of notice and rehabilitation plans",
-    "explanation": "The opposition is criticizing the government due to the lack of notice and rehabilitation plans for those affected by the demolition drive.",
-    "due_at": "2026-05-02T22:51:34.741358+00:00"
-  },
-  {
-    "reveal_id": "4b5ddb40dfb645b4a97e2eea66cd40a4",
-    "article_title": "New Air India CEO Search",
-    "question": "Who are the two candidates shortlisted for the Air India CEO position?",
+    "reveal_id": "e6f27aed010e436aa414ce0357c5def5",
+    "article_title": "MS Dhoni's IPL Return",
+    "question": "Who gave an update on MS Dhoni's return to IPL 2026?",
     "answer_label": "A",
-    "answer_text": "Vinod Kannan and Nipun Aggarwal",
-    "explanation": "The article mentions that the search has narrowed down to Vinod Kannan and Nipun Aggarwal.",
-    "due_at": "2026-05-02T22:51:42.049518+00:00"
+    "answer_text": "R Ashwin",
+    "explanation": "R Ashwin gave an update on MS Dhoni's return, saying he can surprise in IPL 2026.",
+    "due_at": "2026-05-02T23:39:12.895889+00:00"
   },
   {
-    "reveal_id": "5d2dae6ea09944aa8293064a71539ce7",
-    "article_title": "New Air India CEO Search",
-    "question": "Why is Air India looking for a new CEO?",
-    "answer_label": "B",
-    "answer_text": "The previous CEO resigned",
-    "explanation": "The article states that the search for a new CEO follows Campbell Wilson's resignation.",
-    "due_at": "2026-05-02T22:51:42.751493+00:00"
+    "reveal_id": "2185ca052214482bb03c8b08bf655416",
+    "article_title": "MS Dhoni's IPL Return",
+    "question": "What is the reason for MS Dhoni's uncertain return to IPL 2026?",
+    "answer_label": "A",
+    "answer_text": "Calf injury",
+    "explanation": "MS Dhoni's return is uncertain due to a calf injury.",
+    "due_at": "2026-05-02T23:39:13.560126+00:00"
   },
   {
-    "reveal_id": "6b7adc5eeb1f450591f715f7d7e57c85",
-    "article_title": "New Air India CEO Search",
-    "question": "Which airline is Vinod Kannan currently associated with?",
+    "reveal_id": "fe93e49f29e34538b661ae6ba47378ec",
+    "article_title": "MS Dhoni's IPL Return",
+    "question": "Who said 'Dhoni wants what's best for the team'?",
     "answer_label": "B",
-    "answer_text": "Singapore Airlines",
-    "explanation": "The article mentions that Vinod Kannan is from Singapore Airlines.",
-    "due_at": "2026-05-02T22:51:43.433304+00:00"
+    "answer_text": "Hussey",
+    "explanation": "Hussey said 'Dhoni wants what's best for the team', indicating Dhoni's commitment to the team's success.",
+    "due_at": "2026-05-02T23:39:14.253627+00:00"
   }
 ]
