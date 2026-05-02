@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "f1ebe9a0f708477dbe8754accec1a4eb",
-    "article_title": "Kolkata Real Estate Market",
-    "question": "What is the current state of Kolkata's real estate market?",
-    "answer_label": "B",
-    "answer_text": "Stagnant",
-    "explanation": "Kolkata's real estate market is described as long-underperforming, indicating a stagnant state.",
-    "due_at": "2026-05-02T16:59:51.491258+00:00"
-  },
-  {
-    "reveal_id": "695cedf56a154f5a973e916937922b6f",
-    "article_title": "Kolkata Real Estate Market",
-    "question": "What is expected to improve with a regime change in West Bengal?",
-    "answer_label": "B",
-    "answer_text": "Sentiment",
-    "explanation": "Experts say sentiment may improve with a potential regime change in West Bengal.",
-    "due_at": "2026-05-02T16:59:52.175199+00:00"
-  },
-  {
-    "reveal_id": "8c5cdcbf299a4b7386439494f84c1ad3",
-    "article_title": "Kolkata Real Estate Market",
-    "question": "What is necessary for actual growth in Kolkata's real estate market?",
-    "answer_label": "B",
-    "answer_text": "Structural reforms",
-    "explanation": "Structural reforms are necessary for actual growth in Kolkata's real estate market, according to experts.",
-    "due_at": "2026-05-02T16:59:52.849191+00:00"
-  },
-  {
-    "reveal_id": "31e061d238064aee8810556313b7561c",
-    "article_title": "New NPS Fee Rules",
-    "question": "Which authority regulates the National Pension System in India?",
-    "answer_label": "B",
-    "answer_text": "PFRDA",
-    "explanation": "PFRDA stands for Pension Fund Regulatory and Development Authority, which is responsible for regulating the NPS in India.",
-    "due_at": "2026-05-02T17:00:00.320186+00:00"
-  },
-  {
-    "reveal_id": "53e28280da544cb38fc650e399576a89",
-    "article_title": "New NPS Fee Rules",
-    "question": "What change is being made to the NPS fee structure?",
+    "reveal_id": "f1cf9ed6fa3b4cb9a64b6771b7ec0089",
+    "article_title": "GST Registration Cancellation",
+    "question": "What was the ruling of the Gauhati High Court regarding GST registration cancellation?",
     "answer_label": "C",
-    "answer_text": "Aligning Tier I and Tier II rates",
-    "explanation": "The rates of Tier II and Tier I will be aligned as per the new NPS fee rules.",
-    "due_at": "2026-05-02T17:00:00.999910+00:00"
+    "answer_text": "It cannot be cancelled based on a vague show-cause notice",
+    "explanation": "The Gauhati High Court ruled that GST registration cannot be cancelled based on a vague show-cause notice, ensuring clarity in tax proceedings.",
+    "due_at": "2026-05-02T17:58:59.055927+00:00"
   },
   {
-    "reveal_id": "b1ac0db0d301438ba6bdfd267bd435c2",
-    "article_title": "New NPS Fee Rules",
-    "question": "When will the new NPS fee rules come into effect?",
+    "reveal_id": "e720aed4cd67462c8084d80143d45310",
+    "article_title": "GST Registration Cancellation",
+    "question": "Which court gave the ruling on GST registration cancellation?",
+    "answer_label": "B",
+    "answer_text": "Gauhati High Court",
+    "explanation": "The Gauhati High Court gave the ruling on GST registration cancellation.",
+    "due_at": "2026-05-02T17:58:59.764162+00:00"
+  },
+  {
+    "reveal_id": "4bae3a8762b04845b5f1c9b2de683639",
+    "article_title": "GST Registration Cancellation",
+    "question": "What is the benefit of this ruling for businesses in India?",
     "answer_label": "C",
-    "answer_text": "July 2026",
-    "explanation": "The new NPS fee rules are scheduled to kick in from July 2026.",
-    "due_at": "2026-05-02T17:00:01.748115+00:00"
+    "answer_text": "Clarity in tax proceedings",
+    "explanation": "The ruling ensures clarity in tax proceedings, reducing ambiguity and uncertainty for businesses in India.",
+    "due_at": "2026-05-02T17:59:00.488203+00:00"
+  },
+  {
+    "reveal_id": "e296142d4fd2467996747a1980426389",
+    "article_title": "Petrol-Diesel Price Hike",
+    "question": "When might petrol and diesel prices rise in India?",
+    "answer_label": "B",
+    "answer_text": "Within the next 5-7 days",
+    "explanation": "According to sources, the price hike is expected within the next 5-7 days.",
+    "due_at": "2026-05-02T17:59:07.786084+00:00"
+  },
+  {
+    "reveal_id": "6191013cd446406dabe6a008279b41f0",
+    "article_title": "Petrol-Diesel Price Hike",
+    "question": "What is the main reason for the expected petrol and diesel price hike?",
+    "answer_label": "C",
+    "answer_text": "Storm of inflation",
+    "explanation": "The expected price hike is due to a storm of inflation in the country.",
+    "due_at": "2026-05-02T17:59:08.508946+00:00"
+  },
+  {
+    "reveal_id": "2915a0822b844b3fa7373e3a82b357c2",
+    "article_title": "Petrol-Diesel Price Hike",
+    "question": "Which sector can be affected by the petrol and diesel price hike?",
+    "answer_label": "B",
+    "answer_text": "Transportation and logistics",
+    "explanation": "The transportation and logistics sector can be affected by the price hike.",
+    "due_at": "2026-05-02T17:59:12.439464+00:00"
   }
 ]
