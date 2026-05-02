@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "eb8e61904e904d44adece71db0de1f64",
-    "article_title": "India To Experience Above-Normal Rainfall",
-    "question": "What is the expected rainfall in India in May 2026?",
-    "answer_label": "D",
-    "answer_text": "Above 110% of LPA",
-    "explanation": "The forecast indicates that rainfall in May 2026 is expected to surpass 110% of the Long Period Average.",
-    "due_at": "2026-05-02T11:55:38.478012+00:00"
-  },
-  {
-    "reveal_id": "cfccc9f25a3e41ad9efbf67f8c12f034",
-    "article_title": "India To Experience Above-Normal Rainfall",
-    "question": "Which department confirmed the forecast of above-normal rainfall in India?",
+    "reveal_id": "08d97774b9414360a50b2a4539e8bcc9",
+    "article_title": "Jabalpur Boat Tragedy",
+    "question": "Where did the boat tragedy occur?",
     "answer_label": "B",
-    "answer_text": "India Meteorological Department",
-    "explanation": "The India Meteorological Department confirmed the forecast of above-normal rainfall in India.",
-    "due_at": "2026-05-02T11:55:39.104442+00:00"
+    "answer_text": "Jabalpur",
+    "explanation": "The boat capsized in Jabalpur district at Bargi Dam.",
+    "due_at": "2026-05-02T12:33:39.466501+00:00"
   },
   {
-    "reveal_id": "b283c1a8e8f8465a823e983741ec9132",
-    "article_title": "India To Experience Above-Normal Rainfall",
-    "question": "What can be a potential benefit of above-normal rainfall in India?",
+    "reveal_id": "202d3355dc674b7489417e5ec430629c",
+    "article_title": "Jabalpur Boat Tragedy",
+    "question": "How many people are still missing after the boat tragedy?",
     "answer_label": "C",
-    "answer_text": "Help with water scarcity and crop growth",
-    "explanation": "Above-normal rainfall can help with water scarcity and crop growth in India.",
-    "due_at": "2026-05-02T11:55:46.092989+00:00"
+    "answer_text": "6",
+    "explanation": "Six tourists are still missing after the incident.",
+    "due_at": "2026-05-02T12:33:43.358495+00:00"
   },
   {
-    "reveal_id": "627e97eda6be491284efef77589caef0",
-    "article_title": "Bollywood's Obsession with Dawood Ibrahim",
-    "question": "What is the subject of Bollywood's long-standing fascination?",
-    "answer_label": "A",
-    "answer_text": "Dawood Ibrahim",
-    "explanation": "Bollywood has a long-standing fascination with Dawood Ibrahim, reflecting his influence in gangland stories.",
-    "due_at": "2026-05-02T11:55:49.983442+00:00"
+    "reveal_id": "f5d79529d853445d95d236bb68306dcb",
+    "article_title": "Jabalpur Boat Tragedy",
+    "question": "What has the Madhya Pradesh government done in response to the tragedy?",
+    "answer_label": "C",
+    "answer_text": "Ordered a probe into the incident",
+    "explanation": "The state government has ordered a probe into the incident to investigate the causes and allegations of negligence.",
+    "due_at": "2026-05-02T12:33:43.941940+00:00"
   },
   {
-    "reveal_id": "bf7793d2bd234651b04b294a6b0b590c",
-    "article_title": "Bollywood's Obsession with Dawood Ibrahim",
-    "question": "What type of narratives are Indian audiences drawn to?",
+    "reveal_id": "3e2acdf8f6174004a7ff6085008995c0",
+    "article_title": "Tata Sons CIC Status",
+    "question": "What might happen if RBI rejects Tata Sons' plea to shed its CIC status?",
     "answer_label": "B",
-    "answer_text": "Real-life inspired underworld narratives",
-    "explanation": "Indian audiences remain drawn to real-life inspired underworld narratives, as seen in the fascination with Dawood Ibrahim's story.",
-    "due_at": "2026-05-02T11:55:53.813013+00:00"
+    "answer_text": "It will have to go for an IPO",
+    "explanation": "If RBI rejects the plea, Tata Sons will have to go for an Initial Public Offering and list its shares on stock exchanges.",
+    "due_at": "2026-05-02T12:33:51.448932+00:00"
   },
   {
-    "reveal_id": "91075313c8f7426c83b5164bbffc5519",
-    "article_title": "Bollywood's Obsession with Dawood Ibrahim",
-    "question": "Why do filmmakers revisit Dawood Ibrahim's story?",
+    "reveal_id": "74fdd0b0cf514969b6fe8e6bf5089993",
+    "article_title": "Tata Sons CIC Status",
+    "question": "What is the current status of Tata Sons that it wants to shed?",
     "answer_label": "B",
-    "answer_text": "To highlight his rise and myth",
-    "explanation": "Filmmakers revisit Dawood Ibrahim's story to showcase his rise, influence, and myth, which continues to shape gangland stories in Bollywood.",
-    "due_at": "2026-05-02T11:55:54.419965+00:00"
+    "answer_text": "Core Investment Company",
+    "explanation": "Tata Sons currently holds a Core Investment Company status, which it wants to shed.",
+    "due_at": "2026-05-02T12:33:52.129080+00:00"
+  },
+  {
+    "reveal_id": "c4820bf6d59840db8be2fc0b7b9c099b",
+    "article_title": "Tata Sons CIC Status",
+    "question": "Which regulatory body is involved in deciding Tata Sons' plea?",
+    "answer_label": "B",
+    "answer_text": "RBI",
+    "explanation": "The Reserve Bank of India is the regulatory body involved in deciding Tata Sons' plea to shed its CIC status.",
+    "due_at": "2026-05-02T12:33:52.751087+00:00"
   }
 ]
