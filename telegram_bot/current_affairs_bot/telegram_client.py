@@ -19,12 +19,12 @@ class TelegramClient:
         self.base_url = f"https://api.telegram.org/bot{self.settings.telegram_bot_token}"
 
     def broadcast(self, article: Article, generated_post: GeneratedPost) -> None:
-        message = self._build_post_message(article, generated_post)
         successful_chats = 0
         failures: list[str] = []
 
         for chat_id in self.settings.chat_ids:
             try:
+                message = self._build_post_message(chat_id, article, generated_post)
                 self._send_message(chat_id, message)
                 if self.settings.telegram_send_mcq_polls:
                     for mcq in generated_post.mcqs[: self.settings.mcqs_per_article]:
@@ -113,19 +113,20 @@ class TelegramClient:
         except ValueError:
             return {"raw_text": response.text}
 
-    def _build_post_message(self, article: Article, generated_post: GeneratedPost) -> str:
+    def _build_post_message(self, chat_id: str, article: Article, generated_post: GeneratedPost) -> str:
         title = html.escape(generated_post.title)
         summary = html.escape(generated_post.summary)
         why_it_matters = "\n".join(
             f"- {html.escape(point)}" for point in generated_post.why_it_matters
         )
         hashtags = self._build_hashtags(article, generated_post)
-        discovery_footer = self._build_discovery_footer()
+        discovery_footer = self._build_discovery_footer(chat_id)
         source = html.escape(article.source)
         source_url = html.escape(article.url, quote=True)
         published_at = html.escape(self._format_datetime(article.published_at))
+        intro = self._build_intro(chat_id)
         return (
-            "<b>Current Affairs Update</b>\n\n"
+            f"{intro}\n\n"
             f"<b>{title}</b>\n\n"
             f"<b>Summary:</b>\n{summary}\n\n"
             f"<b>Why it matters for UPSC/SSC:</b>\n{why_it_matters}\n\n"
@@ -209,11 +210,23 @@ class TelegramClient:
 
         return " ".join(tags[:10])
 
-    def _build_discovery_footer(self) -> str:
+    def _build_intro(self, chat_id: str) -> str:
+        if chat_id == self.settings.telegram_channel_id:
+            return "<b>Current Affairs Update</b>"
+        if chat_id == self.settings.telegram_group_id:
+            return "<b>Discussion Post</b>"
+        return "<b>Current Affairs Update</b>"
+
+    def _build_discovery_footer(self, chat_id: str) -> str:
         lines = [f"<b>{html.escape(self.settings.telegram_brand_name)}</b>"]
 
         if self.settings.telegram_call_to_action:
             lines.append(html.escape(self.settings.telegram_call_to_action))
+
+        if chat_id == self.settings.telegram_channel_id and self.settings.telegram_group_ref:
+            lines.append(f"<b>Discuss:</b> {html.escape(self.settings.telegram_group_ref)}")
+        elif chat_id == self.settings.telegram_group_id and self.settings.telegram_channel_ref:
+            lines.append(f"<b>Follow Channel:</b> {html.escape(self.settings.telegram_channel_ref)}")
 
         if self.settings.telegram_channel_ref:
             lines.append(f"<b>Channel:</b> {html.escape(self.settings.telegram_channel_ref)}")
