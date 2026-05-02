@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "6ae91c4d42af4d488e689dcaa76617c4",
-    "article_title": "Central Bank of India's Net Profit Declines",
-    "question": "What was the percentage decline in Central Bank of India's net profit in the March 2026 quarter?",
+    "reveal_id": "f1ebe9a0f708477dbe8754accec1a4eb",
+    "article_title": "Kolkata Real Estate Market",
+    "question": "What is the current state of Kolkata's real estate market?",
     "answer_label": "B",
-    "answer_text": "32.49%",
-    "explanation": "The net profit declined by 32.49% due to various factors affecting the bank's performance.",
-    "due_at": "2026-05-02T16:05:22.359300+00:00"
+    "answer_text": "Stagnant",
+    "explanation": "Kolkata's real estate market is described as long-underperforming, indicating a stagnant state.",
+    "due_at": "2026-05-02T16:59:51.491258+00:00"
   },
   {
-    "reveal_id": "6f88f9791fc34143b1f683d7ae094179",
-    "article_title": "Central Bank of India's Net Profit Declines",
-    "question": "What was the percentage increase in Central Bank of India's total operating income in the March 2026 quarter?",
-    "answer_label": "C",
-    "answer_text": "12.07%",
-    "explanation": "The total operating income rose by 12.07%, indicating an increase in the bank's revenue.",
-    "due_at": "2026-05-02T16:05:26.161369+00:00"
-  },
-  {
-    "reveal_id": "63606e36c34a40f7a2434af6e84c59b0",
-    "article_title": "Central Bank of India's Net Profit Declines",
-    "question": "What is the relevance of Central Bank of India's performance to India?",
-    "answer_label": "C",
-    "answer_text": "It can impact India's banking sector and economy",
-    "explanation": "As a major bank in India, Central Bank of India's performance can have a significant impact on the country's banking sector and economy.",
-    "due_at": "2026-05-02T16:05:26.857987+00:00"
-  },
-  {
-    "reveal_id": "88919db530824e4b8508a3830c38fcc0",
-    "article_title": "Ram Charan's Akhada Workout",
-    "question": "What type of training did Ram Charan adopt for Peddi?",
+    "reveal_id": "695cedf56a154f5a973e916937922b6f",
+    "article_title": "Kolkata Real Estate Market",
+    "question": "What is expected to improve with a regime change in West Bengal?",
     "answer_label": "B",
-    "answer_text": "Akhada-style training",
-    "explanation": "Ram Charan chose akhada-style training for its focus on functional strength and discipline.",
-    "due_at": "2026-05-02T16:05:33.722958+00:00"
+    "answer_text": "Sentiment",
+    "explanation": "Experts say sentiment may improve with a potential regime change in West Bengal.",
+    "due_at": "2026-05-02T16:59:52.175199+00:00"
   },
   {
-    "reveal_id": "896604b9f0b2410b9ae17634d6680793",
-    "article_title": "Ram Charan's Akhada Workout",
-    "question": "What was the duration of Ram Charan's training for Peddi?",
-    "answer_label": "C",
-    "answer_text": "16 months",
-    "explanation": "Ram Charan trained for 16 months to prepare for his role in Peddi.",
-    "due_at": "2026-05-02T16:05:34.349736+00:00"
-  },
-  {
-    "reveal_id": "bef4885e90d746c189cd99e91800d045",
-    "article_title": "Ram Charan's Akhada Workout",
-    "question": "What is a key aspect of akhada-style training?",
+    "reveal_id": "8c5cdcbf299a4b7386439494f84c1ad3",
+    "article_title": "Kolkata Real Estate Market",
+    "question": "What is necessary for actual growth in Kolkata's real estate market?",
     "answer_label": "B",
-    "answer_text": "Emphasis on traditional methods",
-    "explanation": "Akhada-style training emphasizes traditional Indian fitness methods and discipline.",
-    "due_at": "2026-05-02T16:05:34.954730+00:00"
+    "answer_text": "Structural reforms",
+    "explanation": "Structural reforms are necessary for actual growth in Kolkata's real estate market, according to experts.",
+    "due_at": "2026-05-02T16:59:52.849191+00:00"
+  },
+  {
+    "reveal_id": "31e061d238064aee8810556313b7561c",
+    "article_title": "New NPS Fee Rules",
+    "question": "Which authority regulates the National Pension System in India?",
+    "answer_label": "B",
+    "answer_text": "PFRDA",
+    "explanation": "PFRDA stands for Pension Fund Regulatory and Development Authority, which is responsible for regulating the NPS in India.",
+    "due_at": "2026-05-02T17:00:00.320186+00:00"
+  },
+  {
+    "reveal_id": "53e28280da544cb38fc650e399576a89",
+    "article_title": "New NPS Fee Rules",
+    "question": "What change is being made to the NPS fee structure?",
+    "answer_label": "C",
+    "answer_text": "Aligning Tier I and Tier II rates",
+    "explanation": "The rates of Tier II and Tier I will be aligned as per the new NPS fee rules.",
+    "due_at": "2026-05-02T17:00:00.999910+00:00"
+  },
+  {
+    "reveal_id": "b1ac0db0d301438ba6bdfd267bd435c2",
+    "article_title": "New NPS Fee Rules",
+    "question": "When will the new NPS fee rules come into effect?",
+    "answer_label": "C",
+    "answer_text": "July 2026",
+    "explanation": "The new NPS fee rules are scheduled to kick in from July 2026.",
+    "due_at": "2026-05-02T17:00:01.748115+00:00"
   }
 ]
