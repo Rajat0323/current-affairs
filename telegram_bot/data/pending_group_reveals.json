@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "9f6a5b9683a8416a82d8d0e0272cafe9",
-    "article_title": "IPL 2026: GT vs PBKS",
-    "question": "Which teams are playing in Match 46 of IPL 2026?",
-    "answer_label": "B",
-    "answer_text": "Gujarat Titans vs Punjab Kings",
-    "explanation": "Gujarat Titans are hosting Punjab Kings in Match 46 of IPL 2026.",
-    "due_at": "2026-05-02T21:53:29.406411+00:00"
+    "reveal_id": "ef6135af6dd844cbb1b8a716f262b260",
+    "article_title": "Nepal Demolishes Illegal Structures",
+    "question": "What was the target of Nepal's demolition drive in Kathmandu?",
+    "answer_label": "A",
+    "answer_text": "Riverbank squatters",
+    "explanation": "The demolition drive targeted riverbank squatters, clearing 2,000 illegal structures.",
+    "due_at": "2026-05-02T22:51:33.325769+00:00"
   },
   {
-    "reveal_id": "a8dcc3b38027495da4f895d524bfc9b6",
-    "article_title": "IPL 2026: GT vs PBKS",
-    "question": "Where will the GT vs PBKS match be held?",
-    "answer_label": "B",
-    "answer_text": "Narendra Modi Stadium",
-    "explanation": "The match will be held at the Narendra Modi Stadium in Ahmedabad.",
-    "due_at": "2026-05-02T21:53:30.095895+00:00"
-  },
-  {
-    "reveal_id": "5cd555cbf47b45c6beb0b1687d6fd6e4",
-    "article_title": "IPL 2026: GT vs PBKS",
-    "question": "What is the current position of Gujarat Titans in the IPL 2026 league stage?",
-    "answer_label": "D",
-    "answer_text": "Fifth place",
-    "explanation": "Gujarat Titans are currently in the fifth-place position after winning 5 of 9 games.",
-    "due_at": "2026-05-02T21:53:30.786681+00:00"
-  },
-  {
-    "reveal_id": "498f2e12eb064bf080e99031e1b80cdb",
-    "article_title": "Falta Residents Protest",
-    "question": "What is the reason for the protest by Falta residents?",
-    "answer_label": "B",
-    "answer_text": "Alleging TMC intimidation",
-    "explanation": "The residents are protesting due to alleged intimidation by TMC, demanding strict action against those responsible.",
-    "due_at": "2026-05-02T21:53:35.125144+00:00"
-  },
-  {
-    "reveal_id": "262d6655b2354d51a2d3654bb59c4ff0",
-    "article_title": "Falta Residents Protest",
-    "question": "Which forces have been deployed to maintain order in Falta?",
+    "reveal_id": "d380ecca448a4257bf8a48b6a528e639",
+    "article_title": "Nepal Demolishes Illegal Structures",
+    "question": "How many illegal structures were demolished in Kathmandu?",
     "answer_label": "C",
-    "answer_text": "CRPF and RAF",
-    "explanation": "Both CRPF and RAF have been deployed to maintain law and order during the protest.",
-    "due_at": "2026-05-02T21:53:35.825091+00:00"
+    "answer_text": "2,000",
+    "explanation": "The Nepal government demolished 2,000 illegal structures in Kathmandu.",
+    "due_at": "2026-05-02T22:51:34.034937+00:00"
   },
   {
-    "reveal_id": "a52ffae9d63f4beaafa61c9cace8a57f",
-    "article_title": "Falta Residents Protest",
-    "question": "What is the context of the protest in Falta?",
+    "reveal_id": "fa9e34b44dc248d8a340f177b599f990",
+    "article_title": "Nepal Demolishes Illegal Structures",
+    "question": "Why is the opposition criticizing the Nepal government's demolition drive?",
     "answer_label": "B",
-    "answer_text": "Ahead of West Bengal Assembly results",
-    "explanation": "The protest is happening ahead of the West Bengal Assembly election results.",
-    "due_at": "2026-05-02T21:53:36.530933+00:00"
+    "answer_text": "Lack of notice and rehabilitation plans",
+    "explanation": "The opposition is criticizing the government due to the lack of notice and rehabilitation plans for those affected by the demolition drive.",
+    "due_at": "2026-05-02T22:51:34.741358+00:00"
+  },
+  {
+    "reveal_id": "4b5ddb40dfb645b4a97e2eea66cd40a4",
+    "article_title": "New Air India CEO Search",
+    "question": "Who are the two candidates shortlisted for the Air India CEO position?",
+    "answer_label": "A",
+    "answer_text": "Vinod Kannan and Nipun Aggarwal",
+    "explanation": "The article mentions that the search has narrowed down to Vinod Kannan and Nipun Aggarwal.",
+    "due_at": "2026-05-02T22:51:42.049518+00:00"
+  },
+  {
+    "reveal_id": "5d2dae6ea09944aa8293064a71539ce7",
+    "article_title": "New Air India CEO Search",
+    "question": "Why is Air India looking for a new CEO?",
+    "answer_label": "B",
+    "answer_text": "The previous CEO resigned",
+    "explanation": "The article states that the search for a new CEO follows Campbell Wilson's resignation.",
+    "due_at": "2026-05-02T22:51:42.751493+00:00"
+  },
+  {
+    "reveal_id": "6b7adc5eeb1f450591f715f7d7e57c85",
+    "article_title": "New Air India CEO Search",
+    "question": "Which airline is Vinod Kannan currently associated with?",
+    "answer_label": "B",
+    "answer_text": "Singapore Airlines",
+    "explanation": "The article mentions that Vinod Kannan is from Singapore Airlines.",
+    "due_at": "2026-05-02T22:51:43.433304+00:00"
   }
 ]
