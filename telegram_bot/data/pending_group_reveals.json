@@ -1,1 +1,56 @@
-[]
+[
+  {
+    "reveal_id": "eb8e61904e904d44adece71db0de1f64",
+    "article_title": "India To Experience Above-Normal Rainfall",
+    "question": "What is the expected rainfall in India in May 2026?",
+    "answer_label": "D",
+    "answer_text": "Above 110% of LPA",
+    "explanation": "The forecast indicates that rainfall in May 2026 is expected to surpass 110% of the Long Period Average.",
+    "due_at": "2026-05-02T11:55:38.478012+00:00"
+  },
+  {
+    "reveal_id": "cfccc9f25a3e41ad9efbf67f8c12f034",
+    "article_title": "India To Experience Above-Normal Rainfall",
+    "question": "Which department confirmed the forecast of above-normal rainfall in India?",
+    "answer_label": "B",
+    "answer_text": "India Meteorological Department",
+    "explanation": "The India Meteorological Department confirmed the forecast of above-normal rainfall in India.",
+    "due_at": "2026-05-02T11:55:39.104442+00:00"
+  },
+  {
+    "reveal_id": "b283c1a8e8f8465a823e983741ec9132",
+    "article_title": "India To Experience Above-Normal Rainfall",
+    "question": "What can be a potential benefit of above-normal rainfall in India?",
+    "answer_label": "C",
+    "answer_text": "Help with water scarcity and crop growth",
+    "explanation": "Above-normal rainfall can help with water scarcity and crop growth in India.",
+    "due_at": "2026-05-02T11:55:46.092989+00:00"
+  },
+  {
+    "reveal_id": "627e97eda6be491284efef77589caef0",
+    "article_title": "Bollywood's Obsession with Dawood Ibrahim",
+    "question": "What is the subject of Bollywood's long-standing fascination?",
+    "answer_label": "A",
+    "answer_text": "Dawood Ibrahim",
+    "explanation": "Bollywood has a long-standing fascination with Dawood Ibrahim, reflecting his influence in gangland stories.",
+    "due_at": "2026-05-02T11:55:49.983442+00:00"
+  },
+  {
+    "reveal_id": "bf7793d2bd234651b04b294a6b0b590c",
+    "article_title": "Bollywood's Obsession with Dawood Ibrahim",
+    "question": "What type of narratives are Indian audiences drawn to?",
+    "answer_label": "B",
+    "answer_text": "Real-life inspired underworld narratives",
+    "explanation": "Indian audiences remain drawn to real-life inspired underworld narratives, as seen in the fascination with Dawood Ibrahim's story.",
+    "due_at": "2026-05-02T11:55:53.813013+00:00"
+  },
+  {
+    "reveal_id": "91075313c8f7426c83b5164bbffc5519",
+    "article_title": "Bollywood's Obsession with Dawood Ibrahim",
+    "question": "Why do filmmakers revisit Dawood Ibrahim's story?",
+    "answer_label": "B",
+    "answer_text": "To highlight his rise and myth",
+    "explanation": "Filmmakers revisit Dawood Ibrahim's story to showcase his rise, influence, and myth, which continues to shape gangland stories in Bollywood.",
+    "due_at": "2026-05-02T11:55:54.419965+00:00"
+  }
+]
