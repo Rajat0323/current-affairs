@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "41bb2bb0d8eb4c139d515682b5a638fd",
-    "article_title": "BJP Criticises TMC on Vote Counting",
-    "question": "Which party made allegations against the Election Commission?",
+    "reveal_id": "6ae91c4d42af4d488e689dcaa76617c4",
+    "article_title": "Central Bank of India's Net Profit Declines",
+    "question": "What was the percentage decline in Central Bank of India's net profit in the March 2026 quarter?",
     "answer_label": "B",
-    "answer_text": "TMC",
-    "explanation": "TMC made allegations against the Election Commission, which was criticized by BJP's Shankar Ghosh.",
-    "due_at": "2026-05-02T15:09:02.448304+00:00"
+    "answer_text": "32.49%",
+    "explanation": "The net profit declined by 32.49% due to various factors affecting the bank's performance.",
+    "due_at": "2026-05-02T16:05:22.359300+00:00"
   },
   {
-    "reveal_id": "eeb8131757b6423e8805d72e4a149146",
-    "article_title": "BJP Criticises TMC on Vote Counting",
-    "question": "What is the context of the allegation?",
-    "answer_label": "B",
-    "answer_text": "West Bengal Assembly elections",
-    "explanation": "The allegation is related to the vote counting in West Bengal Assembly elections.",
-    "due_at": "2026-05-02T15:09:06.237888+00:00"
-  },
-  {
-    "reveal_id": "aae67100c675402eacc2346b37642827",
-    "article_title": "BJP Criticises TMC on Vote Counting",
-    "question": "Who criticized TMC for the allegation?",
-    "answer_label": "B",
-    "answer_text": "Shankar Ghosh",
-    "explanation": "BJP's Shankar Ghosh criticized TMC for making false allegations against the Election Commission.",
-    "due_at": "2026-05-02T15:09:06.832336+00:00"
-  },
-  {
-    "reveal_id": "1e6c95e8f0fe4824a6bd9986b8332db0",
-    "article_title": "Sundar Pichai's Breakfast",
-    "question": "What is Sundar Pichai's dietary preference?",
-    "answer_label": "B",
-    "answer_text": "Vegetarian",
-    "explanation": "Sundar Pichai is a vegetarian, which means he does not consume meat or fish.",
-    "due_at": "2026-05-02T15:09:13.964726+00:00"
-  },
-  {
-    "reveal_id": "8ec6fef0c6e443ccaa5757e1a83257aa",
-    "article_title": "Sundar Pichai's Breakfast",
-    "question": "Why is Sundar Pichai's breakfast significant?",
+    "reveal_id": "6f88f9791fc34143b1f683d7ae094179",
+    "article_title": "Central Bank of India's Net Profit Declines",
+    "question": "What was the percentage increase in Central Bank of India's total operating income in the March 2026 quarter?",
     "answer_label": "C",
-    "answer_text": "It provides him with protein",
-    "explanation": "As a vegetarian, Sundar Pichai needs to get his protein from plant-based sources, making his breakfast significant for his daily nutrition.",
-    "due_at": "2026-05-02T15:09:14.610631+00:00"
+    "answer_text": "12.07%",
+    "explanation": "The total operating income rose by 12.07%, indicating an increase in the bank's revenue.",
+    "due_at": "2026-05-02T16:05:26.161369+00:00"
   },
   {
-    "reveal_id": "44f58871334c456aac366c3013653998",
-    "article_title": "Sundar Pichai's Breakfast",
-    "question": "What can be inferred about Sundar Pichai's morning routine?",
+    "reveal_id": "63606e36c34a40f7a2434af6e84c59b0",
+    "article_title": "Central Bank of India's Net Profit Declines",
+    "question": "What is the relevance of Central Bank of India's performance to India?",
+    "answer_label": "C",
+    "answer_text": "It can impact India's banking sector and economy",
+    "explanation": "As a major bank in India, Central Bank of India's performance can have a significant impact on the country's banking sector and economy.",
+    "due_at": "2026-05-02T16:05:26.857987+00:00"
+  },
+  {
+    "reveal_id": "88919db530824e4b8508a3830c38fcc0",
+    "article_title": "Ram Charan's Akhada Workout",
+    "question": "What type of training did Ram Charan adopt for Peddi?",
     "answer_label": "B",
-    "answer_text": "It is very relaxing",
-    "explanation": "Sundar Pichai's morning routine is described as calming, indicating that it is relaxing and helps him start his day on a positive note.",
-    "due_at": "2026-05-02T15:09:15.224214+00:00"
+    "answer_text": "Akhada-style training",
+    "explanation": "Ram Charan chose akhada-style training for its focus on functional strength and discipline.",
+    "due_at": "2026-05-02T16:05:33.722958+00:00"
+  },
+  {
+    "reveal_id": "896604b9f0b2410b9ae17634d6680793",
+    "article_title": "Ram Charan's Akhada Workout",
+    "question": "What was the duration of Ram Charan's training for Peddi?",
+    "answer_label": "C",
+    "answer_text": "16 months",
+    "explanation": "Ram Charan trained for 16 months to prepare for his role in Peddi.",
+    "due_at": "2026-05-02T16:05:34.349736+00:00"
+  },
+  {
+    "reveal_id": "bef4885e90d746c189cd99e91800d045",
+    "article_title": "Ram Charan's Akhada Workout",
+    "question": "What is a key aspect of akhada-style training?",
+    "answer_label": "B",
+    "answer_text": "Emphasis on traditional methods",
+    "explanation": "Akhada-style training emphasizes traditional Indian fitness methods and discipline.",
+    "due_at": "2026-05-02T16:05:34.954730+00:00"
   }
 ]
