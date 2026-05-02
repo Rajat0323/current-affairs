@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "f1cf9ed6fa3b4cb9a64b6771b7ec0089",
-    "article_title": "GST Registration Cancellation",
-    "question": "What was the ruling of the Gauhati High Court regarding GST registration cancellation?",
+    "reveal_id": "f3f7a0987d7840b5859695eb8ef2f591",
+    "article_title": "Online Gaming Rules",
+    "question": "What is the main objective of India's new online gaming rules?",
     "answer_label": "C",
-    "answer_text": "It cannot be cancelled based on a vague show-cause notice",
-    "explanation": "The Gauhati High Court ruled that GST registration cannot be cancelled based on a vague show-cause notice, ensuring clarity in tax proceedings.",
-    "due_at": "2026-05-02T17:58:59.055927+00:00"
+    "answer_text": "To strengthen user trust and boost industry growth",
+    "explanation": "The new rules aim to promote a safe and secure online gaming environment, thereby strengthening user trust and boosting the industry's growth.",
+    "due_at": "2026-05-02T19:03:05.999766+00:00"
   },
   {
-    "reveal_id": "e720aed4cd67462c8084d80143d45310",
-    "article_title": "GST Registration Cancellation",
-    "question": "Which court gave the ruling on GST registration cancellation?",
+    "reveal_id": "137e17f4996645d38bbf4d0569af4d57",
+    "article_title": "Online Gaming Rules",
+    "question": "Which of the following apps has been delisted from Apple's App Store due to non-compliance with new gaming rules?",
+    "answer_label": "A",
+    "answer_text": "Dream11",
+    "explanation": "Dream11, along with other gaming apps like WinZO and Zupee, has been delisted from Apple's App Store.",
+    "due_at": "2026-05-02T19:03:06.725378+00:00"
+  },
+  {
+    "reveal_id": "35f2cb23b69a401cbda9a74106757823",
+    "article_title": "Online Gaming Rules",
+    "question": "What is the maximum penalty for violating India's new online gaming rules?",
     "answer_label": "B",
-    "answer_text": "Gauhati High Court",
-    "explanation": "The Gauhati High Court gave the ruling on GST registration cancellation.",
-    "due_at": "2026-05-02T17:58:59.764162+00:00"
+    "answer_text": "Rs 1 crore fine and jail term",
+    "explanation": "Violators of the new online gaming rules can face a fine of up to Rs 1 crore and a jail term.",
+    "due_at": "2026-05-02T19:03:07.413102+00:00"
   },
   {
-    "reveal_id": "4bae3a8762b04845b5f1c9b2de683639",
-    "article_title": "GST Registration Cancellation",
-    "question": "What is the benefit of this ruling for businesses in India?",
+    "reveal_id": "2ea9606ace33474b8c2503e552d65302",
+    "article_title": "AI Trading Bots Outperform S&P 500",
+    "question": "What was the return of the AI trading bot built on Anthropic's Claude model over 30 days of paper trading?",
+    "answer_label": "B",
+    "answer_text": "7%",
+    "explanation": "The AI trading bot returned 7% over 30 days, beating the S&P 500's 4.5% gain.",
+    "due_at": "2026-05-02T19:03:11.768360+00:00"
+  },
+  {
+    "reveal_id": "da439ddfd60848908beade510f6f318b",
+    "article_title": "AI Trading Bots Outperform S&P 500",
+    "question": "What is the main problem with using large language models like Claude for aggressive speculation in trading?",
     "answer_label": "C",
-    "answer_text": "Clarity in tax proceedings",
-    "explanation": "The ruling ensures clarity in tax proceedings, reducing ambiguity and uncertainty for businesses in India.",
-    "due_at": "2026-05-02T17:59:00.488203+00:00"
+    "answer_text": "They default to conservative investing strategies",
+    "explanation": "Large language models like Claude are trained on vast amounts of financial advice and risk management literature, causing them to default to conservative investing strategies.",
+    "due_at": "2026-05-02T19:03:12.453723+00:00"
   },
   {
-    "reveal_id": "e296142d4fd2467996747a1980426389",
-    "article_title": "Petrol-Diesel Price Hike",
-    "question": "When might petrol and diesel prices rise in India?",
-    "answer_label": "B",
-    "answer_text": "Within the next 5-7 days",
-    "explanation": "According to sources, the price hike is expected within the next 5-7 days.",
-    "due_at": "2026-05-02T17:59:07.786084+00:00"
-  },
-  {
-    "reveal_id": "6191013cd446406dabe6a008279b41f0",
-    "article_title": "Petrol-Diesel Price Hike",
-    "question": "What is the main reason for the expected petrol and diesel price hike?",
-    "answer_label": "C",
-    "answer_text": "Storm of inflation",
-    "explanation": "The expected price hike is due to a storm of inflation in the country.",
-    "due_at": "2026-05-02T17:59:08.508946+00:00"
-  },
-  {
-    "reveal_id": "2915a0822b844b3fa7373e3a82b357c2",
-    "article_title": "Petrol-Diesel Price Hike",
-    "question": "Which sector can be affected by the petrol and diesel price hike?",
-    "answer_label": "B",
-    "answer_text": "Transportation and logistics",
-    "explanation": "The transportation and logistics sector can be affected by the price hike.",
-    "due_at": "2026-05-02T17:59:12.439464+00:00"
+    "reveal_id": "a517e057bf1d43178af84a46585f24e4",
+    "article_title": "AI Trading Bots Outperform S&P 500",
+    "question": "What is the projected volume of prediction markets by 2030, according to Bernstein?",
+    "answer_label": "D",
+    "answer_text": "$1 trillion",
+    "explanation": "Bernstein projects that prediction market volumes will hit $1 trillion by 2030, assuming these markets function as genuine information aggregators.",
+    "due_at": "2026-05-02T19:03:17.317429+00:00"
   }
 ]
