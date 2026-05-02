@@ -15,6 +15,7 @@ A lightweight Python bot that fetches live news, turns it into short current-aff
 - Posts the summary to a Telegram channel and optionally a Telegram group.
 - Sends MCQs as Telegram quiz polls, or you can switch them off and keep them as text.
 - Stores posted article URLs in `data/posted_articles.json` to avoid reposting.
+- Adds a branded footer, discovery keywords, and optional public channel/group references to each post.
 - Includes a GitHub Actions workflow for scheduled runs.
 
 ## Project structure
@@ -102,6 +103,11 @@ Set at least one of `NEWS_API_KEY` or `NEWSDATA_API_KEY`.
 
 ### Optional repository variables
 
+- `TELEGRAM_BRAND_NAME`
+- `TELEGRAM_CHANNEL_REF`
+- `TELEGRAM_GROUP_REF`
+- `TELEGRAM_CALL_TO_ACTION`
+- `TELEGRAM_DISCOVERY_KEYWORDS`
 - `CURRENT_AFFAIRS_QUERY`
 - `NEWSDATA_INDIA_QUERY`
 - `NEWSDATA_WORLD_QUERY`
@@ -117,4 +123,5 @@ If `OPENAI_MODEL` is not set, the bot defaults to `gpt-4.1-mini`.
 - This project uses direct Telegram Bot API calls, so there is no heavy Telegram framework to maintain.
 - "Real time" here means scheduled polling. Adjust the GitHub Actions cron or local run mode as needed.
 - The default query is broad. You should tune it further for polity, economy, science-tech, international relations, environment, and sports.
+- Telegram discovery is influenced by public username, channel/group title, description, post consistency, and engagement. This bot can improve post wording and keyword coverage, but it cannot bypass anti-spam bans from mass-sharing links in unrelated groups.
 

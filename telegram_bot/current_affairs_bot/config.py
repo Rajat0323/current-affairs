@@ -48,6 +48,13 @@ def _bool_env(name: str, default: bool) -> bool:
     return raw in {"1", "true", "yes", "on"}
 
 
+def _csv_env(name: str, default: str = "") -> tuple[str, ...]:
+    raw = _optional_env(name, default)
+    if not raw:
+        return ()
+    return tuple(item.strip() for item in raw.split(",") if item.strip())
+
+
 def _validate_telegram_bot_token(value: str) -> str:
     token = _sanitize_secret_like_value(value)
     if not re.match(r"^\d{6,}:[A-Za-z0-9_-]{20,}$", token):
@@ -77,6 +84,25 @@ def _validate_chat_id(value: str, env_name: str) -> str:
     return chat_id
 
 
+def _validate_public_ref(value: str, env_name: str) -> str:
+    ref = _sanitize_secret_like_value(value)
+    if not ref:
+        return ""
+    if ref.startswith("@"):
+        if not re.match(r"^@[A-Za-z0-9_]{4,}$", ref):
+            raise ValueError(
+                f"{env_name} does not look like a valid Telegram username. "
+                "Use @channelusername without quotes."
+            )
+        return ref
+    if ref.startswith("https://t.me/"):
+        return ref
+    raise ValueError(
+        f"{env_name} must be either a Telegram username like @channelusername "
+        "or a public link like https://t.me/channelusername."
+    )
+
+
 @dataclass(frozen=True)
 class Settings:
     telegram_bot_token: str
@@ -101,6 +127,11 @@ class Settings:
     openai_model: str
     telegram_send_mcq_polls: bool
     mcqs_per_article: int
+    telegram_brand_name: str
+    telegram_channel_ref: str
+    telegram_group_ref: str
+    telegram_call_to_action: str
+    telegram_discovery_keywords: tuple[str, ...]
 
     def __post_init__(self) -> None:
         if not self.news_api_key and not self.newsdata_api_key:
@@ -162,5 +193,22 @@ class Settings:
             openai_model=_first_present(("OPENAI_MODEL", "LLM_MODEL"), "gpt-4.1-mini"),
             telegram_send_mcq_polls=_bool_env("TELEGRAM_SEND_MCQ_POLLS", True),
             mcqs_per_article=_int_env("MCQS_PER_ARTICLE", 3),
+            telegram_brand_name=_optional_env("TELEGRAM_BRAND_NAME", "Current Affairs Hub"),
+            telegram_channel_ref=_validate_public_ref(
+                _optional_env("TELEGRAM_CHANNEL_REF"),
+                "TELEGRAM_CHANNEL_REF",
+            ),
+            telegram_group_ref=_validate_public_ref(
+                _optional_env("TELEGRAM_GROUP_REF"),
+                "TELEGRAM_GROUP_REF",
+            ),
+            telegram_call_to_action=_optional_env(
+                "TELEGRAM_CALL_TO_ACTION",
+                "Follow for daily UPSC/SSC current affairs, exam-focused summaries, and quick MCQ practice.",
+            ),
+            telegram_discovery_keywords=_csv_env(
+                "TELEGRAM_DISCOVERY_KEYWORDS",
+                "UPSC current affairs, SSC current affairs, daily current affairs, current affairs quiz, government exam preparation, GK updates",
+            ),
         )
 

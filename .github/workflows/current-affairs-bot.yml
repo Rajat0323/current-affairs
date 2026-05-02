@@ -25,6 +25,11 @@ jobs:
       TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN || secrets.BOT_TOKEN }}
       TELEGRAM_CHANNEL_ID: ${{ secrets.TELEGRAM_CHANNEL_ID || secrets.CHANNEL_ID }}
       TELEGRAM_GROUP_ID: ${{ secrets.TELEGRAM_GROUP_ID || secrets.GROUP_ID }}
+      TELEGRAM_BRAND_NAME: ${{ vars.TELEGRAM_BRAND_NAME || 'Current Affairs Hub' }}
+      TELEGRAM_CHANNEL_REF: ${{ vars.TELEGRAM_CHANNEL_REF || '' }}
+      TELEGRAM_GROUP_REF: ${{ vars.TELEGRAM_GROUP_REF || '' }}
+      TELEGRAM_CALL_TO_ACTION: ${{ vars.TELEGRAM_CALL_TO_ACTION || 'Follow for daily UPSC/SSC current affairs, exam-focused summaries, and quick MCQ practice.' }}
+      TELEGRAM_DISCOVERY_KEYWORDS: ${{ vars.TELEGRAM_DISCOVERY_KEYWORDS || 'UPSC current affairs, SSC current affairs, daily current affairs, current affairs quiz, government exam preparation, GK updates' }}
       NEWS_API_KEY: ${{ secrets.NEWS_API_KEY || secrets.NEWSAPI_KEY }}
       NEWSDATA_API_KEY: ${{ secrets.NEWSDATA_API_KEY }}
       OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY || secrets.LLM_API_KEY || secrets.GROQ_API_KEY }}

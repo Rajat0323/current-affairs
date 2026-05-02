@@ -120,6 +120,7 @@ class TelegramClient:
             f"- {html.escape(point)}" for point in generated_post.why_it_matters
         )
         hashtags = self._build_hashtags(article, generated_post)
+        discovery_footer = self._build_discovery_footer()
         source = html.escape(article.source)
         source_url = html.escape(article.url, quote=True)
         published_at = html.escape(self._format_datetime(article.published_at))
@@ -130,6 +131,7 @@ class TelegramClient:
             f"<b>Why it matters for UPSC/SSC:</b>\n{why_it_matters}\n\n"
             f"<b>Source:</b> <a href=\"{source_url}\">{source}</a>\n"
             f"<b>Published:</b> {published_at}\n\n"
+            f"{discovery_footer}\n\n"
             f"{hashtags}"
         )
 
@@ -200,5 +202,28 @@ class TelegramClient:
             if keyword in text and tag not in tags:
                 tags.append(tag)
 
-        return " ".join(tags[:8])
+        for keyword in self.settings.telegram_discovery_keywords:
+            tag = "#" + "".join(ch for ch in keyword.title() if ch.isalnum())
+            if len(tag) > 1 and tag not in tags:
+                tags.append(tag)
+
+        return " ".join(tags[:10])
+
+    def _build_discovery_footer(self) -> str:
+        lines = [f"<b>{html.escape(self.settings.telegram_brand_name)}</b>"]
+
+        if self.settings.telegram_call_to_action:
+            lines.append(html.escape(self.settings.telegram_call_to_action))
+
+        if self.settings.telegram_channel_ref:
+            lines.append(f"<b>Channel:</b> {html.escape(self.settings.telegram_channel_ref)}")
+
+        if self.settings.telegram_group_ref:
+            lines.append(f"<b>Discussion Group:</b> {html.escape(self.settings.telegram_group_ref)}")
+
+        if self.settings.telegram_discovery_keywords:
+            keywords = ", ".join(html.escape(item) for item in self.settings.telegram_discovery_keywords[:6])
+            lines.append(f"<b>Topics:</b> {keywords}")
+
+        return "\n".join(lines)
 
