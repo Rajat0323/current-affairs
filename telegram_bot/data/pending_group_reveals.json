@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "f3f7a0987d7840b5859695eb8ef2f591",
-    "article_title": "Online Gaming Rules",
-    "question": "What is the main objective of India's new online gaming rules?",
-    "answer_label": "C",
-    "answer_text": "To strengthen user trust and boost industry growth",
-    "explanation": "The new rules aim to promote a safe and secure online gaming environment, thereby strengthening user trust and boosting the industry's growth.",
-    "due_at": "2026-05-02T19:03:05.999766+00:00"
-  },
-  {
-    "reveal_id": "137e17f4996645d38bbf4d0569af4d57",
-    "article_title": "Online Gaming Rules",
-    "question": "Which of the following apps has been delisted from Apple's App Store due to non-compliance with new gaming rules?",
-    "answer_label": "A",
-    "answer_text": "Dream11",
-    "explanation": "Dream11, along with other gaming apps like WinZO and Zupee, has been delisted from Apple's App Store.",
-    "due_at": "2026-05-02T19:03:06.725378+00:00"
-  },
-  {
-    "reveal_id": "35f2cb23b69a401cbda9a74106757823",
-    "article_title": "Online Gaming Rules",
-    "question": "What is the maximum penalty for violating India's new online gaming rules?",
+    "reveal_id": "4e8c5ff35cdf4b5880496ce700d88518",
+    "article_title": "SC Upholds ECI Directive on Central Staff",
+    "question": "What was the Supreme Court's decision regarding the ECI's directive on central staff for West Bengal vote counting?",
     "answer_label": "B",
-    "answer_text": "Rs 1 crore fine and jail term",
-    "explanation": "Violators of the new online gaming rules can face a fine of up to Rs 1 crore and a jail term.",
-    "due_at": "2026-05-02T19:03:07.413102+00:00"
+    "answer_text": "The directive was upheld as not contrary to rules",
+    "explanation": "The Supreme Court ruled that the ECI's directive is not against the rules, ensuring fairness in the electoral process.",
+    "due_at": "2026-05-02T20:10:23.747729+00:00"
   },
   {
-    "reveal_id": "2ea9606ace33474b8c2503e552d65302",
-    "article_title": "AI Trading Bots Outperform S&P 500",
-    "question": "What was the return of the AI trading bot built on Anthropic's Claude model over 30 days of paper trading?",
-    "answer_label": "B",
-    "answer_text": "7%",
-    "explanation": "The AI trading bot returned 7% over 30 days, beating the S&P 500's 4.5% gain.",
-    "due_at": "2026-05-02T19:03:11.768360+00:00"
-  },
-  {
-    "reveal_id": "da439ddfd60848908beade510f6f318b",
-    "article_title": "AI Trading Bots Outperform S&P 500",
-    "question": "What is the main problem with using large language models like Claude for aggressive speculation in trading?",
-    "answer_label": "C",
-    "answer_text": "They default to conservative investing strategies",
-    "explanation": "Large language models like Claude are trained on vast amounts of financial advice and risk management literature, causing them to default to conservative investing strategies.",
-    "due_at": "2026-05-02T19:03:12.453723+00:00"
-  },
-  {
-    "reveal_id": "a517e057bf1d43178af84a46585f24e4",
-    "article_title": "AI Trading Bots Outperform S&P 500",
-    "question": "What is the projected volume of prediction markets by 2030, according to Bernstein?",
+    "reveal_id": "7746d07a09224454be28d2ba220df4ab",
+    "article_title": "SC Upholds ECI Directive on Central Staff",
+    "question": "Which of the following was involved in the appeal regarding the ECI directive?",
     "answer_label": "D",
-    "answer_text": "$1 trillion",
-    "explanation": "Bernstein projects that prediction market volumes will hit $1 trillion by 2030, assuming these markets function as genuine information aggregators.",
-    "due_at": "2026-05-02T19:03:17.317429+00:00"
+    "answer_text": "A special bench of the Supreme Court",
+    "explanation": "A special bench of the Supreme Court, comprising Justices PS Narasimha and Joymalya Bagchi, heard the urgent appeal.",
+    "due_at": "2026-05-02T20:10:24.406291+00:00"
+  },
+  {
+    "reveal_id": "fa0cfe8e16b048209982a9f8117cef26",
+    "article_title": "SC Upholds ECI Directive on Central Staff",
+    "question": "What type of staff will be deployed as counting supervisors in West Bengal according to the ECI directive?",
+    "answer_label": "B",
+    "answer_text": "Central government and PSU staff",
+    "explanation": "The ECI directive involves deploying central government and public sector undertaking staff as counting supervisors.",
+    "due_at": "2026-05-02T20:10:25.061226+00:00"
+  },
+  {
+    "reveal_id": "2a41095cf89b4a8fac5101e5c9125fa0",
+    "article_title": "Josh Inglis Joins LSG",
+    "question": "Which team has Josh Inglis joined?",
+    "answer_label": "B",
+    "answer_text": "Lucknow Super Giants",
+    "explanation": "Josh Inglis has joined the Lucknow Super Giants team in Mumbai.",
+    "due_at": "2026-05-02T20:10:31.883245+00:00"
+  },
+  {
+    "reveal_id": "9fe992f6945b40b7bc3e5031ccf18c3f",
+    "article_title": "Josh Inglis Joins LSG",
+    "question": "When is Azmatullah Omarzai expected to rejoin the Punjab Kings squad?",
+    "answer_label": "C",
+    "answer_text": "May 7",
+    "explanation": "Azmatullah Omarzai is expected to rejoin the Punjab Kings squad on May 7.",
+    "due_at": "2026-05-02T20:10:32.530045+00:00"
+  },
+  {
+    "reveal_id": "8d67f74f15284c72a6286636c998dd5b",
+    "article_title": "Josh Inglis Joins LSG",
+    "question": "When is the Lucknow Super Giants' next game?",
+    "answer_label": "C",
+    "answer_text": "May 4",
+    "explanation": "The Lucknow Super Giants' next game is on May 4.",
+    "due_at": "2026-05-02T20:10:37.394321+00:00"
   }
 ]
