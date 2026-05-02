@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "4e8c5ff35cdf4b5880496ce700d88518",
-    "article_title": "SC Upholds ECI Directive on Central Staff",
-    "question": "What was the Supreme Court's decision regarding the ECI's directive on central staff for West Bengal vote counting?",
+    "reveal_id": "e71b0d7cc95546009d9dabcb449c8f37",
+    "article_title": "SC Ruling on Bengal Counting Staff",
+    "question": "What was the Supreme Court's decision regarding the Election Commission's choice of counting staff in West Bengal?",
     "answer_label": "B",
-    "answer_text": "The directive was upheld as not contrary to rules",
-    "explanation": "The Supreme Court ruled that the ECI's directive is not against the rules, ensuring fairness in the electoral process.",
-    "due_at": "2026-05-02T20:10:23.747729+00:00"
+    "answer_text": "Denied Trinamool's plea",
+    "explanation": "The Supreme Court declined to interfere with the ECI's decision, effectively denying Trinamool's plea.",
+    "due_at": "2026-05-02T20:57:44.899857+00:00"
   },
   {
-    "reveal_id": "7746d07a09224454be28d2ba220df4ab",
-    "article_title": "SC Upholds ECI Directive on Central Staff",
-    "question": "Which of the following was involved in the appeal regarding the ECI directive?",
-    "answer_label": "D",
-    "answer_text": "A special bench of the Supreme Court",
-    "explanation": "A special bench of the Supreme Court, comprising Justices PS Narasimha and Joymalya Bagchi, heard the urgent appeal.",
-    "due_at": "2026-05-02T20:10:24.406291+00:00"
-  },
-  {
-    "reveal_id": "fa0cfe8e16b048209982a9f8117cef26",
-    "article_title": "SC Upholds ECI Directive on Central Staff",
-    "question": "What type of staff will be deployed as counting supervisors in West Bengal according to the ECI directive?",
+    "reveal_id": "86ea9290ac044f448b494fc12be3955c",
+    "article_title": "SC Ruling on Bengal Counting Staff",
+    "question": "Who will be appointed as counting supervisors and assistants in the West Bengal Assembly elections?",
     "answer_label": "B",
-    "answer_text": "Central government and PSU staff",
-    "explanation": "The ECI directive involves deploying central government and public sector undertaking staff as counting supervisors.",
-    "due_at": "2026-05-02T20:10:25.061226+00:00"
+    "answer_text": "Central government and PSU employees",
+    "explanation": "The ECI decided to appoint Central government and Central Public Sector Undertaking employees as counting staff.",
+    "due_at": "2026-05-02T20:57:48.688222+00:00"
   },
   {
-    "reveal_id": "2a41095cf89b4a8fac5101e5c9125fa0",
-    "article_title": "Josh Inglis Joins LSG",
-    "question": "Which team has Josh Inglis joined?",
+    "reveal_id": "5f622eb950d24ae096764d09f34e71c8",
+    "article_title": "SC Ruling on Bengal Counting Staff",
+    "question": "What instruction did the Supreme Court give to the Election Commission of India?",
     "answer_label": "B",
-    "answer_text": "Lucknow Super Giants",
-    "explanation": "Josh Inglis has joined the Lucknow Super Giants team in Mumbai.",
-    "due_at": "2026-05-02T20:10:31.883245+00:00"
+    "answer_text": "To follow its circular in letter and spirit",
+    "explanation": "The Supreme Court directed the ECI to follow its circular strictly, ensuring fairness and transparency.",
+    "due_at": "2026-05-02T20:57:49.303059+00:00"
   },
   {
-    "reveal_id": "9fe992f6945b40b7bc3e5031ccf18c3f",
-    "article_title": "Josh Inglis Joins LSG",
-    "question": "When is Azmatullah Omarzai expected to rejoin the Punjab Kings squad?",
+    "reveal_id": "033c295e10324b43afd03d0ad251998f",
+    "article_title": "SP Noida Protest",
+    "question": "Which party staged a protest at the City Magistrate office in Noida?",
+    "answer_label": "B",
+    "answer_text": "Samajwadi Party",
+    "explanation": "The Samajwadi Party's Noida unit led the protest, submitting a 9-point memorandum on civic issues.",
+    "due_at": "2026-05-02T20:57:56.127824+00:00"
+  },
+  {
+    "reveal_id": "e48799cca8454e83b9472f208bf135ae",
+    "article_title": "SP Noida Protest",
+    "question": "Where was the protest staged by the Samajwadi Party in Noida?",
+    "answer_label": "B",
+    "answer_text": "Sector 19 City Magistrate Office",
+    "explanation": "The protest was held at the City Magistrate office in Sector 19 of Noida.",
+    "due_at": "2026-05-02T20:57:56.772580+00:00"
+  },
+  {
+    "reveal_id": "c3e226684a5b4386ac81dfc62bd7db8c",
+    "article_title": "SP Noida Protest",
+    "question": "What was submitted by the Samajwadi Party to the City Magistrate office?",
     "answer_label": "C",
-    "answer_text": "May 7",
-    "explanation": "Azmatullah Omarzai is expected to rejoin the Punjab Kings squad on May 7.",
-    "due_at": "2026-05-02T20:10:32.530045+00:00"
-  },
-  {
-    "reveal_id": "8d67f74f15284c72a6286636c998dd5b",
-    "article_title": "Josh Inglis Joins LSG",
-    "question": "When is the Lucknow Super Giants' next game?",
-    "answer_label": "C",
-    "answer_text": "May 4",
-    "explanation": "The Lucknow Super Giants' next game is on May 4.",
-    "due_at": "2026-05-02T20:10:37.394321+00:00"
+    "answer_text": "A 9-point memorandum",
+    "explanation": "The Samajwadi Party submitted a 9-point memorandum highlighting civic issues in Noida.",
+    "due_at": "2026-05-02T20:57:57.405584+00:00"
   }
 ]
