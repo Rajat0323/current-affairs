@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "02546e5a35bf43048ffa75e0b7514d8f",
-    "article_title": "LPG Price Hike Hits Migrant Homes",
-    "question": "What is the main issue affecting migrant homes in Delhi?",
+    "reveal_id": "41bb2bb0d8eb4c139d515682b5a638fd",
+    "article_title": "BJP Criticises TMC on Vote Counting",
+    "question": "Which party made allegations against the Election Commission?",
     "answer_label": "B",
-    "answer_text": "LPG price hike",
-    "explanation": "The article mentions the sharp rise in LPG costs as the primary cause of distress.",
-    "due_at": "2026-05-02T14:15:45.887633+00:00"
+    "answer_text": "TMC",
+    "explanation": "TMC made allegations against the Election Commission, which was criticized by BJP's Shankar Ghosh.",
+    "due_at": "2026-05-02T15:09:02.448304+00:00"
   },
   {
-    "reveal_id": "25dbb0131d2348439f5767bdd3828a60",
-    "article_title": "LPG Price Hike Hits Migrant Homes",
-    "question": "Which city is experiencing a quiet crisis due to the LPG price hike?",
+    "reveal_id": "eeb8131757b6423e8805d72e4a149146",
+    "article_title": "BJP Criticises TMC on Vote Counting",
+    "question": "What is the context of the allegation?",
     "answer_label": "B",
-    "answer_text": "Delhi",
-    "explanation": "The article specifically mentions Delhi as the city affected by the LPG price hike.",
-    "due_at": "2026-05-02T14:15:49.653902+00:00"
+    "answer_text": "West Bengal Assembly elections",
+    "explanation": "The allegation is related to the vote counting in West Bengal Assembly elections.",
+    "due_at": "2026-05-02T15:09:06.237888+00:00"
   },
   {
-    "reveal_id": "bb69ca2015a14eff92cd1217b9fe909a",
-    "article_title": "LPG Price Hike Hits Migrant Homes",
-    "question": "What is the demographic most affected by the LPG price hike in Delhi?",
+    "reveal_id": "aae67100c675402eacc2346b37642827",
+    "article_title": "BJP Criticises TMC on Vote Counting",
+    "question": "Who criticized TMC for the allegation?",
+    "answer_label": "B",
+    "answer_text": "Shankar Ghosh",
+    "explanation": "BJP's Shankar Ghosh criticized TMC for making false allegations against the Election Commission.",
+    "due_at": "2026-05-02T15:09:06.832336+00:00"
+  },
+  {
+    "reveal_id": "1e6c95e8f0fe4824a6bd9986b8332db0",
+    "article_title": "Sundar Pichai's Breakfast",
+    "question": "What is Sundar Pichai's dietary preference?",
+    "answer_label": "B",
+    "answer_text": "Vegetarian",
+    "explanation": "Sundar Pichai is a vegetarian, which means he does not consume meat or fish.",
+    "due_at": "2026-05-02T15:09:13.964726+00:00"
+  },
+  {
+    "reveal_id": "8ec6fef0c6e443ccaa5757e1a83257aa",
+    "article_title": "Sundar Pichai's Breakfast",
+    "question": "Why is Sundar Pichai's breakfast significant?",
     "answer_label": "C",
-    "answer_text": "Working-class neighborhoods",
-    "explanation": "The article states that the working-class neighborhoods in Delhi are experiencing widespread distress due to the LPG price hike.",
-    "due_at": "2026-05-02T14:15:50.323002+00:00"
+    "answer_text": "It provides him with protein",
+    "explanation": "As a vegetarian, Sundar Pichai needs to get his protein from plant-based sources, making his breakfast significant for his daily nutrition.",
+    "due_at": "2026-05-02T15:09:14.610631+00:00"
   },
   {
-    "reveal_id": "463a9b2c817e498e8651d8eb41946f0b",
-    "article_title": "MP Boat Tragedy",
-    "question": "What was the alleged reason for the mother and son holding each other in the MP boat tragedy?",
+    "reveal_id": "44f58871334c456aac366c3013653998",
+    "article_title": "Sundar Pichai's Breakfast",
+    "question": "What can be inferred about Sundar Pichai's morning routine?",
     "answer_label": "B",
-    "answer_text": "To create a protective air buffer",
-    "explanation": "The mother and son were attempting to create a protective air buffer to increase their chances of survival.",
-    "due_at": "2026-05-02T14:15:57.297087+00:00"
-  },
-  {
-    "reveal_id": "6a997d54db2e4b2092492f998da365a3",
-    "article_title": "MP Boat Tragedy",
-    "question": "What was the status of the life jackets on the MP tourism boat?",
-    "answer_label": "B",
-    "answer_text": "They were locked below deck",
-    "explanation": "The life jackets were locked below deck, which may have contributed to the tragedy.",
-    "due_at": "2026-05-02T14:15:57.920912+00:00"
-  },
-  {
-    "reveal_id": "bdff59c72fbe4146a68e2ca4c03d9aec",
-    "article_title": "MP Boat Tragedy",
-    "question": "What has the Chief Minister of Madhya Pradesh promised in response to the boat tragedy?",
-    "answer_label": "C",
-    "answer_text": "To take action against those responsible",
-    "explanation": "The Chief Minister has promised to take action against those responsible for the tragedy.",
-    "due_at": "2026-05-02T14:15:58.552218+00:00"
+    "answer_text": "It is very relaxing",
+    "explanation": "Sundar Pichai's morning routine is described as calming, indicating that it is relaxing and helps him start his day on a positive note.",
+    "due_at": "2026-05-02T15:09:15.224214+00:00"
   }
 ]
