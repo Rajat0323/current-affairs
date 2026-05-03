@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "67a590e0012c4c1c83e0a66ccddc39c1",
-    "article_title": "UP Anti-Romeo Squad Deployment",
-    "question": "What is the main objective of deploying Anti-Romeo Squads in Uttar Pradesh?",
+    "reveal_id": "44f297a1f5e347769b0ccac4ce8419b4",
+    "article_title": "Faculty Members Suspended for Harassment",
+    "question": "What action was taken against two faculty members in a sexual harassment case?",
     "answer_label": "B",
-    "answer_text": "To improve women's safety in public spaces",
-    "explanation": "The deployment of Anti-Romeo Squads aims to create a safer environment for women to move freely without fear of harassment.",
-    "due_at": "2026-05-03T00:33:57.467933+00:00"
+    "answer_text": "They were suspended",
+    "explanation": "The Health Department suspended two faculty members for their involvement in a sexual harassment case.",
+    "due_at": "2026-05-03T04:38:32.934963+00:00"
   },
   {
-    "reveal_id": "22beecaf9ea8472f992446c5f7c8c947",
-    "article_title": "UP Anti-Romeo Squad Deployment",
-    "question": "Who is leading the initiative to deploy Anti-Romeo Squads in Uttar Pradesh?",
-    "answer_label": "A",
-    "answer_text": "CM Yogi Adityanath",
-    "explanation": "CM Yogi Adityanath is the leader of the initiative to deploy Anti-Romeo Squads in Uttar Pradesh.",
-    "due_at": "2026-05-03T00:33:58.201730+00:00"
+    "reveal_id": "b2ed3413afff49d8bf27f67f84e9694c",
+    "article_title": "Faculty Members Suspended for Harassment",
+    "question": "Why were a principal and professor removed from their positions?",
+    "answer_label": "B",
+    "answer_text": "For not addressing complaints",
+    "explanation": "A principal and professor were removed for failing to address sexual harassment complaints.",
+    "due_at": "2026-05-03T04:38:36.830114+00:00"
   },
   {
-    "reveal_id": "9f52716c0099452b8a053c950ad6e81e",
-    "article_title": "UP Anti-Romeo Squad Deployment",
-    "question": "What is the expected outcome of permanently deploying Anti-Romeo Squads at key locations?",
+    "reveal_id": "76e7417fe9214d1fb6a0db6001651028",
+    "article_title": "Faculty Members Suspended for Harassment",
+    "question": "In which state did the Health Department take action against faculty members?",
+    "answer_label": "B",
+    "answer_text": "Andhra Pradesh",
+    "explanation": "The incident occurred in Andhra Pradesh, where the Health Department took action against the faculty members.",
+    "due_at": "2026-05-03T04:38:37.457188+00:00"
+  },
+  {
+    "reveal_id": "13b0213396784258bd37de19ef557eff",
+    "article_title": "Citizenship Amendment Rules 2026",
+    "question": "Which ministry notified the Citizenship Amendment Rules, 2026?",
+    "answer_label": "B",
+    "answer_text": "Ministry of Home Affairs",
+    "explanation": "The Ministry of Home Affairs is responsible for citizenship rules in India.",
+    "due_at": "2026-05-03T04:38:44.306742+00:00"
+  },
+  {
+    "reveal_id": "4361b98659294617b29083c3795acbc2",
+    "article_title": "Citizenship Amendment Rules 2026",
+    "question": "What is the main purpose of the Citizenship Amendment Rules, 2026?",
+    "answer_label": "B",
+    "answer_text": "To simplify the citizenship process",
+    "explanation": "The new rules aim to modernise and streamline citizenship rules in India.",
+    "due_at": "2026-05-03T04:38:44.893487+00:00"
+  },
+  {
+    "reveal_id": "b801b891c3f243188fdd822dbc0efe88",
+    "article_title": "Citizenship Amendment Rules 2026",
+    "question": "Which group is affected by the new norms on dual passports?",
     "answer_label": "C",
-    "answer_text": "More secure environment for women",
-    "explanation": "The permanent deployment of Anti-Romeo Squads is expected to create a more secure environment for women to move freely without fear of harassment.",
-    "due_at": "2026-05-03T00:33:58.898704+00:00"
-  },
-  {
-    "reveal_id": "d09927aac4fd4f198a4e9ce30705a55a",
-    "article_title": "Tamil Nadu Vote Counting",
-    "question": "When will the votes be counted in Tamil Nadu?",
-    "answer_label": "B",
-    "answer_text": "May 4",
-    "explanation": "The vote counting in Tamil Nadu is scheduled for May 4, as per the given information.",
-    "due_at": "2026-05-03T00:34:03.312724+00:00"
-  },
-  {
-    "reveal_id": "eae4c765fba54985a0b71c456747190c",
-    "article_title": "Tamil Nadu Vote Counting",
-    "question": "How many designated centres will be used for vote counting in Tamil Nadu?",
-    "answer_label": "B",
-    "answer_text": "62",
-    "explanation": "There are 62 designated centres for the vote counting process in Tamil Nadu.",
-    "due_at": "2026-05-03T00:34:04.095452+00:00"
-  },
-  {
-    "reveal_id": "c947bc84bc614ea2a42af1d3346dc7f9",
-    "article_title": "Tamil Nadu Vote Counting",
-    "question": "What is the first step in the vote counting process in Tamil Nadu?",
-    "answer_label": "B",
-    "answer_text": "Counting postal ballots",
-    "explanation": "The vote counting process starts with the traditional paper trail, which includes counting postal ballots.",
-    "due_at": "2026-05-03T00:34:04.819367+00:00"
+    "answer_text": "Minors holding dual passports",
+    "explanation": "The new rules tighten norms on dual passports for minors in India.",
+    "due_at": "2026-05-03T04:38:45.508321+00:00"
   }
 ]
