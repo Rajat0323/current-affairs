@@ -1,5 +1,6 @@
 import unittest
 from types import SimpleNamespace
+from unittest.mock import patch
 
 from current_affairs_bot.models import Article, GeneratedPost, MCQ, PendingGroupReveal
 from current_affairs_bot.telegram_client import TelegramClient
@@ -88,6 +89,18 @@ def migrated_group_response() -> FakeResponse:
             "error_code": 400,
             "description": "Bad Request: group chat was upgraded to a supergroup chat",
             "parameters": {"migrate_to_chat_id": int(MIGRATED_GROUP_ID)},
+        },
+    )
+
+
+def rate_limited_response(retry_after: int = 28) -> FakeResponse:
+    return FakeResponse(
+        429,
+        {
+            "ok": False,
+            "error_code": 429,
+            "description": f"Too Many Requests: retry after {retry_after}",
+            "parameters": {"retry_after": retry_after},
         },
     )
 
@@ -205,6 +218,26 @@ class TelegramClientMigrationTests(unittest.TestCase):
             all("subscribe for more - @currentaffairschannel" in str(call["data"]["text"]) for call in client.session.calls)
         )
         self.assertTrue(all("#CurrentAffairs" in str(call["data"]["text"]) for call in client.session.calls))
+
+    def test_group_posts_retry_after_rate_limit(self) -> None:
+        client = TelegramClient(build_settings())
+        client.session = FakeSession(
+            [
+                rate_limited_response(28),
+                FakeResponse(200, {"ok": True, "result": {"message_id": 1}}),
+                FakeResponse(200, {"ok": True, "result": {"message_id": 2}}),
+            ]
+        )
+
+        with patch("current_affairs_bot.telegram_client.time.sleep") as sleep_mock:
+            reveals = client.broadcast(build_article(), build_generated_post())
+
+        self.assertEqual(len(reveals), 1)
+        sleep_mock.assert_called_once_with(28)
+        self.assertEqual(
+            [call["data"]["chat_id"] for call in client.session.calls],
+            [OLD_GROUP_ID, OLD_GROUP_ID, OLD_GROUP_ID],
+        )
 
 
 if __name__ == "__main__":

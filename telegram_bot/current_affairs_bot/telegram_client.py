@@ -2,6 +2,7 @@ from collections.abc import Callable
 import html
 import json
 import logging
+import time
 from datetime import datetime, timedelta, timezone
 import uuid
 
@@ -12,6 +13,7 @@ from current_affairs_bot.models import Article, GeneratedPost, MCQ, PendingGroup
 
 
 LOGGER = logging.getLogger(__name__)
+TELEGRAM_RATE_LIMIT_MAX_RETRIES = 3
 
 
 class TelegramClient:
@@ -84,7 +86,7 @@ class TelegramClient:
         return reveals
 
     def _send_message(self, chat_id: str, text: str) -> None:
-        response = self._post_with_migration_retry(
+        response = self._post_with_retry(
             chat_id,
             "sendMessage",
             lambda resolved_chat_id: self.session.post(
@@ -101,7 +103,7 @@ class TelegramClient:
         self._handle_response(response, "sendMessage")
 
     def _send_quiz(self, chat_id: str, mcq: MCQ) -> None:
-        response = self._post_with_migration_retry(
+        response = self._post_with_retry(
             chat_id,
             "sendPoll",
             lambda resolved_chat_id: self._post_poll(resolved_chat_id, mcq, is_anonymous=False),
@@ -110,7 +112,7 @@ class TelegramClient:
         description = str(payload.get("description", "")).lower() if isinstance(payload, dict) else ""
 
         if response.status_code == 400 and "non-anonymous polls can't be sent to channel chats" in description:
-            response = self._post_with_migration_retry(
+            response = self._post_with_retry(
                 chat_id,
                 "sendPoll",
                 lambda resolved_chat_id: self._post_poll(resolved_chat_id, mcq, is_anonymous=True),
@@ -143,6 +145,14 @@ class TelegramClient:
                 f"Response: {payload}"
             )
 
+        if response.status_code == 429 and isinstance(payload, dict):
+            retry_after = self._extract_retry_after(payload)
+            if retry_after is not None:
+                raise RuntimeError(
+                    f"Telegram {method_name} hit a rate limit even after retrying. "
+                    f"Telegram requested a {retry_after}-second backoff. Response: {payload}"
+                )
+
         if response.status_code == 400 and isinstance(payload, dict):
             description = str(payload.get("description", ""))
             migrated_chat_id = self._extract_migrated_chat_id(payload)
@@ -174,7 +184,7 @@ class TelegramClient:
         except ValueError:
             return {"raw_text": response.text}
 
-    def _post_with_migration_retry(
+    def _post_with_retry(
         self,
         chat_id: str,
         method_name: str,
@@ -182,10 +192,26 @@ class TelegramClient:
     ) -> requests.Response:
         current_chat_id = self._resolve_chat_id(chat_id)
         seen_chat_ids: set[str] = set()
+        rate_limit_retries = 0
 
         while True:
             response = send_request(current_chat_id)
             payload = self._response_payload(response)
+
+            retry_after = self._extract_retry_after(payload) if response.status_code == 429 else None
+            if retry_after is not None and rate_limit_retries < TELEGRAM_RATE_LIMIT_MAX_RETRIES:
+                rate_limit_retries += 1
+                LOGGER.warning(
+                    "Telegram %s hit a rate limit for chat %s. Waiting %s seconds before retry %s/%s.",
+                    method_name,
+                    current_chat_id,
+                    retry_after,
+                    rate_limit_retries,
+                    TELEGRAM_RATE_LIMIT_MAX_RETRIES,
+                )
+                time.sleep(retry_after)
+                continue
+
             migrated_chat_id = self._extract_migrated_chat_id(payload)
             if not migrated_chat_id or migrated_chat_id == current_chat_id or migrated_chat_id in seen_chat_ids:
                 return response
@@ -219,6 +245,20 @@ class TelegramClient:
         if migrated_chat_id is None:
             return ""
         return str(migrated_chat_id).strip()
+
+    def _extract_retry_after(self, payload: dict | list | str) -> int | None:
+        if not isinstance(payload, dict):
+            return None
+        parameters = payload.get("parameters")
+        if not isinstance(parameters, dict):
+            return None
+        retry_after = parameters.get("retry_after")
+        if retry_after is None:
+            return None
+        try:
+            return max(1, int(retry_after))
+        except (TypeError, ValueError):
+            return None
 
     def _build_post_message(self, chat_id: str, article: Article, generated_post: GeneratedPost) -> str:
         title = html.escape(generated_post.title)
