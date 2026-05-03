@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "39a491e824e1442f8567d7749fa174f9",
-    "article_title": "US Pentagon Partners with 7 AI Firms",
-    "question": "Which companies have partnered with the US Department of Defense for AI deployment?",
+    "reveal_id": "b84e23b9ecd346e6906f1bfba3ce581e",
+    "article_title": "Vijay Deverakonda's Next Film",
+    "question": "Who is directing Vijay Deverakonda's next film?",
+    "answer_label": "A",
+    "answer_text": "Shouryuv",
+    "explanation": "The director of the film is Shouryuv, a well-known director in the Indian film industry.",
+    "due_at": "2026-05-03T20:58:35.391396+00:00"
+  },
+  {
+    "reveal_id": "9e32347508e3460dbcbbc454cd9df1b4",
+    "article_title": "Vijay Deverakonda's Next Film",
+    "question": "Which actress may star in Vijay Deverakonda's next film?",
+    "answer_label": "B",
+    "answer_text": "Kriti Sanon",
+    "explanation": "Kriti Sanon is possibly starring in Vijay Deverakonda's next film, according to recent reports.",
+    "due_at": "2026-05-03T20:58:35.699638+00:00"
+  },
+  {
+    "reveal_id": "ad878a1b2a494893a386df1331834db3",
+    "article_title": "Vijay Deverakonda's Next Film",
+    "question": "When was Vijay Deverakonda's next film announced?",
+    "answer_label": "B",
+    "answer_text": "April",
+    "explanation": "The film was announced in April, generating excitement among fans and film buffs.",
+    "due_at": "2026-05-03T20:58:35.992881+00:00"
+  },
+  {
+    "reveal_id": "7698241ec4124fcb902c3ffb5e2ffd7e",
+    "article_title": "Mittal Family, Adar Poonawala Acquire Rajasthan Royals",
+    "question": "Who acquired the Rajasthan Royals cricket team?",
     "answer_label": "C",
-    "answer_text": "OpenAI and Google among others",
-    "explanation": "The US Department of Defense has partnered with seven AI firms, including OpenAI and Google.",
-    "due_at": "2026-05-03T20:10:13.278071+00:00"
+    "answer_text": "Mittal Family and Adar Poonawala",
+    "explanation": "The Mittal family and Adar Poonawala jointly acquired the Rajasthan Royals cricket team for approximately $1.65 billion.",
+    "due_at": "2026-05-03T20:58:42.623495+00:00"
   },
   {
-    "reveal_id": "8d3047ea5b7c4c92ae841810055db546",
-    "article_title": "US Pentagon Partners with 7 AI Firms",
-    "question": "Why was Anthropic excluded from the partnership?",
+    "reveal_id": "d3fefb30271249458fd623e5905a808d",
+    "article_title": "Mittal Family, Adar Poonawala Acquire Rajasthan Royals",
+    "question": "What is the approximate value of the deal?",
     "answer_label": "B",
-    "answer_text": "Security concerns and supply chain issues",
-    "explanation": "Anthropic remains excluded due to security concerns and supply chain issues.",
-    "due_at": "2026-05-03T20:10:13.554122+00:00"
+    "answer_text": "$1.65 billion",
+    "explanation": "The deal is valued at approximately $1.65 billion, making it one of the largest in Indian sports history.",
+    "due_at": "2026-05-03T20:58:42.916028+00:00"
   },
   {
-    "reveal_id": "3afb177b977945bbb4af526a29dc8a6c",
-    "article_title": "US Pentagon Partners with 7 AI Firms",
-    "question": "What is the expected outcome of the partnership for the US defense sector?",
+    "reveal_id": "f886086fdff04eff969339dc72483fe7",
+    "article_title": "Mittal Family, Adar Poonawala Acquire Rajasthan Royals",
+    "question": "What percentage of the Rajasthan Royals will the Mittal family own?",
     "answer_label": "C",
-    "answer_text": "Accelerated AI adoption and reduced reliance on single vendors",
-    "explanation": "The partnership aims to accelerate AI adoption and reduce reliance on single vendors in the US defense sector.",
-    "due_at": "2026-05-03T20:10:13.828562+00:00"
-  },
-  {
-    "reveal_id": "0bcb39cb691744e1a3e704bc7169027d",
-    "article_title": "India-linked LPG Tanker Crosses Strait of Hormuz",
-    "question": "Where was the India-linked LPG tanker idle for weeks?",
-    "answer_label": "B",
-    "answer_text": "Persian Gulf",
-    "explanation": "The tanker was idle in the Persian Gulf before crossing the Strait of Hormuz.",
-    "due_at": "2026-05-03T20:10:20.154443+00:00"
-  },
-  {
-    "reveal_id": "7c658ca89bf741b0861c82e46b85cb25",
-    "article_title": "India-linked LPG Tanker Crosses Strait of Hormuz",
-    "question": "When did the tanker stop transmitting signals?",
-    "answer_label": "B",
-    "answer_text": "March 31",
-    "explanation": "The tanker stopped transmitting signals around March 31.",
-    "due_at": "2026-05-03T20:10:20.430630+00:00"
-  },
-  {
-    "reveal_id": "9554075f09b54a95870bde297b4ebff9",
-    "article_title": "India-linked LPG Tanker Crosses Strait of Hormuz",
-    "question": "Where did the tanker reappear after stopping transmission?",
-    "answer_label": "B",
-    "answer_text": "West of India",
-    "explanation": "The tanker reappeared west of India on May 3.",
-    "due_at": "2026-05-03T20:10:20.715072+00:00"
+    "answer_text": "75%",
+    "explanation": "The Mittal family is set to own 75% of the Rajasthan Royals in the $1.65 billion deal.",
+    "due_at": "2026-05-03T20:58:43.207262+00:00"
   }
 ]
