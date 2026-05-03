@@ -106,5 +106,59 @@
     "answer_text": "5 days",
     "explanation": "The weather alert is expected to last for the next five days, according to the given information.",
     "due_at": "2026-05-03T15:43:51.961376+00:00"
+  },
+  {
+    "reveal_id": "8044d6fa532f495eb77b4c3a61d86399",
+    "article_title": "TMC Chances in Falta Voting",
+    "question": "Which party's leader claimed Trinamool Congress has no chance of winning in Falta?",
+    "answer_label": "B",
+    "answer_text": "Bharatiya Janata Party",
+    "explanation": "Dilip Ghosh, a BJP leader, made this statement about TMC's chances.",
+    "due_at": "2026-05-03T16:04:54.793009+00:00"
+  },
+  {
+    "reveal_id": "383a5ae8978f4e6aabc370cacabd872e",
+    "article_title": "TMC Chances in Falta Voting",
+    "question": "Where is the Falta Assembly constituency located?",
+    "answer_label": "B",
+    "answer_text": "West Bengal",
+    "explanation": "The Falta Assembly constituency is in West Bengal, a significant location for the TMC and BJP.",
+    "due_at": "2026-05-03T16:04:55.083131+00:00"
+  },
+  {
+    "reveal_id": "d4c3a902ff21419a99359b0565463a3a",
+    "article_title": "TMC Chances in Falta Voting",
+    "question": "Why did Dilip Ghosh allege TMC's recent actions were taken?",
+    "answer_label": "B",
+    "answer_text": "To boost cadre morale",
+    "explanation": "Dilip Ghosh claimed TMC's actions were aimed at boosting the morale of its cadre.",
+    "due_at": "2026-05-03T16:04:55.364716+00:00"
+  },
+  {
+    "reveal_id": "eeee9051133f4e6cadcac317ef6e30f7",
+    "article_title": "Adani's Worker-Centric Growth Strategy",
+    "question": "Where did Gautam Adani unveil his worker-centric growth strategy?",
+    "answer_label": "B",
+    "answer_text": "Guwahati's LGBI Airport",
+    "explanation": "Gautam Adani unveiled his strategy at Guwahati's LGBI Airport on International Labour Day.",
+    "due_at": "2026-05-03T16:05:02.148943+00:00"
+  },
+  {
+    "reveal_id": "4b4521019f2f47c78c0271570ad599d6",
+    "article_title": "Adani's Worker-Centric Growth Strategy",
+    "question": "How many workers and employees did Gautam Adani address?",
+    "answer_label": "C",
+    "answer_text": "3,000",
+    "explanation": "Gautam Adani addressed around 3,000 workers and employees.",
+    "due_at": "2026-05-03T16:05:02.511587+00:00"
+  },
+  {
+    "reveal_id": "412fc828540c4239a60e1f573b2ec308",
+    "article_title": "Adani's Worker-Centric Growth Strategy",
+    "question": "What was the occasion of Gautam Adani's address?",
+    "answer_label": "B",
+    "answer_text": "International Labour Day",
+    "explanation": "Gautam Adani addressed the workers on International Labour Day.",
+    "due_at": "2026-05-03T16:05:02.835988+00:00"
   }
 ]
