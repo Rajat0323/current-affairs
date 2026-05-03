@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "1caacd7629e148108ad83f68ff6b354d",
-    "article_title": "J&K School Projects Delayed",
-    "question": "What is the main reason for the delay in school construction projects in J&K?",
-    "answer_label": "B",
-    "answer_text": "Absence of a dedicated engineering wing",
-    "explanation": "The absence of a dedicated engineering wing in the School Education Department is the primary cause of delays in school construction projects in J&K.",
-    "due_at": "2026-05-03T07:14:39.454230+00:00"
-  },
-  {
-    "reveal_id": "6a2d0a24a9404b2e8a2732aac302f6c7",
-    "article_title": "J&K School Projects Delayed",
-    "question": "How many school construction projects are pending in J&K?",
-    "answer_label": "D",
-    "answer_text": "Over 9000",
-    "explanation": "Out of 10,000 projects, work has been done only on 3000 projects, leaving around 7000 projects pending.",
-    "due_at": "2026-05-03T07:14:40.214700+00:00"
-  },
-  {
-    "reveal_id": "b8cbe4ac54564cf58792fbb71cf91a3a",
-    "article_title": "J&K School Projects Delayed",
-    "question": "What was the outcome of the 2021 decision by the J&K administration regarding the engineering wing?",
-    "answer_label": "B",
-    "answer_text": "The engineering wing was merged with the Public Works department",
-    "explanation": "The 2021 decision by the J&K administration resulted in the merger of the engineering wing with the Public Works department, leading to delays in school construction projects.",
-    "due_at": "2026-05-03T07:14:40.960475+00:00"
-  },
-  {
-    "reveal_id": "d8756b22a72a446698979c1b6d4bc725",
-    "article_title": "Francisco de Jasso y Azpilicueta's Journey",
-    "question": "Where was Francisco de Jasso y Azpilicueta born?",
-    "answer_label": "A",
-    "answer_text": "Castle of Xavier in the Kingdom of Navarre",
-    "explanation": "He was born in the Castle of Xavier, which is now in northern Spain. This is a significant starting point of his geographical odyssey.",
-    "due_at": "2026-05-03T07:14:45.653296+00:00"
-  },
-  {
-    "reveal_id": "e8da90472ccd4a3595417abb81d6d783",
-    "article_title": "Francisco de Jasso y Azpilicueta's Journey",
-    "question": "What is significant about Francisco de Jasso y Azpilicueta's death location?",
+    "reveal_id": "d497265c180f43b1a22cae833a359761",
+    "article_title": "Patriot Box Office Collections",
+    "question": "What is the worldwide box office collection of the movie Patriot?",
     "answer_label": "C",
-    "answer_text": "He died on Shangchuan Island off the coast of China",
-    "explanation": "Francisco de Jasso y Azpilicueta died on Shangchuan Island, which is off the coast of China, marking the end of his Asian journey.",
-    "due_at": "2026-05-03T07:14:46.383795+00:00"
+    "answer_text": "Rs 50 crore",
+    "explanation": "The movie Patriot has crossed Rs 50 crore worldwide, as per the given article.",
+    "due_at": "2026-05-03T08:58:24.859026+00:00"
   },
   {
-    "reveal_id": "79affd664b404d619a1b12cc413e9a26",
-    "article_title": "Francisco de Jasso y Azpilicueta's Journey",
-    "question": "Why is Francisco de Jasso y Azpilicueta's journey relevant to India?",
+    "reveal_id": "5752ab267f444b7b8b0a175211df203d",
+    "article_title": "Patriot Box Office Collections",
+    "question": "Which state is leading in regional performance for the movie Patriot in India?",
+    "answer_label": "B",
+    "answer_text": "Kerala",
+    "explanation": "Kerala is leading the regional performance for the movie Patriot in India, as mentioned in the article.",
+    "due_at": "2026-05-03T08:58:28.645097+00:00"
+  },
+  {
+    "reveal_id": "b5e67d12d8a64cd5b74a6f55da555c91",
+    "article_title": "Patriot Box Office Collections",
+    "question": "What are the India net collections of the movie Patriot on its second day?",
     "answer_label": "D",
-    "answer_text": "India was a significant stopover in the historical context of European travel to Asia",
-    "explanation": "India was a major stopover for many European travelers, including those who followed in the footsteps of Francisco de Jasso y Azpilicueta, making his journey relevant to India's historical context.",
-    "due_at": "2026-05-03T07:14:50.365226+00:00"
+    "answer_text": "Rs 16.15 crore",
+    "explanation": "The India net collections of the movie Patriot stand at Rs 16.15 crore, as per the given article.",
+    "due_at": "2026-05-03T08:58:29.247258+00:00"
+  },
+  {
+    "reveal_id": "97587b57a2f04bda8ce8fac1a074e17a",
+    "article_title": "India Eases FDI Rules",
+    "question": "What is the new limit for FDI in the insurance sector in India?",
+    "answer_label": "C",
+    "answer_text": "100%",
+    "explanation": "The government has allowed up to 100% FDI in insurance to boost capital inflows.",
+    "due_at": "2026-05-03T08:58:36.015575+00:00"
+  },
+  {
+    "reveal_id": "4700f6e018224e629963db8487a44ce4",
+    "article_title": "India Eases FDI Rules",
+    "question": "What is the maximum Chinese holding allowed for companies investing via the automatic route in India?",
+    "answer_label": "B",
+    "answer_text": "10%",
+    "explanation": "Companies with up to 10% Chinese holding can now invest via the automatic route.",
+    "due_at": "2026-05-03T08:58:36.598060+00:00"
+  },
+  {
+    "reveal_id": "2be3a158b9e8418792583043e646ea4f",
+    "article_title": "India Eases FDI Rules",
+    "question": "Why has the Indian government eased FDI rules, according to the article?",
+    "answer_label": "C",
+    "answer_text": "To stabilize the weakening rupee",
+    "explanation": "The government aims to boost capital inflows amidst a weakening rupee by easing FDI rules.",
+    "due_at": "2026-05-03T08:58:37.248403+00:00"
   }
 ]
