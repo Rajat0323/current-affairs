@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "ee6f366f97144fdc8484afd389c74f0c",
-    "article_title": "Fugitive Economic Offender",
-    "question": "What is the main purpose of the Fugitive Economic Offenders Act?",
-    "answer_label": "B",
-    "answer_text": "To confiscate assets of fugitive economic offenders",
-    "explanation": "The Fugitive Economic Offenders Act is designed to confiscate assets of individuals who flee India to avoid prosecution for economic crimes.",
-    "due_at": "2026-05-03T19:04:12.597581+00:00"
+    "reveal_id": "39a491e824e1442f8567d7749fa174f9",
+    "article_title": "US Pentagon Partners with 7 AI Firms",
+    "question": "Which companies have partnered with the US Department of Defense for AI deployment?",
+    "answer_label": "C",
+    "answer_text": "OpenAI and Google among others",
+    "explanation": "The US Department of Defense has partnered with seven AI firms, including OpenAI and Google.",
+    "due_at": "2026-05-03T20:10:13.278071+00:00"
   },
   {
-    "reveal_id": "ce70f028ff0b413b9c5a96d9460a33aa",
-    "article_title": "Fugitive Economic Offender",
-    "question": "Which of the following is an example of a Fugitive Economic Offender?",
-    "answer_label": "A",
-    "answer_text": "Nirav Modi",
-    "explanation": "Nirav Modi is a known example of a Fugitive Economic Offender who fled India to avoid prosecution for economic crimes.",
-    "due_at": "2026-05-03T19:04:12.910264+00:00"
+    "reveal_id": "8d3047ea5b7c4c92ae841810055db546",
+    "article_title": "US Pentagon Partners with 7 AI Firms",
+    "question": "Why was Anthropic excluded from the partnership?",
+    "answer_label": "B",
+    "answer_text": "Security concerns and supply chain issues",
+    "explanation": "Anthropic remains excluded due to security concerns and supply chain issues.",
+    "due_at": "2026-05-03T20:10:13.554122+00:00"
   },
   {
-    "reveal_id": "e0699e1001134ed184bc467a61f32384",
-    "article_title": "Fugitive Economic Offender",
-    "question": "What is a consequence of being declared a Fugitive Economic Offender in India?",
-    "answer_label": "B",
-    "answer_text": "Confiscation of assets",
-    "explanation": "Being declared a Fugitive Economic Offender in India can result in the confiscation of assets by the government.",
-    "due_at": "2026-05-03T19:04:13.214492+00:00"
+    "reveal_id": "3afb177b977945bbb4af526a29dc8a6c",
+    "article_title": "US Pentagon Partners with 7 AI Firms",
+    "question": "What is the expected outcome of the partnership for the US defense sector?",
+    "answer_label": "C",
+    "answer_text": "Accelerated AI adoption and reduced reliance on single vendors",
+    "explanation": "The partnership aims to accelerate AI adoption and reduce reliance on single vendors in the US defense sector.",
+    "due_at": "2026-05-03T20:10:13.828562+00:00"
   },
   {
-    "reveal_id": "b5a989fe762d426baa1055d09e0d4287",
-    "article_title": "India loses to France in Thomas Cup",
-    "question": "Who did France defeat in the Thomas Cup semifinal?",
+    "reveal_id": "0bcb39cb691744e1a3e704bc7169027d",
+    "article_title": "India-linked LPG Tanker Crosses Strait of Hormuz",
+    "question": "Where was the India-linked LPG tanker idle for weeks?",
     "answer_label": "B",
-    "answer_text": "India",
-    "explanation": "France defeated India 3-0 in the semifinal, with their top singles players delivering strong performances.",
-    "due_at": "2026-05-03T19:04:19.808231+00:00"
+    "answer_text": "Persian Gulf",
+    "explanation": "The tanker was idle in the Persian Gulf before crossing the Strait of Hormuz.",
+    "due_at": "2026-05-03T20:10:20.154443+00:00"
   },
   {
-    "reveal_id": "57dfa621de984c18809bf4060726cf3c",
-    "article_title": "India loses to France in Thomas Cup",
-    "question": "Why was Lakshya Sen absent from the semifinal match?",
+    "reveal_id": "7c658ca89bf741b0861c82e46b85cb25",
+    "article_title": "India-linked LPG Tanker Crosses Strait of Hormuz",
+    "question": "When did the tanker stop transmitting signals?",
     "answer_label": "B",
-    "answer_text": "Injury to his elbow",
-    "explanation": "Lakshya Sen was forced to sit out due to an impact injury to his elbow during the quarter-final clash against Chinese Taipei.",
-    "due_at": "2026-05-03T19:04:20.109626+00:00"
+    "answer_text": "March 31",
+    "explanation": "The tanker stopped transmitting signals around March 31.",
+    "due_at": "2026-05-03T20:10:20.430630+00:00"
   },
   {
-    "reveal_id": "5177d2a10966449ea37023617d0f494a",
-    "article_title": "India loses to France in Thomas Cup",
-    "question": "Who will France face in the Thomas Cup final?",
+    "reveal_id": "9554075f09b54a95870bde297b4ebff9",
+    "article_title": "India-linked LPG Tanker Crosses Strait of Hormuz",
+    "question": "Where did the tanker reappear after stopping transmission?",
     "answer_label": "B",
-    "answer_text": "China",
-    "explanation": "France will face China in the Thomas Cup final, with China seeking its 12th title.",
-    "due_at": "2026-05-03T19:04:20.408005+00:00"
+    "answer_text": "West of India",
+    "explanation": "The tanker reappeared west of India on May 3.",
+    "due_at": "2026-05-03T20:10:20.715072+00:00"
   }
 ]
