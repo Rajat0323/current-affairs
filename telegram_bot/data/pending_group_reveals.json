@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "d5f1e98a320a4d2c85bf27f1f484b98d",
-    "article_title": "Influential Books",
-    "question": "What is the significance of the eight books listed?",
-    "answer_label": "C",
-    "answer_text": "They have impacted global policies and economies",
-    "explanation": "The books have changed the way the world works by influencing policies and building large companies.",
-    "due_at": "2026-05-03T18:00:42.465225+00:00"
-  },
-  {
-    "reveal_id": "c8f407ca970049149afbfa628c4fd62f",
-    "article_title": "Influential Books",
-    "question": "Why are these books important for India?",
-    "answer_label": "C",
-    "answer_text": "They can provide insights into global decision-making processes",
-    "explanation": "Understanding the influence of these books can help India stay informed about global trends and decision-making processes.",
-    "due_at": "2026-05-03T18:00:42.837823+00:00"
-  },
-  {
-    "reveal_id": "856b92c183c14bcab5a4fafe6eb5a6ac",
-    "article_title": "Influential Books",
-    "question": "What can be inferred about the readers of these books?",
+    "reveal_id": "ee6f366f97144fdc8484afd389c74f0c",
+    "article_title": "Fugitive Economic Offender",
+    "question": "What is the main purpose of the Fugitive Economic Offenders Act?",
     "answer_label": "B",
-    "answer_text": "They are powerful individuals who shape global policies",
-    "explanation": "The books are said to sit on the desks of the most powerful people alive, indicating that they are read by influential individuals.",
-    "due_at": "2026-05-03T18:00:43.199867+00:00"
+    "answer_text": "To confiscate assets of fugitive economic offenders",
+    "explanation": "The Fugitive Economic Offenders Act is designed to confiscate assets of individuals who flee India to avoid prosecution for economic crimes.",
+    "due_at": "2026-05-03T19:04:12.597581+00:00"
   },
   {
-    "reveal_id": "06f08f7110844c22b73053d094634b56",
-    "article_title": "Delhi Courts Weekly Round Up",
-    "question": "What was the outcome of the defamation case against BJP MLA Karnail Singh?",
-    "answer_label": "C",
-    "answer_text": "The court set aside the magistrate's order and remanded the matter back to the Trial Court",
-    "explanation": "The court set aside the magistrate's order and remanded the matter back to the Trial Court for fresh consideration, holding that the Trial Court had adopted an incorrect approach while dealing with statutory exceptions at the pre-summoning stage.",
-    "due_at": "2026-05-03T18:00:47.996876+00:00"
+    "reveal_id": "ce70f028ff0b413b9c5a96d9460a33aa",
+    "article_title": "Fugitive Economic Offender",
+    "question": "Which of the following is an example of a Fugitive Economic Offender?",
+    "answer_label": "A",
+    "answer_text": "Nirav Modi",
+    "explanation": "Nirav Modi is a known example of a Fugitive Economic Offender who fled India to avoid prosecution for economic crimes.",
+    "due_at": "2026-05-03T19:04:12.910264+00:00"
   },
   {
-    "reveal_id": "1f959a2feb86463ab747fc8cb91eaab0",
-    "article_title": "Delhi Courts Weekly Round Up",
-    "question": "What was the decision of the Delhi High Court in the case related to the docuseries 'Lawrence of Punjab'?",
-    "answer_label": "C",
-    "answer_text": "The court closed proceedings on the petition due to the Centre's advisories against its release",
-    "explanation": "The court closed proceedings on the petition, observing that no further adjudication was required at this stage in light of the Centre's advisories against its release.",
-    "due_at": "2026-05-03T18:00:48.481247+00:00"
+    "reveal_id": "e0699e1001134ed184bc467a61f32384",
+    "article_title": "Fugitive Economic Offender",
+    "question": "What is a consequence of being declared a Fugitive Economic Offender in India?",
+    "answer_label": "B",
+    "answer_text": "Confiscation of assets",
+    "explanation": "Being declared a Fugitive Economic Offender in India can result in the confiscation of assets by the government.",
+    "due_at": "2026-05-03T19:04:13.214492+00:00"
   },
   {
-    "reveal_id": "b9598e7a3fd34f219b37e1757f79f16e",
-    "article_title": "Delhi Courts Weekly Round Up",
-    "question": "What was the outcome of the case related to the suspension of a Delhi University professor accused of sexual harassment?",
-    "answer_label": "D",
-    "answer_text": "The court set aside the suspension, holding it to be legally unsustainable",
-    "explanation": "The court set aside the suspension, holding the impugned order to be legally unsustainable as it was stigmatic and founded on an impermissible preliminary inquiry conducted by an ad hoc committee.",
-    "due_at": "2026-05-03T18:00:48.840475+00:00"
+    "reveal_id": "b5a989fe762d426baa1055d09e0d4287",
+    "article_title": "India loses to France in Thomas Cup",
+    "question": "Who did France defeat in the Thomas Cup semifinal?",
+    "answer_label": "B",
+    "answer_text": "India",
+    "explanation": "France defeated India 3-0 in the semifinal, with their top singles players delivering strong performances.",
+    "due_at": "2026-05-03T19:04:19.808231+00:00"
+  },
+  {
+    "reveal_id": "57dfa621de984c18809bf4060726cf3c",
+    "article_title": "India loses to France in Thomas Cup",
+    "question": "Why was Lakshya Sen absent from the semifinal match?",
+    "answer_label": "B",
+    "answer_text": "Injury to his elbow",
+    "explanation": "Lakshya Sen was forced to sit out due to an impact injury to his elbow during the quarter-final clash against Chinese Taipei.",
+    "due_at": "2026-05-03T19:04:20.109626+00:00"
+  },
+  {
+    "reveal_id": "5177d2a10966449ea37023617d0f494a",
+    "article_title": "India loses to France in Thomas Cup",
+    "question": "Who will France face in the Thomas Cup final?",
+    "answer_label": "B",
+    "answer_text": "China",
+    "explanation": "France will face China in the Thomas Cup final, with China seeking its 12th title.",
+    "due_at": "2026-05-03T19:04:20.408005+00:00"
   }
 ]
