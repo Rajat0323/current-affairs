@@ -157,6 +157,9 @@ class TelegramClientMigrationTests(unittest.TestCase):
         self.assertEqual(len(reveals), 1)
         self.assertTrue(all(call["url"].endswith("/sendMessage") for call in client.session.calls))
         self.assertTrue(all("@currentaffairschannel" in str(call["data"]["text"]) for call in client.session.calls))
+        self.assertTrue(
+            all("subscribe for more - @currentaffairschannel" in str(call["data"]["text"]) for call in client.session.calls)
+        )
         self.assertTrue(all("#CurrentAffairs" in str(call["data"]["text"]) for call in client.session.calls))
         self.assertTrue(all("Vote in the poll" not in str(call["data"]["text"]) for call in client.session.calls))
 
@@ -175,6 +178,7 @@ class TelegramClientMigrationTests(unittest.TestCase):
         )
 
         self.assertIn("@currentaffairschannel", message)
+        self.assertIn("subscribe for more - @currentaffairschannel", message)
         self.assertIn("#CurrentAffairs", message)
 
     def test_channel_text_posts_include_channel_ref_in_all_messages(self) -> None:
@@ -197,6 +201,9 @@ class TelegramClientMigrationTests(unittest.TestCase):
 
         self.assertEqual(len(client.session.calls), 2)
         self.assertTrue(all("@currentaffairschannel" in str(call["data"]["text"]) for call in client.session.calls))
+        self.assertTrue(
+            all("subscribe for more - @currentaffairschannel" in str(call["data"]["text"]) for call in client.session.calls)
+        )
         self.assertTrue(all("#CurrentAffairs" in str(call["data"]["text"]) for call in client.session.calls))
 
 

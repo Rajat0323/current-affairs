@@ -389,8 +389,9 @@ class TelegramClient:
 
     def _append_group_footer(self, message: str, *hashtag_parts: str) -> str:
         sections = [message]
-        if self.settings.telegram_channel_ref:
-            sections.append(f"<b>Channel:</b> {html.escape(self.settings.telegram_channel_ref)}")
+        subscribe_line = self._build_subscribe_line()
+        if subscribe_line:
+            sections.append(subscribe_line)
         sections.append(self._build_hashtags_from_text(" ".join(part for part in hashtag_parts if part)))
         return "\n\n".join(section for section in sections if section)
 
@@ -403,17 +404,15 @@ class TelegramClient:
 
     def _build_discovery_footer(self, chat_id: str) -> str:
         lines = [f"<b>{html.escape(self.settings.telegram_brand_name)}</b>"]
+        subscribe_line = self._build_subscribe_line()
 
         if self.settings.telegram_call_to_action:
             lines.append(html.escape(self.settings.telegram_call_to_action))
 
         if chat_id == self.settings.telegram_channel_id and self.settings.telegram_group_ref:
             lines.append(f"<b>Discuss:</b> {html.escape(self.settings.telegram_group_ref)}")
-        elif chat_id == self.settings.telegram_group_id and self.settings.telegram_channel_ref:
-            lines.append(f"<b>Follow Channel:</b> {html.escape(self.settings.telegram_channel_ref)}")
-
-        if self.settings.telegram_channel_ref:
-            lines.append(f"<b>Channel:</b> {html.escape(self.settings.telegram_channel_ref)}")
+        if subscribe_line:
+            lines.append(subscribe_line)
 
         if self.settings.telegram_group_ref:
             lines.append(f"<b>Discussion Group:</b> {html.escape(self.settings.telegram_group_ref)}")
@@ -423,4 +422,9 @@ class TelegramClient:
             lines.append(f"<b>Topics:</b> {keywords}")
 
         return "\n".join(lines)
+
+    def _build_subscribe_line(self) -> str:
+        if not self.settings.telegram_channel_ref:
+            return ""
+        return f"subscribe for more - {html.escape(self.settings.telegram_channel_ref)}"
 
