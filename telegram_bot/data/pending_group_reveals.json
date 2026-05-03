@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "8ff303118431476da718e8d9c38b7b1b",
-    "article_title": "India A Squads for England Tour",
-    "question": "Who will captain the India A women's T20 team in England?",
+    "reveal_id": "05b65577e71c4b8ab59b77329a04c0fc",
+    "article_title": "India's National Guidance on Diabetes in Children",
+    "question": "What is the significance of India's national guidance on diabetes management in children?",
     "answer_label": "B",
-    "answer_text": "Anushka Sharma",
-    "explanation": "Anushka Sharma is named as the captain of the India A women's T20 team for the England tour.",
-    "due_at": "2026-05-03T22:52:15.119089+00:00"
+    "answer_text": "It helps standardize treatment across the country",
+    "explanation": "The national guidance helps standardize treatment and care for children with diabetes, ensuring consistent and quality care across India.",
+    "due_at": "2026-05-03T23:40:29.961783+00:00"
   },
   {
-    "reveal_id": "ed25113f87b04f099d388d82aa0080f9",
-    "article_title": "India A Squads for England Tour",
-    "question": "Who is the captain of the India women's T20 World Cup squad?",
+    "reveal_id": "34905c5a0bf04fe6b4e7bf898c0da520",
+    "article_title": "India's National Guidance on Diabetes in Children",
+    "question": "What type of patients will benefit from India's national guidance on diabetes management?",
+    "answer_label": "B",
+    "answer_text": "Children with diabetes",
+    "explanation": "The national guidance is specifically designed for children with diabetes, providing them with specialized care and attention.",
+    "due_at": "2026-05-03T23:40:30.256622+00:00"
+  },
+  {
+    "reveal_id": "eb0928e520864e9f831cebeb57c416d4",
+    "article_title": "India's National Guidance on Diabetes in Children",
+    "question": "Why is national guidance on diabetes management in children necessary in India?",
     "answer_label": "C",
-    "answer_text": "Harmanpreet Kaur",
-    "explanation": "Harmanpreet Kaur is announced as the captain of the India women's T20 World Cup squad.",
-    "due_at": "2026-05-03T22:52:15.466705+00:00"
+    "answer_text": "Diabetes management in children requires specialized care and attention",
+    "explanation": "Diabetes management in children requires specialized care and attention, making national guidance necessary to ensure proper treatment and care.",
+    "due_at": "2026-05-03T23:40:30.552343+00:00"
   },
   {
-    "reveal_id": "6ef39df29e704ae8937a87a7b7d68923",
-    "article_title": "India A Squads for England Tour",
-    "question": "Which country will the India A women's team tour for T20 and ODI matches?",
+    "reveal_id": "c55f5234941b4b8c9e4dc5ff0e0638f1",
+    "article_title": "Gold and Silver Rates",
+    "question": "What is the current trend in gold and silver prices?",
     "answer_label": "B",
-    "answer_text": "England",
-    "explanation": "The India A women's team will tour England for T20 and ODI matches.",
-    "due_at": "2026-05-03T22:52:15.810584+00:00"
+    "answer_text": "Decreasing",
+    "explanation": "The prices are decreasing due to mild pressure in the futures market.",
+    "due_at": "2026-05-03T23:40:37.193896+00:00"
   },
   {
-    "reveal_id": "e8d152abdfb24222bbc4d5ad48918c70",
-    "article_title": "UAE Lifts Airspace Curbs",
-    "question": "Which country has lifted curbs on its airspace?",
-    "answer_label": "B",
-    "answer_text": "UAE",
-    "explanation": "The UAE General Civil Aviation Authority announced the lifting of restrictions on its airspace.",
-    "due_at": "2026-05-03T22:52:19.523809+00:00"
+    "reveal_id": "3ae77c1c23ad4087a13521462fde659a",
+    "article_title": "Gold and Silver Rates",
+    "question": "Which city's gold and silver rates are mentioned in the article?",
+    "answer_label": "D",
+    "answer_text": "All of the above",
+    "explanation": "The article mentions gold and silver rates for Delhi, Mumbai, Chennai, and Kolkata.",
+    "due_at": "2026-05-03T23:40:37.493254+00:00"
   },
   {
-    "reveal_id": "f1f8b5f3475f4db8a2b9cc861039f835",
-    "article_title": "UAE Lifts Airspace Curbs",
-    "question": "What is the expected outcome of the UAE lifting airspace curbs?",
-    "answer_label": "B",
-    "answer_text": "Increased air travel connectivity",
-    "explanation": "The lifting of restrictions is expected to increase air travel connectivity and options.",
-    "due_at": "2026-05-03T22:52:20.156692+00:00"
-  },
-  {
-    "reveal_id": "7cf515891bf946b6a5aced8821264e06",
-    "article_title": "UAE Lifts Airspace Curbs",
-    "question": "Which region will benefit from the increased air travel connectivity?",
-    "answer_label": "B",
-    "answer_text": "Gulf region",
-    "explanation": "The Gulf region, including India, will benefit from the increased air travel connectivity.",
-    "due_at": "2026-05-03T22:52:20.507858+00:00"
+    "reveal_id": "5bbb260e995f44d18c12e8966981c0b8",
+    "article_title": "Gold and Silver Rates",
+    "question": "What type of market data showed pressure on bullion?",
+    "answer_label": "A",
+    "answer_text": "Futures market",
+    "explanation": "Recent futures market data showed mild pressure on bullion.",
+    "due_at": "2026-05-03T23:40:37.791657+00:00"
   }
 ]
