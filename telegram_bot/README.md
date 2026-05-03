@@ -128,11 +128,12 @@ Set at least one of `NEWS_API_KEY` or `NEWSDATA_API_KEY`.
 - The group does not receive the same summary post.
 - `TELEGRAM_GROUP_REF` is only for public discovery/footer text.
 - Actual group posting always requires `TELEGRAM_GROUP_ID`.
+- If Telegram upgrades a group to a supergroup, it returns a replacement chat id. The bot now retries automatically for that run, but you should still update `TELEGRAM_GROUP_ID` in your secrets or `.env`.
 - For each fresh article, the group now gets:
   - 1 discussion starter
   - 1 quiz prompt per MCQ
-  - 1 poll per MCQ
   - 1 delayed answer reveal per MCQ in a later cycle
+- Every group message includes hashtags and the channel reference when `TELEGRAM_CHANNEL_REF` is set.
 - Pending answer reveals are stored in `data/pending_group_reveals.json`.
 
 If `OPENAI_MODEL` is not set, the bot defaults to `gpt-4.1-mini`.

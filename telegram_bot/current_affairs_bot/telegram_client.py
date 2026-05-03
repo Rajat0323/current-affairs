@@ -1,3 +1,4 @@
+from collections.abc import Callable
 import html
 import json
 import logging
@@ -18,6 +19,7 @@ class TelegramClient:
         self.settings = settings
         self.session = requests.Session()
         self.base_url = f"https://api.telegram.org/bot{self.settings.telegram_bot_token}"
+        self.chat_id_aliases: dict[str, str] = {}
 
     def broadcast(self, article: Article, generated_post: GeneratedPost) -> list[PendingGroupReveal]:
         pending_reveals: list[PendingGroupReveal] = []
@@ -34,7 +36,7 @@ class TelegramClient:
                     for mcq in generated_post.mcqs[: self.settings.mcqs_per_article]:
                         self._send_quiz(chat_id, mcq)
                 elif generated_post.mcqs:
-                    self._send_message(chat_id, self._build_mcq_message(generated_post.mcqs))
+                    self._send_message(chat_id, self._build_mcq_message(chat_id, article, generated_post))
                 successful_chats += 1
             except Exception as exc:
                 failures.append(f"{chat_id}: {exc}")
@@ -72,10 +74,9 @@ class TelegramClient:
         self._send_message(group_id, self._build_group_starter_message(generated_post))
         for mcq in generated_post.mcqs[: self.settings.mcqs_per_article]:
             self._send_message(group_id, self._build_group_question_prompt(generated_post, mcq))
-            self._send_quiz(group_id, mcq)
             reveals.append(self._build_pending_reveal(generated_post, mcq))
         LOGGER.info(
-            "Posted %s discussion prompt(s) and %s poll(s) to the Telegram group for article: %s",
+            "Posted %s group message(s) and queued %s answer reveal(s) for article: %s",
             len(generated_post.mcqs[: self.settings.mcqs_per_article]) + 1,
             len(generated_post.mcqs[: self.settings.mcqs_per_article]),
             article.title,
@@ -83,25 +84,37 @@ class TelegramClient:
         return reveals
 
     def _send_message(self, chat_id: str, text: str) -> None:
-        response = self.session.post(
-            f"{self.base_url}/sendMessage",
-            data={
-                "chat_id": chat_id,
-                "text": text,
-                "parse_mode": "HTML",
-                "disable_web_page_preview": "false",
-            },
-            timeout=self.settings.request_timeout_seconds,
+        response = self._post_with_migration_retry(
+            chat_id,
+            "sendMessage",
+            lambda resolved_chat_id: self.session.post(
+                f"{self.base_url}/sendMessage",
+                data={
+                    "chat_id": resolved_chat_id,
+                    "text": text,
+                    "parse_mode": "HTML",
+                    "disable_web_page_preview": "false",
+                },
+                timeout=self.settings.request_timeout_seconds,
+            ),
         )
         self._handle_response(response, "sendMessage")
 
     def _send_quiz(self, chat_id: str, mcq: MCQ) -> None:
-        response = self._post_poll(chat_id, mcq, is_anonymous=False)
+        response = self._post_with_migration_retry(
+            chat_id,
+            "sendPoll",
+            lambda resolved_chat_id: self._post_poll(resolved_chat_id, mcq, is_anonymous=False),
+        )
         payload = self._response_payload(response)
         description = str(payload.get("description", "")).lower() if isinstance(payload, dict) else ""
 
         if response.status_code == 400 and "non-anonymous polls can't be sent to channel chats" in description:
-            response = self._post_poll(chat_id, mcq, is_anonymous=True)
+            response = self._post_with_migration_retry(
+                chat_id,
+                "sendPoll",
+                lambda resolved_chat_id: self._post_poll(resolved_chat_id, mcq, is_anonymous=True),
+            )
 
         self._handle_response(response, "sendPoll")
 
@@ -132,6 +145,13 @@ class TelegramClient:
 
         if response.status_code == 400 and isinstance(payload, dict):
             description = str(payload.get("description", ""))
+            migrated_chat_id = self._extract_migrated_chat_id(payload)
+            if migrated_chat_id:
+                raise RuntimeError(
+                    f"Telegram {method_name} failed because the target chat was migrated to {migrated_chat_id}. "
+                    "Update TELEGRAM_GROUP_ID or TELEGRAM_CHANNEL_ID to the new chat id. "
+                    f"Response: {payload}"
+                )
             if "chat not found" in description.lower():
                 raise RuntimeError(
                     f"Telegram {method_name} failed because the target chat was not found. "
@@ -153,6 +173,52 @@ class TelegramClient:
             return response.json()
         except ValueError:
             return {"raw_text": response.text}
+
+    def _post_with_migration_retry(
+        self,
+        chat_id: str,
+        method_name: str,
+        send_request: Callable[[str], requests.Response],
+    ) -> requests.Response:
+        current_chat_id = self._resolve_chat_id(chat_id)
+        seen_chat_ids: set[str] = set()
+
+        while True:
+            response = send_request(current_chat_id)
+            payload = self._response_payload(response)
+            migrated_chat_id = self._extract_migrated_chat_id(payload)
+            if not migrated_chat_id or migrated_chat_id == current_chat_id or migrated_chat_id in seen_chat_ids:
+                return response
+
+            self.chat_id_aliases[current_chat_id] = migrated_chat_id
+            LOGGER.warning(
+                "Telegram %s reported that chat %s was migrated to %s. Retrying with the new chat id for this run. Update the corresponding TELEGRAM_*_ID secret or variable to %s.",
+                method_name,
+                current_chat_id,
+                migrated_chat_id,
+                migrated_chat_id,
+            )
+            seen_chat_ids.add(current_chat_id)
+            current_chat_id = migrated_chat_id
+
+    def _resolve_chat_id(self, chat_id: str) -> str:
+        resolved_chat_id = chat_id
+        seen_chat_ids: set[str] = set()
+        while resolved_chat_id in self.chat_id_aliases and resolved_chat_id not in seen_chat_ids:
+            seen_chat_ids.add(resolved_chat_id)
+            resolved_chat_id = self.chat_id_aliases[resolved_chat_id]
+        return resolved_chat_id
+
+    def _extract_migrated_chat_id(self, payload: dict | list | str) -> str:
+        if not isinstance(payload, dict):
+            return ""
+        parameters = payload.get("parameters")
+        if not isinstance(parameters, dict):
+            return ""
+        migrated_chat_id = parameters.get("migrate_to_chat_id")
+        if migrated_chat_id is None:
+            return ""
+        return str(migrated_chat_id).strip()
 
     def _build_post_message(self, chat_id: str, article: Article, generated_post: GeneratedPost) -> str:
         title = html.escape(generated_post.title)
@@ -179,19 +245,29 @@ class TelegramClient:
 
     def _build_group_starter_message(self, generated_post: GeneratedPost) -> str:
         why_it_matters = html.escape(generated_post.why_it_matters[0]) if generated_post.why_it_matters else "Important for exam preparation."
-        return (
+        return self._append_group_footer(
+            (
             "<b>Discussion Starter</b>\n\n"
             f"<b>Topic:</b> {html.escape(generated_post.title)}\n"
             f"<b>Exam Focus:</b> {why_it_matters}\n\n"
             f"{html.escape(self.settings.group_discussion_call_to_action)}"
+            ),
+            generated_post.title,
+            generated_post.summary,
+            *generated_post.why_it_matters,
         )
 
     def _build_group_question_prompt(self, generated_post: GeneratedPost, mcq: MCQ) -> str:
-        return (
+        return self._append_group_footer(
+            (
             "<b>Quick Quiz</b>\n\n"
             f"<b>Topic:</b> {html.escape(generated_post.title)}\n"
             f"<b>Question:</b> {html.escape(mcq.question)}\n\n"
-            "Vote in the poll and drop your reason in the chat before the answer reveal."
+            "Reply with your answer in the chat before the answer reveal."
+            ),
+            generated_post.title,
+            mcq.question,
+            mcq.explanation,
         )
 
     def _build_pending_reveal(self, generated_post: GeneratedPost, mcq: MCQ) -> PendingGroupReveal:
@@ -218,14 +294,17 @@ class TelegramClient:
             "",
             html.escape(self.settings.group_discussion_call_to_action),
         ]
-        if self.settings.telegram_channel_ref:
-            sections.extend(["", f"<b>For full summary:</b> {html.escape(self.settings.telegram_channel_ref)}"])
-        return "\n".join(sections)
+        return self._append_group_footer(
+            "\n".join(sections),
+            reveal.article_title,
+            reveal.question,
+            reveal.explanation,
+        )
 
-    def _build_mcq_message(self, mcqs: list[MCQ]) -> str:
+    def _build_mcq_message(self, chat_id: str, article: Article, generated_post: GeneratedPost) -> str:
         sections: list[str] = ["<b>Practice MCQs</b>"]
         labels = ["A", "B", "C", "D"]
-        for index, mcq in enumerate(mcqs, start=1):
+        for index, mcq in enumerate(generated_post.mcqs, start=1):
             options = "\n".join(
                 f"{labels[option_index]}. {html.escape(option)}"
                 for option_index, option in enumerate(mcq.options)
@@ -237,6 +316,14 @@ class TelegramClient:
                 f"Answer: {answer}\n"
                 f"Explanation: {html.escape(mcq.explanation)}"
             )
+        sections.extend(
+            [
+                "",
+                self._build_discovery_footer(chat_id),
+                "",
+                self._build_hashtags(article, generated_post),
+            ]
+        )
         return "\n".join(sections)
 
     def _format_datetime(self, value: str) -> str:
@@ -254,16 +341,20 @@ class TelegramClient:
         return value[: limit - 3].rstrip() + "..."
 
     def _build_hashtags(self, article: Article, generated_post: GeneratedPost) -> str:
-        text = " ".join(
-            [
-                article.title,
-                article.description,
-                generated_post.title,
-                generated_post.summary,
-                " ".join(generated_post.why_it_matters),
-            ]
-        ).lower()
+        return self._build_hashtags_from_text(
+            " ".join(
+                [
+                    article.title,
+                    article.description,
+                    generated_post.title,
+                    generated_post.summary,
+                    " ".join(generated_post.why_it_matters),
+                ]
+            )
+        )
 
+    def _build_hashtags_from_text(self, text: str) -> str:
+        text = text.lower()
         tags = ["#CurrentAffairs", "#UPSC", "#SSC", "#GK", "#GovtExams"]
 
         keyword_tags = [
@@ -295,6 +386,13 @@ class TelegramClient:
                 tags.append(tag)
 
         return " ".join(tags[:10])
+
+    def _append_group_footer(self, message: str, *hashtag_parts: str) -> str:
+        sections = [message]
+        if self.settings.telegram_channel_ref:
+            sections.append(f"<b>Channel:</b> {html.escape(self.settings.telegram_channel_ref)}")
+        sections.append(self._build_hashtags_from_text(" ".join(part for part in hashtag_parts if part)))
+        return "\n\n".join(section for section in sections if section)
 
     def _build_intro(self, chat_id: str) -> str:
         if chat_id == self.settings.telegram_channel_id:
