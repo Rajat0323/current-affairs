@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "46810bb7b3064190815a4450181c7770",
-    "article_title": "Ajith Kumar's Racing Documentary",
-    "question": "What is the title of Ajith Kumar's documentary?",
-    "answer_label": "A",
-    "answer_text": "Gladiators",
-    "explanation": "The documentary is titled Gladiators, which is about Ajith Kumar's high-speed racing career.",
-    "due_at": "2026-05-02T23:39:01.142828+00:00"
-  },
-  {
-    "reveal_id": "2002aa9cf17443e2b41dd811d135cbf2",
-    "article_title": "Ajith Kumar's Racing Documentary",
-    "question": "What is the subject of the documentary Gladiators?",
+    "reveal_id": "67a590e0012c4c1c83e0a66ccddc39c1",
+    "article_title": "UP Anti-Romeo Squad Deployment",
+    "question": "What is the main objective of deploying Anti-Romeo Squads in Uttar Pradesh?",
     "answer_label": "B",
-    "answer_text": "His high-speed racing career",
-    "explanation": "The documentary Gladiators is about Ajith Kumar's high-speed racing career.",
-    "due_at": "2026-05-02T23:39:05.019424+00:00"
+    "answer_text": "To improve women's safety in public spaces",
+    "explanation": "The deployment of Anti-Romeo Squads aims to create a safer environment for women to move freely without fear of harassment.",
+    "due_at": "2026-05-03T00:33:57.467933+00:00"
   },
   {
-    "reveal_id": "24e87ade706e477f941ce0ea8331eca0",
-    "article_title": "Ajith Kumar's Racing Documentary",
-    "question": "How will the documentary Gladiators be released?",
+    "reveal_id": "22beecaf9ea8472f992446c5f7c8c947",
+    "article_title": "UP Anti-Romeo Squad Deployment",
+    "question": "Who is leading the initiative to deploy Anti-Romeo Squads in Uttar Pradesh?",
+    "answer_label": "A",
+    "answer_text": "CM Yogi Adityanath",
+    "explanation": "CM Yogi Adityanath is the leader of the initiative to deploy Anti-Romeo Squads in Uttar Pradesh.",
+    "due_at": "2026-05-03T00:33:58.201730+00:00"
+  },
+  {
+    "reveal_id": "9f52716c0099452b8a053c950ad6e81e",
+    "article_title": "UP Anti-Romeo Squad Deployment",
+    "question": "What is the expected outcome of permanently deploying Anti-Romeo Squads at key locations?",
     "answer_label": "C",
-    "answer_text": "In theaters",
-    "explanation": "The documentary Gladiators is set for theatrical release.",
-    "due_at": "2026-05-02T23:39:05.682798+00:00"
+    "answer_text": "More secure environment for women",
+    "explanation": "The permanent deployment of Anti-Romeo Squads is expected to create a more secure environment for women to move freely without fear of harassment.",
+    "due_at": "2026-05-03T00:33:58.898704+00:00"
   },
   {
-    "reveal_id": "e6f27aed010e436aa414ce0357c5def5",
-    "article_title": "MS Dhoni's IPL Return",
-    "question": "Who gave an update on MS Dhoni's return to IPL 2026?",
-    "answer_label": "A",
-    "answer_text": "R Ashwin",
-    "explanation": "R Ashwin gave an update on MS Dhoni's return, saying he can surprise in IPL 2026.",
-    "due_at": "2026-05-02T23:39:12.895889+00:00"
-  },
-  {
-    "reveal_id": "2185ca052214482bb03c8b08bf655416",
-    "article_title": "MS Dhoni's IPL Return",
-    "question": "What is the reason for MS Dhoni's uncertain return to IPL 2026?",
-    "answer_label": "A",
-    "answer_text": "Calf injury",
-    "explanation": "MS Dhoni's return is uncertain due to a calf injury.",
-    "due_at": "2026-05-02T23:39:13.560126+00:00"
-  },
-  {
-    "reveal_id": "fe93e49f29e34538b661ae6ba47378ec",
-    "article_title": "MS Dhoni's IPL Return",
-    "question": "Who said 'Dhoni wants what's best for the team'?",
+    "reveal_id": "d09927aac4fd4f198a4e9ce30705a55a",
+    "article_title": "Tamil Nadu Vote Counting",
+    "question": "When will the votes be counted in Tamil Nadu?",
     "answer_label": "B",
-    "answer_text": "Hussey",
-    "explanation": "Hussey said 'Dhoni wants what's best for the team', indicating Dhoni's commitment to the team's success.",
-    "due_at": "2026-05-02T23:39:14.253627+00:00"
+    "answer_text": "May 4",
+    "explanation": "The vote counting in Tamil Nadu is scheduled for May 4, as per the given information.",
+    "due_at": "2026-05-03T00:34:03.312724+00:00"
+  },
+  {
+    "reveal_id": "eae4c765fba54985a0b71c456747190c",
+    "article_title": "Tamil Nadu Vote Counting",
+    "question": "How many designated centres will be used for vote counting in Tamil Nadu?",
+    "answer_label": "B",
+    "answer_text": "62",
+    "explanation": "There are 62 designated centres for the vote counting process in Tamil Nadu.",
+    "due_at": "2026-05-03T00:34:04.095452+00:00"
+  },
+  {
+    "reveal_id": "c947bc84bc614ea2a42af1d3346dc7f9",
+    "article_title": "Tamil Nadu Vote Counting",
+    "question": "What is the first step in the vote counting process in Tamil Nadu?",
+    "answer_label": "B",
+    "answer_text": "Counting postal ballots",
+    "explanation": "The vote counting process starts with the traditional paper trail, which includes counting postal ballots.",
+    "due_at": "2026-05-03T00:34:04.819367+00:00"
   }
 ]
