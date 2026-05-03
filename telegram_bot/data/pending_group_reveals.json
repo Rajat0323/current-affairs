@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "8469bccc51464f1387ea4dcd4a06837c",
-    "article_title": "Rahul Gandhi on Gujarat BJP Chief's Remarks",
-    "question": "Who made indecent remarks against Geniben Thakor?",
+    "reveal_id": "e41ac7a1d4684f0a8e73a230309e3bd3",
+    "article_title": "PSPCL Challenges DA Payment Deadline",
+    "question": "What is the deadline for PSPCL to pay pending dearness allowance as per the single judge's order?",
     "answer_label": "B",
-    "answer_text": "Gujarat BJP Chief",
-    "explanation": "The Gujarat BJP chief made indecent remarks, which were criticized by Rahul Gandhi.",
-    "due_at": "2026-05-03T11:35:20.037059+00:00"
+    "answer_text": "June 30",
+    "explanation": "The single judge's order directed PSPCL to pay pending DA by June 30.",
+    "due_at": "2026-05-03T12:27:28.319933+00:00"
   },
   {
-    "reveal_id": "027266fa724b4ec29c9bac91e7d74bb8",
-    "article_title": "Rahul Gandhi on Gujarat BJP Chief's Remarks",
-    "question": "What did Rahul Gandhi say the controversy exposes?",
-    "answer_label": "B",
-    "answer_text": "BJP's anti-women mindset",
-    "explanation": "Rahul Gandhi said the controversy exposes the BJP's anti-women and Manuwadi mindset.",
-    "due_at": "2026-05-03T11:35:23.810986+00:00"
+    "reveal_id": "6804e4c8995848ad9f68f9e40492af2d",
+    "article_title": "PSPCL Challenges DA Payment Deadline",
+    "question": "Which group of officers' pay pattern is being used as a reference for PSPCL's dearness allowance?",
+    "answer_label": "C",
+    "answer_text": "IAS/IPS/IFS officers",
+    "explanation": "The order was to pay on par with rates paid to All India Services (IAS/IPS/IFS) officers on central government pattern.",
+    "due_at": "2026-05-03T12:27:32.081795+00:00"
   },
   {
-    "reveal_id": "41fbd0a5abf14328b9250b7f3ad53301",
-    "article_title": "Rahul Gandhi on Gujarat BJP Chief's Remarks",
-    "question": "What did Rahul Gandhi question about the BJP?",
+    "reveal_id": "0c407d9cce9145b895681602099e6fc8",
+    "article_title": "PSPCL Challenges DA Payment Deadline",
+    "question": "Where has PSPCL approached against the deadline to pay pending dearness allowance?",
+    "answer_label": "B",
+    "answer_text": "Punjab and Haryana high court",
+    "explanation": "PSPCL has approached the Punjab and Haryana high court challenging the single judge's order.",
+    "due_at": "2026-05-03T12:27:32.658453+00:00"
+  },
+  {
+    "reveal_id": "14a8330acaf640939cab9cdeb2acddb0",
+    "article_title": "Heatwave in North Karnataka",
+    "question": "Which regions of Karnataka are currently experiencing a heatwave?",
+    "answer_label": "B",
+    "answer_text": "North Karnataka",
+    "explanation": "North Karnataka districts like Kalaburagi, Raichur, Yadgir, and Bidar are experiencing high temperatures.",
+    "due_at": "2026-05-03T12:27:39.349900+00:00"
+  },
+  {
+    "reveal_id": "fdd1d0edaed24081ba1d5c4ebcf955bb",
+    "article_title": "Heatwave in North Karnataka",
+    "question": "What is the expected relief from the heatwave in North Karnataka?",
+    "answer_label": "B",
+    "answer_text": "Summer showers",
+    "explanation": "Summer showers are expected to bring relief from the heatwave in North Karnataka.",
+    "due_at": "2026-05-03T12:27:39.970889+00:00"
+  },
+  {
+    "reveal_id": "19a39810d67d4d71b267b53ec1ee6f04",
+    "article_title": "Heatwave in North Karnataka",
+    "question": "Which department has issued a heatwave alert for North Karnataka?",
     "answer_label": "A",
-    "answer_text": "Their commitment to women's empowerment",
-    "explanation": "Rahul Gandhi questioned the BJP's commitment to empowering women.",
-    "due_at": "2026-05-03T11:35:24.388315+00:00"
-  },
-  {
-    "reveal_id": "56333df82c3848528aaf3a2524cf362d",
-    "article_title": "Caitlin Clark Cleared to Play",
-    "question": "Which team does Caitlin Clark play for?",
-    "answer_label": "B",
-    "answer_text": "Indiana Fever",
-    "explanation": "Caitlin Clark plays for the Indiana Fever, as mentioned in the article.",
-    "due_at": "2026-05-03T11:35:31.252777+00:00"
-  },
-  {
-    "reveal_id": "c01185d6a43444dd9c8e8bbc635abacb",
-    "article_title": "Caitlin Clark Cleared to Play",
-    "question": "Who is the Indiana Fever's opponent in their preseason finale?",
-    "answer_label": "B",
-    "answer_text": "Nigerian national team",
-    "explanation": "The Indiana Fever plays the Nigerian national team in their preseason finale.",
-    "due_at": "2026-05-03T11:35:31.850426+00:00"
-  },
-  {
-    "reveal_id": "6e02243249454798b38849a3a0c3b522",
-    "article_title": "Caitlin Clark Cleared to Play",
-    "question": "What happened to Caitlin Clark before the preseason finale?",
-    "answer_label": "B",
-    "answer_text": "She collided with a Dallas Wings player",
-    "explanation": "Caitlin Clark collided with a Dallas Wings player, causing an injury scare.",
-    "due_at": "2026-05-03T11:35:32.426988+00:00"
+    "answer_text": "Indian Meteorological Department",
+    "explanation": "The Indian Meteorological Department has issued a heatwave alert for North Karnataka.",
+    "due_at": "2026-05-03T12:27:40.547959+00:00"
   }
 ]
