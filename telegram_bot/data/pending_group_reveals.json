@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "c91ee86e39e647c2930ca5ae50252f50",
-    "article_title": "Buddha Relics Exposition Inaugurated in Leh",
-    "question": "What is the significance of the date of the Buddha Relics Exposition inauguration?",
-    "answer_label": "C",
-    "answer_text": "It marks the birth, enlightenment, and death of Lord Buddha",
-    "explanation": "The inauguration coincided with Buddha Purnima, which commemorates the birth, enlightenment, and death of Lord Buddha.",
-    "due_at": "2026-05-03T10:23:01.845906+00:00"
-  },
-  {
-    "reveal_id": "1b59473d692c416287588cc77cf6063b",
-    "article_title": "Buddha Relics Exposition Inaugurated in Leh",
-    "question": "Where was the Sacred Exposition of the Holy Relics of the Tathagata inaugurated?",
+    "reveal_id": "8469bccc51464f1387ea4dcd4a06837c",
+    "article_title": "Rahul Gandhi on Gujarat BJP Chief's Remarks",
+    "question": "Who made indecent remarks against Geniben Thakor?",
     "answer_label": "B",
-    "answer_text": "Leh",
-    "explanation": "The exposition was inaugurated in Leh, a city in the Indian union territory of Ladakh.",
-    "due_at": "2026-05-03T10:23:05.740962+00:00"
+    "answer_text": "Gujarat BJP Chief",
+    "explanation": "The Gujarat BJP chief made indecent remarks, which were criticized by Rahul Gandhi.",
+    "due_at": "2026-05-03T11:35:20.037059+00:00"
   },
   {
-    "reveal_id": "e20514c114594d8a9a69159447784f15",
-    "article_title": "Buddha Relics Exposition Inaugurated in Leh",
-    "question": "Who inaugurated the Buddha Relics Exposition?",
+    "reveal_id": "027266fa724b4ec29c9bac91e7d74bb8",
+    "article_title": "Rahul Gandhi on Gujarat BJP Chief's Remarks",
+    "question": "What did Rahul Gandhi say the controversy exposes?",
+    "answer_label": "B",
+    "answer_text": "BJP's anti-women mindset",
+    "explanation": "Rahul Gandhi said the controversy exposes the BJP's anti-women and Manuwadi mindset.",
+    "due_at": "2026-05-03T11:35:23.810986+00:00"
+  },
+  {
+    "reveal_id": "41fbd0a5abf14328b9250b7f3ad53301",
+    "article_title": "Rahul Gandhi on Gujarat BJP Chief's Remarks",
+    "question": "What did Rahul Gandhi question about the BJP?",
     "answer_label": "A",
-    "answer_text": "Prime Minister Narendra Modi",
-    "explanation": "Prime Minister Narendra Modi expressed his delight at the inauguration of the exposition.",
-    "due_at": "2026-05-03T10:23:06.493618+00:00"
+    "answer_text": "Their commitment to women's empowerment",
+    "explanation": "Rahul Gandhi questioned the BJP's commitment to empowering women.",
+    "due_at": "2026-05-03T11:35:24.388315+00:00"
   },
   {
-    "reveal_id": "c13d2876327144b2a5e9783a63fdb90f",
-    "article_title": "Cotton Yarn Prices Surge",
-    "question": "What is the current record high price of cotton yarn per kg in Gujarat?",
-    "answer_label": "C",
-    "answer_text": "Rs 300",
-    "explanation": "The price of cotton yarn has surged to Rs 300 per kg due to strong demand from other countries.",
-    "due_at": "2026-05-03T10:23:13.564468+00:00"
+    "reveal_id": "56333df82c3848528aaf3a2524cf362d",
+    "article_title": "Caitlin Clark Cleared to Play",
+    "question": "Which team does Caitlin Clark play for?",
+    "answer_label": "B",
+    "answer_text": "Indiana Fever",
+    "explanation": "Caitlin Clark plays for the Indiana Fever, as mentioned in the article.",
+    "due_at": "2026-05-03T11:35:31.252777+00:00"
   },
   {
-    "reveal_id": "055ced6385564c859be5c7c8b5719b86",
-    "article_title": "Cotton Yarn Prices Surge",
-    "question": "Which countries are driving the demand for cotton yarn, leading to higher prices?",
-    "answer_label": "C",
-    "answer_text": "China and Bangladesh",
-    "explanation": "Strong demand from China and Bangladesh is causing the surge in cotton yarn prices.",
-    "due_at": "2026-05-03T10:23:14.193317+00:00"
+    "reveal_id": "c01185d6a43444dd9c8e8bbc635abacb",
+    "article_title": "Caitlin Clark Cleared to Play",
+    "question": "Who is the Indiana Fever's opponent in their preseason finale?",
+    "answer_label": "B",
+    "answer_text": "Nigerian national team",
+    "explanation": "The Indiana Fever plays the Nigerian national team in their preseason finale.",
+    "due_at": "2026-05-03T11:35:31.850426+00:00"
   },
   {
-    "reveal_id": "092690e3e0604ac0a61039468bd6b914",
-    "article_title": "Cotton Yarn Prices Surge",
-    "question": "How may the increase in cotton yarn prices affect the Indian market?",
-    "answer_label": "C",
-    "answer_text": "Higher fabric costs and potential inflation",
-    "explanation": "The increase in cotton yarn prices may lead to higher fabric costs, which could impact consumer prices and contribute to inflation in India.",
-    "due_at": "2026-05-03T10:23:14.804514+00:00"
+    "reveal_id": "6e02243249454798b38849a3a0c3b522",
+    "article_title": "Caitlin Clark Cleared to Play",
+    "question": "What happened to Caitlin Clark before the preseason finale?",
+    "answer_label": "B",
+    "answer_text": "She collided with a Dallas Wings player",
+    "explanation": "Caitlin Clark collided with a Dallas Wings player, causing an injury scare.",
+    "due_at": "2026-05-03T11:35:32.426988+00:00"
   }
 ]
