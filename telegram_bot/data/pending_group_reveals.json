@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "0c120adeb3dd4d898531e4909aef182b",
-    "article_title": "Indo-American Pianist Charu Suri",
-    "question": "What is the title of Charu Suri's latest album?",
-    "answer_label": "A",
-    "answer_text": "Shayan",
-    "explanation": "The article mentions Charu Suri's latest album as 'Shayan', which is a significant part of her work in redefining raga-jazz.",
-    "due_at": "2026-05-03T14:15:23.463896+00:00"
-  },
-  {
-    "reveal_id": "2424ef6be3184054b51084c041dba4f0",
-    "article_title": "Indo-American Pianist Charu Suri",
-    "question": "What award has recognized Charu Suri's work?",
+    "reveal_id": "6657ac6d26934d1ba452715b5f68fd4f",
+    "article_title": "ICAI CA Exam Schedule 2026",
+    "question": "When will the online application forms for CA exams be accepted?",
     "answer_label": "B",
-    "answer_text": "Grammys",
-    "explanation": "The article states that Charu Suri's work has gained recognition at the Grammys, which is a prestigious music award.",
-    "due_at": "2026-05-03T14:15:27.241754+00:00"
+    "answer_text": "July 6, 2026",
+    "explanation": "According to the ICAI announcement, online application forms will be accepted from July 6, 2026.",
+    "due_at": "2026-05-03T15:09:11.098842+00:00"
   },
   {
-    "reveal_id": "b30687e20f46452da5df5db4a87e8a32",
-    "article_title": "Indo-American Pianist Charu Suri",
-    "question": "What genre of music is Charu Suri redefining?",
+    "reveal_id": "47b3e13d6b0f40f4bf3c5ed49ea66ba0",
+    "article_title": "ICAI CA Exam Schedule 2026",
+    "question": "What is the last date for submitting online application forms with a late fee?",
     "answer_label": "B",
-    "answer_text": "Raga-Jazz",
-    "explanation": "The article mentions that Charu Suri is redefining raga-jazz for global audiences, which is a unique blend of Indian classical music and jazz.",
-    "due_at": "2026-05-03T14:15:27.890995+00:00"
+    "answer_text": "July 22, 2026",
+    "explanation": "The ICAI has announced that a late fee will be applicable until July 22, 2026.",
+    "due_at": "2026-05-03T15:09:11.824912+00:00"
   },
   {
-    "reveal_id": "c0fe5d42193c43e09af51b2762d40a4e",
-    "article_title": "Arunachal Religion Law Protests",
-    "question": "What is the main demand of the protesters in Arunachal Pradesh?",
-    "answer_label": "A",
-    "answer_text": "Repeal of the APFRA, 1978",
-    "explanation": "The protesters are demanding the repeal of the Arunachal Pradesh Freedom of Religion Act, 1978, as they feel it restricts their religious freedom.",
-    "due_at": "2026-05-03T14:15:34.940146+00:00"
+    "reveal_id": "17afa64b14cd47e0b8f190ff4dd690d0",
+    "article_title": "ICAI CA Exam Schedule 2026",
+    "question": "Will the exam dates change if a public holiday is declared?",
+    "answer_label": "B",
+    "answer_text": "No, the dates will remain the same",
+    "explanation": "The ICAI has stated that there will be no changes to the exam dates even if a public holiday is declared.",
+    "due_at": "2026-05-03T15:09:12.586002+00:00"
   },
   {
-    "reveal_id": "1165195aaaad4e34b2159cb3e24a4565",
-    "article_title": "Arunachal Religion Law Protests",
-    "question": "Which state is witnessing widespread protests over a religion law?",
+    "reveal_id": "53b23e0d99254d5ba63f17db994f8ede",
+    "article_title": "Vote Theft Allegation",
+    "question": "Who made the allegation of vote theft?",
     "answer_label": "A",
-    "answer_text": "Arunachal Pradesh",
-    "explanation": "Arunachal Pradesh is the state where thousands of Christians are protesting against the Arunachal Pradesh Freedom of Religion Act, 1978.",
-    "due_at": "2026-05-03T14:15:35.577074+00:00"
+    "answer_text": "Danam Nagender",
+    "explanation": "Danam Nagender, the Khairatabad MLA, claimed he was a victim of vote theft.",
+    "due_at": "2026-05-03T15:09:17.131897+00:00"
   },
   {
-    "reveal_id": "d52d6ed58a2c4bbba77fef62d896ed52",
-    "article_title": "Arunachal Religion Law Protests",
-    "question": "What is the name of the law being protested against in Arunachal Pradesh?",
-    "answer_label": "A",
-    "answer_text": "Arunachal Pradesh Freedom of Religion Act, 1978",
-    "explanation": "The law being protested against is the Arunachal Pradesh Freedom of Religion Act, 1978, which regulates religious conversions in the state.",
-    "due_at": "2026-05-03T14:15:36.195296+00:00"
+    "reveal_id": "184342e406f54352a08b0bd8618e023a",
+    "article_title": "Vote Theft Allegation",
+    "question": "Where did the alleged vote theft occur?",
+    "answer_label": "D",
+    "answer_text": "All of the above",
+    "explanation": "The alleged vote theft occurred during the Secunderabad MP election in Hyderabad.",
+    "due_at": "2026-05-03T15:09:17.858446+00:00"
+  },
+  {
+    "reveal_id": "b6b9c4738ba742f5bbbddf6c3996732f",
+    "article_title": "Vote Theft Allegation",
+    "question": "What is the claim made by Danam Nagender?",
+    "answer_label": "B",
+    "answer_text": "He lost the election due to vote theft",
+    "explanation": "Danam Nagender claimed he would have won the election if not for the alleged vote theft.",
+    "due_at": "2026-05-03T15:09:21.775762+00:00"
   }
 ]
