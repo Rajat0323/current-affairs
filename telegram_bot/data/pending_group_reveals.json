@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "b84e23b9ecd346e6906f1bfba3ce581e",
-    "article_title": "Vijay Deverakonda's Next Film",
-    "question": "Who is directing Vijay Deverakonda's next film?",
-    "answer_label": "A",
-    "answer_text": "Shouryuv",
-    "explanation": "The director of the film is Shouryuv, a well-known director in the Indian film industry.",
-    "due_at": "2026-05-03T20:58:35.391396+00:00"
-  },
-  {
-    "reveal_id": "9e32347508e3460dbcbbc454cd9df1b4",
-    "article_title": "Vijay Deverakonda's Next Film",
-    "question": "Which actress may star in Vijay Deverakonda's next film?",
+    "reveal_id": "5cd34ba8fb4b43d490ca51bad00c8f97",
+    "article_title": "Mumbai Indians Historic Milestone",
+    "question": "Which team became the first to score over 50,000 runs in T20 cricket?",
     "answer_label": "B",
-    "answer_text": "Kriti Sanon",
-    "explanation": "Kriti Sanon is possibly starring in Vijay Deverakonda's next film, according to recent reports.",
-    "due_at": "2026-05-03T20:58:35.699638+00:00"
+    "answer_text": "Mumbai Indians",
+    "explanation": "Mumbai Indians achieved this milestone in their 308th T20 match.",
+    "due_at": "2026-05-03T21:55:00.945993+00:00"
   },
   {
-    "reveal_id": "ad878a1b2a494893a386df1331834db3",
-    "article_title": "Vijay Deverakonda's Next Film",
-    "question": "When was Vijay Deverakonda's next film announced?",
-    "answer_label": "B",
-    "answer_text": "April",
-    "explanation": "The film was announced in April, generating excitement among fans and film buffs.",
-    "due_at": "2026-05-03T20:58:35.992881+00:00"
-  },
-  {
-    "reveal_id": "7698241ec4124fcb902c3ffb5e2ffd7e",
-    "article_title": "Mittal Family, Adar Poonawala Acquire Rajasthan Royals",
-    "question": "Who acquired the Rajasthan Royals cricket team?",
+    "reveal_id": "ed9d0d83d83e44b39cdf796bba49fc5c",
+    "article_title": "Mumbai Indians Historic Milestone",
+    "question": "In which year did Mumbai Indians achieve the milestone of scoring over 50,000 runs?",
     "answer_label": "C",
-    "answer_text": "Mittal Family and Adar Poonawala",
-    "explanation": "The Mittal family and Adar Poonawala jointly acquired the Rajasthan Royals cricket team for approximately $1.65 billion.",
-    "due_at": "2026-05-03T20:58:42.623495+00:00"
+    "answer_text": "2026",
+    "explanation": "The record was set in 2026 during an IPL match.",
+    "due_at": "2026-05-03T21:55:01.297005+00:00"
   },
   {
-    "reveal_id": "d3fefb30271249458fd623e5905a808d",
-    "article_title": "Mittal Family, Adar Poonawala Acquire Rajasthan Royals",
-    "question": "What is the approximate value of the deal?",
-    "answer_label": "B",
-    "answer_text": "$1.65 billion",
-    "explanation": "The deal is valued at approximately $1.65 billion, making it one of the largest in Indian sports history.",
-    "due_at": "2026-05-03T20:58:42.916028+00:00"
-  },
-  {
-    "reveal_id": "f886086fdff04eff969339dc72483fe7",
-    "article_title": "Mittal Family, Adar Poonawala Acquire Rajasthan Royals",
-    "question": "What percentage of the Rajasthan Royals will the Mittal family own?",
+    "reveal_id": "6fd452b7e12847b6be4291b489cc24c1",
+    "article_title": "Mumbai Indians Historic Milestone",
+    "question": "Against which team did Mumbai Indians achieve the milestone?",
     "answer_label": "C",
-    "answer_text": "75%",
-    "explanation": "The Mittal family is set to own 75% of the Rajasthan Royals in the $1.65 billion deal.",
-    "due_at": "2026-05-03T20:58:43.207262+00:00"
+    "answer_text": "Chennai Super Kings",
+    "explanation": "Mumbai Indians scored their 50,000th run in a match against Chennai Super Kings.",
+    "due_at": "2026-05-03T21:55:01.651280+00:00"
+  },
+  {
+    "reveal_id": "91eeee61f78f4f10924f52de892bf19f",
+    "article_title": "eCourts Mobile App Upgrade",
+    "question": "What is the purpose of the eCourts Mobile App upgrade?",
+    "answer_label": "C",
+    "answer_text": "To transition to a modern architecture",
+    "explanation": "The upgrade is necessary to transition the app from its legacy framework to a modern architecture, which will improve its functionality and efficiency.",
+    "due_at": "2026-05-03T21:55:05.435218+00:00"
+  },
+  {
+    "reveal_id": "dbec9397546e425391c7d3a4881472b6",
+    "article_title": "eCourts Mobile App Upgrade",
+    "question": "Which court has issued an advisory for the eCourts Mobile App upgrade?",
+    "answer_label": "B",
+    "answer_text": "Chhattisgarh High Court",
+    "explanation": "The Chhattisgarh High Court has issued a critical notice informing stakeholders of the major technical upgrade to the eCourts Services Mobile App.",
+    "due_at": "2026-05-03T21:55:05.775139+00:00"
+  },
+  {
+    "reveal_id": "504b2f3a38a84ae6baf431ef15f34fff",
+    "article_title": "eCourts Mobile App Upgrade",
+    "question": "What action do users need to take by May 4?",
+    "answer_label": "C",
+    "answer_text": "Mandatory data backup",
+    "explanation": "Users need to take immediate action to prevent data loss by doing a mandatory data backup by May 4.",
+    "due_at": "2026-05-03T21:55:06.113845+00:00"
   }
 ]
