@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "6d86d2873bfc4ec1a646b46e04b6d6c2",
-    "article_title": "Odisha Bank Skeleton Row",
-    "question": "What was the reason for the man carrying his sister's skeleton to the bank?",
-    "answer_label": "B",
-    "answer_text": "To prove her death",
-    "explanation": "The man carried his sister's skeleton to the bank to prove her death, as required by the bank's procedures.",
-    "due_at": "2026-05-03T16:59:17.698814+00:00"
-  },
-  {
-    "reveal_id": "4f687d1bc12143acbc843b64e96ccf57",
-    "article_title": "Odisha Bank Skeleton Row",
-    "question": "How did social media respond to the incident?",
+    "reveal_id": "d5f1e98a320a4d2c85bf27f1f484b98d",
+    "article_title": "Influential Books",
+    "question": "What is the significance of the eight books listed?",
     "answer_label": "C",
-    "answer_text": "With outrage against the bank",
-    "explanation": "Social media users expressed outrage against the bank, which the employees claim made them scapegoats.",
-    "due_at": "2026-05-03T16:59:56.271405+00:00"
+    "answer_text": "They have impacted global policies and economies",
+    "explanation": "The books have changed the way the world works by influencing policies and building large companies.",
+    "due_at": "2026-05-03T18:00:42.465225+00:00"
   },
   {
-    "reveal_id": "3e271d8caa0d4cceaf12a3f1740ea82a",
-    "article_title": "Odisha Bank Skeleton Row",
-    "question": "What has been the response of Odisha Grameen Bank employees to the incident?",
-    "answer_label": "B",
-    "answer_text": "They claimed to have followed RBI rules",
-    "explanation": "The bank employees claimed that they followed RBI rules and were unfairly targeted on social media.",
-    "due_at": "2026-05-03T16:59:56.589314+00:00"
+    "reveal_id": "c8f407ca970049149afbfa628c4fd62f",
+    "article_title": "Influential Books",
+    "question": "Why are these books important for India?",
+    "answer_label": "C",
+    "answer_text": "They can provide insights into global decision-making processes",
+    "explanation": "Understanding the influence of these books can help India stay informed about global trends and decision-making processes.",
+    "due_at": "2026-05-03T18:00:42.837823+00:00"
   },
   {
-    "reveal_id": "4d8b2cc3df0142c186ce84400206253c",
-    "article_title": "Medicine and Health",
-    "question": "What is the primary purpose of medicine?",
+    "reveal_id": "856b92c183c14bcab5a4fafe6eb5a6ac",
+    "article_title": "Influential Books",
+    "question": "What can be inferred about the readers of these books?",
     "answer_label": "B",
-    "answer_text": "To prevent and treat diseases",
-    "explanation": "Medicine is the art and science of studying, researching, preventing, diagnosing, treating disease, and maintaining health.",
-    "due_at": "2026-05-03T17:00:00.022781+00:00"
+    "answer_text": "They are powerful individuals who shape global policies",
+    "explanation": "The books are said to sit on the desks of the most powerful people alive, indicating that they are read by influential individuals.",
+    "due_at": "2026-05-03T18:00:43.199867+00:00"
   },
   {
-    "reveal_id": "0c2d5e388ea7461b96bf50d42971bcec",
-    "article_title": "Medicine and Health",
-    "question": "What are medicines used for?",
-    "answer_label": "B",
-    "answer_text": "To cure, halt, or prevent illnesses",
-    "explanation": "Medicines are chemicals or compounds used to cure, halt, or prevent illnesses, ease symptoms, or aid in diagnosis.",
-    "due_at": "2026-05-03T17:00:00.326212+00:00"
+    "reveal_id": "06f08f7110844c22b73053d094634b56",
+    "article_title": "Delhi Courts Weekly Round Up",
+    "question": "What was the outcome of the defamation case against BJP MLA Karnail Singh?",
+    "answer_label": "C",
+    "answer_text": "The court set aside the magistrate's order and remanded the matter back to the Trial Court",
+    "explanation": "The court set aside the magistrate's order and remanded the matter back to the Trial Court for fresh consideration, holding that the Trial Court had adopted an incorrect approach while dealing with statutory exceptions at the pre-summoning stage.",
+    "due_at": "2026-05-03T18:00:47.996876+00:00"
   },
   {
-    "reveal_id": "fb8bc917cf4d410ba6af04bd1dab88d1",
-    "article_title": "Medicine and Health",
-    "question": "How has medicine evolved over time?",
-    "answer_label": "B",
-    "answer_text": "It has evolved through discoveries and innovations",
-    "explanation": "Medicine has evolved over time through discoveries and innovations, shaping civilization.",
-    "due_at": "2026-05-03T17:00:04.132443+00:00"
+    "reveal_id": "1f959a2feb86463ab747fc8cb91eaab0",
+    "article_title": "Delhi Courts Weekly Round Up",
+    "question": "What was the decision of the Delhi High Court in the case related to the docuseries 'Lawrence of Punjab'?",
+    "answer_label": "C",
+    "answer_text": "The court closed proceedings on the petition due to the Centre's advisories against its release",
+    "explanation": "The court closed proceedings on the petition, observing that no further adjudication was required at this stage in light of the Centre's advisories against its release.",
+    "due_at": "2026-05-03T18:00:48.481247+00:00"
+  },
+  {
+    "reveal_id": "b9598e7a3fd34f219b37e1757f79f16e",
+    "article_title": "Delhi Courts Weekly Round Up",
+    "question": "What was the outcome of the case related to the suspension of a Delhi University professor accused of sexual harassment?",
+    "answer_label": "D",
+    "answer_text": "The court set aside the suspension, holding it to be legally unsustainable",
+    "explanation": "The court set aside the suspension, holding the impugned order to be legally unsustainable as it was stigmatic and founded on an impermissible preliminary inquiry conducted by an ad hoc committee.",
+    "due_at": "2026-05-03T18:00:48.840475+00:00"
   }
 ]
