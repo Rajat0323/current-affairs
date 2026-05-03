@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "d497265c180f43b1a22cae833a359761",
-    "article_title": "Patriot Box Office Collections",
-    "question": "What is the worldwide box office collection of the movie Patriot?",
+    "reveal_id": "c91ee86e39e647c2930ca5ae50252f50",
+    "article_title": "Buddha Relics Exposition Inaugurated in Leh",
+    "question": "What is the significance of the date of the Buddha Relics Exposition inauguration?",
     "answer_label": "C",
-    "answer_text": "Rs 50 crore",
-    "explanation": "The movie Patriot has crossed Rs 50 crore worldwide, as per the given article.",
-    "due_at": "2026-05-03T08:58:24.859026+00:00"
+    "answer_text": "It marks the birth, enlightenment, and death of Lord Buddha",
+    "explanation": "The inauguration coincided with Buddha Purnima, which commemorates the birth, enlightenment, and death of Lord Buddha.",
+    "due_at": "2026-05-03T10:23:01.845906+00:00"
   },
   {
-    "reveal_id": "5752ab267f444b7b8b0a175211df203d",
-    "article_title": "Patriot Box Office Collections",
-    "question": "Which state is leading in regional performance for the movie Patriot in India?",
+    "reveal_id": "1b59473d692c416287588cc77cf6063b",
+    "article_title": "Buddha Relics Exposition Inaugurated in Leh",
+    "question": "Where was the Sacred Exposition of the Holy Relics of the Tathagata inaugurated?",
     "answer_label": "B",
-    "answer_text": "Kerala",
-    "explanation": "Kerala is leading the regional performance for the movie Patriot in India, as mentioned in the article.",
-    "due_at": "2026-05-03T08:58:28.645097+00:00"
+    "answer_text": "Leh",
+    "explanation": "The exposition was inaugurated in Leh, a city in the Indian union territory of Ladakh.",
+    "due_at": "2026-05-03T10:23:05.740962+00:00"
   },
   {
-    "reveal_id": "b5e67d12d8a64cd5b74a6f55da555c91",
-    "article_title": "Patriot Box Office Collections",
-    "question": "What are the India net collections of the movie Patriot on its second day?",
-    "answer_label": "D",
-    "answer_text": "Rs 16.15 crore",
-    "explanation": "The India net collections of the movie Patriot stand at Rs 16.15 crore, as per the given article.",
-    "due_at": "2026-05-03T08:58:29.247258+00:00"
+    "reveal_id": "e20514c114594d8a9a69159447784f15",
+    "article_title": "Buddha Relics Exposition Inaugurated in Leh",
+    "question": "Who inaugurated the Buddha Relics Exposition?",
+    "answer_label": "A",
+    "answer_text": "Prime Minister Narendra Modi",
+    "explanation": "Prime Minister Narendra Modi expressed his delight at the inauguration of the exposition.",
+    "due_at": "2026-05-03T10:23:06.493618+00:00"
   },
   {
-    "reveal_id": "97587b57a2f04bda8ce8fac1a074e17a",
-    "article_title": "India Eases FDI Rules",
-    "question": "What is the new limit for FDI in the insurance sector in India?",
+    "reveal_id": "c13d2876327144b2a5e9783a63fdb90f",
+    "article_title": "Cotton Yarn Prices Surge",
+    "question": "What is the current record high price of cotton yarn per kg in Gujarat?",
     "answer_label": "C",
-    "answer_text": "100%",
-    "explanation": "The government has allowed up to 100% FDI in insurance to boost capital inflows.",
-    "due_at": "2026-05-03T08:58:36.015575+00:00"
+    "answer_text": "Rs 300",
+    "explanation": "The price of cotton yarn has surged to Rs 300 per kg due to strong demand from other countries.",
+    "due_at": "2026-05-03T10:23:13.564468+00:00"
   },
   {
-    "reveal_id": "4700f6e018224e629963db8487a44ce4",
-    "article_title": "India Eases FDI Rules",
-    "question": "What is the maximum Chinese holding allowed for companies investing via the automatic route in India?",
-    "answer_label": "B",
-    "answer_text": "10%",
-    "explanation": "Companies with up to 10% Chinese holding can now invest via the automatic route.",
-    "due_at": "2026-05-03T08:58:36.598060+00:00"
-  },
-  {
-    "reveal_id": "2be3a158b9e8418792583043e646ea4f",
-    "article_title": "India Eases FDI Rules",
-    "question": "Why has the Indian government eased FDI rules, according to the article?",
+    "reveal_id": "055ced6385564c859be5c7c8b5719b86",
+    "article_title": "Cotton Yarn Prices Surge",
+    "question": "Which countries are driving the demand for cotton yarn, leading to higher prices?",
     "answer_label": "C",
-    "answer_text": "To stabilize the weakening rupee",
-    "explanation": "The government aims to boost capital inflows amidst a weakening rupee by easing FDI rules.",
-    "due_at": "2026-05-03T08:58:37.248403+00:00"
+    "answer_text": "China and Bangladesh",
+    "explanation": "Strong demand from China and Bangladesh is causing the surge in cotton yarn prices.",
+    "due_at": "2026-05-03T10:23:14.193317+00:00"
+  },
+  {
+    "reveal_id": "092690e3e0604ac0a61039468bd6b914",
+    "article_title": "Cotton Yarn Prices Surge",
+    "question": "How may the increase in cotton yarn prices affect the Indian market?",
+    "answer_label": "C",
+    "answer_text": "Higher fabric costs and potential inflation",
+    "explanation": "The increase in cotton yarn prices may lead to higher fabric costs, which could impact consumer prices and contribute to inflation in India.",
+    "due_at": "2026-05-03T10:23:14.804514+00:00"
   }
 ]
