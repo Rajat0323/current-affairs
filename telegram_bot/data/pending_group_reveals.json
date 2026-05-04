@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "e70323271dfd42168031391e509a5d07",
-    "article_title": "ISRO-Roscosmos Engine Deal",
-    "question": "Which Indian organization is involved in the semi-cryogenic engine deal with Roscosmos?",
+    "reveal_id": "924b633224a248358438d1cad677cab5",
+    "article_title": "Radisson Hotel's Net Zero Initiative",
+    "question": "What is the main focus of Radisson Hotel Group's 2025 Responsible Business Report?",
     "answer_label": "B",
-    "answer_text": "ISRO",
-    "explanation": "ISRO is the primary space agency of India, responsible for the country's space program.",
-    "due_at": "2026-05-04T18:29:06.076058+00:00"
+    "answer_text": "Net Zero transformation",
+    "explanation": "The report highlights the group's progress in achieving Net Zero status and its efforts to care for people and communities.",
+    "due_at": "2026-05-04T20:23:47.225154+00:00"
   },
   {
-    "reveal_id": "784547db0537427bab7e4db2dbf3343e",
-    "article_title": "ISRO-Roscosmos Engine Deal",
-    "question": "What type of rocket engines is ISRO procuring from Roscosmos?",
-    "answer_label": "B",
-    "answer_text": "Semi-Cryogenic",
-    "explanation": "The deal is for semi-cryogenic rocket engines, which will enhance India's space launch capabilities.",
-    "due_at": "2026-05-04T18:29:06.391640+00:00"
+    "reveal_id": "236f1f4af6f2499187dc9c04def97b0f",
+    "article_title": "Radisson Hotel's Net Zero Initiative",
+    "question": "What is the significance of Radisson Hotel Group's Net Zero initiative for India?",
+    "answer_label": "C",
+    "answer_text": "It supports sustainable tourism",
+    "explanation": "The initiative promotes sustainable tourism and reduces carbon footprint, which is relevant to India's climate goals and sustainable development.",
+    "due_at": "2026-05-04T20:23:47.571782+00:00"
   },
   {
-    "reveal_id": "77cf82f3b94e48eea5ab8bebf95248e4",
-    "article_title": "ISRO-Roscosmos Engine Deal",
-    "question": "Where did ISRO hold technical discussions with Roscosmos for the engine deal?",
-    "answer_label": "B",
-    "answer_text": "Moscow",
-    "explanation": "The discussions were held in Moscow, indicating Russia's involvement in the deal.",
-    "due_at": "2026-05-04T18:29:06.724342+00:00"
+    "reveal_id": "db6449ef25594e26894a159c19e215cd",
+    "article_title": "Radisson Hotel's Net Zero Initiative",
+    "question": "What does Radisson Hotel Group's report showcase apart from Net Zero transformation?",
+    "answer_label": "C",
+    "answer_text": "Community care and support",
+    "explanation": "The report showcases the group's efforts to care for people and communities, in addition to its Net Zero transformation progress.",
+    "due_at": "2026-05-04T20:23:47.954781+00:00"
   },
   {
-    "reveal_id": "556352a9ea7849d6865c536fdd7c0997",
-    "article_title": "India Tightens FDI Rules",
-    "question": "What is the main focus of India's new FEMA amendment?",
-    "answer_label": "B",
-    "answer_text": "Identity of controllers",
-    "explanation": "The new FEMA amendment shifts focus from the source of capital to the identity of its controllers, aiming to increase scrutiny and security.",
-    "due_at": "2026-05-04T18:29:13.201583+00:00"
+    "reveal_id": "ae3b12bf26d84e65944ef9696394caf6",
+    "article_title": "Radisson Hotel Group's Net Zero Progress",
+    "question": "What is Radisson Hotel Group's target year for achieving Net Zero?",
+    "answer_label": "C",
+    "answer_text": "2050",
+    "explanation": "Radisson Hotel Group aims to achieve Net Zero by 2050, as stated in its 2025 Responsible Business Report.",
+    "due_at": "2026-05-04T20:23:52.069320+00:00"
   },
   {
-    "reveal_id": "c8a90ac62f314c2686177f5363b667c0",
-    "article_title": "India Tightens FDI Rules",
-    "question": "Which country is barred from investing in sensitive sectors in India?",
-    "answer_label": "B",
-    "answer_text": "Pakistan",
-    "explanation": "Pakistan is barred from investing in sensitive sectors in India under the new FEMA rules.",
-    "due_at": "2026-05-04T18:29:13.512967+00:00"
+    "reveal_id": "0bd8c930046d4e89a5bbef3df44cf7eb",
+    "article_title": "Radisson Hotel Group's Net Zero Progress",
+    "question": "How many hotels in Radisson Hotel Group's portfolio operate on 100% renewable electricity?",
+    "answer_label": "D",
+    "answer_text": "78",
+    "explanation": "According to the report, 78 hotels in Radisson Hotel Group's portfolio operate on 100% renewable electricity.",
+    "due_at": "2026-05-04T20:23:52.425025+00:00"
   },
   {
-    "reveal_id": "eb64e632ab784b9bb2a388cf90fc2dd7",
-    "article_title": "India Tightens FDI Rules",
-    "question": "What is the purpose of scrutinizing beneficial ownership in India's new FDI rules?",
-    "answer_label": "B",
-    "answer_text": "To increase transparency and security",
-    "explanation": "The purpose of scrutinizing beneficial ownership is to increase transparency and security in foreign investments, preventing indirect stakes and enhancing national security.",
-    "due_at": "2026-05-04T18:29:13.807986+00:00"
+    "reveal_id": "138111ed406e4930bb617a5dc52c47e0",
+    "article_title": "Radisson Hotel Group's Net Zero Progress",
+    "question": "What is the name of Radisson Hotel Group's loyalty program?",
+    "answer_label": "A",
+    "answer_text": "Radisson Rewards",
+    "explanation": "Radisson Hotel Group's loyalty program is called Radisson Rewards, which delivers an elevated experience to its members.",
+    "due_at": "2026-05-04T20:23:52.786920+00:00"
   }
 ]
