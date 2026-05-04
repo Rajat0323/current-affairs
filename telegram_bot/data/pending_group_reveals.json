@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "c2e52622152f4087b41a76001b5dd504",
-    "article_title": "Steel Exchange India Raises Capital",
-    "question": "What method did Steel Exchange India use to raise capital?",
+    "reveal_id": "e70323271dfd42168031391e509a5d07",
+    "article_title": "ISRO-Roscosmos Engine Deal",
+    "question": "Which Indian organization is involved in the semi-cryogenic engine deal with Roscosmos?",
     "answer_label": "B",
-    "answer_text": "Allotment of warrants and equity shares",
-    "explanation": "The company raised capital through the allotment of warrants and equity shares, as per the given information.",
-    "due_at": "2026-05-04T16:51:26.716485+00:00"
+    "answer_text": "ISRO",
+    "explanation": "ISRO is the primary space agency of India, responsible for the country's space program.",
+    "due_at": "2026-05-04T18:29:06.076058+00:00"
   },
   {
-    "reveal_id": "c05208c9ebdc4628a30619f248c299ec",
-    "article_title": "Steel Exchange India Raises Capital",
-    "question": "How many equity shares were allotted by Steel Exchange India on conversion of warrants?",
-    "answer_label": "C",
-    "answer_text": "14.10 lakh",
-    "explanation": "The company allotted 14.10 lakh equity shares on conversion of existing warrants.",
-    "due_at": "2026-05-04T16:51:27.089661+00:00"
-  },
-  {
-    "reveal_id": "51428dda9170456eb46e23646cf5e4b9",
-    "article_title": "Steel Exchange India Raises Capital",
-    "question": "What is the total amount received by Steel Exchange India from the balance subscription money?",
-    "answer_label": "C",
-    "answer_text": "Rs 29.92 crore",
-    "explanation": "The company received Rs 29.92 crore from the balance subscription money for the conversion of warrants.",
-    "due_at": "2026-05-04T16:51:27.537629+00:00"
-  },
-  {
-    "reveal_id": "c147395a2d9d466cbe2c4e4f6d7ce740",
-    "article_title": "BJP's Celebration Plans",
-    "question": "What is the BJP preparing for its workers and supporters in Delhi?",
+    "reveal_id": "784547db0537427bab7e4db2dbf3343e",
+    "article_title": "ISRO-Roscosmos Engine Deal",
+    "question": "What type of rocket engines is ISRO procuring from Roscosmos?",
     "answer_label": "B",
-    "answer_text": "A celebration feast",
-    "explanation": "The BJP is preparing a celebration feast with traditional food like pooris and sweets.",
-    "due_at": "2026-05-04T16:51:31.591443+00:00"
+    "answer_text": "Semi-Cryogenic",
+    "explanation": "The deal is for semi-cryogenic rocket engines, which will enhance India's space launch capabilities.",
+    "due_at": "2026-05-04T18:29:06.391640+00:00"
   },
   {
-    "reveal_id": "e00dc4dc5f3b40fe8d0fd13de860a380",
-    "article_title": "BJP's Celebration Plans",
-    "question": "What type of food is the BJP preparing for its celebration?",
+    "reveal_id": "77cf82f3b94e48eea5ab8bebf95248e4",
+    "article_title": "ISRO-Roscosmos Engine Deal",
+    "question": "Where did ISRO hold technical discussions with Roscosmos for the engine deal?",
     "answer_label": "B",
-    "answer_text": "Traditional Indian food",
-    "explanation": "The BJP is preparing traditional Indian food like pooris and sweets.",
-    "due_at": "2026-05-04T16:51:31.952138+00:00"
+    "answer_text": "Moscow",
+    "explanation": "The discussions were held in Moscow, indicating Russia's involvement in the deal.",
+    "due_at": "2026-05-04T18:29:06.724342+00:00"
   },
   {
-    "reveal_id": "e8c1647d4fdc467eb83661f806e2df6b",
-    "article_title": "BJP's Celebration Plans",
-    "question": "What is the occasion for the BJP's celebration plans?",
+    "reveal_id": "556352a9ea7849d6865c536fdd7c0997",
+    "article_title": "India Tightens FDI Rules",
+    "question": "What is the main focus of India's new FEMA amendment?",
     "answer_label": "B",
-    "answer_text": "State Assembly elections",
-    "explanation": "The occasion for the BJP's celebration plans is the 2026 Assembly Election Results.",
-    "due_at": "2026-05-04T16:51:32.323628+00:00"
+    "answer_text": "Identity of controllers",
+    "explanation": "The new FEMA amendment shifts focus from the source of capital to the identity of its controllers, aiming to increase scrutiny and security.",
+    "due_at": "2026-05-04T18:29:13.201583+00:00"
+  },
+  {
+    "reveal_id": "c8a90ac62f314c2686177f5363b667c0",
+    "article_title": "India Tightens FDI Rules",
+    "question": "Which country is barred from investing in sensitive sectors in India?",
+    "answer_label": "B",
+    "answer_text": "Pakistan",
+    "explanation": "Pakistan is barred from investing in sensitive sectors in India under the new FEMA rules.",
+    "due_at": "2026-05-04T18:29:13.512967+00:00"
+  },
+  {
+    "reveal_id": "eb64e632ab784b9bb2a388cf90fc2dd7",
+    "article_title": "India Tightens FDI Rules",
+    "question": "What is the purpose of scrutinizing beneficial ownership in India's new FDI rules?",
+    "answer_label": "B",
+    "answer_text": "To increase transparency and security",
+    "explanation": "The purpose of scrutinizing beneficial ownership is to increase transparency and security in foreign investments, preventing indirect stakes and enhancing national security.",
+    "due_at": "2026-05-04T18:29:13.807986+00:00"
   }
 ]
