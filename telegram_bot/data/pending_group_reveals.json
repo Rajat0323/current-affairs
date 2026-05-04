@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "183d66353e12408695f9201b39014902",
-    "article_title": "US Treasury Debt Plan",
-    "question": "What is the US Treasury expected to release?",
+    "reveal_id": "897cdafff8e643c1a8ba1e460124b5be",
+    "article_title": "Moinabad Farmhouse Drug Case",
+    "question": "Where did the police raid take place?",
+    "answer_label": "A",
+    "answer_text": "Moinabad farmhouse",
+    "explanation": "The police raid took place at the Moinabad farmhouse of former MLA Pilot Rohit Reddy.",
+    "due_at": "2026-05-04T10:29:34.981809+00:00"
+  },
+  {
+    "reveal_id": "dd149ac2a25040c08609ab47ced5a405",
+    "article_title": "Moinabad Farmhouse Drug Case",
+    "question": "How many people were arrested in the raid?",
     "answer_label": "B",
-    "answer_text": "A debt issuance plan",
-    "explanation": "The US Treasury is expected to release its latest plan for debt issuance, which may affect the bond market.",
-    "due_at": "2026-05-04T07:58:58.237075+00:00"
+    "answer_text": "11",
+    "explanation": "11 people were arrested in the raid for drug-related activities.",
+    "due_at": "2026-05-04T10:29:35.322825+00:00"
   },
   {
-    "reveal_id": "daa567129f3d491d915f1ecca84ed701",
-    "article_title": "US Treasury Debt Plan",
-    "question": "Why are bond dealers watching the US Treasury's plan?",
+    "reveal_id": "47fa8e0e63a24ccebcfa4a02baea59f9",
+    "article_title": "Moinabad Farmhouse Drug Case",
+    "question": "What is the current status of the main drug suppliers?",
     "answer_label": "B",
-    "answer_text": "To anticipate changes in debt issuance",
-    "explanation": "Bond dealers are watching the US Treasury's plan to anticipate any changes in debt issuance, which can impact the bond market.",
-    "due_at": "2026-05-04T07:58:58.610300+00:00"
+    "answer_text": "They are still at large",
+    "explanation": "The main drug suppliers are still at large, and the police are trying to catch them.",
+    "due_at": "2026-05-04T10:29:35.673009+00:00"
   },
   {
-    "reveal_id": "d57534178ad7490dace2ae30910a7fc9",
-    "article_title": "US Treasury Debt Plan",
-    "question": "How may changes in the US debt issuance plan affect India?",
-    "answer_label": "C",
-    "answer_text": "By influencing global interest rates",
-    "explanation": "Changes in the US debt issuance plan can influence global interest rates, which may have an impact on India's economy.",
-    "due_at": "2026-05-04T07:58:58.995422+00:00"
-  },
-  {
-    "reveal_id": "6ab4a48ef26241b59dd470f9e930b420",
-    "article_title": "NEC Members Visit RIWATCH",
-    "question": "Where did the NEC members visit?",
+    "reveal_id": "7765ece074664943934cca64e4c567e2",
+    "article_title": "Kukatpally Couple Death",
+    "question": "Where was the newly-wed couple found dead?",
     "answer_label": "B",
-    "answer_text": "RIWATCH",
-    "explanation": "The NEC members visited RIWATCH in Lower Dibang Valley district of Arunachal Pradesh.",
-    "due_at": "2026-05-04T07:59:06.711179+00:00"
+    "answer_text": "Hyderabad",
+    "explanation": "The couple was found dead in their home in Kukatpally, Hyderabad.",
+    "due_at": "2026-05-04T10:29:42.659291+00:00"
   },
   {
-    "reveal_id": "4550fadc002c40bc85876e16bcea3920",
-    "article_title": "NEC Members Visit RIWATCH",
-    "question": "What is the purpose of the NEC-supported project?",
-    "answer_label": "C",
-    "answer_text": "Promote mother languages",
-    "explanation": "The project aims to promote and develop the mother languages of Arunachal Pradesh.",
-    "due_at": "2026-05-04T07:59:07.049303+00:00"
-  },
-  {
-    "reveal_id": "af057973d4f3420e91fb5410dc70d0fd",
-    "article_title": "NEC Members Visit RIWATCH",
-    "question": "Which council is supporting the project?",
+    "reveal_id": "93b746b6f78e4943983ca2d86eed7325",
+    "article_title": "Kukatpally Couple Death",
+    "question": "What angle are the police probing in the couple's death?",
     "answer_label": "B",
-    "answer_text": "North Eastern Council",
-    "explanation": "The North Eastern Council (NEC) is supporting the project to promote mother languages in Arunachal Pradesh.",
-    "due_at": "2026-05-04T07:59:07.391660+00:00"
+    "answer_text": "Murder",
+    "explanation": "The police are investigating a possible homicide or murder angle in the case.",
+    "due_at": "2026-05-04T10:29:42.993000+00:00"
+  },
+  {
+    "reveal_id": "74bd0b1a0fc04e008a34205fe20e6be5",
+    "article_title": "Kukatpally Couple Death",
+    "question": "What is the location of Kukatpally where the incident occurred?",
+    "answer_label": "A",
+    "answer_text": "Telangana",
+    "explanation": "Kukatpally is located in the state of Telangana, in the city of Hyderabad.",
+    "due_at": "2026-05-04T10:29:43.350755+00:00"
   }
 ]
