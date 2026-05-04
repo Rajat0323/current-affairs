@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "e939765f04584b269a4ae9a777b928b0",
-    "article_title": "Bond Laddering in India",
-    "question": "What is the main goal of bond laddering in India?",
+    "reveal_id": "b67329c37c314bee833c7fef9c60b230",
+    "article_title": "Trisha Krishnan Seeks Blessings",
+    "question": "Who is Trisha Krishnan rumoured to be seeking blessings for?",
+    "answer_label": "A",
+    "answer_text": "Vijay",
+    "explanation": "Trisha Krishnan is rumoured to be seeking blessings for her rumoured beau Vijay ahead of the TN Elections 2026.",
+    "due_at": "2026-05-04T04:38:49.559393+00:00"
+  },
+  {
+    "reveal_id": "52139ef207124920978a616fd55d5420",
+    "article_title": "Trisha Krishnan Seeks Blessings",
+    "question": "What is the reported reason for Trisha's visit to Tirupati?",
     "answer_label": "B",
-    "answer_text": "To manage interest rate risk",
-    "explanation": "Bond laddering helps to balance returns and risk by managing interest rate risk.",
-    "due_at": "2026-05-04T00:37:10.292524+00:00"
+    "answer_text": "To seek blessings for her rumoured beau",
+    "explanation": "Trisha is reportedly visiting Tirupati to seek blessings for her rumoured beau Vijay ahead of the TN Elections 2026.",
+    "due_at": "2026-05-04T04:38:49.924161+00:00"
   },
   {
-    "reveal_id": "1aaf6d2647284838a6e61b89d8e60dc8",
-    "article_title": "Bond Laddering in India",
-    "question": "What type of investors can benefit from bond laddering in India?",
-    "answer_label": "C",
-    "answer_text": "Retail investors looking for stable income",
-    "explanation": "Bond laddering is useful for retail investors in India who seek predictable regular income.",
-    "due_at": "2026-05-04T00:37:10.640199+00:00"
+    "reveal_id": "54ff2697c9894fc7bde9899ce0d6c17d",
+    "article_title": "Trisha Krishnan Seeks Blessings",
+    "question": "What is Trisha Krishnan's profession?",
+    "answer_label": "A",
+    "answer_text": "Actress",
+    "explanation": "Trisha Krishnan is a renowned actress who has worked with notable stars like Vijay and Prabhas.",
+    "due_at": "2026-05-04T04:38:50.272762+00:00"
   },
   {
-    "reveal_id": "eda66ef04fa64b5690e86abcb0be80f6",
-    "article_title": "Bond Laddering in India",
-    "question": "What is a common problem with bond investing that bond laddering can help with?",
-    "answer_label": "C",
-    "answer_text": "Interest rate risk",
-    "explanation": "Bond laddering is a strategy to manage interest rate risk in bond investing.",
-    "due_at": "2026-05-04T00:37:10.983697+00:00"
-  },
-  {
-    "reveal_id": "bb7b7baebdef447c87dbae9964fd2085",
-    "article_title": "Assembly Election Results 2026",
-    "question": "What is at stake for the BJP in the 2026 assembly elections?",
+    "reveal_id": "18f0f9c810664916a4cddafcd28fec8c",
+    "article_title": "CM Punk WWE Comeback",
+    "question": "When is CM Punk expected to return to WWE Raw?",
     "answer_label": "B",
-    "answer_text": "Geographic expansion",
-    "explanation": "The BJP seeks to expand its geographic presence in the 2026 assembly elections.",
-    "due_at": "2026-05-04T00:37:17.975178+00:00"
+    "answer_text": "Next week",
+    "explanation": "CM Punk is set to return to WWE Raw next week, as per the given information.",
+    "due_at": "2026-05-04T04:38:54.143326+00:00"
   },
   {
-    "reveal_id": "9add55fa83994e839d5162412256b225",
-    "article_title": "Assembly Election Results 2026",
-    "question": "Which national party is fighting for relevance in the 2026 assembly elections?",
+    "reveal_id": "d76b9e7e89614439a832d85a1f6f108e",
+    "article_title": "CM Punk WWE Comeback",
+    "question": "Who are the potential opponents for CM Punk?",
     "answer_label": "B",
-    "answer_text": "Congress",
-    "explanation": "The Congress party is fighting to remain relevant in Indian politics.",
-    "due_at": "2026-05-04T00:37:18.403135+00:00"
+    "answer_text": "Cody Rhodes and Gunther",
+    "explanation": "CM Punk's potential matchups against Cody Rhodes and Gunther are mentioned in the article.",
+    "due_at": "2026-05-04T04:38:54.496586+00:00"
   },
   {
-    "reveal_id": "a922d7833d3a4f4fa192da02a3b64723",
-    "article_title": "Assembly Election Results 2026",
-    "question": "What will the 2026 assembly election results determine?",
+    "reveal_id": "a5c1b206da3643afb2bf8a8419039835",
+    "article_title": "CM Punk WWE Comeback",
+    "question": "Is CM Punk participating in the Backlash 2026 event?",
     "answer_label": "C",
-    "answer_text": "India's political trajectory",
-    "explanation": "The outcome of the elections will impact India's political trajectory.",
-    "due_at": "2026-05-04T00:37:18.749234+00:00"
+    "answer_text": "No, he is not participating",
+    "explanation": "The article states that CM Punk won't be part of the Backlash 2026 event.",
+    "due_at": "2026-05-04T04:38:54.862237+00:00"
   }
 ]
