@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "11679adcf333445b9abc653b012777bf",
-    "article_title": "DMK Confident of Winning TN Elections",
-    "question": "Which party is confident of winning 130-140 seats in the Tamil Nadu Assembly elections?",
+    "reveal_id": "177dcb0c1b714023badcd944c944c5e7",
+    "article_title": "Food Poisoning in Jajpur",
+    "question": "What happened to the people who ate 'dahibara' in Jajpur district?",
     "answer_label": "B",
-    "answer_text": "DMK",
-    "explanation": "DMK spokesperson TKS Elangovan expressed confidence in the party's victory.",
-    "due_at": "2026-05-04T12:33:50.956436+00:00"
+    "answer_text": "They fell ill due to food poisoning",
+    "explanation": "The people who ate 'dahibara' fell ill due to alleged food poisoning.",
+    "due_at": "2026-05-04T14:58:39.806755+00:00"
   },
   {
-    "reveal_id": "f41806ab22f14a98a9c3e4b10e087b31",
-    "article_title": "DMK Confident of Winning TN Elections",
-    "question": "What is the current status of the Tamil Nadu Assembly elections?",
-    "answer_label": "B",
-    "answer_text": "Counting of votes has begun",
-    "explanation": "The counting of votes for the Tamil Nadu Assembly elections has begun.",
-    "due_at": "2026-05-04T12:33:51.451649+00:00"
-  },
-  {
-    "reveal_id": "ec9003b25a8d469ca9d269f2d8ee8e1b",
-    "article_title": "DMK Confident of Winning TN Elections",
-    "question": "Who expressed confidence in the DMK's victory in the Tamil Nadu Assembly elections?",
-    "answer_label": "B",
-    "answer_text": "TKS Elangovan",
-    "explanation": "DMK spokesperson TKS Elangovan expressed confidence in the party's victory.",
-    "due_at": "2026-05-04T12:33:51.819348+00:00"
-  },
-  {
-    "reveal_id": "1e957151a101460e832c998c2fca1813",
-    "article_title": "West Bengal Elections",
-    "question": "Which two parties are in a tight contest in the West Bengal elections?",
+    "reveal_id": "77d71017f4b442cfa8a62c43e88b47cb",
+    "article_title": "Food Poisoning in Jajpur",
+    "question": "How many children were hospitalized due to food poisoning?",
     "answer_label": "C",
-    "answer_text": "TMC and BJP",
-    "explanation": "According to the article, TMC and BJP are in a tight contest in the early trends of the West Bengal elections.",
-    "due_at": "2026-05-04T12:33:56.205987+00:00"
+    "answer_text": "27",
+    "explanation": "27 children were hospitalized after eating 'dahibara'.",
+    "due_at": "2026-05-04T14:58:40.123443+00:00"
   },
   {
-    "reveal_id": "b76787a12adc45aeb3600c474096ae66",
-    "article_title": "West Bengal Elections",
-    "question": "Who is the founder of the Aam Janata Unnayan Party (AUJP)?",
-    "answer_label": "C",
-    "answer_text": "Humayun Kabir",
-    "explanation": "The article mentions Humayun Kabir as the founder of the Aam Janata Unnayan Party (AUJP).",
-    "due_at": "2026-05-04T12:33:56.575671+00:00"
-  },
-  {
-    "reveal_id": "9b655254ece04d5585e5688891c81f8b",
-    "article_title": "West Bengal Elections",
-    "question": "From which constituency is Humayun Kabir a candidate?",
+    "reveal_id": "9933d173f191437dbce77815d14f9461",
+    "article_title": "Food Poisoning in Jajpur",
+    "question": "In which district did the food poisoning incident occur?",
     "answer_label": "A",
-    "answer_text": "Rejinagar Assembly",
-    "explanation": "According to the article, Humayun Kabir is a candidate from the Rejinagar Assembly constituency.",
-    "due_at": "2026-05-04T12:33:56.938995+00:00"
+    "answer_text": "Jajpur",
+    "explanation": "The incident occurred in Jajpur district.",
+    "due_at": "2026-05-04T14:58:40.543268+00:00"
+  },
+  {
+    "reveal_id": "1206b02bd451435da3910d04945b33f6",
+    "article_title": "Paramakudi Election Result 2026",
+    "question": "In which state is the Paramakudi constituency located?",
+    "answer_label": "B",
+    "answer_text": "Tamil Nadu",
+    "explanation": "The Paramakudi constituency is in Tamil Nadu, as mentioned in the article.",
+    "due_at": "2026-05-04T14:58:44.208563+00:00"
+  },
+  {
+    "reveal_id": "450c28d39d9d490495996f2e0626eb78",
+    "article_title": "Paramakudi Election Result 2026",
+    "question": "What is currently happening in the Paramakudi constituency?",
+    "answer_label": "B",
+    "answer_text": "Vote counting is underway",
+    "explanation": "The article states that counting of votes is currently underway.",
+    "due_at": "2026-05-04T14:58:44.496619+00:00"
+  },
+  {
+    "reveal_id": "4943283d9b3045a7ba53ec2b6a539d45",
+    "article_title": "Paramakudi Election Result 2026",
+    "question": "How many Assembly seats are in Tamil Nadu?",
+    "answer_label": "C",
+    "answer_text": "234",
+    "explanation": "The article mentions that the Paramakudi constituency is one of the 234 Assembly seats in Tamil Nadu.",
+    "due_at": "2026-05-04T14:58:44.787123+00:00"
   }
 ]
