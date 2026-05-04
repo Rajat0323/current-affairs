@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "b67329c37c314bee833c7fef9c60b230",
-    "article_title": "Trisha Krishnan Seeks Blessings",
-    "question": "Who is Trisha Krishnan rumoured to be seeking blessings for?",
-    "answer_label": "A",
-    "answer_text": "Vijay",
-    "explanation": "Trisha Krishnan is rumoured to be seeking blessings for her rumoured beau Vijay ahead of the TN Elections 2026.",
-    "due_at": "2026-05-04T04:38:49.559393+00:00"
-  },
-  {
-    "reveal_id": "52139ef207124920978a616fd55d5420",
-    "article_title": "Trisha Krishnan Seeks Blessings",
-    "question": "What is the reported reason for Trisha's visit to Tirupati?",
+    "reveal_id": "183d66353e12408695f9201b39014902",
+    "article_title": "US Treasury Debt Plan",
+    "question": "What is the US Treasury expected to release?",
     "answer_label": "B",
-    "answer_text": "To seek blessings for her rumoured beau",
-    "explanation": "Trisha is reportedly visiting Tirupati to seek blessings for her rumoured beau Vijay ahead of the TN Elections 2026.",
-    "due_at": "2026-05-04T04:38:49.924161+00:00"
+    "answer_text": "A debt issuance plan",
+    "explanation": "The US Treasury is expected to release its latest plan for debt issuance, which may affect the bond market.",
+    "due_at": "2026-05-04T07:58:58.237075+00:00"
   },
   {
-    "reveal_id": "54ff2697c9894fc7bde9899ce0d6c17d",
-    "article_title": "Trisha Krishnan Seeks Blessings",
-    "question": "What is Trisha Krishnan's profession?",
-    "answer_label": "A",
-    "answer_text": "Actress",
-    "explanation": "Trisha Krishnan is a renowned actress who has worked with notable stars like Vijay and Prabhas.",
-    "due_at": "2026-05-04T04:38:50.272762+00:00"
-  },
-  {
-    "reveal_id": "18f0f9c810664916a4cddafcd28fec8c",
-    "article_title": "CM Punk WWE Comeback",
-    "question": "When is CM Punk expected to return to WWE Raw?",
+    "reveal_id": "daa567129f3d491d915f1ecca84ed701",
+    "article_title": "US Treasury Debt Plan",
+    "question": "Why are bond dealers watching the US Treasury's plan?",
     "answer_label": "B",
-    "answer_text": "Next week",
-    "explanation": "CM Punk is set to return to WWE Raw next week, as per the given information.",
-    "due_at": "2026-05-04T04:38:54.143326+00:00"
+    "answer_text": "To anticipate changes in debt issuance",
+    "explanation": "Bond dealers are watching the US Treasury's plan to anticipate any changes in debt issuance, which can impact the bond market.",
+    "due_at": "2026-05-04T07:58:58.610300+00:00"
   },
   {
-    "reveal_id": "d76b9e7e89614439a832d85a1f6f108e",
-    "article_title": "CM Punk WWE Comeback",
-    "question": "Who are the potential opponents for CM Punk?",
-    "answer_label": "B",
-    "answer_text": "Cody Rhodes and Gunther",
-    "explanation": "CM Punk's potential matchups against Cody Rhodes and Gunther are mentioned in the article.",
-    "due_at": "2026-05-04T04:38:54.496586+00:00"
-  },
-  {
-    "reveal_id": "a5c1b206da3643afb2bf8a8419039835",
-    "article_title": "CM Punk WWE Comeback",
-    "question": "Is CM Punk participating in the Backlash 2026 event?",
+    "reveal_id": "d57534178ad7490dace2ae30910a7fc9",
+    "article_title": "US Treasury Debt Plan",
+    "question": "How may changes in the US debt issuance plan affect India?",
     "answer_label": "C",
-    "answer_text": "No, he is not participating",
-    "explanation": "The article states that CM Punk won't be part of the Backlash 2026 event.",
-    "due_at": "2026-05-04T04:38:54.862237+00:00"
+    "answer_text": "By influencing global interest rates",
+    "explanation": "Changes in the US debt issuance plan can influence global interest rates, which may have an impact on India's economy.",
+    "due_at": "2026-05-04T07:58:58.995422+00:00"
+  },
+  {
+    "reveal_id": "6ab4a48ef26241b59dd470f9e930b420",
+    "article_title": "NEC Members Visit RIWATCH",
+    "question": "Where did the NEC members visit?",
+    "answer_label": "B",
+    "answer_text": "RIWATCH",
+    "explanation": "The NEC members visited RIWATCH in Lower Dibang Valley district of Arunachal Pradesh.",
+    "due_at": "2026-05-04T07:59:06.711179+00:00"
+  },
+  {
+    "reveal_id": "4550fadc002c40bc85876e16bcea3920",
+    "article_title": "NEC Members Visit RIWATCH",
+    "question": "What is the purpose of the NEC-supported project?",
+    "answer_label": "C",
+    "answer_text": "Promote mother languages",
+    "explanation": "The project aims to promote and develop the mother languages of Arunachal Pradesh.",
+    "due_at": "2026-05-04T07:59:07.049303+00:00"
+  },
+  {
+    "reveal_id": "af057973d4f3420e91fb5410dc70d0fd",
+    "article_title": "NEC Members Visit RIWATCH",
+    "question": "Which council is supporting the project?",
+    "answer_label": "B",
+    "answer_text": "North Eastern Council",
+    "explanation": "The North Eastern Council (NEC) is supporting the project to promote mother languages in Arunachal Pradesh.",
+    "due_at": "2026-05-04T07:59:07.391660+00:00"
   }
 ]
