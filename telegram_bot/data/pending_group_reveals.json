@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "05b65577e71c4b8ab59b77329a04c0fc",
-    "article_title": "India's National Guidance on Diabetes in Children",
-    "question": "What is the significance of India's national guidance on diabetes management in children?",
+    "reveal_id": "e939765f04584b269a4ae9a777b928b0",
+    "article_title": "Bond Laddering in India",
+    "question": "What is the main goal of bond laddering in India?",
     "answer_label": "B",
-    "answer_text": "It helps standardize treatment across the country",
-    "explanation": "The national guidance helps standardize treatment and care for children with diabetes, ensuring consistent and quality care across India.",
-    "due_at": "2026-05-03T23:40:29.961783+00:00"
+    "answer_text": "To manage interest rate risk",
+    "explanation": "Bond laddering helps to balance returns and risk by managing interest rate risk.",
+    "due_at": "2026-05-04T00:37:10.292524+00:00"
   },
   {
-    "reveal_id": "34905c5a0bf04fe6b4e7bf898c0da520",
-    "article_title": "India's National Guidance on Diabetes in Children",
-    "question": "What type of patients will benefit from India's national guidance on diabetes management?",
-    "answer_label": "B",
-    "answer_text": "Children with diabetes",
-    "explanation": "The national guidance is specifically designed for children with diabetes, providing them with specialized care and attention.",
-    "due_at": "2026-05-03T23:40:30.256622+00:00"
-  },
-  {
-    "reveal_id": "eb0928e520864e9f831cebeb57c416d4",
-    "article_title": "India's National Guidance on Diabetes in Children",
-    "question": "Why is national guidance on diabetes management in children necessary in India?",
+    "reveal_id": "1aaf6d2647284838a6e61b89d8e60dc8",
+    "article_title": "Bond Laddering in India",
+    "question": "What type of investors can benefit from bond laddering in India?",
     "answer_label": "C",
-    "answer_text": "Diabetes management in children requires specialized care and attention",
-    "explanation": "Diabetes management in children requires specialized care and attention, making national guidance necessary to ensure proper treatment and care.",
-    "due_at": "2026-05-03T23:40:30.552343+00:00"
+    "answer_text": "Retail investors looking for stable income",
+    "explanation": "Bond laddering is useful for retail investors in India who seek predictable regular income.",
+    "due_at": "2026-05-04T00:37:10.640199+00:00"
   },
   {
-    "reveal_id": "c55f5234941b4b8c9e4dc5ff0e0638f1",
-    "article_title": "Gold and Silver Rates",
-    "question": "What is the current trend in gold and silver prices?",
+    "reveal_id": "eda66ef04fa64b5690e86abcb0be80f6",
+    "article_title": "Bond Laddering in India",
+    "question": "What is a common problem with bond investing that bond laddering can help with?",
+    "answer_label": "C",
+    "answer_text": "Interest rate risk",
+    "explanation": "Bond laddering is a strategy to manage interest rate risk in bond investing.",
+    "due_at": "2026-05-04T00:37:10.983697+00:00"
+  },
+  {
+    "reveal_id": "bb7b7baebdef447c87dbae9964fd2085",
+    "article_title": "Assembly Election Results 2026",
+    "question": "What is at stake for the BJP in the 2026 assembly elections?",
     "answer_label": "B",
-    "answer_text": "Decreasing",
-    "explanation": "The prices are decreasing due to mild pressure in the futures market.",
-    "due_at": "2026-05-03T23:40:37.193896+00:00"
+    "answer_text": "Geographic expansion",
+    "explanation": "The BJP seeks to expand its geographic presence in the 2026 assembly elections.",
+    "due_at": "2026-05-04T00:37:17.975178+00:00"
   },
   {
-    "reveal_id": "3ae77c1c23ad4087a13521462fde659a",
-    "article_title": "Gold and Silver Rates",
-    "question": "Which city's gold and silver rates are mentioned in the article?",
-    "answer_label": "D",
-    "answer_text": "All of the above",
-    "explanation": "The article mentions gold and silver rates for Delhi, Mumbai, Chennai, and Kolkata.",
-    "due_at": "2026-05-03T23:40:37.493254+00:00"
+    "reveal_id": "9add55fa83994e839d5162412256b225",
+    "article_title": "Assembly Election Results 2026",
+    "question": "Which national party is fighting for relevance in the 2026 assembly elections?",
+    "answer_label": "B",
+    "answer_text": "Congress",
+    "explanation": "The Congress party is fighting to remain relevant in Indian politics.",
+    "due_at": "2026-05-04T00:37:18.403135+00:00"
   },
   {
-    "reveal_id": "5bbb260e995f44d18c12e8966981c0b8",
-    "article_title": "Gold and Silver Rates",
-    "question": "What type of market data showed pressure on bullion?",
-    "answer_label": "A",
-    "answer_text": "Futures market",
-    "explanation": "Recent futures market data showed mild pressure on bullion.",
-    "due_at": "2026-05-03T23:40:37.791657+00:00"
+    "reveal_id": "a922d7833d3a4f4fa192da02a3b64723",
+    "article_title": "Assembly Election Results 2026",
+    "question": "What will the 2026 assembly election results determine?",
+    "answer_label": "C",
+    "answer_text": "India's political trajectory",
+    "explanation": "The outcome of the elections will impact India's political trajectory.",
+    "due_at": "2026-05-04T00:37:18.749234+00:00"
   }
 ]
