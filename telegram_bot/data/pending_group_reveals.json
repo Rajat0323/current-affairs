@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "177dcb0c1b714023badcd944c944c5e7",
-    "article_title": "Food Poisoning in Jajpur",
-    "question": "What happened to the people who ate 'dahibara' in Jajpur district?",
+    "reveal_id": "c2e52622152f4087b41a76001b5dd504",
+    "article_title": "Steel Exchange India Raises Capital",
+    "question": "What method did Steel Exchange India use to raise capital?",
     "answer_label": "B",
-    "answer_text": "They fell ill due to food poisoning",
-    "explanation": "The people who ate 'dahibara' fell ill due to alleged food poisoning.",
-    "due_at": "2026-05-04T14:58:39.806755+00:00"
+    "answer_text": "Allotment of warrants and equity shares",
+    "explanation": "The company raised capital through the allotment of warrants and equity shares, as per the given information.",
+    "due_at": "2026-05-04T16:51:26.716485+00:00"
   },
   {
-    "reveal_id": "77d71017f4b442cfa8a62c43e88b47cb",
-    "article_title": "Food Poisoning in Jajpur",
-    "question": "How many children were hospitalized due to food poisoning?",
+    "reveal_id": "c05208c9ebdc4628a30619f248c299ec",
+    "article_title": "Steel Exchange India Raises Capital",
+    "question": "How many equity shares were allotted by Steel Exchange India on conversion of warrants?",
     "answer_label": "C",
-    "answer_text": "27",
-    "explanation": "27 children were hospitalized after eating 'dahibara'.",
-    "due_at": "2026-05-04T14:58:40.123443+00:00"
+    "answer_text": "14.10 lakh",
+    "explanation": "The company allotted 14.10 lakh equity shares on conversion of existing warrants.",
+    "due_at": "2026-05-04T16:51:27.089661+00:00"
   },
   {
-    "reveal_id": "9933d173f191437dbce77815d14f9461",
-    "article_title": "Food Poisoning in Jajpur",
-    "question": "In which district did the food poisoning incident occur?",
-    "answer_label": "A",
-    "answer_text": "Jajpur",
-    "explanation": "The incident occurred in Jajpur district.",
-    "due_at": "2026-05-04T14:58:40.543268+00:00"
-  },
-  {
-    "reveal_id": "1206b02bd451435da3910d04945b33f6",
-    "article_title": "Paramakudi Election Result 2026",
-    "question": "In which state is the Paramakudi constituency located?",
-    "answer_label": "B",
-    "answer_text": "Tamil Nadu",
-    "explanation": "The Paramakudi constituency is in Tamil Nadu, as mentioned in the article.",
-    "due_at": "2026-05-04T14:58:44.208563+00:00"
-  },
-  {
-    "reveal_id": "450c28d39d9d490495996f2e0626eb78",
-    "article_title": "Paramakudi Election Result 2026",
-    "question": "What is currently happening in the Paramakudi constituency?",
-    "answer_label": "B",
-    "answer_text": "Vote counting is underway",
-    "explanation": "The article states that counting of votes is currently underway.",
-    "due_at": "2026-05-04T14:58:44.496619+00:00"
-  },
-  {
-    "reveal_id": "4943283d9b3045a7ba53ec2b6a539d45",
-    "article_title": "Paramakudi Election Result 2026",
-    "question": "How many Assembly seats are in Tamil Nadu?",
+    "reveal_id": "51428dda9170456eb46e23646cf5e4b9",
+    "article_title": "Steel Exchange India Raises Capital",
+    "question": "What is the total amount received by Steel Exchange India from the balance subscription money?",
     "answer_label": "C",
-    "answer_text": "234",
-    "explanation": "The article mentions that the Paramakudi constituency is one of the 234 Assembly seats in Tamil Nadu.",
-    "due_at": "2026-05-04T14:58:44.787123+00:00"
+    "answer_text": "Rs 29.92 crore",
+    "explanation": "The company received Rs 29.92 crore from the balance subscription money for the conversion of warrants.",
+    "due_at": "2026-05-04T16:51:27.537629+00:00"
+  },
+  {
+    "reveal_id": "c147395a2d9d466cbe2c4e4f6d7ce740",
+    "article_title": "BJP's Celebration Plans",
+    "question": "What is the BJP preparing for its workers and supporters in Delhi?",
+    "answer_label": "B",
+    "answer_text": "A celebration feast",
+    "explanation": "The BJP is preparing a celebration feast with traditional food like pooris and sweets.",
+    "due_at": "2026-05-04T16:51:31.591443+00:00"
+  },
+  {
+    "reveal_id": "e00dc4dc5f3b40fe8d0fd13de860a380",
+    "article_title": "BJP's Celebration Plans",
+    "question": "What type of food is the BJP preparing for its celebration?",
+    "answer_label": "B",
+    "answer_text": "Traditional Indian food",
+    "explanation": "The BJP is preparing traditional Indian food like pooris and sweets.",
+    "due_at": "2026-05-04T16:51:31.952138+00:00"
+  },
+  {
+    "reveal_id": "e8c1647d4fdc467eb83661f806e2df6b",
+    "article_title": "BJP's Celebration Plans",
+    "question": "What is the occasion for the BJP's celebration plans?",
+    "answer_label": "B",
+    "answer_text": "State Assembly elections",
+    "explanation": "The occasion for the BJP's celebration plans is the 2026 Assembly Election Results.",
+    "due_at": "2026-05-04T16:51:32.323628+00:00"
   }
 ]
