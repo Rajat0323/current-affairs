@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "5cdb53a514d24b5da5a8462f58787f4d",
-    "article_title": "Betano Sponsors Argentina Team",
-    "question": "Which company has partnered with the Argentina national football team?",
-    "answer_label": "A",
-    "answer_text": "Betano",
-    "explanation": "Betano is the online sports betting brand that has entered into a sponsorship agreement with the Argentina national football team.",
-    "due_at": "2026-05-04T23:00:10.573910+00:00"
+    "reveal_id": "a7aa496914ea46bbb2129fcd265cecdd",
+    "article_title": "Tamil Nadu Assembly Elections 2026",
+    "question": "Which state is having Assembly elections in 2026?",
+    "answer_label": "B",
+    "answer_text": "Tamil Nadu",
+    "explanation": "The article mentions Tamil Nadu Assembly elections 2026.",
+    "due_at": "2026-05-05T00:00:45.489862+00:00"
   },
   {
-    "reveal_id": "2835675099304fabaf29e0a4a69824b9",
-    "article_title": "Betano Sponsors Argentina Team",
-    "question": "What is the main goal of Betano's partnership with the Argentina team?",
+    "reveal_id": "4f973340a50e4046ad469a56a8b8dabe",
+    "article_title": "Tamil Nadu Assembly Elections 2026",
+    "question": "What is being celebrated by TVK party workers in Chennai?",
     "answer_label": "C",
-    "answer_text": "To grow in Latin America",
-    "explanation": "The partnership aims to increase Betano's presence in Latin America.",
-    "due_at": "2026-05-04T23:00:10.908615+00:00"
+    "answer_text": "A historic election lead",
+    "explanation": "The article states that party workers are celebrating a historic lead in the elections.",
+    "due_at": "2026-05-05T00:00:45.830343+00:00"
   },
   {
-    "reveal_id": "53da41d6ef2646d3af0c28f7e56d63d2",
-    "article_title": "Betano Sponsors Argentina Team",
-    "question": "Where can you find more information about the Betano-Argentina team deal?",
+    "reveal_id": "e907c1e3a02444ebacacc76b622e3dd5",
+    "article_title": "Tamil Nadu Assembly Elections 2026",
+    "question": "Who is Vijay's first fan according to his father?",
+    "answer_label": "B",
+    "answer_text": "His mother",
+    "explanation": "Vijay's father calls his mother the first fan of Vijay.",
+    "due_at": "2026-05-05T00:00:46.178374+00:00"
+  },
+  {
+    "reveal_id": "f99d4be8b111439b9d337a7c90e8933f",
+    "article_title": "BCCI to Introduce Stricter Guidelines in IPL",
+    "question": "What is the BCCI considering introducing in the IPL?",
     "answer_label": "A",
-    "answer_text": "SportsMint Media website",
-    "explanation": "The article is published on the SportsMint Media website, which may have more details about the deal.",
-    "due_at": "2026-05-04T23:00:11.256702+00:00"
+    "answer_text": "Stricter guidelines for player behavior",
+    "explanation": "The BCCI is considering introducing stricter guidelines to tackle the 'girlfriend culture' in the IPL.",
+    "due_at": "2026-05-05T00:00:50.208029+00:00"
   },
   {
-    "reveal_id": "6f7a4399f4ee4719b341e6a6e5607aff",
-    "article_title": "Met Gala 2026 Live in India",
-    "question": "When will the Met Gala 2026 stream live in India?",
+    "reveal_id": "7ed78fa8eb9c4db384fdcc58dc32b23a",
+    "article_title": "BCCI to Introduce Stricter Guidelines in IPL",
+    "question": "Why is the BCCI introducing stricter guidelines in the IPL?",
     "answer_label": "B",
-    "answer_text": "May 5 at 3:30 am IST",
-    "explanation": "The Met Gala 2026 will stream live in India on May 5 at 3:30 am IST via Vogue's YouTube.",
-    "due_at": "2026-05-04T23:00:18.184922+00:00"
+    "answer_text": "To improve team performance",
+    "explanation": "The BCCI is introducing stricter guidelines to help players maintain focus on the game and improve team performance.",
+    "due_at": "2026-05-05T00:00:50.548486+00:00"
   },
   {
-    "reveal_id": "5701dc74af9443f89f5dad4acdcd3adc",
-    "article_title": "Met Gala 2026 Live in India",
-    "question": "Who will make his debut on the Met Gala red carpet?",
-    "answer_label": "B",
-    "answer_text": "Karan Johar",
-    "explanation": "Karan Johar is set to make his debut on the Met Gala red carpet in a Manish Malhotra outfit.",
-    "due_at": "2026-05-04T23:00:18.515018+00:00"
-  },
-  {
-    "reveal_id": "183f8c6be4194320b84fed464efc1d7f",
-    "article_title": "Met Gala 2026 Live in India",
-    "question": "How can viewers in India watch the Met Gala 2026 live?",
-    "answer_label": "B",
-    "answer_text": "Vogue's YouTube",
-    "explanation": "The Met Gala 2026 will stream live in India via Vogue's YouTube.",
-    "due_at": "2026-05-04T23:00:18.842597+00:00"
+    "reveal_id": "6be8a0407ea442c1af67e4e6d4b58b26",
+    "article_title": "BCCI to Introduce Stricter Guidelines in IPL",
+    "question": "What aspect of player life is the BCCI's new guideline targeting?",
+    "answer_label": "C",
+    "answer_text": "Player relationships and personal life",
+    "explanation": "The BCCI's new guideline is targeting the 'girlfriend culture', which relates to players' relationships and personal life.",
+    "due_at": "2026-05-05T00:00:50.891972+00:00"
   }
 ]
