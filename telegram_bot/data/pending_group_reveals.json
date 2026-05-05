@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "337e0a50a2ae4e2f9d41afcbc3554e9d",
-    "article_title": "Bihar Cabinet Expansion",
-    "question": "When will the Bihar cabinet expansion take place?",
-    "answer_label": "C",
-    "answer_text": "May 7",
-    "explanation": "The expansion is scheduled for May 7, as per the given information.",
-    "due_at": "2026-05-05T21:26:07.611851+00:00"
-  },
-  {
-    "reveal_id": "d3fe976d10b1445e8e6cca93e42107a1",
-    "article_title": "Bihar Cabinet Expansion",
-    "question": "Who will attend the Bihar cabinet expansion?",
-    "answer_label": "C",
-    "answer_text": "PM Modi and Amit Shah",
-    "explanation": "Both PM Modi and Amit Shah will attend the cabinet expansion.",
-    "due_at": "2026-05-05T21:26:07.941318+00:00"
-  },
-  {
-    "reveal_id": "3d181590860446edbc93e0b3fc54850d",
-    "article_title": "Bihar Cabinet Expansion",
-    "question": "What is the significance of the event for Samrat Choudhary?",
+    "reveal_id": "1a157c4cde0d4952a980263c208badb3",
+    "article_title": "ICSSR Programme on Geopolitics",
+    "question": "Which organisation sponsored the programme on geopolitics for teachers?",
     "answer_label": "B",
-    "answer_text": "It's his first major reshuffle",
-    "explanation": "The cabinet expansion is Samrat Choudhary's first major reshuffle as state BJP chief.",
-    "due_at": "2026-05-05T21:26:08.263236+00:00"
+    "answer_text": "ICSSR",
+    "explanation": "The programme is sponsored by ICSSR, which is a prestigious research organisation in India.",
+    "due_at": "2026-05-05T22:40:38.717231+00:00"
   },
   {
-    "reveal_id": "5f7e25bfbb2642d9bf4931e9680642d0",
-    "article_title": "KYKL Cadre Arrested in Manipur",
-    "question": "Which outfit does the arrested person belong to?",
-    "answer_label": "A",
-    "answer_text": "Kanglei Yawol Kanna Lup (KYKL)",
-    "explanation": "The arrested person, Maibam Romio Singh, is an active member of the banned outfit Kanglei Yawol Kanna Lup (KYKL).",
-    "due_at": "2026-05-05T21:26:15.289372+00:00"
-  },
-  {
-    "reveal_id": "25ab5945609840fa8556f2534a873c97",
-    "article_title": "KYKL Cadre Arrested in Manipur",
-    "question": "Where was the KYKL cadre arrested?",
-    "answer_label": "B",
-    "answer_text": "Imphal East",
-    "explanation": "The KYKL cadre, Maibam Romio Singh, was arrested in Imphal East, Manipur.",
-    "due_at": "2026-05-05T21:26:15.616297+00:00"
-  },
-  {
-    "reveal_id": "91204b681e024a709f5c4abb27d8fdd0",
-    "article_title": "KYKL Cadre Arrested in Manipur",
-    "question": "What is the age of the arrested KYKL cadre?",
+    "reveal_id": "1de43546b34f4745868f312fb4b6fabf",
+    "article_title": "ICSSR Programme on Geopolitics",
+    "question": "Where is the ICSSR-sponsored programme on geopolitics for teachers being held?",
     "answer_label": "C",
-    "answer_text": "52",
-    "explanation": "The arrested person, Maibam Romio Singh, is 52 years old.",
-    "due_at": "2026-05-05T21:26:15.938817+00:00"
+    "answer_text": "Jamia Millia Islamia",
+    "explanation": "The programme is being held at Jamia Millia Islamia, a central university in India.",
+    "due_at": "2026-05-05T22:40:39.071472+00:00"
+  },
+  {
+    "reveal_id": "6926bb739dce4aa8818a7d89e7e02564",
+    "article_title": "ICSSR Programme on Geopolitics",
+    "question": "What is the main objective of the programme on geopolitics for teachers?",
+    "answer_label": "B",
+    "answer_text": "To enhance teachers' knowledge of geopolitics",
+    "explanation": "The programme aims to educate teachers about geopolitics, which will help them in imparting knowledge to their students.",
+    "due_at": "2026-05-05T22:40:39.438086+00:00"
+  },
+  {
+    "reveal_id": "43b69bf7e631441ca0329b6ffc67fcde",
+    "article_title": "Indian Auto Retail Growth",
+    "question": "What was the growth rate of the Indian auto retail industry in April?",
+    "answer_label": "C",
+    "answer_text": "13%",
+    "explanation": "The growth rate was 13%, making it the best-ever April for the industry.",
+    "due_at": "2026-05-05T22:40:43.536580+00:00"
+  },
+  {
+    "reveal_id": "a986966b90e04e02b2f02c21f8213364",
+    "article_title": "Indian Auto Retail Growth",
+    "question": "Which sub-segment saw the highest growth rate?",
+    "answer_label": "B",
+    "answer_text": "MCV",
+    "explanation": "The MCV sub-segment saw the highest growth rate at 27.07%.",
+    "due_at": "2026-05-05T22:40:43.884332+00:00"
+  },
+  {
+    "reveal_id": "b18808a62534456d9363f0b4471d35a1",
+    "article_title": "Indian Auto Retail Growth",
+    "question": "What does the growth in auto retail industry indicate?",
+    "answer_label": "C",
+    "answer_text": "Strong economic activity",
+    "explanation": "The growth indicates strong economic activity and increased consumer demand in the country.",
+    "due_at": "2026-05-05T22:40:44.238172+00:00"
   }
 ]
