@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "e1772eb2a7bc4b1fb5f222a515861f6c",
-    "article_title": "Rupee Hits All-Time Low",
-    "question": "What is the current all-time low value of the rupee against the US dollar?",
+    "reveal_id": "bdf510796f4d49c69926844f62ff3a8a",
+    "article_title": "Indians at Met Gala 2026",
+    "question": "Who made their debut at the Met Gala 2026?",
     "answer_label": "C",
-    "answer_text": "95.23",
-    "explanation": "The rupee fell 39 paise to close at 95.23 against the US dollar.",
-    "due_at": "2026-05-05T11:24:40.296563+00:00"
+    "answer_text": "Both A and B",
+    "explanation": "Ananya Birla and Karan Johar both made their debut at the Met Gala 2026.",
+    "due_at": "2026-05-05T12:41:27.172054+00:00"
   },
   {
-    "reveal_id": "493d9ac1f5e540088c38f53908b5c732",
-    "article_title": "Rupee Hits All-Time Low",
-    "question": "What is a major factor contributing to the rupee's decline?",
+    "reveal_id": "22052383a1e84c938b99f2514acbccab",
+    "article_title": "Indians at Met Gala 2026",
+    "question": "What did Manish Malhotra do at the Met Gala 2026?",
     "answer_label": "B",
-    "answer_text": "Middle East tensions",
-    "explanation": "Ongoing Middle East tensions are causing volatility in global markets.",
-    "due_at": "2026-05-05T11:24:40.610744+00:00"
+    "answer_text": "Paid tribute to Mumbai",
+    "explanation": "Manish Malhotra paid tribute to Mumbai at the Met Gala 2026.",
+    "due_at": "2026-05-05T12:41:27.456549+00:00"
   },
   {
-    "reveal_id": "22d54f2321db4f53a3d45511ad267deb",
-    "article_title": "Rupee Hits All-Time Low",
-    "question": "What is a potential consequence of the rupee's decline and high oil prices?",
-    "answer_label": "D",
-    "answer_text": "Economic slowdown",
-    "explanation": "High oil prices and rupee decline may lead to inflation and economic slowdown.",
-    "due_at": "2026-05-05T11:24:40.915007+00:00"
-  },
-  {
-    "reveal_id": "878a48069dbd49fda31ffec3c2c55146",
-    "article_title": "Kazakhstan Pushes for Data Driven Economy",
-    "question": "What is Kazakhstan's President Kassym-Jomart Tokayev pushing for?",
+    "reveal_id": "3c44ec300abc44d88b4779b9c1c6a2f7",
+    "article_title": "Indians at Met Gala 2026",
+    "question": "When did the Met Gala 2026 take place?",
     "answer_label": "B",
-    "answer_text": "A swift transition to an AI-powered economy",
-    "explanation": "The President is pushing for a swift transition to an AI-powered economy to avoid stagnation and stay competitive globally.",
-    "due_at": "2026-05-05T11:24:47.621264+00:00"
+    "answer_text": "May 4",
+    "explanation": "The Met Gala 2026 took place on May 4.",
+    "due_at": "2026-05-05T12:41:27.740692+00:00"
   },
   {
-    "reveal_id": "5dd61f8755d2476187bc45e4dc950714",
-    "article_title": "Kazakhstan Pushes for Data Driven Economy",
-    "question": "Why is a unified digital transformation necessary for Kazakhstan?",
-    "answer_label": "C",
-    "answer_text": "For faster decision-making and real-time economy",
-    "explanation": "A unified digital transformation is necessary for Kazakhstan to have faster decision-making and a real-time economy.",
-    "due_at": "2026-05-05T11:24:47.938702+00:00"
+    "reveal_id": "bbea81e6ab61465a850985fda1c9f1f6",
+    "article_title": "Grasse: France's Perfume Town",
+    "question": "What was the initial problem in Grasse that led to the perfume industry?",
+    "answer_label": "B",
+    "answer_text": "Dead animal smell from leather trade",
+    "explanation": "The leather trade caused a strong smell, which was masked by infusing gloves with local flower scents.",
+    "due_at": "2026-05-05T12:41:34.768793+00:00"
   },
   {
-    "reveal_id": "815e0c14715b486c99c0954994315a59",
-    "article_title": "Kazakhstan Pushes for Data Driven Economy",
-    "question": "What is crucial for Kazakhstan's transition to a data-driven economy?",
+    "reveal_id": "013dbe061ab9458085ce0f7482f63e92",
+    "article_title": "Grasse: France's Perfume Town",
+    "question": "What sparked the perfume industry in Grasse?",
+    "answer_label": "B",
+    "answer_text": "Creating scented gloves",
+    "explanation": "The creation of scented gloves marked the beginning of Grasse's perfume industry.",
+    "due_at": "2026-05-05T12:41:35.052433+00:00"
+  },
+  {
+    "reveal_id": "ba31c9abdb134bd190f15a17128aa823",
+    "article_title": "Grasse: France's Perfume Town",
+    "question": "What is Grasse known for today?",
     "answer_label": "C",
-    "answer_text": "A robust venture ecosystem and private sector involvement",
-    "explanation": "Private sector involvement and a robust venture ecosystem are crucial for Kazakhstan's transition to a data-driven economy.",
-    "due_at": "2026-05-05T11:24:48.240910+00:00"
+    "answer_text": "Perfume production",
+    "explanation": "Grasse is famous for its perfume industry, which was born out of a solution to mask the town's leather trade smell.",
+    "due_at": "2026-05-05T12:41:35.344466+00:00"
   }
 ]
