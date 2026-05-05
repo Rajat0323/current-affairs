@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "06a92725a826455aa62c74164ede904b",
-    "article_title": "NDA's Rajya Sabha Majority",
-    "question": "What is required for passing constitutional amendments in India?",
-    "answer_label": "C",
-    "answer_text": "Two-thirds majority",
-    "explanation": "A two-thirds majority is necessary for passing constitutional amendments, which is a high threshold.",
-    "due_at": "2026-05-05T07:07:43.704705+00:00"
-  },
-  {
-    "reveal_id": "f05e6baebbd34195ac0fbc64b2c680ba",
-    "article_title": "NDA's Rajya Sabha Majority",
-    "question": "Which house of parliament is mentioned in the article as a challenge for the NDA?",
-    "answer_label": "B",
-    "answer_text": "Rajya Sabha",
-    "explanation": "The Rajya Sabha is the house of parliament where the NDA is struggling to achieve a two-thirds majority.",
-    "due_at": "2026-05-05T07:07:44.017504+00:00"
-  },
-  {
-    "reveal_id": "8a2ab5a9979f46fb9a4b8e7018b98332",
-    "article_title": "NDA's Rajya Sabha Majority",
-    "question": "What is the implication of not having a two-thirds majority in the Rajya Sabha?",
-    "answer_label": "B",
-    "answer_text": "Harder to pass laws",
-    "explanation": "Without a two-thirds majority, it becomes harder for the government to pass laws that require constitutional amendments.",
-    "due_at": "2026-05-05T07:07:44.328190+00:00"
-  },
-  {
-    "reveal_id": "1e0e680e51a14fb2a5db1dee94dee975",
-    "article_title": "PM Modi to Visit BJP HQ",
-    "question": "Who is scheduled to visit the BJP headquarters in New Delhi?",
+    "reveal_id": "ba9193164f1145bbbf1f792e95741efc",
+    "article_title": "Gujarat Titans' IPL Victory",
+    "question": "Who praised the Gujarat Titans for their tactical approach in the IPL match?",
     "answer_label": "A",
-    "answer_text": "PM Narendra Modi",
-    "explanation": "According to the article, PM Narendra Modi is scheduled to visit the BJP headquarters.",
-    "due_at": "2026-05-05T07:07:51.245581+00:00"
+    "answer_text": "Ravichandran Ashwin",
+    "explanation": "Ravichandran Ashwin commended the Gujarat Titans for their strategic approach in the IPL victory.",
+    "due_at": "2026-05-05T09:32:47.454465+00:00"
   },
   {
-    "reveal_id": "2736ac927985469eaf037e3e83b9cde1",
-    "article_title": "PM Modi to Visit BJP HQ",
-    "question": "Which states are mentioned as showing strong gains for the BJP?",
+    "reveal_id": "3ce9660c6b9e4c2fb0d59f485134d943",
+    "article_title": "Gujarat Titans' IPL Victory",
+    "question": "Which team did the Gujarat Titans defeat in the IPL match?",
     "answer_label": "C",
-    "answer_text": "West Bengal and Assam",
-    "explanation": "The article mentions West Bengal and Assam as the states where the BJP is leading.",
-    "due_at": "2026-05-05T07:07:51.555393+00:00"
+    "answer_text": "Punjab Kings",
+    "explanation": "The Gujarat Titans defeated the Punjab Kings in the IPL match.",
+    "due_at": "2026-05-05T09:32:47.763759+00:00"
   },
   {
-    "reveal_id": "5f26e2f72dd944cd84c18e2a68f90107",
-    "article_title": "PM Modi to Visit BJP HQ",
-    "question": "What is the context of PM Modi's visit to the BJP headquarters?",
-    "answer_label": "C",
-    "answer_text": "To celebrate the party's lead in West Bengal and Assam",
-    "explanation": "The visit comes after initial trends show strong gains for the party in West Bengal and Assam.",
-    "due_at": "2026-05-05T07:07:51.857009+00:00"
+    "reveal_id": "9cfb0c37c4634124ae2e68b078c42cb2",
+    "article_title": "Gujarat Titans' IPL Victory",
+    "question": "How many wickets did the Gujarat Titans win by in the IPL match?",
+    "answer_label": "B",
+    "answer_text": "4 wickets",
+    "explanation": "The Gujarat Titans won the IPL match by 4 wickets.",
+    "due_at": "2026-05-05T09:32:48.090410+00:00"
+  },
+  {
+    "reveal_id": "ddd911387d3344c2a0061df923f1797c",
+    "article_title": "Jacob Bethell's IPL Journey",
+    "question": "Which team does Jacob Bethell play for in the IPL?",
+    "answer_label": "A",
+    "answer_text": "Royal Challengers Bengaluru",
+    "explanation": "Jacob Bethell plays for Royal Challengers Bengaluru, as mentioned in the article.",
+    "due_at": "2026-05-05T09:32:54.884519+00:00"
+  },
+  {
+    "reveal_id": "6bd17fcb98e547e28a50680ac3253cd0",
+    "article_title": "Jacob Bethell's IPL Journey",
+    "question": "Where is Jacob Bethell originally from?",
+    "answer_label": "B",
+    "answer_text": "Barbados",
+    "explanation": "Jacob Bethell is from Barbados, as stated in the article.",
+    "due_at": "2026-05-05T09:32:55.349504+00:00"
+  },
+  {
+    "reveal_id": "6c35ad3a94d74fbdb40aefdf94847b47",
+    "article_title": "Jacob Bethell's IPL Journey",
+    "question": "Who is one of the legends Jacob Bethell learns from in the IPL?",
+    "answer_label": "B",
+    "answer_text": "Virat Kohli",
+    "explanation": "Jacob Bethell learns from Virat Kohli, a legendary cricketer, as mentioned in the article.",
+    "due_at": "2026-05-05T09:32:55.650456+00:00"
   }
 ]
