@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "a5e387ce76f24b5aba19d38143bed8a0",
-    "article_title": "SEBI Proposes Amendments to Securitised Debt Norms",
-    "question": "What is the purpose of SEBI's proposed amendments to securitised debt norms?",
+    "reveal_id": "22791b3106cd437e96b16e928269c211",
+    "article_title": "OnePlus Summer Sale in India",
+    "question": "What is the main purpose of the OnePlus Summer Sale in India?",
     "answer_label": "B",
-    "answer_text": "To align with RBI's 2021 framework",
-    "explanation": "SEBI's proposed amendments aim to align securitisation rules with RBI's 2021 norms, enhancing transparency and governance.",
-    "due_at": "2026-05-05T15:00:08.732318+00:00"
+    "answer_text": "To provide discounts on existing products",
+    "explanation": "The sale aims to offer discounts on various OnePlus products, making them more affordable for Indian consumers.",
+    "due_at": "2026-05-05T16:44:17.944828+00:00"
   },
   {
-    "reveal_id": "0bd1184f96ed4abc93e9b03aa8b4b712",
-    "article_title": "SEBI Proposes Amendments to Securitised Debt Norms",
-    "question": "What is the last date for commenting on SEBI's consultation paper?",
+    "reveal_id": "b872ffc085c54eddab9f9cae733d3e42",
+    "article_title": "OnePlus Summer Sale in India",
+    "question": "Which OnePlus smartphone is available at an attractive price in India after a price cut?",
     "answer_label": "B",
-    "answer_text": "May 25, 2026",
-    "explanation": "The consultation paper is open for comments till May 25, 2026.",
-    "due_at": "2026-05-05T15:00:09.099634+00:00"
+    "answer_text": "OnePlus 13",
+    "explanation": "The OnePlus 13 is available at a discounted price in India, making it a more attractive option for buyers.",
+    "due_at": "2026-05-05T16:44:18.274357+00:00"
   },
   {
-    "reveal_id": "14874c3a692541daa6105a0162bcfae5",
-    "article_title": "SEBI Proposes Amendments to Securitised Debt Norms",
-    "question": "Which regulatory body has SEBI proposed to align its securitised debt norms with?",
-    "answer_label": "A",
-    "answer_text": "RBI",
-    "explanation": "SEBI has proposed to align its securitised debt norms with the RBI's 2021 framework.",
-    "due_at": "2026-05-05T15:00:09.461590+00:00"
-  },
-  {
-    "reveal_id": "4e5c30f38ac343f08157549dea2d6feb",
-    "article_title": "Delhi Weather Affects DC vs CSK Match",
-    "question": "Which teams are playing in the 48th match of IPL 2026?",
+    "reveal_id": "1c89b4aedff04858bb3de55cabc8e592",
+    "article_title": "OnePlus Summer Sale in India",
+    "question": "What other product is included in the OnePlus Summer Sale apart from smartphones?",
     "answer_label": "C",
-    "answer_text": "Delhi Capitals vs Chennai Super Kings",
-    "explanation": "The article mentions Delhi Capitals and Chennai Super Kings as the teams facing off in the 48th match of IPL 2026.",
-    "due_at": "2026-05-05T15:00:13.771173+00:00"
+    "answer_text": "Buds",
+    "explanation": "The sale includes discounts on OnePlus Buds, apart from smartphones and other products.",
+    "due_at": "2026-05-05T16:44:18.582946+00:00"
   },
   {
-    "reveal_id": "4273cc8fc61f44228ecc8c4bc1420a3f",
-    "article_title": "Delhi Weather Affects DC vs CSK Match",
-    "question": "How many points do Delhi Capitals and Chennai Super Kings have after 9 games?",
+    "reveal_id": "e6e0fa4b4e51475ab2834e33b56af034",
+    "article_title": "OnePlus Summer Sale in India",
+    "question": "When does the OnePlus Summer Sale start in India?",
     "answer_label": "B",
-    "answer_text": "8 points",
-    "explanation": "The article states that both teams have gathered 8 points after 9 games.",
-    "due_at": "2026-05-05T15:00:14.130024+00:00"
+    "answer_text": "May 8",
+    "explanation": "The sale starts on May 8, as announced by OnePlus.",
+    "due_at": "2026-05-05T16:44:25.409638+00:00"
   },
   {
-    "reveal_id": "05f8dd31b26e404e9e2d18ce5cb0af2d",
-    "article_title": "Delhi Weather Affects DC vs CSK Match",
-    "question": "Where is the 48th match of IPL 2026 between Delhi Capitals and Chennai Super Kings taking place?",
+    "reveal_id": "714f30e88c244388a9096e2394b8811c",
+    "article_title": "OnePlus Summer Sale in India",
+    "question": "Which OnePlus devices will be on sale?",
+    "answer_label": "D",
+    "answer_text": "Smartphones, tablets, and audio products",
+    "explanation": "The sale will include discounts on OnePlus 13, Nord phones, tablets, and audio products.",
+    "due_at": "2026-05-05T16:44:25.710764+00:00"
+  },
+  {
+    "reveal_id": "45466a0258dd4e01951f9a2f793a013f",
+    "article_title": "OnePlus Summer Sale in India",
+    "question": "What is the main purpose of the OnePlus Summer Sale?",
     "answer_label": "C",
-    "answer_text": "Arun Jaitley Stadium",
-    "explanation": "The article mentions that the match is taking place at Arun Jaitley Stadium, which is the home ground of Delhi Capitals.",
-    "due_at": "2026-05-05T15:00:14.496123+00:00"
+    "answer_text": "To offer discounts and promotions",
+    "explanation": "The main purpose of the sale is to offer discounts and promotions on various OnePlus devices.",
+    "due_at": "2026-05-05T16:44:26.005225+00:00"
   }
 ]
