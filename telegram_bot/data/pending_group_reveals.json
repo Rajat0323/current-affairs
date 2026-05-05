@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "5a1dbda1e70641b7af1add520da740cf",
-    "article_title": "Rahul Gandhi Alleges Mandate Theft",
-    "question": "Which states did Rahul Gandhi allege 'mandate theft' in?",
+    "reveal_id": "337e0a50a2ae4e2f9d41afcbc3554e9d",
+    "article_title": "Bihar Cabinet Expansion",
+    "question": "When will the Bihar cabinet expansion take place?",
+    "answer_label": "C",
+    "answer_text": "May 7",
+    "explanation": "The expansion is scheduled for May 7, as per the given information.",
+    "due_at": "2026-05-05T21:26:07.611851+00:00"
+  },
+  {
+    "reveal_id": "d3fe976d10b1445e8e6cca93e42107a1",
+    "article_title": "Bihar Cabinet Expansion",
+    "question": "Who will attend the Bihar cabinet expansion?",
+    "answer_label": "C",
+    "answer_text": "PM Modi and Amit Shah",
+    "explanation": "Both PM Modi and Amit Shah will attend the cabinet expansion.",
+    "due_at": "2026-05-05T21:26:07.941318+00:00"
+  },
+  {
+    "reveal_id": "3d181590860446edbc93e0b3fc54850d",
+    "article_title": "Bihar Cabinet Expansion",
+    "question": "What is the significance of the event for Samrat Choudhary?",
+    "answer_label": "B",
+    "answer_text": "It's his first major reshuffle",
+    "explanation": "The cabinet expansion is Samrat Choudhary's first major reshuffle as state BJP chief.",
+    "due_at": "2026-05-05T21:26:08.263236+00:00"
+  },
+  {
+    "reveal_id": "5f7e25bfbb2642d9bf4931e9680642d0",
+    "article_title": "KYKL Cadre Arrested in Manipur",
+    "question": "Which outfit does the arrested person belong to?",
     "answer_label": "A",
-    "answer_text": "West Bengal and Assam",
-    "explanation": "Rahul Gandhi made the allegation in a social media post, specifically mentioning West Bengal and Assam.",
-    "due_at": "2026-05-05T20:20:13.016663+00:00"
+    "answer_text": "Kanglei Yawol Kanna Lup (KYKL)",
+    "explanation": "The arrested person, Maibam Romio Singh, is an active member of the banned outfit Kanglei Yawol Kanna Lup (KYKL).",
+    "due_at": "2026-05-05T21:26:15.289372+00:00"
   },
   {
-    "reveal_id": "25243237a642401ca0e1dd5967a08b9f",
-    "article_title": "Rahul Gandhi Alleges Mandate Theft",
-    "question": "What did Rahul Gandhi call for in his statement?",
+    "reveal_id": "25ab5945609840fa8556f2534a873c97",
+    "article_title": "KYKL Cadre Arrested in Manipur",
+    "question": "Where was the KYKL cadre arrested?",
     "answer_label": "B",
-    "answer_text": "A broader national perspective",
-    "explanation": "Rahul Gandhi called for a broader national perspective on the issue, beyond individual parties.",
-    "due_at": "2026-05-05T20:20:13.298139+00:00"
+    "answer_text": "Imphal East",
+    "explanation": "The KYKL cadre, Maibam Romio Singh, was arrested in Imphal East, Manipur.",
+    "due_at": "2026-05-05T21:26:15.616297+00:00"
   },
   {
-    "reveal_id": "f70d566823a746018b17396aa298fa4e",
-    "article_title": "Rahul Gandhi Alleges Mandate Theft",
-    "question": "Which party did Rahul Gandhi criticize in his statement?",
-    "answer_label": "B",
-    "answer_text": "BJP",
-    "explanation": "Rahul Gandhi criticized the Bharatiya Janata Party (BJP) in his statement.",
-    "due_at": "2026-05-05T20:20:13.584800+00:00"
-  },
-  {
-    "reveal_id": "04a9c0a0dce247c696f5d3ba6c5be77c",
-    "article_title": "Thakral Service Sales Rise",
-    "question": "What was the percentage increase in Thakral Service's net sales in March 2026 compared to the same period last year?",
+    "reveal_id": "91204b681e024a709f5c4abb27d8fdd0",
+    "article_title": "KYKL Cadre Arrested in Manipur",
+    "question": "What is the age of the arrested KYKL cadre?",
     "answer_label": "C",
-    "answer_text": "271.48%",
-    "explanation": "The correct answer is 271.48%, as stated in the article. This significant increase indicates a substantial growth in the company's sales.",
-    "due_at": "2026-05-05T20:20:20.275401+00:00"
-  },
-  {
-    "reveal_id": "456ff9b2569340849b3adbf36ea02a77",
-    "article_title": "Thakral Service Sales Rise",
-    "question": "What was the net sales of Thakral Service in March 2026?",
-    "answer_label": "C",
-    "answer_text": "Rs 0.33 crore",
-    "explanation": "The correct answer is Rs 0.33 crore, as mentioned in the article. This is the actual amount of net sales achieved by the company in March 2026.",
-    "due_at": "2026-05-05T20:20:20.560220+00:00"
-  },
-  {
-    "reveal_id": "dff9ef7548ea4727baadee104e17db2b",
-    "article_title": "Thakral Service Sales Rise",
-    "question": "What sector can be positively impacted by Thakral Service's growth?",
-    "answer_label": "C",
-    "answer_text": "Service",
-    "explanation": "The correct answer is Service, as Thakral Service is a part of the service sector. The company's growth can contribute to the overall growth of the service sector in India.",
-    "due_at": "2026-05-05T20:20:20.846895+00:00"
+    "answer_text": "52",
+    "explanation": "The arrested person, Maibam Romio Singh, is 52 years old.",
+    "due_at": "2026-05-05T21:26:15.938817+00:00"
   }
 ]
