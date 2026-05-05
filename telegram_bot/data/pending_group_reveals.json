@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "bdf510796f4d49c69926844f62ff3a8a",
-    "article_title": "Indians at Met Gala 2026",
-    "question": "Who made their debut at the Met Gala 2026?",
+    "reveal_id": "a5e387ce76f24b5aba19d38143bed8a0",
+    "article_title": "SEBI Proposes Amendments to Securitised Debt Norms",
+    "question": "What is the purpose of SEBI's proposed amendments to securitised debt norms?",
+    "answer_label": "B",
+    "answer_text": "To align with RBI's 2021 framework",
+    "explanation": "SEBI's proposed amendments aim to align securitisation rules with RBI's 2021 norms, enhancing transparency and governance.",
+    "due_at": "2026-05-05T15:00:08.732318+00:00"
+  },
+  {
+    "reveal_id": "0bd1184f96ed4abc93e9b03aa8b4b712",
+    "article_title": "SEBI Proposes Amendments to Securitised Debt Norms",
+    "question": "What is the last date for commenting on SEBI's consultation paper?",
+    "answer_label": "B",
+    "answer_text": "May 25, 2026",
+    "explanation": "The consultation paper is open for comments till May 25, 2026.",
+    "due_at": "2026-05-05T15:00:09.099634+00:00"
+  },
+  {
+    "reveal_id": "14874c3a692541daa6105a0162bcfae5",
+    "article_title": "SEBI Proposes Amendments to Securitised Debt Norms",
+    "question": "Which regulatory body has SEBI proposed to align its securitised debt norms with?",
+    "answer_label": "A",
+    "answer_text": "RBI",
+    "explanation": "SEBI has proposed to align its securitised debt norms with the RBI's 2021 framework.",
+    "due_at": "2026-05-05T15:00:09.461590+00:00"
+  },
+  {
+    "reveal_id": "4e5c30f38ac343f08157549dea2d6feb",
+    "article_title": "Delhi Weather Affects DC vs CSK Match",
+    "question": "Which teams are playing in the 48th match of IPL 2026?",
     "answer_label": "C",
-    "answer_text": "Both A and B",
-    "explanation": "Ananya Birla and Karan Johar both made their debut at the Met Gala 2026.",
-    "due_at": "2026-05-05T12:41:27.172054+00:00"
+    "answer_text": "Delhi Capitals vs Chennai Super Kings",
+    "explanation": "The article mentions Delhi Capitals and Chennai Super Kings as the teams facing off in the 48th match of IPL 2026.",
+    "due_at": "2026-05-05T15:00:13.771173+00:00"
   },
   {
-    "reveal_id": "22052383a1e84c938b99f2514acbccab",
-    "article_title": "Indians at Met Gala 2026",
-    "question": "What did Manish Malhotra do at the Met Gala 2026?",
+    "reveal_id": "4273cc8fc61f44228ecc8c4bc1420a3f",
+    "article_title": "Delhi Weather Affects DC vs CSK Match",
+    "question": "How many points do Delhi Capitals and Chennai Super Kings have after 9 games?",
     "answer_label": "B",
-    "answer_text": "Paid tribute to Mumbai",
-    "explanation": "Manish Malhotra paid tribute to Mumbai at the Met Gala 2026.",
-    "due_at": "2026-05-05T12:41:27.456549+00:00"
+    "answer_text": "8 points",
+    "explanation": "The article states that both teams have gathered 8 points after 9 games.",
+    "due_at": "2026-05-05T15:00:14.130024+00:00"
   },
   {
-    "reveal_id": "3c44ec300abc44d88b4779b9c1c6a2f7",
-    "article_title": "Indians at Met Gala 2026",
-    "question": "When did the Met Gala 2026 take place?",
-    "answer_label": "B",
-    "answer_text": "May 4",
-    "explanation": "The Met Gala 2026 took place on May 4.",
-    "due_at": "2026-05-05T12:41:27.740692+00:00"
-  },
-  {
-    "reveal_id": "bbea81e6ab61465a850985fda1c9f1f6",
-    "article_title": "Grasse: France's Perfume Town",
-    "question": "What was the initial problem in Grasse that led to the perfume industry?",
-    "answer_label": "B",
-    "answer_text": "Dead animal smell from leather trade",
-    "explanation": "The leather trade caused a strong smell, which was masked by infusing gloves with local flower scents.",
-    "due_at": "2026-05-05T12:41:34.768793+00:00"
-  },
-  {
-    "reveal_id": "013dbe061ab9458085ce0f7482f63e92",
-    "article_title": "Grasse: France's Perfume Town",
-    "question": "What sparked the perfume industry in Grasse?",
-    "answer_label": "B",
-    "answer_text": "Creating scented gloves",
-    "explanation": "The creation of scented gloves marked the beginning of Grasse's perfume industry.",
-    "due_at": "2026-05-05T12:41:35.052433+00:00"
-  },
-  {
-    "reveal_id": "ba31c9abdb134bd190f15a17128aa823",
-    "article_title": "Grasse: France's Perfume Town",
-    "question": "What is Grasse known for today?",
+    "reveal_id": "05f8dd31b26e404e9e2d18ce5cb0af2d",
+    "article_title": "Delhi Weather Affects DC vs CSK Match",
+    "question": "Where is the 48th match of IPL 2026 between Delhi Capitals and Chennai Super Kings taking place?",
     "answer_label": "C",
-    "answer_text": "Perfume production",
-    "explanation": "Grasse is famous for its perfume industry, which was born out of a solution to mask the town's leather trade smell.",
-    "due_at": "2026-05-05T12:41:35.344466+00:00"
+    "answer_text": "Arun Jaitley Stadium",
+    "explanation": "The article mentions that the match is taking place at Arun Jaitley Stadium, which is the home ground of Delhi Capitals.",
+    "due_at": "2026-05-05T15:00:14.496123+00:00"
   }
 ]
