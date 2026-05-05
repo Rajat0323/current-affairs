@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "22791b3106cd437e96b16e928269c211",
-    "article_title": "OnePlus Summer Sale in India",
-    "question": "What is the main purpose of the OnePlus Summer Sale in India?",
+    "reveal_id": "d7cc3fc14d9449f3a0c82b6dfe541e38",
+    "article_title": "TTF Futures Gain After Iran Rejects Trump's Plan",
+    "question": "What led to the swing in TTF futures?",
     "answer_label": "B",
-    "answer_text": "To provide discounts on existing products",
-    "explanation": "The sale aims to offer discounts on various OnePlus products, making them more affordable for Indian consumers.",
-    "due_at": "2026-05-05T16:44:17.944828+00:00"
+    "answer_text": "Iran's rejection of Trump's plan",
+    "explanation": "Iran's rejection of Trump's Hormuz plan led to the swing in TTF futures, affecting natural gas prices.",
+    "due_at": "2026-05-05T18:26:52.619630+00:00"
   },
   {
-    "reveal_id": "b872ffc085c54eddab9f9cae733d3e42",
-    "article_title": "OnePlus Summer Sale in India",
-    "question": "Which OnePlus smartphone is available at an attractive price in India after a price cut?",
-    "answer_label": "B",
-    "answer_text": "OnePlus 13",
-    "explanation": "The OnePlus 13 is available at a discounted price in India, making it a more attractive option for buyers.",
-    "due_at": "2026-05-05T16:44:18.274357+00:00"
+    "reveal_id": "b4c8fd1569644db5921154b64907108f",
+    "article_title": "TTF Futures Gain After Iran Rejects Trump's Plan",
+    "question": "What is TTF?",
+    "answer_label": "A",
+    "answer_text": "Title Transfer Facility",
+    "explanation": "TTF stands for Title Transfer Facility, related to natural gas trading.",
+    "due_at": "2026-05-05T18:26:52.942715+00:00"
   },
   {
-    "reveal_id": "1c89b4aedff04858bb3de55cabc8e592",
-    "article_title": "OnePlus Summer Sale in India",
-    "question": "What other product is included in the OnePlus Summer Sale apart from smartphones?",
-    "answer_label": "C",
-    "answer_text": "Buds",
-    "explanation": "The sale includes discounts on OnePlus Buds, apart from smartphones and other products.",
-    "due_at": "2026-05-05T16:44:18.582946+00:00"
-  },
-  {
-    "reveal_id": "e6e0fa4b4e51475ab2834e33b56af034",
-    "article_title": "OnePlus Summer Sale in India",
-    "question": "When does the OnePlus Summer Sale start in India?",
-    "answer_label": "B",
-    "answer_text": "May 8",
-    "explanation": "The sale starts on May 8, as announced by OnePlus.",
-    "due_at": "2026-05-05T16:44:25.409638+00:00"
-  },
-  {
-    "reveal_id": "714f30e88c244388a9096e2394b8811c",
-    "article_title": "OnePlus Summer Sale in India",
-    "question": "Which OnePlus devices will be on sale?",
+    "reveal_id": "4cb05486a8d04d84b6fd0b16fdc4dc59",
+    "article_title": "TTF Futures Gain After Iran Rejects Trump's Plan",
+    "question": "How might this development affect India?",
     "answer_label": "D",
-    "answer_text": "Smartphones, tablets, and audio products",
-    "explanation": "The sale will include discounts on OnePlus 13, Nord phones, tablets, and audio products.",
-    "due_at": "2026-05-05T16:44:25.710764+00:00"
+    "answer_text": "Increase in India's energy imports",
+    "explanation": "This development might affect India's energy imports, as changes in global energy prices can impact India's energy security.",
+    "due_at": "2026-05-05T18:26:53.255878+00:00"
   },
   {
-    "reveal_id": "45466a0258dd4e01951f9a2f793a013f",
-    "article_title": "OnePlus Summer Sale in India",
-    "question": "What is the main purpose of the OnePlus Summer Sale?",
+    "reveal_id": "e6ec802cbd5f45349ed60173e6eecd22",
+    "article_title": "India Condemns Iranian Attack on UAE",
+    "question": "Which country's port was recently attacked by Iran?",
+    "answer_label": "B",
+    "answer_text": "UAE",
+    "explanation": "The attack occurred at the UAE's Fujairah port, where 3 Indians were injured.",
+    "due_at": "2026-05-05T18:27:00.072339+00:00"
+  },
+  {
+    "reveal_id": "177abfc551764a588a9d4c757761f79d",
+    "article_title": "India Condemns Iranian Attack on UAE",
+    "question": "How many Indians were injured in the Iranian attack on UAE's Fujairah?",
     "answer_label": "C",
-    "answer_text": "To offer discounts and promotions",
-    "explanation": "The main purpose of the sale is to offer discounts and promotions on various OnePlus devices.",
-    "due_at": "2026-05-05T16:44:26.005225+00:00"
+    "answer_text": "3",
+    "explanation": "According to reports, 3 Indians were injured in the attack.",
+    "due_at": "2026-05-05T18:27:00.384871+00:00"
+  },
+  {
+    "reveal_id": "cc9d362a0a944cc395326783fc8d1ebe",
+    "article_title": "India Condemns Iranian Attack on UAE",
+    "question": "What is India's approach to dealing with the situation in the Middle East?",
+    "answer_label": "C",
+    "answer_text": "Dialogue and diplomacy",
+    "explanation": "India remains committed to dialogue and diplomacy to restore peace and stability in the region.",
+    "due_at": "2026-05-05T18:27:00.699409+00:00"
   }
 ]
