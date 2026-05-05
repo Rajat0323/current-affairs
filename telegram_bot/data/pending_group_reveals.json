@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "ba9193164f1145bbbf1f792e95741efc",
-    "article_title": "Gujarat Titans' IPL Victory",
-    "question": "Who praised the Gujarat Titans for their tactical approach in the IPL match?",
-    "answer_label": "A",
-    "answer_text": "Ravichandran Ashwin",
-    "explanation": "Ravichandran Ashwin commended the Gujarat Titans for their strategic approach in the IPL victory.",
-    "due_at": "2026-05-05T09:32:47.454465+00:00"
-  },
-  {
-    "reveal_id": "3ce9660c6b9e4c2fb0d59f485134d943",
-    "article_title": "Gujarat Titans' IPL Victory",
-    "question": "Which team did the Gujarat Titans defeat in the IPL match?",
+    "reveal_id": "e1772eb2a7bc4b1fb5f222a515861f6c",
+    "article_title": "Rupee Hits All-Time Low",
+    "question": "What is the current all-time low value of the rupee against the US dollar?",
     "answer_label": "C",
-    "answer_text": "Punjab Kings",
-    "explanation": "The Gujarat Titans defeated the Punjab Kings in the IPL match.",
-    "due_at": "2026-05-05T09:32:47.763759+00:00"
+    "answer_text": "95.23",
+    "explanation": "The rupee fell 39 paise to close at 95.23 against the US dollar.",
+    "due_at": "2026-05-05T11:24:40.296563+00:00"
   },
   {
-    "reveal_id": "9cfb0c37c4634124ae2e68b078c42cb2",
-    "article_title": "Gujarat Titans' IPL Victory",
-    "question": "How many wickets did the Gujarat Titans win by in the IPL match?",
+    "reveal_id": "493d9ac1f5e540088c38f53908b5c732",
+    "article_title": "Rupee Hits All-Time Low",
+    "question": "What is a major factor contributing to the rupee's decline?",
     "answer_label": "B",
-    "answer_text": "4 wickets",
-    "explanation": "The Gujarat Titans won the IPL match by 4 wickets.",
-    "due_at": "2026-05-05T09:32:48.090410+00:00"
+    "answer_text": "Middle East tensions",
+    "explanation": "Ongoing Middle East tensions are causing volatility in global markets.",
+    "due_at": "2026-05-05T11:24:40.610744+00:00"
   },
   {
-    "reveal_id": "ddd911387d3344c2a0061df923f1797c",
-    "article_title": "Jacob Bethell's IPL Journey",
-    "question": "Which team does Jacob Bethell play for in the IPL?",
-    "answer_label": "A",
-    "answer_text": "Royal Challengers Bengaluru",
-    "explanation": "Jacob Bethell plays for Royal Challengers Bengaluru, as mentioned in the article.",
-    "due_at": "2026-05-05T09:32:54.884519+00:00"
+    "reveal_id": "22d54f2321db4f53a3d45511ad267deb",
+    "article_title": "Rupee Hits All-Time Low",
+    "question": "What is a potential consequence of the rupee's decline and high oil prices?",
+    "answer_label": "D",
+    "answer_text": "Economic slowdown",
+    "explanation": "High oil prices and rupee decline may lead to inflation and economic slowdown.",
+    "due_at": "2026-05-05T11:24:40.915007+00:00"
   },
   {
-    "reveal_id": "6bd17fcb98e547e28a50680ac3253cd0",
-    "article_title": "Jacob Bethell's IPL Journey",
-    "question": "Where is Jacob Bethell originally from?",
+    "reveal_id": "878a48069dbd49fda31ffec3c2c55146",
+    "article_title": "Kazakhstan Pushes for Data Driven Economy",
+    "question": "What is Kazakhstan's President Kassym-Jomart Tokayev pushing for?",
     "answer_label": "B",
-    "answer_text": "Barbados",
-    "explanation": "Jacob Bethell is from Barbados, as stated in the article.",
-    "due_at": "2026-05-05T09:32:55.349504+00:00"
+    "answer_text": "A swift transition to an AI-powered economy",
+    "explanation": "The President is pushing for a swift transition to an AI-powered economy to avoid stagnation and stay competitive globally.",
+    "due_at": "2026-05-05T11:24:47.621264+00:00"
   },
   {
-    "reveal_id": "6c35ad3a94d74fbdb40aefdf94847b47",
-    "article_title": "Jacob Bethell's IPL Journey",
-    "question": "Who is one of the legends Jacob Bethell learns from in the IPL?",
-    "answer_label": "B",
-    "answer_text": "Virat Kohli",
-    "explanation": "Jacob Bethell learns from Virat Kohli, a legendary cricketer, as mentioned in the article.",
-    "due_at": "2026-05-05T09:32:55.650456+00:00"
+    "reveal_id": "5dd61f8755d2476187bc45e4dc950714",
+    "article_title": "Kazakhstan Pushes for Data Driven Economy",
+    "question": "Why is a unified digital transformation necessary for Kazakhstan?",
+    "answer_label": "C",
+    "answer_text": "For faster decision-making and real-time economy",
+    "explanation": "A unified digital transformation is necessary for Kazakhstan to have faster decision-making and a real-time economy.",
+    "due_at": "2026-05-05T11:24:47.938702+00:00"
+  },
+  {
+    "reveal_id": "815e0c14715b486c99c0954994315a59",
+    "article_title": "Kazakhstan Pushes for Data Driven Economy",
+    "question": "What is crucial for Kazakhstan's transition to a data-driven economy?",
+    "answer_label": "C",
+    "answer_text": "A robust venture ecosystem and private sector involvement",
+    "explanation": "Private sector involvement and a robust venture ecosystem are crucial for Kazakhstan's transition to a data-driven economy.",
+    "due_at": "2026-05-05T11:24:48.240910+00:00"
   }
 ]
