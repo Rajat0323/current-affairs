@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "711f95c830694aa48e4168cc2fa73f22",
-    "article_title": "IIT Roorkee COMET'26",
-    "question": "What was the main topic of discussion at IIT Roorkee's COMET'26?",
-    "answer_label": "B",
-    "answer_text": "Study abroad planning",
-    "explanation": "The talk at COMET'26 focused on guiding students on strategic global education planning with eduVelocity.",
-    "due_at": "2026-05-05T01:45:43.497437+00:00"
-  },
-  {
-    "reveal_id": "120f8878d8194b9e89e2b69b6c7b3a77",
-    "article_title": "IIT Roorkee COMET'26",
-    "question": "Which organization guided students at IIT Roorkee's COMET'26?",
+    "reveal_id": "54b8ef53c05046bbb7d034cfd19163eb",
+    "article_title": "US Supreme Court Verdict on Voting Rights",
+    "question": "What was the US Supreme Court's verdict related to?",
     "answer_label": "A",
-    "answer_text": "eduVelocity",
-    "explanation": "eduVelocity guided students on strategic global education planning at COMET'26.",
-    "due_at": "2026-05-05T01:45:43.851627+00:00"
+    "answer_text": "Voting rights of minorities",
+    "explanation": "The US Supreme Court's verdict was related to voting rights of minorities, specifically regarding a Black-majority district in Louisiana.",
+    "due_at": "2026-05-05T05:00:39.382763+00:00"
   },
   {
-    "reveal_id": "c4a039393661493f815e79cb167f4107",
-    "article_title": "IIT Roorkee COMET'26",
-    "question": "Where was the COMET'26 event held?",
+    "reveal_id": "80d613bbe9584ecda5227af880e3759c",
+    "article_title": "US Supreme Court Verdict on Voting Rights",
+    "question": "Which state in the US was involved in the Supreme Court case?",
+    "answer_label": "B",
+    "answer_text": "Louisiana",
+    "explanation": "The state of Louisiana was involved in the Supreme Court case regarding voting rights of minorities.",
+    "due_at": "2026-05-05T05:00:39.722548+00:00"
+  },
+  {
+    "reveal_id": "916610ad4f0745a69df08c1bce5a3e4f",
+    "article_title": "US Supreme Court Verdict on Voting Rights",
+    "question": "What could be the potential impact of the US Supreme Court verdict?",
     "answer_label": "C",
-    "answer_text": "IIT Roorkee",
-    "explanation": "The COMET'26 event was held at IIT Roorkee.",
-    "due_at": "2026-05-05T01:45:44.222355+00:00"
+    "answer_text": "Reduced voting rights of minorities",
+    "explanation": "The US Supreme Court verdict could potentially reduce the voting rights of minorities, affecting their representation.",
+    "due_at": "2026-05-05T05:00:40.074872+00:00"
   },
   {
-    "reveal_id": "3d1c45c4d8804a5597eac858d36b37fc",
-    "article_title": "Spanish Village Offers Free House",
-    "question": "What is the Spanish village offering to new neighbors?",
-    "answer_label": "A",
-    "answer_text": "A free house and a job",
-    "explanation": "The village is offering a free house and a job to attract new residents.",
-    "due_at": "2026-05-05T01:45:47.858293+00:00"
+    "reveal_id": "1e8995e9f1024d5e85a84661cf0d0a99",
+    "article_title": "Global Action Camera Market Growth",
+    "question": "What is the expected value of the global action camera market by 2035?",
+    "answer_label": "C",
+    "answer_text": "USD 26.73 Billion",
+    "explanation": "The market is expected to reach USD 26.73 billion by 2035, according to the Custom Market Insights report.",
+    "due_at": "2026-05-05T05:00:47.245438+00:00"
   },
   {
-    "reveal_id": "c3e734a0a1df4e58ba7aa3ed6934e6d0",
-    "article_title": "Spanish Village Offers Free House",
-    "question": "How many residents currently live in the Spanish village?",
+    "reveal_id": "5dff512d85a04e7e8dd1e378f29e1350",
+    "article_title": "Global Action Camera Market Growth",
+    "question": "What is the compound annual growth rate (CAGR) of the global action camera market?",
     "answer_label": "B",
-    "answer_text": "40",
-    "explanation": "The village has a population of 40 residents.",
-    "due_at": "2026-05-05T01:45:48.215784+00:00"
+    "answer_text": "12.95%",
+    "explanation": "The global action camera market is expected to grow at a 12.95% CAGR.",
+    "due_at": "2026-05-05T05:00:47.637681+00:00"
   },
   {
-    "reveal_id": "2d8b393b0518460a9081f3355c7392d7",
-    "article_title": "Spanish Village Offers Free House",
-    "question": "How many people have applied for the village's offer?",
+    "reveal_id": "e65b5ecb839b43ac86aa61843a68655a",
+    "article_title": "Global Action Camera Market Growth",
+    "question": "What was the value of the global action camera market in 2025?",
     "answer_label": "B",
-    "answer_text": "Over 100",
-    "explanation": "More than 100 people have already applied for the opportunity.",
-    "due_at": "2026-05-05T01:45:48.562455+00:00"
+    "answer_text": "USD 7.97 Billion",
+    "explanation": "The global action camera market was valued at approximately USD 7.97 billion in 2025.",
+    "due_at": "2026-05-05T05:00:47.974146+00:00"
   }
 ]
