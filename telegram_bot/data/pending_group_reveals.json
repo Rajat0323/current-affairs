@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "1a157c4cde0d4952a980263c208badb3",
-    "article_title": "ICSSR Programme on Geopolitics",
-    "question": "Which organisation sponsored the programme on geopolitics for teachers?",
+    "reveal_id": "30fc1ae41c78443d965938006da5f3b6",
+    "article_title": "AAP Accused of Vendetta Politics",
+    "question": "Who accused AAP of vendetta politics?",
+    "answer_label": "A",
+    "answer_text": "Raghav Chadha",
+    "explanation": "Raghav Chadha met President Murmu to accuse AAP of vendetta politics.",
+    "due_at": "2026-05-05T23:45:43.836147+00:00"
+  },
+  {
+    "reveal_id": "e847236d9f6d4ad6ad50b9ea659d0899",
+    "article_title": "AAP Accused of Vendetta Politics",
+    "question": "What do ex-AAP MPs claim is happening to them after joining BJP?",
     "answer_label": "B",
-    "answer_text": "ICSSR",
-    "explanation": "The programme is sponsored by ICSSR, which is a prestigious research organisation in India.",
-    "due_at": "2026-05-05T22:40:38.717231+00:00"
+    "answer_text": "They are being harassed",
+    "explanation": "Ex-AAP MPs claim they are being harassed after joining BJP.",
+    "due_at": "2026-05-05T23:45:44.169610+00:00"
   },
   {
-    "reveal_id": "1de43546b34f4745868f312fb4b6fabf",
-    "article_title": "ICSSR Programme on Geopolitics",
-    "question": "Where is the ICSSR-sponsored programme on geopolitics for teachers being held?",
-    "answer_label": "C",
-    "answer_text": "Jamia Millia Islamia",
-    "explanation": "The programme is being held at Jamia Millia Islamia, a central university in India.",
-    "due_at": "2026-05-05T22:40:39.071472+00:00"
+    "reveal_id": "f1a6637e74dc4ca7b6a7577389666dca",
+    "article_title": "AAP Accused of Vendetta Politics",
+    "question": "In which state do ex-AAP MPs allege misuse of state machinery?",
+    "answer_label": "A",
+    "answer_text": "Punjab",
+    "explanation": "Ex-AAP MPs allege misuse of state machinery in Punjab.",
+    "due_at": "2026-05-05T23:45:44.492869+00:00"
   },
   {
-    "reveal_id": "6926bb739dce4aa8818a7d89e7e02564",
-    "article_title": "ICSSR Programme on Geopolitics",
-    "question": "What is the main objective of the programme on geopolitics for teachers?",
+    "reveal_id": "a53a561196b740bc8e82579ed194827f",
+    "article_title": "Uncontacted Tribes in Amazon",
+    "question": "Where are the uncontacted tribes located?",
     "answer_label": "B",
-    "answer_text": "To enhance teachers' knowledge of geopolitics",
-    "explanation": "The programme aims to educate teachers about geopolitics, which will help them in imparting knowledge to their students.",
-    "due_at": "2026-05-05T22:40:39.438086+00:00"
+    "answer_text": "Brazilian Amazon",
+    "explanation": "The uncontacted tribes are located in the Brazilian Amazon, as revealed by the drone footage.",
+    "due_at": "2026-05-05T23:45:48.065357+00:00"
   },
   {
-    "reveal_id": "43b69bf7e631441ca0329b6ffc67fcde",
-    "article_title": "Indian Auto Retail Growth",
-    "question": "What was the growth rate of the Indian auto retail industry in April?",
-    "answer_label": "C",
-    "answer_text": "13%",
-    "explanation": "The growth rate was 13%, making it the best-ever April for the industry.",
-    "due_at": "2026-05-05T22:40:43.536580+00:00"
-  },
-  {
-    "reveal_id": "a986966b90e04e02b2f02c21f8213364",
-    "article_title": "Indian Auto Retail Growth",
-    "question": "Which sub-segment saw the highest growth rate?",
+    "reveal_id": "4205e9cc91b84c04a88f9f171e58017d",
+    "article_title": "Uncontacted Tribes in Amazon",
+    "question": "How many groups of uncontacted people are estimated to be in the Brazilian Amazon?",
     "answer_label": "B",
-    "answer_text": "MCV",
-    "explanation": "The MCV sub-segment saw the highest growth rate at 27.07%.",
-    "due_at": "2026-05-05T22:40:43.884332+00:00"
+    "answer_text": "100",
+    "explanation": "At least 100 groups of people have chosen to remain completely cut off from modern society.",
+    "due_at": "2026-05-05T23:45:48.391812+00:00"
   },
   {
-    "reveal_id": "b18808a62534456d9363f0b4471d35a1",
-    "article_title": "Indian Auto Retail Growth",
-    "question": "What does the growth in auto retail industry indicate?",
-    "answer_label": "C",
-    "answer_text": "Strong economic activity",
-    "explanation": "The growth indicates strong economic activity and increased consumer demand in the country.",
-    "due_at": "2026-05-05T22:40:44.238172+00:00"
+    "reveal_id": "4fc53148dd404167b444ab7ad2319c29",
+    "article_title": "Uncontacted Tribes in Amazon",
+    "question": "What is the estimated time period since these tribes have had no contact with the outside world?",
+    "answer_label": "D",
+    "answer_text": "60,000 years",
+    "explanation": "The tribes have had no contact with the outside world for approximately 60,000 years.",
+    "due_at": "2026-05-05T23:45:48.720846+00:00"
   }
 ]
