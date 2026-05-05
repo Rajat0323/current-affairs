@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "a7aa496914ea46bbb2129fcd265cecdd",
-    "article_title": "Tamil Nadu Assembly Elections 2026",
-    "question": "Which state is having Assembly elections in 2026?",
+    "reveal_id": "711f95c830694aa48e4168cc2fa73f22",
+    "article_title": "IIT Roorkee COMET'26",
+    "question": "What was the main topic of discussion at IIT Roorkee's COMET'26?",
     "answer_label": "B",
-    "answer_text": "Tamil Nadu",
-    "explanation": "The article mentions Tamil Nadu Assembly elections 2026.",
-    "due_at": "2026-05-05T00:00:45.489862+00:00"
+    "answer_text": "Study abroad planning",
+    "explanation": "The talk at COMET'26 focused on guiding students on strategic global education planning with eduVelocity.",
+    "due_at": "2026-05-05T01:45:43.497437+00:00"
   },
   {
-    "reveal_id": "4f973340a50e4046ad469a56a8b8dabe",
-    "article_title": "Tamil Nadu Assembly Elections 2026",
-    "question": "What is being celebrated by TVK party workers in Chennai?",
-    "answer_label": "C",
-    "answer_text": "A historic election lead",
-    "explanation": "The article states that party workers are celebrating a historic lead in the elections.",
-    "due_at": "2026-05-05T00:00:45.830343+00:00"
-  },
-  {
-    "reveal_id": "e907c1e3a02444ebacacc76b622e3dd5",
-    "article_title": "Tamil Nadu Assembly Elections 2026",
-    "question": "Who is Vijay's first fan according to his father?",
-    "answer_label": "B",
-    "answer_text": "His mother",
-    "explanation": "Vijay's father calls his mother the first fan of Vijay.",
-    "due_at": "2026-05-05T00:00:46.178374+00:00"
-  },
-  {
-    "reveal_id": "f99d4be8b111439b9d337a7c90e8933f",
-    "article_title": "BCCI to Introduce Stricter Guidelines in IPL",
-    "question": "What is the BCCI considering introducing in the IPL?",
+    "reveal_id": "120f8878d8194b9e89e2b69b6c7b3a77",
+    "article_title": "IIT Roorkee COMET'26",
+    "question": "Which organization guided students at IIT Roorkee's COMET'26?",
     "answer_label": "A",
-    "answer_text": "Stricter guidelines for player behavior",
-    "explanation": "The BCCI is considering introducing stricter guidelines to tackle the 'girlfriend culture' in the IPL.",
-    "due_at": "2026-05-05T00:00:50.208029+00:00"
+    "answer_text": "eduVelocity",
+    "explanation": "eduVelocity guided students on strategic global education planning at COMET'26.",
+    "due_at": "2026-05-05T01:45:43.851627+00:00"
   },
   {
-    "reveal_id": "7ed78fa8eb9c4db384fdcc58dc32b23a",
-    "article_title": "BCCI to Introduce Stricter Guidelines in IPL",
-    "question": "Why is the BCCI introducing stricter guidelines in the IPL?",
-    "answer_label": "B",
-    "answer_text": "To improve team performance",
-    "explanation": "The BCCI is introducing stricter guidelines to help players maintain focus on the game and improve team performance.",
-    "due_at": "2026-05-05T00:00:50.548486+00:00"
-  },
-  {
-    "reveal_id": "6be8a0407ea442c1af67e4e6d4b58b26",
-    "article_title": "BCCI to Introduce Stricter Guidelines in IPL",
-    "question": "What aspect of player life is the BCCI's new guideline targeting?",
+    "reveal_id": "c4a039393661493f815e79cb167f4107",
+    "article_title": "IIT Roorkee COMET'26",
+    "question": "Where was the COMET'26 event held?",
     "answer_label": "C",
-    "answer_text": "Player relationships and personal life",
-    "explanation": "The BCCI's new guideline is targeting the 'girlfriend culture', which relates to players' relationships and personal life.",
-    "due_at": "2026-05-05T00:00:50.891972+00:00"
+    "answer_text": "IIT Roorkee",
+    "explanation": "The COMET'26 event was held at IIT Roorkee.",
+    "due_at": "2026-05-05T01:45:44.222355+00:00"
+  },
+  {
+    "reveal_id": "3d1c45c4d8804a5597eac858d36b37fc",
+    "article_title": "Spanish Village Offers Free House",
+    "question": "What is the Spanish village offering to new neighbors?",
+    "answer_label": "A",
+    "answer_text": "A free house and a job",
+    "explanation": "The village is offering a free house and a job to attract new residents.",
+    "due_at": "2026-05-05T01:45:47.858293+00:00"
+  },
+  {
+    "reveal_id": "c3e734a0a1df4e58ba7aa3ed6934e6d0",
+    "article_title": "Spanish Village Offers Free House",
+    "question": "How many residents currently live in the Spanish village?",
+    "answer_label": "B",
+    "answer_text": "40",
+    "explanation": "The village has a population of 40 residents.",
+    "due_at": "2026-05-05T01:45:48.215784+00:00"
+  },
+  {
+    "reveal_id": "2d8b393b0518460a9081f3355c7392d7",
+    "article_title": "Spanish Village Offers Free House",
+    "question": "How many people have applied for the village's offer?",
+    "answer_label": "B",
+    "answer_text": "Over 100",
+    "explanation": "More than 100 people have already applied for the opportunity.",
+    "due_at": "2026-05-05T01:45:48.562455+00:00"
   }
 ]
