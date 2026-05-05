@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "d7cc3fc14d9449f3a0c82b6dfe541e38",
-    "article_title": "TTF Futures Gain After Iran Rejects Trump's Plan",
-    "question": "What led to the swing in TTF futures?",
-    "answer_label": "B",
-    "answer_text": "Iran's rejection of Trump's plan",
-    "explanation": "Iran's rejection of Trump's Hormuz plan led to the swing in TTF futures, affecting natural gas prices.",
-    "due_at": "2026-05-05T18:26:52.619630+00:00"
-  },
-  {
-    "reveal_id": "b4c8fd1569644db5921154b64907108f",
-    "article_title": "TTF Futures Gain After Iran Rejects Trump's Plan",
-    "question": "What is TTF?",
+    "reveal_id": "5a1dbda1e70641b7af1add520da740cf",
+    "article_title": "Rahul Gandhi Alleges Mandate Theft",
+    "question": "Which states did Rahul Gandhi allege 'mandate theft' in?",
     "answer_label": "A",
-    "answer_text": "Title Transfer Facility",
-    "explanation": "TTF stands for Title Transfer Facility, related to natural gas trading.",
-    "due_at": "2026-05-05T18:26:52.942715+00:00"
+    "answer_text": "West Bengal and Assam",
+    "explanation": "Rahul Gandhi made the allegation in a social media post, specifically mentioning West Bengal and Assam.",
+    "due_at": "2026-05-05T20:20:13.016663+00:00"
   },
   {
-    "reveal_id": "4cb05486a8d04d84b6fd0b16fdc4dc59",
-    "article_title": "TTF Futures Gain After Iran Rejects Trump's Plan",
-    "question": "How might this development affect India?",
-    "answer_label": "D",
-    "answer_text": "Increase in India's energy imports",
-    "explanation": "This development might affect India's energy imports, as changes in global energy prices can impact India's energy security.",
-    "due_at": "2026-05-05T18:26:53.255878+00:00"
-  },
-  {
-    "reveal_id": "e6ec802cbd5f45349ed60173e6eecd22",
-    "article_title": "India Condemns Iranian Attack on UAE",
-    "question": "Which country's port was recently attacked by Iran?",
+    "reveal_id": "25243237a642401ca0e1dd5967a08b9f",
+    "article_title": "Rahul Gandhi Alleges Mandate Theft",
+    "question": "What did Rahul Gandhi call for in his statement?",
     "answer_label": "B",
-    "answer_text": "UAE",
-    "explanation": "The attack occurred at the UAE's Fujairah port, where 3 Indians were injured.",
-    "due_at": "2026-05-05T18:27:00.072339+00:00"
+    "answer_text": "A broader national perspective",
+    "explanation": "Rahul Gandhi called for a broader national perspective on the issue, beyond individual parties.",
+    "due_at": "2026-05-05T20:20:13.298139+00:00"
   },
   {
-    "reveal_id": "177abfc551764a588a9d4c757761f79d",
-    "article_title": "India Condemns Iranian Attack on UAE",
-    "question": "How many Indians were injured in the Iranian attack on UAE's Fujairah?",
-    "answer_label": "C",
-    "answer_text": "3",
-    "explanation": "According to reports, 3 Indians were injured in the attack.",
-    "due_at": "2026-05-05T18:27:00.384871+00:00"
+    "reveal_id": "f70d566823a746018b17396aa298fa4e",
+    "article_title": "Rahul Gandhi Alleges Mandate Theft",
+    "question": "Which party did Rahul Gandhi criticize in his statement?",
+    "answer_label": "B",
+    "answer_text": "BJP",
+    "explanation": "Rahul Gandhi criticized the Bharatiya Janata Party (BJP) in his statement.",
+    "due_at": "2026-05-05T20:20:13.584800+00:00"
   },
   {
-    "reveal_id": "cc9d362a0a944cc395326783fc8d1ebe",
-    "article_title": "India Condemns Iranian Attack on UAE",
-    "question": "What is India's approach to dealing with the situation in the Middle East?",
+    "reveal_id": "04a9c0a0dce247c696f5d3ba6c5be77c",
+    "article_title": "Thakral Service Sales Rise",
+    "question": "What was the percentage increase in Thakral Service's net sales in March 2026 compared to the same period last year?",
     "answer_label": "C",
-    "answer_text": "Dialogue and diplomacy",
-    "explanation": "India remains committed to dialogue and diplomacy to restore peace and stability in the region.",
-    "due_at": "2026-05-05T18:27:00.699409+00:00"
+    "answer_text": "271.48%",
+    "explanation": "The correct answer is 271.48%, as stated in the article. This significant increase indicates a substantial growth in the company's sales.",
+    "due_at": "2026-05-05T20:20:20.275401+00:00"
+  },
+  {
+    "reveal_id": "456ff9b2569340849b3adbf36ea02a77",
+    "article_title": "Thakral Service Sales Rise",
+    "question": "What was the net sales of Thakral Service in March 2026?",
+    "answer_label": "C",
+    "answer_text": "Rs 0.33 crore",
+    "explanation": "The correct answer is Rs 0.33 crore, as mentioned in the article. This is the actual amount of net sales achieved by the company in March 2026.",
+    "due_at": "2026-05-05T20:20:20.560220+00:00"
+  },
+  {
+    "reveal_id": "dff9ef7548ea4727baadee104e17db2b",
+    "article_title": "Thakral Service Sales Rise",
+    "question": "What sector can be positively impacted by Thakral Service's growth?",
+    "answer_label": "C",
+    "answer_text": "Service",
+    "explanation": "The correct answer is Service, as Thakral Service is a part of the service sector. The company's growth can contribute to the overall growth of the service sector in India.",
+    "due_at": "2026-05-05T20:20:20.846895+00:00"
   }
 ]
