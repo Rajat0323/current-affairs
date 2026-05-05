@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "54b8ef53c05046bbb7d034cfd19163eb",
-    "article_title": "US Supreme Court Verdict on Voting Rights",
-    "question": "What was the US Supreme Court's verdict related to?",
+    "reveal_id": "06a92725a826455aa62c74164ede904b",
+    "article_title": "NDA's Rajya Sabha Majority",
+    "question": "What is required for passing constitutional amendments in India?",
+    "answer_label": "C",
+    "answer_text": "Two-thirds majority",
+    "explanation": "A two-thirds majority is necessary for passing constitutional amendments, which is a high threshold.",
+    "due_at": "2026-05-05T07:07:43.704705+00:00"
+  },
+  {
+    "reveal_id": "f05e6baebbd34195ac0fbc64b2c680ba",
+    "article_title": "NDA's Rajya Sabha Majority",
+    "question": "Which house of parliament is mentioned in the article as a challenge for the NDA?",
+    "answer_label": "B",
+    "answer_text": "Rajya Sabha",
+    "explanation": "The Rajya Sabha is the house of parliament where the NDA is struggling to achieve a two-thirds majority.",
+    "due_at": "2026-05-05T07:07:44.017504+00:00"
+  },
+  {
+    "reveal_id": "8a2ab5a9979f46fb9a4b8e7018b98332",
+    "article_title": "NDA's Rajya Sabha Majority",
+    "question": "What is the implication of not having a two-thirds majority in the Rajya Sabha?",
+    "answer_label": "B",
+    "answer_text": "Harder to pass laws",
+    "explanation": "Without a two-thirds majority, it becomes harder for the government to pass laws that require constitutional amendments.",
+    "due_at": "2026-05-05T07:07:44.328190+00:00"
+  },
+  {
+    "reveal_id": "1e0e680e51a14fb2a5db1dee94dee975",
+    "article_title": "PM Modi to Visit BJP HQ",
+    "question": "Who is scheduled to visit the BJP headquarters in New Delhi?",
     "answer_label": "A",
-    "answer_text": "Voting rights of minorities",
-    "explanation": "The US Supreme Court's verdict was related to voting rights of minorities, specifically regarding a Black-majority district in Louisiana.",
-    "due_at": "2026-05-05T05:00:39.382763+00:00"
+    "answer_text": "PM Narendra Modi",
+    "explanation": "According to the article, PM Narendra Modi is scheduled to visit the BJP headquarters.",
+    "due_at": "2026-05-05T07:07:51.245581+00:00"
   },
   {
-    "reveal_id": "80d613bbe9584ecda5227af880e3759c",
-    "article_title": "US Supreme Court Verdict on Voting Rights",
-    "question": "Which state in the US was involved in the Supreme Court case?",
-    "answer_label": "B",
-    "answer_text": "Louisiana",
-    "explanation": "The state of Louisiana was involved in the Supreme Court case regarding voting rights of minorities.",
-    "due_at": "2026-05-05T05:00:39.722548+00:00"
-  },
-  {
-    "reveal_id": "916610ad4f0745a69df08c1bce5a3e4f",
-    "article_title": "US Supreme Court Verdict on Voting Rights",
-    "question": "What could be the potential impact of the US Supreme Court verdict?",
+    "reveal_id": "2736ac927985469eaf037e3e83b9cde1",
+    "article_title": "PM Modi to Visit BJP HQ",
+    "question": "Which states are mentioned as showing strong gains for the BJP?",
     "answer_label": "C",
-    "answer_text": "Reduced voting rights of minorities",
-    "explanation": "The US Supreme Court verdict could potentially reduce the voting rights of minorities, affecting their representation.",
-    "due_at": "2026-05-05T05:00:40.074872+00:00"
+    "answer_text": "West Bengal and Assam",
+    "explanation": "The article mentions West Bengal and Assam as the states where the BJP is leading.",
+    "due_at": "2026-05-05T07:07:51.555393+00:00"
   },
   {
-    "reveal_id": "1e8995e9f1024d5e85a84661cf0d0a99",
-    "article_title": "Global Action Camera Market Growth",
-    "question": "What is the expected value of the global action camera market by 2035?",
+    "reveal_id": "5f26e2f72dd944cd84c18e2a68f90107",
+    "article_title": "PM Modi to Visit BJP HQ",
+    "question": "What is the context of PM Modi's visit to the BJP headquarters?",
     "answer_label": "C",
-    "answer_text": "USD 26.73 Billion",
-    "explanation": "The market is expected to reach USD 26.73 billion by 2035, according to the Custom Market Insights report.",
-    "due_at": "2026-05-05T05:00:47.245438+00:00"
-  },
-  {
-    "reveal_id": "5dff512d85a04e7e8dd1e378f29e1350",
-    "article_title": "Global Action Camera Market Growth",
-    "question": "What is the compound annual growth rate (CAGR) of the global action camera market?",
-    "answer_label": "B",
-    "answer_text": "12.95%",
-    "explanation": "The global action camera market is expected to grow at a 12.95% CAGR.",
-    "due_at": "2026-05-05T05:00:47.637681+00:00"
-  },
-  {
-    "reveal_id": "e65b5ecb839b43ac86aa61843a68655a",
-    "article_title": "Global Action Camera Market Growth",
-    "question": "What was the value of the global action camera market in 2025?",
-    "answer_label": "B",
-    "answer_text": "USD 7.97 Billion",
-    "explanation": "The global action camera market was valued at approximately USD 7.97 billion in 2025.",
-    "due_at": "2026-05-05T05:00:47.974146+00:00"
+    "answer_text": "To celebrate the party's lead in West Bengal and Assam",
+    "explanation": "The visit comes after initial trends show strong gains for the party in West Bengal and Assam.",
+    "due_at": "2026-05-05T07:07:51.857009+00:00"
   }
 ]
