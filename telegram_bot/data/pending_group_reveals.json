@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "aba22c069d294417bf9740c201ba12ae",
-    "article_title": "New Kerala Govt Urged to be Sensitive",
-    "question": "Who urged the new UDF government in Kerala to remain sensitive to public sentiment?",
-    "answer_label": "A",
-    "answer_text": "A K Antony",
-    "explanation": "A K Antony, a senior Congress leader, gave this advice to ensure the government's decisions align with the people's needs.",
-    "due_at": "2026-05-06T10:08:43.620503+00:00"
-  },
-  {
-    "reveal_id": "b19f41583fe04c40b57f5d8965abc307",
-    "article_title": "New Kerala Govt Urged to be Sensitive",
-    "question": "What is the main reason for the new government in Kerala to be sensitive to public sentiment?",
-    "answer_label": "C",
-    "answer_text": "To maintain public trust",
-    "explanation": "Being sensitive to public sentiment helps the government maintain trust and ensure its decisions are in the best interest of the people.",
-    "due_at": "2026-05-06T10:08:43.964439+00:00"
-  },
-  {
-    "reveal_id": "c36b9613ded7429896da1f898cc40581",
-    "article_title": "New Kerala Govt Urged to be Sensitive",
-    "question": "In which state did A K Antony advise the new government to be sensitive to public sentiment?",
-    "answer_label": "A",
-    "answer_text": "Kerala",
-    "explanation": "The advice was specifically for the new UDF government in Kerala, emphasizing the importance of public sentiment in state governance.",
-    "due_at": "2026-05-06T10:08:44.282797+00:00"
-  },
-  {
-    "reveal_id": "8342f7555d8c43d4b32e3339ad33b54d",
-    "article_title": "Hantavirus Cruise Ship Heads to Spain",
-    "question": "Where is the hantavirus-hit cruise ship headed to?",
+    "reveal_id": "25d32e3f73d04914a38694ca3a8c2917",
+    "article_title": "Dilip Ghosh Criticizes Mamata Banerjee",
+    "question": "Which party does Dilip Ghosh belong to?",
     "answer_label": "B",
-    "answer_text": "Spain",
-    "explanation": "The ship is headed to Spain's Canary Islands after permission was granted for docking.",
-    "due_at": "2026-05-06T10:08:51.230222+00:00"
+    "answer_text": "Bharatiya Janata Party",
+    "explanation": "Dilip Ghosh is a leader of the Bharatiya Janata Party.",
+    "due_at": "2026-05-06T12:01:44.328144+00:00"
   },
   {
-    "reveal_id": "2bdece8fd02b4baa8cf7601806228175",
-    "article_title": "Hantavirus Cruise Ship Heads to Spain",
-    "question": "What is the reason for Spain granting permission to dock the ship?",
+    "reveal_id": "4b2a8e62a6f64205a8539624710df38e",
+    "article_title": "Dilip Ghosh Criticizes Mamata Banerjee",
+    "question": "What was Mamata Banerjee's decision according to Dilip Ghosh?",
     "answer_label": "B",
-    "answer_text": "Humanitarian principles",
-    "explanation": "Spain granted permission to dock citing humanitarian principles and requests from the WHO and EU.",
-    "due_at": "2026-05-06T10:08:51.567451+00:00"
+    "answer_text": "To continue as Chief Minister",
+    "explanation": "Mamata Banerjee decided to continue as Chief Minister despite the election results.",
+    "due_at": "2026-05-06T12:01:44.639057+00:00"
   },
   {
-    "reveal_id": "5cdf7351a2c54e69a4968ddfbdcd5beb",
-    "article_title": "Hantavirus Cruise Ship Heads to Spain",
-    "question": "How many lives have been lost due to the hantavirus outbreak on the cruise ship?",
-    "answer_label": "C",
-    "answer_text": "At least three",
-    "explanation": "At least three lives have been lost due to the hantavirus outbreak on the cruise ship.",
-    "due_at": "2026-05-06T10:08:51.890255+00:00"
+    "reveal_id": "c4fab6c0f64d4279907e5ce13b448f52",
+    "article_title": "Dilip Ghosh Criticizes Mamata Banerjee",
+    "question": "In which state did the assembly election results cause a political disagreement?",
+    "answer_label": "B",
+    "answer_text": "West Bengal",
+    "explanation": "The state assembly election results caused a disagreement in West Bengal.",
+    "due_at": "2026-05-06T12:01:44.928905+00:00"
+  },
+  {
+    "reveal_id": "37cbae50b5ca43f49bcb63a63f6bb170",
+    "article_title": "S Jaishankar Visits Suriname",
+    "question": "Who is on a visit to Suriname to deepen bilateral ties?",
+    "answer_label": "B",
+    "answer_text": "S Jaishankar",
+    "explanation": "S Jaishankar, the External Affairs Minister, is on a visit to Suriname to strengthen India-Suriname relations.",
+    "due_at": "2026-05-06T12:01:51.438868+00:00"
+  },
+  {
+    "reveal_id": "d3f2052ab34741128c8c654d1854e5b9",
+    "article_title": "S Jaishankar Visits Suriname",
+    "question": "Which region does Suriname belong to?",
+    "answer_label": "B",
+    "answer_text": "South America",
+    "explanation": "Suriname is a country located in the northern part of South America.",
+    "due_at": "2026-05-06T12:01:51.767552+00:00"
+  },
+  {
+    "reveal_id": "f9930ced1a52415bbed0dba51219eb7b",
+    "article_title": "S Jaishankar Visits Suriname",
+    "question": "What is the purpose of S Jaishankar's visit to Suriname?",
+    "answer_label": "B",
+    "answer_text": "To deepen bilateral ties",
+    "explanation": "The purpose of S Jaishankar's visit is to deepen bilateral ties and strengthen India-Suriname relations.",
+    "due_at": "2026-05-06T12:01:52.056427+00:00"
   }
 ]
