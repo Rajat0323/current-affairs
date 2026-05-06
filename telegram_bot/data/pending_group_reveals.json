@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "d626d49ec4334e2b92e951017ab36b3b",
-    "article_title": "Network18 Appoints New CEO",
-    "question": "Who has been appointed as the CEO of Creator18?",
-    "answer_label": "A",
-    "answer_text": "Anurag Iyer",
-    "explanation": "Anurag Iyer has been appointed as the CEO of Creator18, as per the official announcement by Network18.",
-    "due_at": "2026-05-06T21:20:05.930057+00:00"
-  },
-  {
-    "reveal_id": "a23f91f464df4733aab55db033ec826f",
-    "article_title": "Network18 Appoints New CEO",
-    "question": "What is Creator18?",
-    "answer_label": "C",
-    "answer_text": "A creator-led media business",
-    "explanation": "Creator18 is Network18's creator-led media business, which has grown significantly over the past year.",
-    "due_at": "2026-05-06T21:20:06.316626+00:00"
-  },
-  {
-    "reveal_id": "e0075a32cb8942739d5ff72a22d66e5f",
-    "article_title": "Network18 Appoints New CEO",
-    "question": "Where will Anurag Iyer be based as the CEO of Creator18?",
+    "reveal_id": "d5e80eed0da8440faa2fbb4d87bd157a",
+    "article_title": "Destination Weddings in India",
+    "question": "What is the impact of destination weddings on real estate in India?",
     "answer_label": "B",
-    "answer_text": "Mumbai",
-    "explanation": "Anurag Iyer will be based in Mumbai as the CEO of Creator18, and will report to Puneet Singhvi.",
-    "due_at": "2026-05-06T21:20:06.602531+00:00"
+    "answer_text": "Increasing demand for hospitality-led properties",
+    "explanation": "Destination weddings are driving real estate trends in India by increasing demand for hospitality-led properties.",
+    "due_at": "2026-05-06T22:22:08.025342+00:00"
   },
   {
-    "reveal_id": "11ffa233379e49fcb8399f971dd84c64",
-    "article_title": "CMF Watch 3 Pro Launched",
-    "question": "What is the claimed battery life of the CMF Watch 3 Pro?",
-    "answer_label": "C",
-    "answer_text": "Up to 13 days",
-    "explanation": "The CMF Watch 3 Pro has a claimed battery life of up to 13 days.",
-    "due_at": "2026-05-06T21:20:12.931558+00:00"
+    "reveal_id": "9b42029846cb434a9eebae0f93fc2c07",
+    "article_title": "Destination Weddings in India",
+    "question": "What is the role of the setting in destination weddings?",
+    "answer_label": "B",
+    "answer_text": "A key factor in celebration design",
+    "explanation": "The setting is no longer just a backdrop, it's a defining factor in both celebration design and property value.",
+    "due_at": "2026-05-06T22:22:08.409423+00:00"
   },
   {
-    "reveal_id": "6983fb2d7f1d4b5191a4effdbaae4403",
-    "article_title": "CMF Watch 3 Pro Launched",
-    "question": "What is the price of the CMF Watch 3 Pro in India?",
-    "answer_label": "C",
-    "answer_text": "Rs 7,999",
-    "explanation": "The CMF Watch 3 Pro is priced at Rs 7,999 in India.",
-    "due_at": "2026-05-06T21:20:13.211605+00:00"
+    "reveal_id": "a4c1d3e8106041ca92244cfada0f3f89",
+    "article_title": "Destination Weddings in India",
+    "question": "How are destination weddings changing wedding decor trends?",
+    "answer_label": "B",
+    "answer_text": "Making the setting a key factor",
+    "explanation": "Destination weddings are changing wedding decor trends by making the setting a key factor in celebration design.",
+    "due_at": "2026-05-06T22:22:08.759762+00:00"
   },
   {
-    "reveal_id": "24182d92fef74b0893b2e34a8a8e997e",
-    "article_title": "CMF Watch 3 Pro Launched",
-    "question": "What notable feature does the CMF Watch 3 Pro have?",
+    "reveal_id": "e38ba08dafb64a309d7d805a19d87640",
+    "article_title": "BJP Wins in West Bengal",
+    "question": "Which party won across nine districts in West Bengal?",
+    "answer_label": "B",
+    "answer_text": "Bharatiya Janata Party",
+    "explanation": "The BJP registered a sweeping victory across nine districts in West Bengal.",
+    "due_at": "2026-05-06T22:22:12.552880+00:00"
+  },
+  {
+    "reveal_id": "1ba64852fff3464895f7bd00c3b0e34d",
+    "article_title": "BJP Wins in West Bengal",
+    "question": "What was the outcome for the TMC in the nine districts?",
     "answer_label": "C",
-    "answer_text": "ChatGPT support",
-    "explanation": "The CMF Watch 3 Pro features ChatGPT support for enhanced user experience.",
-    "due_at": "2026-05-06T21:20:13.494715+00:00"
+    "answer_text": "TMC did not win any seats",
+    "explanation": "The TMC did not win any seats in the nine districts where the BJP swept.",
+    "due_at": "2026-05-06T22:22:12.901443+00:00"
+  },
+  {
+    "reveal_id": "6142f19f34e5484b839b4120ff0ea226",
+    "article_title": "BJP Wins in West Bengal",
+    "question": "What is a possible reason for the change in voter sentiment?",
+    "answer_label": "B",
+    "answer_text": "Anti-incumbency",
+    "explanation": "Voter sentiment appeared shaped by a mix of anti-incumbency, among other factors.",
+    "due_at": "2026-05-06T22:22:13.251214+00:00"
   }
 ]
