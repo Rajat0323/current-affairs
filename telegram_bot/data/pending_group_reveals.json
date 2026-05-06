@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "25d32e3f73d04914a38694ca3a8c2917",
-    "article_title": "Dilip Ghosh Criticizes Mamata Banerjee",
-    "question": "Which party does Dilip Ghosh belong to?",
+    "reveal_id": "19dcf317fa9d4f2498d97cef25b8ec2b",
+    "article_title": "Iran War Cease-Fire",
+    "question": "What is the current status of the war between the US and Iran?",
     "answer_label": "B",
-    "answer_text": "Bharatiya Janata Party",
-    "explanation": "Dilip Ghosh is a leader of the Bharatiya Janata Party.",
-    "due_at": "2026-05-06T12:01:44.328144+00:00"
+    "answer_text": "Cease-fire in effect",
+    "explanation": "A cease-fire has been in effect for a month, but tensions persist.",
+    "due_at": "2026-05-06T13:49:23.481699+00:00"
   },
   {
-    "reveal_id": "4b2a8e62a6f64205a8539624710df38e",
-    "article_title": "Dilip Ghosh Criticizes Mamata Banerjee",
-    "question": "What was Mamata Banerjee's decision according to Dilip Ghosh?",
+    "reveal_id": "7eeb909cf5614ac881ac26c96a371597",
+    "article_title": "Iran War Cease-Fire",
+    "question": "What is a key factor in the US-Iran conflict that affects India?",
     "answer_label": "B",
-    "answer_text": "To continue as Chief Minister",
-    "explanation": "Mamata Banerjee decided to continue as Chief Minister despite the election results.",
-    "due_at": "2026-05-06T12:01:44.639057+00:00"
+    "answer_text": "Energy security",
+    "explanation": "India's energy security is impacted by the conflict due to its reliance on global oil prices.",
+    "due_at": "2026-05-06T13:49:23.797715+00:00"
   },
   {
-    "reveal_id": "c4fab6c0f64d4279907e5ce13b448f52",
-    "article_title": "Dilip Ghosh Criticizes Mamata Banerjee",
-    "question": "In which state did the assembly election results cause a political disagreement?",
-    "answer_label": "B",
-    "answer_text": "West Bengal",
-    "explanation": "The state assembly election results caused a disagreement in West Bengal.",
-    "due_at": "2026-05-06T12:01:44.928905+00:00"
+    "reveal_id": "2a1df9da4cc648988c8b836869e32a8a",
+    "article_title": "Iran War Cease-Fire",
+    "question": "Which of the following is a consequence of the US-Iran conflict for India?",
+    "answer_label": "C",
+    "answer_text": "Implications for energy security",
+    "explanation": "The conflict has implications for India's energy security due to its reliance on global oil prices.",
+    "due_at": "2026-05-06T13:49:24.124540+00:00"
   },
   {
-    "reveal_id": "37cbae50b5ca43f49bcb63a63f6bb170",
-    "article_title": "S Jaishankar Visits Suriname",
-    "question": "Who is on a visit to Suriname to deepen bilateral ties?",
-    "answer_label": "B",
-    "answer_text": "S Jaishankar",
-    "explanation": "S Jaishankar, the External Affairs Minister, is on a visit to Suriname to strengthen India-Suriname relations.",
-    "due_at": "2026-05-06T12:01:51.438868+00:00"
+    "reveal_id": "e58d748967384ab4aca9dba17a6a8632",
+    "article_title": "CM Saini on Triple Engine Government",
+    "question": "What is the concept of a 'triple engine government'?",
+    "answer_label": "A",
+    "answer_text": "A single party ruling at the center, state, and local levels",
+    "explanation": "A triple engine government refers to a single party or alliance ruling at the center, state, and local levels, facilitating coordinated policy implementation.",
+    "due_at": "2026-05-06T13:49:28.338911+00:00"
   },
   {
-    "reveal_id": "d3f2052ab34741128c8c654d1854e5b9",
-    "article_title": "S Jaishankar Visits Suriname",
-    "question": "Which region does Suriname belong to?",
-    "answer_label": "B",
-    "answer_text": "South America",
-    "explanation": "Suriname is a country located in the northern part of South America.",
-    "due_at": "2026-05-06T12:01:51.767552+00:00"
+    "reveal_id": "47eed2c31e254e29a0b52b6a1ad9474e",
+    "article_title": "CM Saini on Triple Engine Government",
+    "question": "What is one of the initiatives mentioned by CM Saini for women's benefit?",
+    "answer_label": "C",
+    "answer_text": "Gas cylinders for \u20b9500",
+    "explanation": "CM Saini mentioned that women are getting gas cylinders for \u20b9500 as part of the state government's initiatives.",
+    "due_at": "2026-05-06T13:49:28.641696+00:00"
   },
   {
-    "reveal_id": "f9930ced1a52415bbed0dba51219eb7b",
-    "article_title": "S Jaishankar Visits Suriname",
-    "question": "What is the purpose of S Jaishankar's visit to Suriname?",
+    "reveal_id": "eb0916b909fd485d916da1cf653bcd04",
+    "article_title": "CM Saini on Triple Engine Government",
+    "question": "Why is a triple engine government important for India's growth?",
     "answer_label": "B",
-    "answer_text": "To deepen bilateral ties",
-    "explanation": "The purpose of S Jaishankar's visit is to deepen bilateral ties and strengthen India-Suriname relations.",
-    "due_at": "2026-05-06T12:01:52.056427+00:00"
+    "answer_text": "It ensures speedy implementation of policies and projects",
+    "explanation": "A triple engine government can facilitate coordinated policy implementation, leading to speedy growth and development in India.",
+    "due_at": "2026-05-06T13:49:29.003783+00:00"
   }
 ]
