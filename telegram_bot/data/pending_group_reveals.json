@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "b0cc853679d343d79f366ce28d222218",
-    "article_title": "Rs 5,000 Crore Credit Scheme for Airlines",
-    "question": "What is the amount of the emergency credit scheme approved for airlines?",
-    "answer_label": "B",
-    "answer_text": "Rs 5,000 Crore",
-    "explanation": "The Union Cabinet approved the emergency credit line guarantee scheme (ECLGS) 5.0 for Rs 5,000 crore.",
-    "due_at": "2026-05-06T04:40:06.002546+00:00"
-  },
-  {
-    "reveal_id": "012f4b52b64a4f55a8f0b921e04d8c09",
-    "article_title": "Rs 5,000 Crore Credit Scheme for Airlines",
-    "question": "Why was the emergency credit scheme approved for airlines?",
-    "answer_label": "B",
-    "answer_text": "Due to the Iran war",
-    "explanation": "The Iran war has led to a sharp hike in operating costs and a decrease in passenger numbers for Indian airlines.",
-    "due_at": "2026-05-06T04:40:06.331298+00:00"
-  },
-  {
-    "reveal_id": "dccd5402c6bc45908a1fa5fc3b91947d",
-    "article_title": "Rs 5,000 Crore Credit Scheme for Airlines",
-    "question": "Who chaired the Union Cabinet that approved the emergency credit scheme?",
+    "reveal_id": "d3baaa446c9c4b47be82365cca998f7f",
+    "article_title": "Gujarat CM on Public Administration",
+    "question": "What was the theme of the Chintan Shibir organized by the Gujarat Revenue Department?",
     "answer_label": "A",
-    "answer_text": "PM Modi",
-    "explanation": "The Union Cabinet chaired by PM Modi approved the emergency credit line guarantee scheme (ECLGS) 5.0.",
-    "due_at": "2026-05-06T04:40:06.661176+00:00"
+    "answer_text": "Collaborate, Innovate and Transform for Better Land Governance",
+    "explanation": "The theme of the Chintan Shibir was focused on improving land governance through collaboration, innovation, and transformation.",
+    "due_at": "2026-05-06T07:42:57.600420+00:00"
   },
   {
-    "reveal_id": "cf30a53982e243cfbacbd0141bb17213",
-    "article_title": "Sebi's Proposal on Commodity Derivatives",
-    "question": "What is Sebi proposing to extend to options contracts in commodity derivatives?",
+    "reveal_id": "bf3397ae58b84aa7b8776687ab51b38c",
+    "article_title": "Gujarat CM on Public Administration",
+    "question": "Who delivered an address on integrating spirituality with duty and service at the Chintan Shibir?",
+    "answer_label": "C",
+    "answer_text": "Spiritual speaker Deepakbhai Desai",
+    "explanation": "Deepakbhai Desai emphasized the importance of understanding karma, following values, and avoiding harm to others in his address.",
+    "due_at": "2026-05-06T07:42:57.981480+00:00"
+  },
+  {
+    "reveal_id": "ae4c320b9fa14865aa279417417fe6cc",
+    "article_title": "Gujarat CM on Public Administration",
+    "question": "What technology is being used by the Gujarat government to correct shortcomings in past resurvey exercises?",
     "answer_label": "B",
-    "answer_text": "Early pay-in benefits",
-    "explanation": "Sebi proposes to extend the benefit of early pay-in to options contracts in commodity derivatives to improve market efficiency.",
-    "due_at": "2026-05-06T04:40:13.842113+00:00"
+    "answer_text": "Drone technology and satellite imagery",
+    "explanation": "The Gujarat government is utilizing drone technology and satellite imagery to improve the accuracy of land records and resurvey exercises.",
+    "due_at": "2026-05-06T07:42:58.308802+00:00"
   },
   {
-    "reveal_id": "d2631ddc9e724d58a63435e44049692b",
-    "article_title": "Sebi's Proposal on Commodity Derivatives",
-    "question": "What is the potential outcome of Sebi's proposal on commodity derivatives?",
+    "reveal_id": "7e5c136555724ed6a78a4cabd15875b6",
+    "article_title": "US-Iran Conflict",
+    "question": "What is the US trying to do to end the Iran war?",
     "answer_label": "C",
-    "answer_text": "Improved investor protection",
-    "explanation": "Sebi's proposal may help reduce settlement risks and enhance investor protection in India's commodity derivatives market.",
-    "due_at": "2026-05-06T04:40:14.184675+00:00"
+    "answer_text": "Ratchet up economic pressure",
+    "explanation": "The US is trying to increase economic pressure on Iran to force a deal.",
+    "due_at": "2026-05-06T07:43:02.404047+00:00"
   },
   {
-    "reveal_id": "97e5d50feae6420c8b30f5128b40def2",
-    "article_title": "Sebi's Proposal on Commodity Derivatives",
-    "question": "Which regulatory body is proposing the changes to commodity derivatives in India?",
+    "reveal_id": "6a60fb9db59d4493bcc0e552ed31ac9a",
+    "article_title": "US-Iran Conflict",
+    "question": "What does Iran want to end the war?",
+    "answer_label": "B",
+    "answer_text": "A big, face-saving compromise",
+    "explanation": "Iran wants a face-saving compromise to save its reputation and interests.",
+    "due_at": "2026-05-06T07:43:02.736290+00:00"
+  },
+  {
+    "reveal_id": "0ce2269dd12244c59e270776f7bd3a19",
+    "article_title": "US-Iran Conflict",
+    "question": "How may the US-Iran conflict affect India?",
     "answer_label": "C",
-    "answer_text": "Sebi",
-    "explanation": "Sebi is the regulatory body proposing the changes to commodity derivatives in India.",
-    "due_at": "2026-05-06T04:40:14.522502+00:00"
+    "answer_text": "It may lead to an increase in global oil prices",
+    "explanation": "The conflict may lead to an increase in global oil prices, which can impact India's economy.",
+    "due_at": "2026-05-06T07:43:03.065849+00:00"
   }
 ]
