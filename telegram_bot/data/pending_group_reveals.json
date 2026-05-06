@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "d3baaa446c9c4b47be82365cca998f7f",
-    "article_title": "Gujarat CM on Public Administration",
-    "question": "What was the theme of the Chintan Shibir organized by the Gujarat Revenue Department?",
+    "reveal_id": "aba22c069d294417bf9740c201ba12ae",
+    "article_title": "New Kerala Govt Urged to be Sensitive",
+    "question": "Who urged the new UDF government in Kerala to remain sensitive to public sentiment?",
     "answer_label": "A",
-    "answer_text": "Collaborate, Innovate and Transform for Better Land Governance",
-    "explanation": "The theme of the Chintan Shibir was focused on improving land governance through collaboration, innovation, and transformation.",
-    "due_at": "2026-05-06T07:42:57.600420+00:00"
+    "answer_text": "A K Antony",
+    "explanation": "A K Antony, a senior Congress leader, gave this advice to ensure the government's decisions align with the people's needs.",
+    "due_at": "2026-05-06T10:08:43.620503+00:00"
   },
   {
-    "reveal_id": "bf3397ae58b84aa7b8776687ab51b38c",
-    "article_title": "Gujarat CM on Public Administration",
-    "question": "Who delivered an address on integrating spirituality with duty and service at the Chintan Shibir?",
+    "reveal_id": "b19f41583fe04c40b57f5d8965abc307",
+    "article_title": "New Kerala Govt Urged to be Sensitive",
+    "question": "What is the main reason for the new government in Kerala to be sensitive to public sentiment?",
     "answer_label": "C",
-    "answer_text": "Spiritual speaker Deepakbhai Desai",
-    "explanation": "Deepakbhai Desai emphasized the importance of understanding karma, following values, and avoiding harm to others in his address.",
-    "due_at": "2026-05-06T07:42:57.981480+00:00"
+    "answer_text": "To maintain public trust",
+    "explanation": "Being sensitive to public sentiment helps the government maintain trust and ensure its decisions are in the best interest of the people.",
+    "due_at": "2026-05-06T10:08:43.964439+00:00"
   },
   {
-    "reveal_id": "ae4c320b9fa14865aa279417417fe6cc",
-    "article_title": "Gujarat CM on Public Administration",
-    "question": "What technology is being used by the Gujarat government to correct shortcomings in past resurvey exercises?",
+    "reveal_id": "c36b9613ded7429896da1f898cc40581",
+    "article_title": "New Kerala Govt Urged to be Sensitive",
+    "question": "In which state did A K Antony advise the new government to be sensitive to public sentiment?",
+    "answer_label": "A",
+    "answer_text": "Kerala",
+    "explanation": "The advice was specifically for the new UDF government in Kerala, emphasizing the importance of public sentiment in state governance.",
+    "due_at": "2026-05-06T10:08:44.282797+00:00"
+  },
+  {
+    "reveal_id": "8342f7555d8c43d4b32e3339ad33b54d",
+    "article_title": "Hantavirus Cruise Ship Heads to Spain",
+    "question": "Where is the hantavirus-hit cruise ship headed to?",
     "answer_label": "B",
-    "answer_text": "Drone technology and satellite imagery",
-    "explanation": "The Gujarat government is utilizing drone technology and satellite imagery to improve the accuracy of land records and resurvey exercises.",
-    "due_at": "2026-05-06T07:42:58.308802+00:00"
+    "answer_text": "Spain",
+    "explanation": "The ship is headed to Spain's Canary Islands after permission was granted for docking.",
+    "due_at": "2026-05-06T10:08:51.230222+00:00"
   },
   {
-    "reveal_id": "7e5c136555724ed6a78a4cabd15875b6",
-    "article_title": "US-Iran Conflict",
-    "question": "What is the US trying to do to end the Iran war?",
-    "answer_label": "C",
-    "answer_text": "Ratchet up economic pressure",
-    "explanation": "The US is trying to increase economic pressure on Iran to force a deal.",
-    "due_at": "2026-05-06T07:43:02.404047+00:00"
-  },
-  {
-    "reveal_id": "6a60fb9db59d4493bcc0e552ed31ac9a",
-    "article_title": "US-Iran Conflict",
-    "question": "What does Iran want to end the war?",
+    "reveal_id": "2bdece8fd02b4baa8cf7601806228175",
+    "article_title": "Hantavirus Cruise Ship Heads to Spain",
+    "question": "What is the reason for Spain granting permission to dock the ship?",
     "answer_label": "B",
-    "answer_text": "A big, face-saving compromise",
-    "explanation": "Iran wants a face-saving compromise to save its reputation and interests.",
-    "due_at": "2026-05-06T07:43:02.736290+00:00"
+    "answer_text": "Humanitarian principles",
+    "explanation": "Spain granted permission to dock citing humanitarian principles and requests from the WHO and EU.",
+    "due_at": "2026-05-06T10:08:51.567451+00:00"
   },
   {
-    "reveal_id": "0ce2269dd12244c59e270776f7bd3a19",
-    "article_title": "US-Iran Conflict",
-    "question": "How may the US-Iran conflict affect India?",
+    "reveal_id": "5cdf7351a2c54e69a4968ddfbdcd5beb",
+    "article_title": "Hantavirus Cruise Ship Heads to Spain",
+    "question": "How many lives have been lost due to the hantavirus outbreak on the cruise ship?",
     "answer_label": "C",
-    "answer_text": "It may lead to an increase in global oil prices",
-    "explanation": "The conflict may lead to an increase in global oil prices, which can impact India's economy.",
-    "due_at": "2026-05-06T07:43:03.065849+00:00"
+    "answer_text": "At least three",
+    "explanation": "At least three lives have been lost due to the hantavirus outbreak on the cruise ship.",
+    "due_at": "2026-05-06T10:08:51.890255+00:00"
   }
 ]
