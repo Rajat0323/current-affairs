@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "19dcf317fa9d4f2498d97cef25b8ec2b",
-    "article_title": "Iran War Cease-Fire",
-    "question": "What is the current status of the war between the US and Iran?",
+    "reveal_id": "c00aff2a364f40a7b68b3f01bdafbb4e",
+    "article_title": "China-Iran Foreign Ministers Meet",
+    "question": "Where did the meeting between Chinese and Iranian foreign ministers take place?",
     "answer_label": "B",
-    "answer_text": "Cease-fire in effect",
-    "explanation": "A cease-fire has been in effect for a month, but tensions persist.",
-    "due_at": "2026-05-06T13:49:23.481699+00:00"
+    "answer_text": "Beijing",
+    "explanation": "The meeting was held in Beijing, as per the state news agency Xinhua.",
+    "due_at": "2026-05-06T16:10:05.606181+00:00"
   },
   {
-    "reveal_id": "7eeb909cf5614ac881ac26c96a371597",
-    "article_title": "Iran War Cease-Fire",
-    "question": "What is a key factor in the US-Iran conflict that affects India?",
-    "answer_label": "B",
-    "answer_text": "Energy security",
-    "explanation": "India's energy security is impacted by the conflict due to its reliance on global oil prices.",
-    "due_at": "2026-05-06T13:49:23.797715+00:00"
-  },
-  {
-    "reveal_id": "2a1df9da4cc648988c8b836869e32a8a",
-    "article_title": "Iran War Cease-Fire",
-    "question": "Which of the following is a consequence of the US-Iran conflict for India?",
-    "answer_label": "C",
-    "answer_text": "Implications for energy security",
-    "explanation": "The conflict has implications for India's energy security due to its reliance on global oil prices.",
-    "due_at": "2026-05-06T13:49:24.124540+00:00"
-  },
-  {
-    "reveal_id": "e58d748967384ab4aca9dba17a6a8632",
-    "article_title": "CM Saini on Triple Engine Government",
-    "question": "What is the concept of a 'triple engine government'?",
+    "reveal_id": "7a32f31270824df1a74152b481b85164",
+    "article_title": "China-Iran Foreign Ministers Meet",
+    "question": "Who is the Iranian counterpart of Chinese Foreign Minister Wang Yi?",
     "answer_label": "A",
-    "answer_text": "A single party ruling at the center, state, and local levels",
-    "explanation": "A triple engine government refers to a single party or alliance ruling at the center, state, and local levels, facilitating coordinated policy implementation.",
-    "due_at": "2026-05-06T13:49:28.338911+00:00"
+    "answer_text": "Abbas Araghchi",
+    "explanation": "Abbas Araghchi is the Iranian counterpart of Wang Yi, as mentioned in the article.",
+    "due_at": "2026-05-06T16:10:05.944721+00:00"
   },
   {
-    "reveal_id": "47eed2c31e254e29a0b52b6a1ad9474e",
-    "article_title": "CM Saini on Triple Engine Government",
-    "question": "What is one of the initiatives mentioned by CM Saini for women's benefit?",
-    "answer_label": "C",
-    "answer_text": "Gas cylinders for \u20b9500",
-    "explanation": "CM Saini mentioned that women are getting gas cylinders for \u20b9500 as part of the state government's initiatives.",
-    "due_at": "2026-05-06T13:49:28.641696+00:00"
-  },
-  {
-    "reveal_id": "eb0916b909fd485d916da1cf653bcd04",
-    "article_title": "CM Saini on Triple Engine Government",
-    "question": "Why is a triple engine government important for India's growth?",
+    "reveal_id": "ceb8d1054da04417a0acee1679b60250",
+    "article_title": "China-Iran Foreign Ministers Meet",
+    "question": "What is the significance of the timing of this meeting?",
     "answer_label": "B",
-    "answer_text": "It ensures speedy implementation of policies and projects",
-    "explanation": "A triple engine government can facilitate coordinated policy implementation, leading to speedy growth and development in India.",
-    "due_at": "2026-05-06T13:49:29.003783+00:00"
+    "answer_text": "It comes ahead of a significant event involving the US President",
+    "explanation": "The meeting comes a week ahead of a significant event involving the US President, indicating its potential impact on global geopolitics.",
+    "due_at": "2026-05-06T16:10:06.995174+00:00"
+  },
+  {
+    "reveal_id": "1e5bef2e54d6402ca553474c30d2ea0c",
+    "article_title": "Assam HSLC Compartmental Exam 2026",
+    "question": "When will the Assam HSLC Compartmental exams start?",
+    "answer_label": "B",
+    "answer_text": "May 29, 2026",
+    "explanation": "The exams are scheduled to start on May 29, 2026, as per the released timetable.",
+    "due_at": "2026-05-06T16:10:11.191488+00:00"
+  },
+  {
+    "reveal_id": "8d28b598c1094b1b817f7abbea7bb6cb",
+    "article_title": "Assam HSLC Compartmental Exam 2026",
+    "question": "Which board released the timetable for the HSLC Compartmental exams?",
+    "answer_label": "B",
+    "answer_text": "Assam State School Education Board",
+    "explanation": "The Assam State School Education Board is responsible for conducting the HSLC exams in Assam.",
+    "due_at": "2026-05-06T16:10:11.520888+00:00"
+  },
+  {
+    "reveal_id": "f92cc40dac5e49f79e94b5b632f418f1",
+    "article_title": "Assam HSLC Compartmental Exam 2026",
+    "question": "What is the purpose of the HSLC Compartmental exams?",
+    "answer_label": "B",
+    "answer_text": "To provide a second chance for students to pass",
+    "explanation": "The HSLC Compartmental exams provide an opportunity for students who failed to pass in the first attempt to clear their exams.",
+    "due_at": "2026-05-06T16:10:11.885693+00:00"
   }
 ]
