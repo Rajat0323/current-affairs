@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "67d6522c287c429fbf2e8b8b52e54ba9",
-    "article_title": "Italy PM Slams Deepfakes",
-    "question": "What type of images were created of Italy's PM Giorgia Meloni?",
-    "answer_label": "B",
-    "answer_text": "AI-generated deepfakes",
-    "explanation": "The article mentions that the images were created using AI technology, making them deepfakes.",
-    "due_at": "2026-05-06T19:38:15.007725+00:00"
-  },
-  {
-    "reveal_id": "79cef2d70c1e46fe938c8a01bd1458b1",
-    "article_title": "Italy PM Slams Deepfakes",
-    "question": "How did Italy's PM Giorgia Meloni respond to the deepfakes?",
-    "answer_label": "C",
-    "answer_text": "She condemned them as shameful",
-    "explanation": "Meloni slammed the deepfakes, calling them shameful and a form of misinformation.",
-    "due_at": "2026-05-06T19:38:15.288949+00:00"
-  },
-  {
-    "reveal_id": "f407233ae0d84d43a7afd67398febb41",
-    "article_title": "Italy PM Slams Deepfakes",
-    "question": "What is a concern highlighted by the incident, according to the context?",
-    "answer_label": "B",
-    "answer_text": "The spread of misinformation through deepfakes",
-    "explanation": "The incident highlights the growing concern of deepfakes and their potential to spread misinformation.",
-    "due_at": "2026-05-06T19:38:15.568782+00:00"
-  },
-  {
-    "reveal_id": "e826972c56244681a32b3933f22b0d80",
-    "article_title": "IPL 2026 Final in Ahmedabad",
-    "question": "Where will the 2026 Indian Premier League final be held?",
+    "reveal_id": "d626d49ec4334e2b92e951017ab36b3b",
+    "article_title": "Network18 Appoints New CEO",
+    "question": "Who has been appointed as the CEO of Creator18?",
     "answer_label": "A",
-    "answer_text": "Narendra Modi Stadium",
-    "explanation": "The final will be held at the Narendra Modi Stadium in Ahmedabad.",
-    "due_at": "2026-05-06T19:38:22.309612+00:00"
+    "answer_text": "Anurag Iyer",
+    "explanation": "Anurag Iyer has been appointed as the CEO of Creator18, as per the official announcement by Network18.",
+    "due_at": "2026-05-06T21:20:05.930057+00:00"
   },
   {
-    "reveal_id": "87902f6ab85b48af8d07987c52a96425",
-    "article_title": "IPL 2026 Final in Ahmedabad",
-    "question": "Which cities will host the playoffs?",
+    "reveal_id": "a23f91f464df4733aab55db033ec826f",
+    "article_title": "Network18 Appoints New CEO",
+    "question": "What is Creator18?",
     "answer_label": "C",
-    "answer_text": "Mullanpur and Dharamsala",
-    "explanation": "The playoffs will take place in Mullanpur and Dharamsala.",
-    "due_at": "2026-05-06T19:38:22.600062+00:00"
+    "answer_text": "A creator-led media business",
+    "explanation": "Creator18 is Network18's creator-led media business, which has grown significantly over the past year.",
+    "due_at": "2026-05-06T21:20:06.316626+00:00"
   },
   {
-    "reveal_id": "b517cca9fcbc46a6a6eda75897c4537f",
-    "article_title": "IPL 2026 Final in Ahmedabad",
-    "question": "On which date is the 2026 Indian Premier League final scheduled?",
-    "answer_label": "D",
-    "answer_text": "May 31",
-    "explanation": "The final is scheduled to be played on May 31.",
-    "due_at": "2026-05-06T19:38:22.881362+00:00"
+    "reveal_id": "e0075a32cb8942739d5ff72a22d66e5f",
+    "article_title": "Network18 Appoints New CEO",
+    "question": "Where will Anurag Iyer be based as the CEO of Creator18?",
+    "answer_label": "B",
+    "answer_text": "Mumbai",
+    "explanation": "Anurag Iyer will be based in Mumbai as the CEO of Creator18, and will report to Puneet Singhvi.",
+    "due_at": "2026-05-06T21:20:06.602531+00:00"
+  },
+  {
+    "reveal_id": "11ffa233379e49fcb8399f971dd84c64",
+    "article_title": "CMF Watch 3 Pro Launched",
+    "question": "What is the claimed battery life of the CMF Watch 3 Pro?",
+    "answer_label": "C",
+    "answer_text": "Up to 13 days",
+    "explanation": "The CMF Watch 3 Pro has a claimed battery life of up to 13 days.",
+    "due_at": "2026-05-06T21:20:12.931558+00:00"
+  },
+  {
+    "reveal_id": "6983fb2d7f1d4b5191a4effdbaae4403",
+    "article_title": "CMF Watch 3 Pro Launched",
+    "question": "What is the price of the CMF Watch 3 Pro in India?",
+    "answer_label": "C",
+    "answer_text": "Rs 7,999",
+    "explanation": "The CMF Watch 3 Pro is priced at Rs 7,999 in India.",
+    "due_at": "2026-05-06T21:20:13.211605+00:00"
+  },
+  {
+    "reveal_id": "24182d92fef74b0893b2e34a8a8e997e",
+    "article_title": "CMF Watch 3 Pro Launched",
+    "question": "What notable feature does the CMF Watch 3 Pro have?",
+    "answer_label": "C",
+    "answer_text": "ChatGPT support",
+    "explanation": "The CMF Watch 3 Pro features ChatGPT support for enhanced user experience.",
+    "due_at": "2026-05-06T21:20:13.494715+00:00"
   }
 ]
