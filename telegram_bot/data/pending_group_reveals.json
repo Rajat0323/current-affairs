@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "30fc1ae41c78443d965938006da5f3b6",
-    "article_title": "AAP Accused of Vendetta Politics",
-    "question": "Who accused AAP of vendetta politics?",
+    "reveal_id": "01c5ae7cbafd42fe8ffc17d293d3458d",
+    "article_title": "NHL Trade Rumors",
+    "question": "Which team is rumored to be interested in trading for Jordan Kyrou?",
+    "answer_label": "B",
+    "answer_text": "Edmonton Oilers",
+    "explanation": "The article mentions that the Edmonton Oilers may consider trading for Jordan Kyrou due to their scoring depth issues.",
+    "due_at": "2026-05-06T00:39:55.178872+00:00"
+  },
+  {
+    "reveal_id": "6f132c1c3f834b4da9b5c927dedc47f9",
+    "article_title": "NHL Trade Rumors",
+    "question": "What is the reported value of Jordan Kyrou's contract?",
+    "answer_label": "B",
+    "answer_text": "$65 million",
+    "explanation": "The article states that Jordan Kyrou has a $65 million contract.",
+    "due_at": "2026-05-06T00:39:55.534954+00:00"
+  },
+  {
+    "reveal_id": "21ccf50aee304a9390238d113ae1a2d3",
+    "article_title": "NHL Trade Rumors",
+    "question": "Why might the Edmonton Oilers want to trade for Jordan Kyrou?",
+    "answer_label": "B",
+    "answer_text": "To address scoring depth issues",
+    "explanation": "The article mentions that the Edmonton Oilers have scoring depth issues, which Jordan Kyrou could help address.",
+    "due_at": "2026-05-06T00:39:55.890143+00:00"
+  },
+  {
+    "reveal_id": "1648463c64694efba5e2a2d43210edd5",
+    "article_title": "SCI Appoints New Director",
+    "question": "Who has been appointed as Director of Bulk Carriers and Tankers in Shipping Corporation of India?",
     "answer_label": "A",
-    "answer_text": "Raghav Chadha",
-    "explanation": "Raghav Chadha met President Murmu to accuse AAP of vendetta politics.",
-    "due_at": "2026-05-05T23:45:43.836147+00:00"
+    "answer_text": "Chandran Durai Daniel",
+    "explanation": "Chandran Durai Daniel has been appointed as the new Director, effective May 5, 2026.",
+    "due_at": "2026-05-06T00:39:59.838985+00:00"
   },
   {
-    "reveal_id": "e847236d9f6d4ad6ad50b9ea659d0899",
-    "article_title": "AAP Accused of Vendetta Politics",
-    "question": "What do ex-AAP MPs claim is happening to them after joining BJP?",
+    "reveal_id": "1ffc6c28ace647d8b95d267e04b54063",
+    "article_title": "SCI Appoints New Director",
+    "question": "When did Chandran Durai Daniel's appointment as Director come into effect?",
     "answer_label": "B",
-    "answer_text": "They are being harassed",
-    "explanation": "Ex-AAP MPs claim they are being harassed after joining BJP.",
-    "due_at": "2026-05-05T23:45:44.169610+00:00"
+    "answer_text": "May 5, 2026",
+    "explanation": "The appointment is effective from May 5, 2026.",
+    "due_at": "2026-05-06T00:40:00.197733+00:00"
   },
   {
-    "reveal_id": "f1a6637e74dc4ca7b6a7577389666dca",
-    "article_title": "AAP Accused of Vendetta Politics",
-    "question": "In which state do ex-AAP MPs allege misuse of state machinery?",
+    "reveal_id": "52f826f9515846e29932c15ee1737c01",
+    "article_title": "SCI Appoints New Director",
+    "question": "Who relinquished the additional charge of Director of Bulk Carriers and Tankers?",
     "answer_label": "A",
-    "answer_text": "Punjab",
-    "explanation": "Ex-AAP MPs allege misuse of state machinery in Punjab.",
-    "due_at": "2026-05-05T23:45:44.492869+00:00"
-  },
-  {
-    "reveal_id": "a53a561196b740bc8e82579ed194827f",
-    "article_title": "Uncontacted Tribes in Amazon",
-    "question": "Where are the uncontacted tribes located?",
-    "answer_label": "B",
-    "answer_text": "Brazilian Amazon",
-    "explanation": "The uncontacted tribes are located in the Brazilian Amazon, as revealed by the drone footage.",
-    "due_at": "2026-05-05T23:45:48.065357+00:00"
-  },
-  {
-    "reveal_id": "4205e9cc91b84c04a88f9f171e58017d",
-    "article_title": "Uncontacted Tribes in Amazon",
-    "question": "How many groups of uncontacted people are estimated to be in the Brazilian Amazon?",
-    "answer_label": "B",
-    "answer_text": "100",
-    "explanation": "At least 100 groups of people have chosen to remain completely cut off from modern society.",
-    "due_at": "2026-05-05T23:45:48.391812+00:00"
-  },
-  {
-    "reveal_id": "4fc53148dd404167b444ab7ad2319c29",
-    "article_title": "Uncontacted Tribes in Amazon",
-    "question": "What is the estimated time period since these tribes have had no contact with the outside world?",
-    "answer_label": "D",
-    "answer_text": "60,000 years",
-    "explanation": "The tribes have had no contact with the outside world for approximately 60,000 years.",
-    "due_at": "2026-05-05T23:45:48.720846+00:00"
+    "answer_text": "Rear Admiral Jaswinder Singh",
+    "explanation": "Rear Admiral Jaswinder Singh relinquished the additional charge of the position.",
+    "due_at": "2026-05-06T00:40:00.551654+00:00"
   }
 ]
