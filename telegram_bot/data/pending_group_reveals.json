@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "c00aff2a364f40a7b68b3f01bdafbb4e",
-    "article_title": "China-Iran Foreign Ministers Meet",
-    "question": "Where did the meeting between Chinese and Iranian foreign ministers take place?",
-    "answer_label": "B",
-    "answer_text": "Beijing",
-    "explanation": "The meeting was held in Beijing, as per the state news agency Xinhua.",
-    "due_at": "2026-05-06T16:10:05.606181+00:00"
-  },
-  {
-    "reveal_id": "7a32f31270824df1a74152b481b85164",
-    "article_title": "China-Iran Foreign Ministers Meet",
-    "question": "Who is the Iranian counterpart of Chinese Foreign Minister Wang Yi?",
+    "reveal_id": "1c99318c66284e0c9934a79b3d20cdd6",
+    "article_title": "India Services Growth Picks Up",
+    "question": "What was the main reason for the growth in India's services sector in April?",
     "answer_label": "A",
-    "answer_text": "Abbas Araghchi",
-    "explanation": "Abbas Araghchi is the Iranian counterpart of Wang Yi, as mentioned in the article.",
-    "due_at": "2026-05-06T16:10:05.944721+00:00"
+    "answer_text": "Strong domestic demand",
+    "explanation": "The growth in India's services sector was driven by strong domestic demand, as indicated by the Purchasing Managers' Index.",
+    "due_at": "2026-05-06T17:47:52.653427+00:00"
   },
   {
-    "reveal_id": "ceb8d1054da04417a0acee1679b60250",
-    "article_title": "China-Iran Foreign Ministers Meet",
-    "question": "What is the significance of the timing of this meeting?",
+    "reveal_id": "1726d1d0c0ed4f409fb9786912b8dbba",
+    "article_title": "India Services Growth Picks Up",
+    "question": "What index showed the growth in India's services sector in April?",
     "answer_label": "B",
-    "answer_text": "It comes ahead of a significant event involving the US President",
-    "explanation": "The meeting comes a week ahead of a significant event involving the US President, indicating its potential impact on global geopolitics.",
-    "due_at": "2026-05-06T16:10:06.995174+00:00"
+    "answer_text": "Purchasing Managers' Index",
+    "explanation": "The Purchasing Managers' Index (PMI) is used to measure the growth of the services sector.",
+    "due_at": "2026-05-06T17:47:53.037717+00:00"
   },
   {
-    "reveal_id": "1e5bef2e54d6402ca553474c30d2ea0c",
-    "article_title": "Assam HSLC Compartmental Exam 2026",
-    "question": "When will the Assam HSLC Compartmental exams start?",
-    "answer_label": "B",
-    "answer_text": "May 29, 2026",
-    "explanation": "The exams are scheduled to start on May 29, 2026, as per the released timetable.",
-    "due_at": "2026-05-06T16:10:11.191488+00:00"
+    "reveal_id": "b97a23acca70410795a64e233e870509",
+    "article_title": "India Services Growth Picks Up",
+    "question": "What is the potential outcome of strong domestic demand on the Indian economy?",
+    "answer_label": "C",
+    "answer_text": "Increased economic growth and job creation",
+    "explanation": "Strong domestic demand can lead to increased economic growth and job creation in India, as it drives the growth of various sectors, including services.",
+    "due_at": "2026-05-06T17:47:53.389942+00:00"
   },
   {
-    "reveal_id": "8d28b598c1094b1b817f7abbea7bb6cb",
-    "article_title": "Assam HSLC Compartmental Exam 2026",
-    "question": "Which board released the timetable for the HSLC Compartmental exams?",
+    "reveal_id": "4f1ffe4eac7b4769aa25bbb82a4a9bed",
+    "article_title": "Delhi Capitals' Playoff Hopes",
+    "question": "What is the current situation of Delhi Capitals in the Indian Premier League?",
     "answer_label": "B",
-    "answer_text": "Assam State School Education Board",
-    "explanation": "The Assam State School Education Board is responsible for conducting the HSLC exams in Assam.",
-    "due_at": "2026-05-06T16:10:11.520888+00:00"
+    "answer_text": "Struggling to qualify for playoffs",
+    "explanation": "Delhi Capitals suffered their sixth defeat, making their playoff hopes uncertain.",
+    "due_at": "2026-05-06T17:47:57.610617+00:00"
   },
   {
-    "reveal_id": "f92cc40dac5e49f79e94b5b632f418f1",
-    "article_title": "Assam HSLC Compartmental Exam 2026",
-    "question": "What is the purpose of the HSLC Compartmental exams?",
+    "reveal_id": "f26cb9cf44424db4a917bbafadda71a5",
+    "article_title": "Delhi Capitals' Playoff Hopes",
+    "question": "How many years has it been since Delhi Capitals last qualified for the playoffs?",
     "answer_label": "B",
-    "answer_text": "To provide a second chance for students to pass",
-    "explanation": "The HSLC Compartmental exams provide an opportunity for students who failed to pass in the first attempt to clear their exams.",
-    "due_at": "2026-05-06T16:10:11.885693+00:00"
+    "answer_text": "5 years",
+    "explanation": "Delhi Capitals are trying to qualify for the playoffs for the first time in five years.",
+    "due_at": "2026-05-06T17:47:57.968553+00:00"
+  },
+  {
+    "reveal_id": "52e2967aae4043e08f0dca0d1b055d3f",
+    "article_title": "Delhi Capitals' Playoff Hopes",
+    "question": "Who is the coach of Delhi Capitals?",
+    "answer_label": "B",
+    "answer_text": "Hemang Badani",
+    "explanation": "Hemang Badani is the coach of Delhi Capitals, as mentioned in the article.",
+    "due_at": "2026-05-06T17:47:58.312321+00:00"
   }
 ]
