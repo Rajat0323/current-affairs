@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "7b0b8ca3b2a2429d9f8af88d532e8599",
-    "article_title": "Greaves Cotton Q4 FY26 Performance",
-    "question": "What was the percentage of Greaves Cotton's Q4 FY26 revenue growth?",
-    "answer_label": "C",
-    "answer_text": "22%",
-    "explanation": "Greaves Cotton reported 22% YoY revenue growth in Q4 FY26.",
-    "due_at": "2026-05-07T19:42:26.305337+00:00"
+    "reveal_id": "91057f071e544ac7b8058cf1a0c26287",
+    "article_title": "US-Iran War Deal",
+    "question": "What is the main condition put forward by the US for a deal with Iran?",
+    "answer_label": "A",
+    "answer_text": "Reopening the Strait of Hormuz",
+    "explanation": "The US wants Iran to reopen the Strait of Hormuz to international shipping as part of the deal.",
+    "due_at": "2026-05-07T21:14:09.380088+00:00"
   },
   {
-    "reveal_id": "553e5efddded43a9aec6cd0f41a4ec85",
-    "article_title": "Greaves Cotton Q4 FY26 Performance",
-    "question": "What segments drove Greaves Cotton's Q4 FY26 performance?",
+    "reveal_id": "5f178fbd0fcb47f5b5b1ceb847c05590",
+    "article_title": "US-Iran War Deal",
+    "question": "What has been the impact of the US-Iran conflict on global oil prices?",
     "answer_label": "C",
-    "answer_text": "Energy, Mobility, and Industrial",
-    "explanation": "The company's performance was driven by energy, mobility, and industrial segments.",
-    "due_at": "2026-05-07T19:42:26.676598+00:00"
+    "answer_text": "Prices have increased",
+    "explanation": "The conflict has led to an increase in global oil prices, with Brent crude oil prices stabilizing at around $100 a barrel.",
+    "due_at": "2026-05-07T21:14:09.730971+00:00"
   },
   {
-    "reveal_id": "10b0dfeb8d6440ef9e3396074819b977",
-    "article_title": "Greaves Cotton Q4 FY26 Performance",
-    "question": "What is the percentage of Greaves Cotton's international operations' contribution?",
-    "answer_label": "C",
-    "answer_text": "13%",
-    "explanation": "The company's international operations contributed 13% to its revenue.",
-    "due_at": "2026-05-07T19:42:27.031583+00:00"
-  },
-  {
-    "reveal_id": "2bbd6a6fd7934f1787742e55277947b7",
-    "article_title": "Odisha to Open 23 Truck Terminals",
-    "question": "What is the main purpose of opening 23 truck terminals in Odisha?",
+    "reveal_id": "66757ea7a4cf42b69fa4a0710b149c34",
+    "article_title": "US-Iran War Deal",
+    "question": "What has US President Donald Trump threatened to do if Iran does not accept the deal?",
     "answer_label": "B",
-    "answer_text": "To reduce accidents caused by roadside parking",
-    "explanation": "The main purpose is to reduce accidents caused by unauthorised roadside parking of heavy vehicles.",
-    "due_at": "2026-05-07T19:42:30.878905+00:00"
+    "answer_text": "Start a new wave of bombing",
+    "explanation": "Trump has threatened to start a new wave of bombing if Iran does not accept the deal.",
+    "due_at": "2026-05-07T21:14:10.069144+00:00"
   },
   {
-    "reveal_id": "6d221af5817347e18a8d89bb3fc20245",
-    "article_title": "Odisha to Open 23 Truck Terminals",
-    "question": "How many truck terminals will be operational in Odisha by the end of May?",
-    "answer_label": "D",
-    "answer_text": "23",
-    "explanation": "The Odisha government plans to make 23 truck terminals operational by the end of May.",
-    "due_at": "2026-05-07T19:42:31.212134+00:00"
-  },
-  {
-    "reveal_id": "e87e95adc13b4fcb8c7a41a395b9e69c",
-    "article_title": "Odisha to Open 23 Truck Terminals",
-    "question": "What facilities will the truck terminals provide to drivers and transport operators?",
+    "reveal_id": "ae9bcdf74cec4faca6308d14072daef3",
+    "article_title": "Pat Cummins' New CA Contract",
+    "question": "What is the annual value of Pat Cummins' new CA contract in Indian Rupees?",
     "answer_label": "C",
-    "answer_text": "Parking space, hotels, logistics support, and other essential services",
-    "explanation": "The terminals will provide parking space, hotels, logistics support, and other essential services.",
-    "due_at": "2026-05-07T19:42:31.583413+00:00"
+    "answer_text": "\u20b927.2 crore",
+    "explanation": "The contract is worth AUD 4 million per season, which is approximately \u20b927.2 crore annually.",
+    "due_at": "2026-05-07T21:14:13.848314+00:00"
+  },
+  {
+    "reveal_id": "a3fea8d2df8c4285b4b901ce18a9ba05",
+    "article_title": "Pat Cummins' New CA Contract",
+    "question": "How long will Pat Cummins be tied to international cricket with his new contract?",
+    "answer_label": "D",
+    "answer_text": "2029",
+    "explanation": "The contract will keep Cummins tied to international cricket through 2029.",
+    "due_at": "2026-05-07T21:14:14.193086+00:00"
+  },
+  {
+    "reveal_id": "5e5a01318e39414ea6014f13f4055483",
+    "article_title": "Pat Cummins' New CA Contract",
+    "question": "What is the total value of Pat Cummins' 3-year contract in Indian Rupees?",
+    "answer_label": "D",
+    "answer_text": "\u20b982 crore",
+    "explanation": "The total value is approximately \u20b927.2 crore annually for 3 years, which is around \u20b982 crore.",
+    "due_at": "2026-05-07T21:14:17.703314+00:00"
   }
 ]
