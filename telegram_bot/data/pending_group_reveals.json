@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "f161b525d2a245e4ba99f9c69c5e1878",
-    "article_title": "BJP Leader Condemns Aide's Murder",
-    "question": "Which party does Dilip Ghosh belong to?",
-    "answer_label": "B",
-    "answer_text": "BJP",
-    "explanation": "Dilip Ghosh is a leader of the Bharatiya Janata Party (BJP).",
-    "due_at": "2026-05-07T15:38:22.597148+00:00"
-  },
-  {
-    "reveal_id": "7ff3901f17e545058f6dfbd8575bd72a",
-    "article_title": "BJP Leader Condemns Aide's Murder",
-    "question": "In which state did the murder of Suvendu Adhikari's aide occur?",
-    "answer_label": "B",
-    "answer_text": "West Bengal",
-    "explanation": "The incident happened in West Bengal, where Suvendu Adhikari is a prominent political figure.",
-    "due_at": "2026-05-07T15:38:22.882945+00:00"
-  },
-  {
-    "reveal_id": "f5b934776d5d4109b7a0c81b5aed248c",
-    "article_title": "BJP Leader Condemns Aide's Murder",
-    "question": "What did Dilip Ghosh urge after the murder?",
-    "answer_label": "B",
-    "answer_text": "Police action",
-    "explanation": "Dilip Ghosh urged police action to address the law and order concerns following the murder.",
-    "due_at": "2026-05-07T15:38:23.164442+00:00"
-  },
-  {
-    "reveal_id": "40432e40c7d648ffb84769a6c8662a2b",
-    "article_title": "Bihar Cabinet Expansion",
-    "question": "Who is likely to make his political debut in the Bihar cabinet expansion?",
+    "reveal_id": "de4da868442e469b972844b2a2f6fbea",
+    "article_title": "Siva Krishna on Chiranjeevi",
+    "question": "Who does Siva Krishna claim had fewer initial hits?",
     "answer_label": "A",
-    "answer_text": "Nishant Kumar",
-    "explanation": "Nishant Kumar is the son of Nitish Kumar and is expected to join the cabinet.",
-    "due_at": "2026-05-07T15:38:29.935384+00:00"
+    "answer_text": "Chiranjeevi",
+    "explanation": "Siva Krishna claims he had more initial hits than Chiranjeevi, implying Chiranjeevi had fewer initial hits.",
+    "due_at": "2026-05-07T17:42:31.762592+00:00"
   },
   {
-    "reveal_id": "ce2ffbfe442740d9a6cac885ebfc7cc8",
-    "article_title": "Bihar Cabinet Expansion",
-    "question": "Which leaders are expected to attend the swearing-in ceremony?",
+    "reveal_id": "1bc16b547ed44d2a833eadf8aa73e4aa",
+    "article_title": "Siva Krishna on Chiranjeevi",
+    "question": "What factor does Siva Krishna attribute to Chiranjeevi's rise to becoming Tollywood's No. 1 hero?",
+    "answer_label": "B",
+    "answer_text": "His willingness to take on all roles",
+    "explanation": "Siva Krishna attributes Chiranjeevi's rise to his willingness to take on all roles.",
+    "due_at": "2026-05-07T17:42:32.099014+00:00"
+  },
+  {
+    "reveal_id": "de45bc10245249a4b7a0801d0a1bdc9b",
+    "article_title": "Siva Krishna on Chiranjeevi",
+    "question": "What type of cinema does Siva Krishna acknowledge the industry needs?",
+    "answer_label": "B",
+    "answer_text": "Commercial cinema",
+    "explanation": "Siva Krishna acknowledges the industry's need for commercial cinema, which Chiranjeevi excelled at.",
+    "due_at": "2026-05-07T17:42:32.443433+00:00"
+  },
+  {
+    "reveal_id": "9fe624aff0d846b6a913dce84b0aa061",
+    "article_title": "Cerberus Elevates Insider to Head India Ops",
+    "question": "Where is Cerberus Capital Management headquartered?",
     "answer_label": "A",
-    "answer_text": "PM Modi and HM Shah",
-    "explanation": "PM Modi and HM Shah are top NDA leaders and are expected to attend the ceremony.",
-    "due_at": "2026-05-07T15:38:30.220515+00:00"
+    "answer_text": "New York",
+    "explanation": "Cerberus Capital Management is headquartered in New York. This is mentioned in the article.",
+    "due_at": "2026-05-07T17:42:36.283150+00:00"
   },
   {
-    "reveal_id": "484ecd2a73ee4d51a92f9bcf3bc6fbca",
-    "article_title": "Bihar Cabinet Expansion",
-    "question": "What is the significance of the Bihar cabinet expansion?",
+    "reveal_id": "abbbbc593e514484b7fbbae30bd5234c",
+    "article_title": "Cerberus Elevates Insider to Head India Ops",
+    "question": "Who has been appointed as the head of Cerberus's India operations?",
+    "answer_label": "A",
+    "answer_text": "Rahul Sangwan",
+    "explanation": "Rahul Sangwan has been appointed as the head of Cerberus's India operations, as per the article.",
+    "due_at": "2026-05-07T17:42:36.619074+00:00"
+  },
+  {
+    "reveal_id": "96dad4cbf3954251b45a2936fe975330",
+    "article_title": "Cerberus Elevates Insider to Head India Ops",
+    "question": "What type of firm is Cerberus Capital Management?",
     "answer_label": "C",
-    "answer_text": "It may impact Bihar's governance and development",
-    "explanation": "The cabinet expansion may impact Bihar's governance and development, making it a significant political event.",
-    "due_at": "2026-05-07T15:38:30.511093+00:00"
+    "answer_text": "Alternative Investment Firm",
+    "explanation": "Cerberus Capital Management is an alternative investment firm, as mentioned in the article.",
+    "due_at": "2026-05-07T17:42:36.954173+00:00"
   }
 ]
