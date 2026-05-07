@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "32476f4493374a9993e9f6f85e8ac442",
-    "article_title": "Home Charging for EVs",
-    "question": "What is a key consideration for a home charging setup in India?",
+    "reveal_id": "6e7130563cdd4309bc2b43e0537ba47e",
+    "article_title": "Delhi Rolls Out Mobile Heat Relief Units",
+    "question": "What has the Delhi government introduced to combat the heat wave?",
     "answer_label": "B",
-    "answer_text": "Adequate wiring at home",
-    "explanation": "Adequate wiring is necessary to support the electrical needs of an EV charging setup.",
-    "due_at": "2026-05-07T00:15:23.559486+00:00"
+    "answer_text": "Mobile heat relief units",
+    "explanation": "The Delhi government has introduced mobile heat relief units to provide relief to citizens during the heat wave.",
+    "due_at": "2026-05-07T01:55:36.791167+00:00"
   },
   {
-    "reveal_id": "fb165c4e056341279c1c21c1145680ec",
-    "article_title": "Home Charging for EVs",
-    "question": "Why is a fixed parking spot important for EV owners in India?",
+    "reveal_id": "ee1f9dd63e7d4095a04eb43b05027ef3",
+    "article_title": "Delhi Rolls Out Mobile Heat Relief Units",
+    "question": "What is the primary goal of the mobile heat relief units?",
     "answer_label": "C",
-    "answer_text": "For safe and efficient home charging",
-    "explanation": "A fixed parking spot allows for the installation of a dedicated home charging point.",
-    "due_at": "2026-05-07T00:15:23.842643+00:00"
+    "answer_text": "To protect citizens from heat-related illnesses",
+    "explanation": "The primary goal of the mobile heat relief units is to protect citizens from heat-related illnesses.",
+    "due_at": "2026-05-07T01:55:37.121768+00:00"
   },
   {
-    "reveal_id": "e7563458ac6d4b1aac79a1e5552a7750",
-    "article_title": "Home Charging for EVs",
-    "question": "What is crucial for efficient and stress-free EV ownership in India?",
-    "answer_label": "B",
-    "answer_text": "Proper installation and safety measures",
-    "explanation": "Proper installation and safety measures ensure the home charging setup is safe and functional.",
-    "due_at": "2026-05-07T00:15:24.141372+00:00"
-  },
-  {
-    "reveal_id": "ae496258be554160b0eac9546345ed88",
-    "article_title": "Tamil Nadu Government Formation",
-    "question": "Who met with the Tamil Nadu Governor to stake claim to form the next government?",
+    "reveal_id": "e3ffeb39aa9741a98adff96aef8cb30f",
+    "article_title": "Delhi Rolls Out Mobile Heat Relief Units",
+    "question": "What can be inferred about the Delhi government's approach to public health?",
     "answer_label": "A",
-    "answer_text": "Vijay",
-    "explanation": "TVK chief Vijay met with the Governor to stake his claim.",
-    "due_at": "2026-05-07T00:15:30.617368+00:00"
+    "answer_text": "It is people-centric",
+    "explanation": "The introduction of mobile heat relief units suggests that the Delhi government's approach to public health is people-centric.",
+    "due_at": "2026-05-07T01:55:37.454780+00:00"
   },
   {
-    "reveal_id": "7f052267cff84f1d90f4829b91af2ba6",
-    "article_title": "Tamil Nadu Government Formation",
-    "question": "What is the Tamil Nadu Governor's current stance on TVK forming the government?",
-    "answer_label": "B",
-    "answer_text": "He is not convinced TVK has the numbers",
-    "explanation": "The Governor is not convinced TVK has the numbers to form a majority government.",
-    "due_at": "2026-05-07T00:15:30.895236+00:00"
+    "reveal_id": "6a054633f62c4782b862d0295f4bbaf8",
+    "article_title": "Punjab FC vs Chennaiyin ISL Match",
+    "question": "Which two teams are playing in the mentioned ISL match?",
+    "answer_label": "A",
+    "answer_text": "Punjab FC and Chennaiyin",
+    "explanation": "The article mentions the ISL match between Punjab FC and Chennaiyin.",
+    "due_at": "2026-05-07T01:55:44.584697+00:00"
   },
   {
-    "reveal_id": "a44a7c395e8a4a27895471ecda588adc",
-    "article_title": "Tamil Nadu Government Formation",
-    "question": "Which party has promised support to TVK in forming the government?",
+    "reveal_id": "1d2e65f547794685866d1f3412f12223",
+    "article_title": "Punjab FC vs Chennaiyin ISL Match",
+    "question": "How can fans in India watch the Punjab FC vs Chennaiyin match?",
+    "answer_label": "C",
+    "answer_text": "Both on TV and online",
+    "explanation": "The article states that the match will be live streamed and telecast in India.",
+    "due_at": "2026-05-07T01:55:44.934729+00:00"
+  },
+  {
+    "reveal_id": "6f7bd202acc0412e89aa66fc8927190f",
+    "article_title": "Punjab FC vs Chennaiyin ISL Match",
+    "question": "What is the name of the league in which Punjab FC and Chennaiyin are playing?",
     "answer_label": "B",
-    "answer_text": "Congress",
-    "explanation": "The Congress has promised support to TVK.",
-    "due_at": "2026-05-07T00:15:31.170608+00:00"
+    "answer_text": "Indian Super League",
+    "explanation": "The article mentions the Indian Super League match between Punjab FC and Chennaiyin.",
+    "due_at": "2026-05-07T01:55:45.262350+00:00"
   }
 ]
