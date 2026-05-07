@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "d36ab1b88ef5459688c3c322d18b3de3",
-    "article_title": "India-Vietnam Strategic Partnership",
-    "question": "Who invited the President of Vietnam to India?",
-    "answer_label": "A",
-    "answer_text": "Prime Minister of India",
-    "explanation": "The President of Vietnam was invited by Prime Minister Narendra Modi.",
-    "due_at": "2026-05-07T05:32:42.312032+00:00"
-  },
-  {
-    "reveal_id": "6c04520f7c1f4216b6e52a7b72a8dfcd",
-    "article_title": "India-Vietnam Strategic Partnership",
-    "question": "What was the purpose of the President of Vietnam's visit to India?",
-    "answer_label": "C",
-    "answer_text": "To pay a State Visit",
-    "explanation": "The President of Vietnam paid a State Visit to India from May 5 to 7, 2026.",
-    "due_at": "2026-05-07T05:32:42.609474+00:00"
-  },
-  {
-    "reveal_id": "0f723c39eaf34984ae5c557aaf81d066",
-    "article_title": "India-Vietnam Strategic Partnership",
-    "question": "When did the President of Vietnam visit India?",
+    "reveal_id": "6bfa0e6d98c049efaf24e52db1a5f471",
+    "article_title": "Arunachal Road Contract Terminated",
+    "question": "What is the length of Package B of the four-lane highway from Papu Nallah to Nirjuli?",
     "answer_label": "B",
-    "answer_text": "May 5 to 7, 2026",
-    "explanation": "The President of Vietnam visited India from May 5 to 7, 2026.",
-    "due_at": "2026-05-07T05:32:42.933130+00:00"
+    "answer_text": "11.3 km",
+    "explanation": "Package B covers 11.3 km of the highway.",
+    "due_at": "2026-05-07T08:21:45.649118+00:00"
   },
   {
-    "reveal_id": "ca7993261cba455c8aa23e4ae6b5a356",
-    "article_title": "Spirit Airlines Shuts Down",
-    "question": "What was the main reason for Spirit Airlines' shutdown?",
+    "reveal_id": "6ee2b1e17cc24f3295823cea847efbd6",
+    "article_title": "Arunachal Road Contract Terminated",
+    "question": "What is the length of the two-lane flyover from the Benjamin Hotel in Papu Nallah?",
     "answer_label": "C",
-    "answer_text": "Both A and B",
-    "explanation": "The shutdown was due to a combination of high jet fuel prices and failed government bailout talks.",
-    "due_at": "2026-05-07T05:32:49.484475+00:00"
+    "answer_text": "3.95 km",
+    "explanation": "The two-lane flyover is 3.95 km long.",
+    "due_at": "2026-05-07T08:21:45.985033+00:00"
   },
   {
-    "reveal_id": "9d677f78e44a488da7294a319b41d6fc",
-    "article_title": "Spirit Airlines Shuts Down",
-    "question": "What event contributed to the high jet fuel prices?",
-    "answer_label": "A",
-    "answer_text": "Trump's war on Iran",
-    "explanation": "The high jet fuel prices were a result of Trump's war on Iran.",
-    "due_at": "2026-05-07T05:32:49.799647+00:00"
-  },
-  {
-    "reveal_id": "e768887e0f7c4172bfb7239bee2aab2e",
-    "article_title": "Spirit Airlines Shuts Down",
-    "question": "What was the outcome of the government bailout talks for Spirit Airlines?",
+    "reveal_id": "823a6e50acb148bb89d3341ac874373a",
+    "article_title": "Arunachal Road Contract Terminated",
+    "question": "Why was the contract with M/s Woodhill-Shivam terminated?",
     "answer_label": "B",
-    "answer_text": "Failed bailout talks",
-    "explanation": "The government bailout talks for Spirit Airlines fell through.",
-    "due_at": "2026-05-07T05:32:50.097406+00:00"
+    "answer_text": "Due to incomplete work",
+    "explanation": "The contract was terminated due to incomplete work on the road project.",
+    "due_at": "2026-05-07T08:21:46.339250+00:00"
+  },
+  {
+    "reveal_id": "579e16b9c6174f5a807f3b171a383d8a",
+    "article_title": "Amma Ariyan at Cannes 2026",
+    "question": "In which year was the film Amma Ariyan released?",
+    "answer_label": "B",
+    "answer_text": "1986",
+    "explanation": "The film Amma Ariyan was released in 1986, as mentioned in the article.",
+    "due_at": "2026-05-07T08:21:53.090434+00:00"
+  },
+  {
+    "reveal_id": "4800b2f97b6d4dc28ed48de42739b110",
+    "article_title": "Amma Ariyan at Cannes 2026",
+    "question": "What is the name of the festival where Amma Ariyan will premiere?",
+    "answer_label": "B",
+    "answer_text": "Cannes Film Festival",
+    "explanation": "The film Amma Ariyan will premiere at the Cannes Film Festival 2026.",
+    "due_at": "2026-05-07T08:21:53.427162+00:00"
+  },
+  {
+    "reveal_id": "ecd2b9596d854e3d8149100ec17c720d",
+    "article_title": "Amma Ariyan at Cannes 2026",
+    "question": "Who restored the film Amma Ariyan in 4K?",
+    "answer_label": "B",
+    "answer_text": "Film Heritage Foundation",
+    "explanation": "The film Amma Ariyan was restored in 4K by the Film Heritage Foundation.",
+    "due_at": "2026-05-07T08:21:53.760448+00:00"
   }
 ]
