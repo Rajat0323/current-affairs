@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "91057f071e544ac7b8058cf1a0c26287",
-    "article_title": "US-Iran War Deal",
-    "question": "What is the main condition put forward by the US for a deal with Iran?",
-    "answer_label": "A",
-    "answer_text": "Reopening the Strait of Hormuz",
-    "explanation": "The US wants Iran to reopen the Strait of Hormuz to international shipping as part of the deal.",
-    "due_at": "2026-05-07T21:14:09.380088+00:00"
-  },
-  {
-    "reveal_id": "5f178fbd0fcb47f5b5b1ceb847c05590",
-    "article_title": "US-Iran War Deal",
-    "question": "What has been the impact of the US-Iran conflict on global oil prices?",
-    "answer_label": "C",
-    "answer_text": "Prices have increased",
-    "explanation": "The conflict has led to an increase in global oil prices, with Brent crude oil prices stabilizing at around $100 a barrel.",
-    "due_at": "2026-05-07T21:14:09.730971+00:00"
-  },
-  {
-    "reveal_id": "66757ea7a4cf42b69fa4a0710b149c34",
-    "article_title": "US-Iran War Deal",
-    "question": "What has US President Donald Trump threatened to do if Iran does not accept the deal?",
+    "reveal_id": "d997e97d789441598d333968882f160c",
+    "article_title": "Bengaluru Man Swallows Lock-Up Key",
+    "question": "What did the man in Bengaluru swallow?",
     "answer_label": "B",
-    "answer_text": "Start a new wave of bombing",
-    "explanation": "Trump has threatened to start a new wave of bombing if Iran does not accept the deal.",
-    "due_at": "2026-05-07T21:14:10.069144+00:00"
+    "answer_text": "A lock-up key",
+    "explanation": "The man swallowed a lock-up key fearing a POCSO case, as per the report.",
+    "due_at": "2026-05-07T22:12:58.598583+00:00"
   },
   {
-    "reveal_id": "ae9bcdf74cec4faca6308d14072daef3",
-    "article_title": "Pat Cummins' New CA Contract",
-    "question": "What is the annual value of Pat Cummins' new CA contract in Indian Rupees?",
+    "reveal_id": "ce8bac1ed9ec4f77b58de0b9f87eb7fb",
+    "article_title": "Bengaluru Man Swallows Lock-Up Key",
+    "question": "How much banana was used to help recover the key?",
     "answer_label": "C",
-    "answer_text": "\u20b927.2 crore",
-    "explanation": "The contract is worth AUD 4 million per season, which is approximately \u20b927.2 crore annually.",
-    "due_at": "2026-05-07T21:14:13.848314+00:00"
+    "answer_text": "10kg",
+    "explanation": "Doctors used nearly 10 kg bananas to help recover the key naturally over 3 days.",
+    "due_at": "2026-05-07T22:12:58.898803+00:00"
   },
   {
-    "reveal_id": "a3fea8d2df8c4285b4b901ce18a9ba05",
-    "article_title": "Pat Cummins' New CA Contract",
-    "question": "How long will Pat Cummins be tied to international cricket with his new contract?",
-    "answer_label": "D",
-    "answer_text": "2029",
-    "explanation": "The contract will keep Cummins tied to international cricket through 2029.",
-    "due_at": "2026-05-07T21:14:14.193086+00:00"
+    "reveal_id": "f99908debdfc4293a24dc9b3727333d2",
+    "article_title": "Bengaluru Man Swallows Lock-Up Key",
+    "question": "Why did the man swallow the lock-up key?",
+    "answer_label": "C",
+    "answer_text": "He feared a POCSO case",
+    "explanation": "The man swallowed the key fearing a POCSO case, as mentioned in the report.",
+    "due_at": "2026-05-07T22:12:59.181067+00:00"
   },
   {
-    "reveal_id": "5e5a01318e39414ea6014f13f4055483",
-    "article_title": "Pat Cummins' New CA Contract",
-    "question": "What is the total value of Pat Cummins' 3-year contract in Indian Rupees?",
-    "answer_label": "D",
-    "answer_text": "\u20b982 crore",
-    "explanation": "The total value is approximately \u20b927.2 crore annually for 3 years, which is around \u20b982 crore.",
-    "due_at": "2026-05-07T21:14:17.703314+00:00"
+    "reveal_id": "0c6ad19812e14eb798b19fb1f62c930e",
+    "article_title": "April 2026 Car Sales",
+    "question": "What was the year-over-year growth in India's car sales in April 2026?",
+    "answer_label": "C",
+    "answer_text": "12%",
+    "explanation": "The year-over-year growth in car sales was 12% in April 2026, indicating a positive trend in the industry.",
+    "due_at": "2026-05-07T22:13:05.606068+00:00"
+  },
+  {
+    "reveal_id": "026b6855e1314863add8f1061f79b3f9",
+    "article_title": "April 2026 Car Sales",
+    "question": "Which of the following cars was a top-seller in April 2026?",
+    "answer_label": "A",
+    "answer_text": "Dzire",
+    "explanation": "The Dzire was one of the top-selling cars in April 2026, along with other models like Punch and Ertiga.",
+    "due_at": "2026-05-07T22:13:05.894631+00:00"
+  },
+  {
+    "reveal_id": "0722184858e54104a22b0ea049b61047",
+    "article_title": "April 2026 Car Sales",
+    "question": "What was the month-over-month decline in car sales in April 2026?",
+    "answer_label": "C",
+    "answer_text": "7%",
+    "explanation": "The month-over-month decline in car sales was 7% in April 2026, despite a year-over-year growth.",
+    "due_at": "2026-05-07T22:13:06.185316+00:00"
   }
 ]
