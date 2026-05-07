@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "a0298967303c45eb8520b6a8154e18bc",
-    "article_title": "India-Japan Tech Ties",
-    "question": "What is the main focus of the India-Japan agreement?",
+    "reveal_id": "f161b525d2a245e4ba99f9c69c5e1878",
+    "article_title": "BJP Leader Condemns Aide's Murder",
+    "question": "Which party does Dilip Ghosh belong to?",
     "answer_label": "B",
-    "answer_text": "Medical devices and quantum science",
-    "explanation": "The agreement focuses on medical devices and quantum science cooperation, aiming to promote innovation and emerging technologies.",
-    "due_at": "2026-05-07T12:46:39.638963+00:00"
+    "answer_text": "BJP",
+    "explanation": "Dilip Ghosh is a leader of the Bharatiya Janata Party (BJP).",
+    "due_at": "2026-05-07T15:38:22.597148+00:00"
   },
   {
-    "reveal_id": "3fe1fca80d3e482aa413fc575e88fef0",
-    "article_title": "India-Japan Tech Ties",
-    "question": "Where did the high-level bilateral meeting between India and Japan take place?",
+    "reveal_id": "7ff3901f17e545058f6dfbd8575bd72a",
+    "article_title": "BJP Leader Condemns Aide's Murder",
+    "question": "In which state did the murder of Suvendu Adhikari's aide occur?",
     "answer_label": "B",
-    "answer_text": "New Delhi",
-    "explanation": "The meeting took place in New Delhi, the national capital of India.",
-    "due_at": "2026-05-07T12:46:40.006651+00:00"
+    "answer_text": "West Bengal",
+    "explanation": "The incident happened in West Bengal, where Suvendu Adhikari is a prominent political figure.",
+    "due_at": "2026-05-07T15:38:22.882945+00:00"
   },
   {
-    "reveal_id": "a4d683e8cec14c5f853ea3dd2c200c90",
-    "article_title": "India-Japan Tech Ties",
-    "question": "Which Indian ministry was involved in the agreement with Japan?",
+    "reveal_id": "f5b934776d5d4109b7a0c81b5aed248c",
+    "article_title": "BJP Leader Condemns Aide's Murder",
+    "question": "What did Dilip Ghosh urge after the murder?",
     "answer_label": "B",
-    "answer_text": "Ministry of Science & Technology",
-    "explanation": "The Ministry of Science & Technology was involved in the agreement, as per the official statement.",
-    "due_at": "2026-05-07T12:46:40.351564+00:00"
+    "answer_text": "Police action",
+    "explanation": "Dilip Ghosh urged police action to address the law and order concerns following the murder.",
+    "due_at": "2026-05-07T15:38:23.164442+00:00"
   },
   {
-    "reveal_id": "953fae73415d41f498bfda3f6c8c6ec2",
-    "article_title": "Japanese Yen Rally",
-    "question": "What sparked the Japanese Yen's sharp rally?",
-    "answer_label": "B",
-    "answer_text": "Japanese authorities' intervention",
-    "explanation": "The rally was possibly due to Japanese authorities' intervention after the USD/JPY pair tested multi-decade highs.",
-    "due_at": "2026-05-07T12:46:44.281964+00:00"
+    "reveal_id": "40432e40c7d648ffb84769a6c8662a2b",
+    "article_title": "Bihar Cabinet Expansion",
+    "question": "Who is likely to make his political debut in the Bihar cabinet expansion?",
+    "answer_label": "A",
+    "answer_text": "Nishant Kumar",
+    "explanation": "Nishant Kumar is the son of Nitish Kumar and is expected to join the cabinet.",
+    "due_at": "2026-05-07T15:38:29.935384+00:00"
   },
   {
-    "reveal_id": "e124d184abc74c3181543afcca134936",
-    "article_title": "Japanese Yen Rally",
-    "question": "What will determine the next major market move?",
-    "answer_label": "B",
-    "answer_text": "US economic data releases",
-    "explanation": "The market's attention is now on upcoming US economic data releases.",
-    "due_at": "2026-05-07T12:46:44.679636+00:00"
+    "reveal_id": "ce2ffbfe442740d9a6cac885ebfc7cc8",
+    "article_title": "Bihar Cabinet Expansion",
+    "question": "Which leaders are expected to attend the swearing-in ceremony?",
+    "answer_label": "A",
+    "answer_text": "PM Modi and HM Shah",
+    "explanation": "PM Modi and HM Shah are top NDA leaders and are expected to attend the ceremony.",
+    "due_at": "2026-05-07T15:38:30.220515+00:00"
   },
   {
-    "reveal_id": "a875fcf92df54e1dad8e68f6551dfdd3",
-    "article_title": "Japanese Yen Rally",
-    "question": "Why is the Japanese Yen rally important for India?",
+    "reveal_id": "484ecd2a73ee4d51a92f9bcf3bc6fbca",
+    "article_title": "Bihar Cabinet Expansion",
+    "question": "What is the significance of the Bihar cabinet expansion?",
     "answer_label": "C",
-    "answer_text": "It impacts India's exports and imports",
-    "explanation": "The Japanese Yen rally can impact India's trade, particularly with Japan and the US.",
-    "due_at": "2026-05-07T12:46:45.169430+00:00"
+    "answer_text": "It may impact Bihar's governance and development",
+    "explanation": "The cabinet expansion may impact Bihar's governance and development, making it a significant political event.",
+    "due_at": "2026-05-07T15:38:30.511093+00:00"
   }
 ]
