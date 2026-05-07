@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "6e7130563cdd4309bc2b43e0537ba47e",
-    "article_title": "Delhi Rolls Out Mobile Heat Relief Units",
-    "question": "What has the Delhi government introduced to combat the heat wave?",
-    "answer_label": "B",
-    "answer_text": "Mobile heat relief units",
-    "explanation": "The Delhi government has introduced mobile heat relief units to provide relief to citizens during the heat wave.",
-    "due_at": "2026-05-07T01:55:36.791167+00:00"
-  },
-  {
-    "reveal_id": "ee1f9dd63e7d4095a04eb43b05027ef3",
-    "article_title": "Delhi Rolls Out Mobile Heat Relief Units",
-    "question": "What is the primary goal of the mobile heat relief units?",
-    "answer_label": "C",
-    "answer_text": "To protect citizens from heat-related illnesses",
-    "explanation": "The primary goal of the mobile heat relief units is to protect citizens from heat-related illnesses.",
-    "due_at": "2026-05-07T01:55:37.121768+00:00"
-  },
-  {
-    "reveal_id": "e3ffeb39aa9741a98adff96aef8cb30f",
-    "article_title": "Delhi Rolls Out Mobile Heat Relief Units",
-    "question": "What can be inferred about the Delhi government's approach to public health?",
+    "reveal_id": "d36ab1b88ef5459688c3c322d18b3de3",
+    "article_title": "India-Vietnam Strategic Partnership",
+    "question": "Who invited the President of Vietnam to India?",
     "answer_label": "A",
-    "answer_text": "It is people-centric",
-    "explanation": "The introduction of mobile heat relief units suggests that the Delhi government's approach to public health is people-centric.",
-    "due_at": "2026-05-07T01:55:37.454780+00:00"
+    "answer_text": "Prime Minister of India",
+    "explanation": "The President of Vietnam was invited by Prime Minister Narendra Modi.",
+    "due_at": "2026-05-07T05:32:42.312032+00:00"
   },
   {
-    "reveal_id": "6a054633f62c4782b862d0295f4bbaf8",
-    "article_title": "Punjab FC vs Chennaiyin ISL Match",
-    "question": "Which two teams are playing in the mentioned ISL match?",
-    "answer_label": "A",
-    "answer_text": "Punjab FC and Chennaiyin",
-    "explanation": "The article mentions the ISL match between Punjab FC and Chennaiyin.",
-    "due_at": "2026-05-07T01:55:44.584697+00:00"
-  },
-  {
-    "reveal_id": "1d2e65f547794685866d1f3412f12223",
-    "article_title": "Punjab FC vs Chennaiyin ISL Match",
-    "question": "How can fans in India watch the Punjab FC vs Chennaiyin match?",
+    "reveal_id": "6c04520f7c1f4216b6e52a7b72a8dfcd",
+    "article_title": "India-Vietnam Strategic Partnership",
+    "question": "What was the purpose of the President of Vietnam's visit to India?",
     "answer_label": "C",
-    "answer_text": "Both on TV and online",
-    "explanation": "The article states that the match will be live streamed and telecast in India.",
-    "due_at": "2026-05-07T01:55:44.934729+00:00"
+    "answer_text": "To pay a State Visit",
+    "explanation": "The President of Vietnam paid a State Visit to India from May 5 to 7, 2026.",
+    "due_at": "2026-05-07T05:32:42.609474+00:00"
   },
   {
-    "reveal_id": "6f7bd202acc0412e89aa66fc8927190f",
-    "article_title": "Punjab FC vs Chennaiyin ISL Match",
-    "question": "What is the name of the league in which Punjab FC and Chennaiyin are playing?",
+    "reveal_id": "0f723c39eaf34984ae5c557aaf81d066",
+    "article_title": "India-Vietnam Strategic Partnership",
+    "question": "When did the President of Vietnam visit India?",
     "answer_label": "B",
-    "answer_text": "Indian Super League",
-    "explanation": "The article mentions the Indian Super League match between Punjab FC and Chennaiyin.",
-    "due_at": "2026-05-07T01:55:45.262350+00:00"
+    "answer_text": "May 5 to 7, 2026",
+    "explanation": "The President of Vietnam visited India from May 5 to 7, 2026.",
+    "due_at": "2026-05-07T05:32:42.933130+00:00"
+  },
+  {
+    "reveal_id": "ca7993261cba455c8aa23e4ae6b5a356",
+    "article_title": "Spirit Airlines Shuts Down",
+    "question": "What was the main reason for Spirit Airlines' shutdown?",
+    "answer_label": "C",
+    "answer_text": "Both A and B",
+    "explanation": "The shutdown was due to a combination of high jet fuel prices and failed government bailout talks.",
+    "due_at": "2026-05-07T05:32:49.484475+00:00"
+  },
+  {
+    "reveal_id": "9d677f78e44a488da7294a319b41d6fc",
+    "article_title": "Spirit Airlines Shuts Down",
+    "question": "What event contributed to the high jet fuel prices?",
+    "answer_label": "A",
+    "answer_text": "Trump's war on Iran",
+    "explanation": "The high jet fuel prices were a result of Trump's war on Iran.",
+    "due_at": "2026-05-07T05:32:49.799647+00:00"
+  },
+  {
+    "reveal_id": "e768887e0f7c4172bfb7239bee2aab2e",
+    "article_title": "Spirit Airlines Shuts Down",
+    "question": "What was the outcome of the government bailout talks for Spirit Airlines?",
+    "answer_label": "B",
+    "answer_text": "Failed bailout talks",
+    "explanation": "The government bailout talks for Spirit Airlines fell through.",
+    "due_at": "2026-05-07T05:32:50.097406+00:00"
   }
 ]
