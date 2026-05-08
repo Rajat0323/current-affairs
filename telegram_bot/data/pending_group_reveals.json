@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "9a065f1df0864b86aefe8501563be099",
-    "article_title": "TVK Considers Mass Resignation",
-    "question": "Which party is considering mass resignation of its MLAs?",
+    "reveal_id": "d3465f2d386e4106b05a337a5573ad3b",
+    "article_title": "J&K Teacher Recruitment Crisis",
+    "question": "How many years have passed without teacher recruitment in J&K?",
     "answer_label": "C",
-    "answer_text": "TVK",
-    "explanation": "TVK is considering mass resignation as a response to a potential DMK-AIADMK alliance.",
-    "due_at": "2026-05-08T10:28:47.826303+00:00"
+    "answer_text": "8 years",
+    "explanation": "According to the article, it has been eight years since teacher recruitment took place in J&K.",
+    "due_at": "2026-05-08T12:13:15.563593+00:00"
   },
   {
-    "reveal_id": "feaa8ea3fc87441c97bfc8a9ac12fffc",
-    "article_title": "TVK Considers Mass Resignation",
-    "question": "What is the reason for TVK's potential mass resignation?",
+    "reveal_id": "1cb446473fb74a409dfdf9e95e2ee8a2",
+    "article_title": "J&K Teacher Recruitment Crisis",
+    "question": "What is the main issue faced by B.Ed. and M.Ed. graduates in J&K?",
     "answer_label": "B",
-    "answer_text": "Government formation by DMK or AIADMK",
-    "explanation": "TVK may resign en masse if DMK or AIADMK forms the government in Tamil Nadu.",
-    "due_at": "2026-05-08T10:28:48.135202+00:00"
+    "answer_text": "Lack of jobs",
+    "explanation": "The main issue faced by these graduates is the unavailability of teaching jobs in the region.",
+    "due_at": "2026-05-08T12:13:15.898509+00:00"
   },
   {
-    "reveal_id": "3d3eb0bbcfb9468890670b51f3d3a59d",
-    "article_title": "TVK Considers Mass Resignation",
-    "question": "Who is the leader of AIADMK?",
+    "reveal_id": "b9ffe29ee2d94d3f925f5550cf9278c3",
+    "article_title": "J&K Teacher Recruitment Crisis",
+    "question": "What is at risk due to the lack of teacher recruitment in J&K?",
     "answer_label": "B",
-    "answer_text": "Edappadi K. Palaniswami",
-    "explanation": "Edappadi K. Palaniswami is the leader of AIADMK.",
-    "due_at": "2026-05-08T10:28:48.436431+00:00"
+    "answer_text": "Education system",
+    "explanation": "The future of the region's education system is in danger due to the lack of teacher recruitment.",
+    "due_at": "2026-05-08T12:13:16.230675+00:00"
   },
   {
-    "reveal_id": "9bda8749bc6c4a4b88f5d39ebbd04a16",
-    "article_title": "Genesis' Hispanic Campaign",
-    "question": "What is the name of Genesis' campaign for the Hispanic public?",
+    "reveal_id": "4bd6ed62b51341edaa098fd5c3008ae1",
+    "article_title": "El Faro Assets Frozen",
+    "question": "Which Salvadoran news outlet had its assets frozen?",
     "answer_label": "A",
-    "answer_text": "Luxury is in you",
-    "explanation": "The campaign is named 'Luxury is in you' as per the given information.",
-    "due_at": "2026-05-08T10:28:55.634555+00:00"
+    "answer_text": "El Faro",
+    "explanation": "El Faro is the outlet that announced its assets were frozen due to its reporting on the government.",
+    "due_at": "2026-05-08T12:13:19.985826+00:00"
   },
   {
-    "reveal_id": "14a51b96bc9e4e71b480f3c797cb5482",
-    "article_title": "Genesis' Hispanic Campaign",
-    "question": "Where is the Hispanic public that Genesis is targeting with its campaign?",
+    "reveal_id": "056d68a0a1734d0087f020b92cb8ddc0",
+    "article_title": "El Faro Assets Frozen",
+    "question": "Why were El Faro's assets frozen according to the outlet?",
     "answer_label": "B",
-    "answer_text": "United States",
-    "explanation": "The campaign is specifically created for the Hispanic public in the United States.",
-    "due_at": "2026-05-08T10:28:55.929912+00:00"
+    "answer_text": "For exposing corruption in the government",
+    "explanation": "El Faro claims its assets were frozen as retaliation for its work exposing corruption in the government.",
+    "due_at": "2026-05-08T12:13:20.322385+00:00"
   },
   {
-    "reveal_id": "2c87556988b34d0a9874cfb487a76a7a",
-    "article_title": "Genesis' Hispanic Campaign",
-    "question": "What is significant about Genesis' 'Luxury is in you' campaign?",
-    "answer_label": "C",
-    "answer_text": "It's their first campaign for the Hispanic public",
-    "explanation": "The 'Luxury is in you' campaign is Genesis' first campaign created especially for the Hispanic public.",
-    "due_at": "2026-05-08T10:28:56.230894+00:00"
+    "reveal_id": "4fe02cdcf97f43889434e6e3db1671aa",
+    "article_title": "El Faro Assets Frozen",
+    "question": "What is the name of the President of Salvador whose government is being reported on by El Faro?",
+    "answer_label": "A",
+    "answer_text": "Nayib Bukele",
+    "explanation": "Nayib Bukele is the President of Salvador whose government is being reported on by El Faro.",
+    "due_at": "2026-05-08T12:13:20.663184+00:00"
   }
 ]
