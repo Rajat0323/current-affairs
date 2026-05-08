@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "efd5108aa9dc4cd8a6701d99efd5d8ec",
-    "article_title": "WWE Backlash 2026",
-    "question": "Where will WWE Backlash 2026 take place?",
+    "reveal_id": "cd2f8d95337b459d89439ebf91ea5f31",
+    "article_title": "Sikh Priests Appeal Against Anti-Sacrilege Law",
+    "question": "What is the main reason for Sikh priests' appeal to Akal Takht Jathedar?",
+    "answer_label": "A",
+    "answer_text": "Inappropriate wording in anti-sacrilege law",
+    "explanation": "The priests consider the wording as desecration of Guru Granth Sahib, a living guru in Sikhism.",
+    "due_at": "2026-05-08T08:42:49.442381+00:00"
+  },
+  {
+    "reveal_id": "9317e61b0de3444fa406d9b7f5a87b2f",
+    "article_title": "Sikh Priests Appeal Against Anti-Sacrilege Law",
+    "question": "Which state government is involved in the controversy?",
+    "answer_label": "A",
+    "answer_text": "Punjab government",
+    "explanation": "The AAP government in Punjab recently enacted the anti-sacrilege law with disputed wording.",
+    "due_at": "2026-05-08T08:42:49.747815+00:00"
+  },
+  {
+    "reveal_id": "e40e2aebe88f4b68aeefac74e8f8990b",
+    "article_title": "Sikh Priests Appeal Against Anti-Sacrilege Law",
+    "question": "What is the significance of Guru Granth Sahib in Sikhism?",
     "answer_label": "B",
-    "answer_text": "Tampa",
-    "explanation": "WWE Backlash 2026 will be held in Tampa, as mentioned in the article.",
-    "due_at": "2026-05-08T06:55:06.455457+00:00"
+    "answer_text": "A living guru",
+    "explanation": "In Sikhism, Guru Granth Sahib is considered a living guru, which is why the inappropriate wording is seen as desecration.",
+    "due_at": "2026-05-08T08:42:50.036014+00:00"
   },
   {
-    "reveal_id": "3cc3869640fe41c88ea67dc264fd9b47",
-    "article_title": "WWE Backlash 2026",
-    "question": "What championship will Roman Reigns defend at WWE Backlash 2026?",
+    "reveal_id": "25b73d062e4f41d3868e0471305489ae",
+    "article_title": "Operation Sindoor Aftermath",
+    "question": "What is the current state of the Line of Control in Jammu and Kashmir's Uri?",
     "answer_label": "B",
-    "answer_text": "World Heavyweight Championship",
-    "explanation": "Roman Reigns will defend the World Heavyweight Championship at WWE Backlash 2026.",
-    "due_at": "2026-05-08T06:55:06.749171+00:00"
+    "answer_text": "Calm",
+    "explanation": "The Line of Control is calm, as stated in the article, indicating a decrease in conflict.",
+    "due_at": "2026-05-08T08:42:57.073731+00:00"
   },
   {
-    "reveal_id": "996636fd473e4eec8839fab2ac12ddfe",
-    "article_title": "WWE Backlash 2026",
-    "question": "Why is WWE Backlash 2026 significant for India?",
+    "reveal_id": "f950ada636ae4491a5c736606ce5721d",
+    "article_title": "Operation Sindoor Aftermath",
+    "question": "What is a significant concern for children in Uri after Operation Sindoor?",
     "answer_label": "C",
-    "answer_text": "It can be watched in India and promote cultural exchange",
-    "explanation": "WWE Backlash 2026 can be watched in India, making it significant for the country's sports entertainment industry and promoting cultural exchange.",
-    "due_at": "2026-05-08T06:55:07.033786+00:00"
+    "answer_text": "Psychological scars from shelling",
+    "explanation": "The article mentions that children in Uri still carry scars of shelling, indicating psychological trauma.",
+    "due_at": "2026-05-08T08:42:57.449793+00:00"
   },
   {
-    "reveal_id": "0a505d086a6b4803ada6bc5e87ac13c2",
-    "article_title": "Kashmir's Environmental Concerns",
-    "question": "What can be done to prevent environmental disasters in Kashmir?",
+    "reveal_id": "24a7fb8cbefb4ef9863f9edfcb49490c",
+    "article_title": "Operation Sindoor Aftermath",
+    "question": "What operation is being referenced in the context of Jammu and Kashmir's Uri?",
     "answer_label": "B",
-    "answer_text": "Map floodplains and stop illegal encroachments",
-    "explanation": "Mapping floodplains and stopping illegal encroachments can help prevent environmental disasters in Kashmir by guiding expansion and limiting harmful construction.",
-    "due_at": "2026-05-08T06:55:13.867274+00:00"
-  },
-  {
-    "reveal_id": "99d92b8091e9443bb5b6f2cf11e838e2",
-    "article_title": "Kashmir's Environmental Concerns",
-    "question": "Who can guide the expansion of Kashmir to prevent disasters?",
-    "answer_label": "C",
-    "answer_text": "Urban planners, engineers, and local communities",
-    "explanation": "Collaboration between urban planners, engineers, and local communities is necessary to guide the expansion of Kashmir in a way that prevents environmental disasters.",
-    "due_at": "2026-05-08T06:55:14.158737+00:00"
-  },
-  {
-    "reveal_id": "1db2c47e912a4c4c9a265053fa67e6d5",
-    "article_title": "Kashmir's Environmental Concerns",
-    "question": "Why is it important to protect Kashmir's environment?",
-    "answer_label": "C",
-    "answer_text": "It is crucial for the ecosystem and inhabitants",
-    "explanation": "Protecting Kashmir's environment is important because it is crucial for the ecosystem and inhabitants, and also has a broader impact on India's overall environmental health.",
-    "due_at": "2026-05-08T06:55:14.440969+00:00"
+    "answer_text": "Operation Sindoor",
+    "explanation": "The article specifically mentions Operation Sindoor, which is the operation being referenced.",
+    "due_at": "2026-05-08T08:42:57.771838+00:00"
   }
 ]
