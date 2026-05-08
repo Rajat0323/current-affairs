@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "c107091472aa470995dd4d09a2f1e459",
-    "article_title": "David Attenborough Turns 100",
-    "question": "What is David Attenborough known for?",
+    "reveal_id": "2eb099d9fc37457b86cb5e69dde55a65",
+    "article_title": "Battery-Free Breath Sensor for Diabetes",
+    "question": "What is the purpose of the battery-free breath sensor developed by Cusat study?",
     "answer_label": "B",
-    "answer_text": "Creating wildlife documentaries",
-    "explanation": "Attenborough is famous for his work on wildlife documentaries like Planet Earth and Blue Planet.",
-    "due_at": "2026-05-08T21:13:35.257670+00:00"
+    "answer_text": "To detect diabetes",
+    "explanation": "The sensor is designed to detect diabetes early, which can help in timely treatment and prevention of complications.",
+    "due_at": "2026-05-08T22:15:13.718901+00:00"
   },
   {
-    "reveal_id": "d348e7b8c4d540f486486a09e82a13d7",
-    "article_title": "David Attenborough Turns 100",
-    "question": "What is a significant impact of David Attenborough's work?",
+    "reveal_id": "064222cf6b8b4897a8e626c3547b842e",
+    "article_title": "Battery-Free Breath Sensor for Diabetes",
+    "question": "What is the significance of this development in the Indian context?",
+    "answer_label": "B",
+    "answer_text": "India has a high prevalence of diabetes",
+    "explanation": "India has a high prevalence of diabetes, making early detection and treatment crucial to prevent complications.",
+    "due_at": "2026-05-08T22:15:14.004891+00:00"
+  },
+  {
+    "reveal_id": "1f887fc61b9042fe88c06cab34b72103",
+    "article_title": "Battery-Free Breath Sensor for Diabetes",
+    "question": "What is unique about the breath sensor developed by Cusat study?",
     "answer_label": "C",
-    "answer_text": "Inspiring people to care about wildlife",
-    "explanation": "Attenborough's work has inspired people to care about wildlife and the environment, contributing to global awareness about climate change.",
-    "due_at": "2026-05-08T21:13:35.586114+00:00"
+    "answer_text": "It is battery-free",
+    "explanation": "The sensor is battery-free, making it a unique and innovative development in the field of medical technology.",
+    "due_at": "2026-05-08T22:15:14.284700+00:00"
   },
   {
-    "reveal_id": "577a18a51ffa4015a47520a3f2f22eaa",
-    "article_title": "David Attenborough Turns 100",
-    "question": "How old is David Attenborough as per the article?",
+    "reveal_id": "29be8f3a657f4b499d402600b0c49a83",
+    "article_title": "Enlit Africa 2026 Focuses on Nuclear Energy",
+    "question": "What is the main focus of Enlit Africa 2026?",
+    "answer_label": "B",
+    "answer_text": "Nuclear energy",
+    "explanation": "Enlit Africa 2026 will discuss Africa's nuclear energy plans, including life extension and new build readiness.",
+    "due_at": "2026-05-08T22:15:20.692281+00:00"
+  },
+  {
+    "reveal_id": "9f33bda6bcc24418a81d08b6b24794dd",
+    "article_title": "Enlit Africa 2026 Focuses on Nuclear Energy",
+    "question": "Where will Enlit Africa 2026 take place?",
+    "answer_label": "B",
+    "answer_text": "Cape Town, South Africa",
+    "explanation": "The event will take place at the Cape Town International Convention Centre in Cape Town, South Africa.",
+    "due_at": "2026-05-08T22:15:20.973182+00:00"
+  },
+  {
+    "reveal_id": "6756de1c28ce48829cdeab1e3c2ea1f4",
+    "article_title": "Enlit Africa 2026 Focuses on Nuclear Energy",
+    "question": "What are the key aspects of nuclear energy that Enlit Africa 2026 will cover?",
     "answer_label": "C",
-    "answer_text": "100 years old",
-    "explanation": "The article states that David Attenborough has turned 100 years old.",
-    "due_at": "2026-05-08T21:13:35.914450+00:00"
-  },
-  {
-    "reveal_id": "807b66011bb8404a8456adbcd7fdf697",
-    "article_title": "Risk of Using One Bank Account",
-    "question": "What is a potential risk of having only one bank account in India?",
-    "answer_label": "C",
-    "answer_text": "Server outages and technical glitches",
-    "explanation": "Having only one bank account can leave you without access to your money during server outages or technical glitches.",
-    "due_at": "2026-05-08T21:13:43.037692+00:00"
-  },
-  {
-    "reveal_id": "08d69510dc794e6b8c6b35eedaca7dc7",
-    "article_title": "Risk of Using One Bank Account",
-    "question": "How can having multiple bank accounts help reduce online fraud in India?",
-    "answer_label": "C",
-    "answer_text": "By keeping a separate account with limited funds for online shopping",
-    "explanation": "Keeping a separate account with limited funds for online shopping can limit exposure to fraud.",
-    "due_at": "2026-05-08T21:13:43.364210+00:00"
-  },
-  {
-    "reveal_id": "f774b68cfafa4c9d981f760b09edf0c5",
-    "article_title": "Risk of Using One Bank Account",
-    "question": "What is a potential benefit of having multiple bank accounts in terms of tracking expenses?",
-    "answer_label": "D",
-    "answer_text": "It makes tracking expenses cleaner and easier",
-    "explanation": "Having separate accounts for income, expenses, and daily spending can make tracking expenses cleaner and easier.",
-    "due_at": "2026-05-08T21:13:43.683536+00:00"
+    "answer_text": "Life extension, new build readiness, and grid integration",
+    "explanation": "Enlit Africa 2026 will cover life extension, new build readiness, grid integration, and other practical aspects of nuclear energy.",
+    "due_at": "2026-05-08T22:15:21.259240+00:00"
   }
 ]
