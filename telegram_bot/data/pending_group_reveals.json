@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "400e4b65e02e43f28ab582186deefbbe",
-    "article_title": "AIADMK Hopes in Tamil Nadu",
-    "question": "Who is the General Secretary of AIADMK?",
-    "answer_label": "A",
-    "answer_text": "Edappadi K. Palaniswami",
-    "explanation": "Edappadi K. Palaniswami is the General Secretary of AIADMK, as mentioned in the article.",
-    "due_at": "2026-05-08T15:32:13.836277+00:00"
+    "reveal_id": "a099cf2dab7643efb46794029c2859b2",
+    "article_title": "Aamir Khan Sings at Daadi Ki Shaadi Screening",
+    "question": "Who attended the special screening of 'Daadi Ki Shaadi'?",
+    "answer_label": "D",
+    "answer_text": "All of the above",
+    "explanation": "Aamir Khan, Kapil Sharma, and Sadia Khateeb were all present at the screening.",
+    "due_at": "2026-05-08T17:13:24.265126+00:00"
   },
   {
-    "reveal_id": "ffc5fbdc29554c57842645df9aa610a1",
-    "article_title": "AIADMK Hopes in Tamil Nadu",
-    "question": "Which state is facing a deadlock in government formation?",
+    "reveal_id": "e354e5e418644f25af1148aa4fcf24fe",
+    "article_title": "Aamir Khan Sings at Daadi Ki Shaadi Screening",
+    "question": "What song did Aamir Khan sing at the screening?",
     "answer_label": "A",
-    "answer_text": "Tamil Nadu",
-    "explanation": "Tamil Nadu is facing a deadlock in government formation, according to the article.",
-    "due_at": "2026-05-08T15:32:14.159453+00:00"
+    "answer_text": "Aati Kya Khandala",
+    "explanation": "Aamir Khan sang 'Aati Kya Khandala' at the screening.",
+    "due_at": "2026-05-08T17:13:24.595023+00:00"
   },
   {
-    "reveal_id": "b92049ab255f4d69995f308b4159a72a",
-    "article_title": "AIADMK Hopes in Tamil Nadu",
-    "question": "What did Edappadi K. Palaniswami tell AIADMK MLAs?",
+    "reveal_id": "65b693a446eb4b13abf1c8a1f99148a3",
+    "article_title": "Aamir Khan Sings at Daadi Ki Shaadi Screening",
+    "question": "What was the outcome of Aamir Khan's singing at the screening?",
     "answer_label": "C",
-    "answer_text": "That good things will happen",
-    "explanation": "Edappadi K. Palaniswami told AIADMK MLAs that good things will happen, as mentioned in the article.",
-    "due_at": "2026-05-08T15:32:14.473167+00:00"
+    "answer_text": "Videos went viral online",
+    "explanation": "The evening turned into an informal musical celebration with videos going viral online.",
+    "due_at": "2026-05-08T17:13:24.893673+00:00"
   },
   {
-    "reveal_id": "a1719fead83c43ceb6622ab4e6bfb2e6",
-    "article_title": "Govt Land for Kakinada Airport",
-    "question": "Where is the proposed airport suggested to be built?",
-    "answer_label": "A",
-    "answer_text": "Near Tuni",
-    "explanation": "The proposed airport is suggested to be built near Tuni, specifically at Arempudi.",
-    "due_at": "2026-05-08T15:32:21.166453+00:00"
+    "reveal_id": "c83339353d2d4b4587b1dcff452bb074",
+    "article_title": "Tripura Investment Roadshow",
+    "question": "What was the total investment interest attracted by Tripura at the Guwahati roadshow?",
+    "answer_label": "C",
+    "answer_text": "Rs 1322 crore",
+    "explanation": "The roadshow attracted investment interest of more than Rs 1322 crore, as per the agreements signed.",
+    "due_at": "2026-05-08T17:13:31.291127+00:00"
   },
   {
-    "reveal_id": "38417b7f3959418081531a0d3e9acd4d",
-    "article_title": "Govt Land for Kakinada Airport",
-    "question": "Who suggested using government land for the airport?",
+    "reveal_id": "4c269c8d51964ba6959308dde2d1c5c1",
+    "article_title": "Tripura Investment Roadshow",
+    "question": "Where was the investors' roadshow held to boost investment in Tripura?",
     "answer_label": "B",
-    "answer_text": "Social activist DN Ramesh",
-    "explanation": "Social activist DN Ramesh suggested using government land for the proposed airport.",
-    "due_at": "2026-05-08T15:32:21.476037+00:00"
+    "answer_text": "Guwahati",
+    "explanation": "The roadshow was held in Guwahati to showcase Tripura's industrial potential and policy framework.",
+    "due_at": "2026-05-08T17:13:31.607730+00:00"
   },
   {
-    "reveal_id": "6bdb749664674becbf3510e56d5d711d",
-    "article_title": "Govt Land for Kakinada Airport",
-    "question": "What is the potential benefit of the proposed airport?",
-    "answer_label": "B",
-    "answer_text": "Improved connectivity",
-    "explanation": "The proposed airport will improve connectivity and accessibility to the region, boosting economic growth.",
-    "due_at": "2026-05-08T15:32:21.788636+00:00"
+    "reveal_id": "cdab9b3cbb644f1687964a12240755b5",
+    "article_title": "Tripura Investment Roadshow",
+    "question": "How many Letters of Intent and Memorandums of Understanding were signed at the roadshow?",
+    "answer_label": "D",
+    "answer_text": "58",
+    "explanation": "Over 58 Letters of Intent and Memorandums of Understanding were signed, representing an investment of more than Rs 1322 crore.",
+    "due_at": "2026-05-08T17:13:31.910013+00:00"
   }
 ]
