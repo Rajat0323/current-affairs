@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "86b43d5e796f42439412e6bf72dd1451",
-    "article_title": "Runner's Tribute to Indian Armed Forces",
-    "question": "What is Sufiya Sufi Runner's upcoming challenge?",
-    "answer_label": "B",
-    "answer_text": "Running 5,000 km from Kanyakumari to Karakoram Pass",
-    "explanation": "Sufiya Sufi Runner is attempting to run 5,000 km from Kanyakumari to Karakoram Pass as a tribute to the Indian Armed Forces.",
-    "due_at": "2026-05-08T01:58:21.130678+00:00"
+    "reveal_id": "f1f7c3c920d44afd8efe2f048ca5a0c4",
+    "article_title": "DMK Accepts Stalin's Decision",
+    "question": "Who stated that the DMK party would accept MK Stalin's decision?",
+    "answer_label": "A",
+    "answer_text": "TKS Elangovan",
+    "explanation": "TKS Elangovan addressed reporters in DMK HQ and made this statement.",
+    "due_at": "2026-05-08T05:13:28.070321+00:00"
   },
   {
-    "reveal_id": "049b29011fff44ed9b294b66a15e70f8",
-    "article_title": "Runner's Tribute to Indian Armed Forces",
-    "question": "What motivated Sufiya Sufi Runner's upcoming run?",
+    "reveal_id": "95d34dc6d9e84ff699e93eeff11a4bb9",
+    "article_title": "DMK Accepts Stalin's Decision",
+    "question": "Where did TKS Elangovan make this statement?",
     "answer_label": "B",
-    "answer_text": "To pay tribute to the Indian Armed Forces",
-    "explanation": "Sufiya Sufi Runner's upcoming run is a tribute to the Indian Armed Forces, starting May 12.",
-    "due_at": "2026-05-08T01:58:21.481647+00:00"
+    "answer_text": "DMK HQ",
+    "explanation": "Elangovan made this statement after the party MLAs meeting at DMK HQ.",
+    "due_at": "2026-05-08T05:13:28.352296+00:00"
   },
   {
-    "reveal_id": "9d67452cb1ab40e8bd686a3a8f605149",
-    "article_title": "Runner's Tribute to Indian Armed Forces",
-    "question": "Where did Sufiya Sufi Runner recently break her own Guinness World Record?",
-    "answer_label": "B",
-    "answer_text": "On the Manali\u2013Leh route",
-    "explanation": "Sufiya Sufi Runner recently broke her own Guinness World Record on the Manali\u2013Leh route.",
-    "due_at": "2026-05-08T01:58:21.838515+00:00"
+    "reveal_id": "da4a415f00ca4ad2b0965a7826828b1e",
+    "article_title": "DMK Accepts Stalin's Decision",
+    "question": "What is the current political situation in Tamil Nadu according to the article?",
+    "answer_label": "C",
+    "answer_text": "Drama",
+    "explanation": "The article mentions that the political drama is deepening in Tamil Nadu.",
+    "due_at": "2026-05-08T05:13:28.661700+00:00"
   },
   {
-    "reveal_id": "8bf801cc04744b9bb74eb9465a6e1033",
-    "article_title": "National PR Day Celebration",
-    "question": "Where was the National PR Day celebration held?",
+    "reveal_id": "c5a8388ac9584ee09c2fa1a9b6bddd6a",
+    "article_title": "Mumbai Watermelon Deaths",
+    "question": "What was initially suspected to be the cause of death in the Mumbai family?",
     "answer_label": "B",
-    "answer_text": "New Delhi",
-    "explanation": "The celebration was held in New Delhi, as per the given information.",
-    "due_at": "2026-05-08T01:58:28.807593+00:00"
+    "answer_text": "Watermelon",
+    "explanation": "The family was suspected to have died from eating watermelon, but it was later found to be rat poison.",
+    "due_at": "2026-05-08T05:13:35.168824+00:00"
   },
   {
-    "reveal_id": "c66e5e0c0c9445ad889244084cd4fc3e",
-    "article_title": "National PR Day Celebration",
-    "question": "Which of the following organizations was involved in the National PR Day celebration?",
-    "answer_label": "D",
-    "answer_text": "All of the above",
-    "explanation": "The celebration involved honouring professionals from NTPC, NHPC, and other organizations.",
-    "due_at": "2026-05-08T01:58:29.166556+00:00"
+    "reveal_id": "a9db765fdcfd431c8e13a6d010c14ccc",
+    "article_title": "Mumbai Watermelon Deaths",
+    "question": "What was found in the bodies of the victims during the investigation?",
+    "answer_label": "B",
+    "answer_text": "Rat poison",
+    "explanation": "Rat poison was found in the bodies of the victims, which caused their death.",
+    "due_at": "2026-05-08T05:13:35.495713+00:00"
   },
   {
-    "reveal_id": "0743ba4f383e4a13b5ab91876da4bf92",
-    "article_title": "National PR Day Celebration",
-    "question": "What was the occasion for which the Public Relations Society Delhi held a celebration?",
+    "reveal_id": "34757d2ab5274c32aa38ec9bf00f4169",
+    "article_title": "Mumbai Watermelon Deaths",
+    "question": "What happened to the organs of the victims due to the poison?",
     "answer_label": "B",
-    "answer_text": "National PR Day",
-    "explanation": "The celebration was held to commemorate National PR Day.",
-    "due_at": "2026-05-08T01:58:29.517279+00:00"
+    "answer_text": "They turned green",
+    "explanation": "The organs of the victims turned green due to the effect of the rat poison.",
+    "due_at": "2026-05-08T05:13:35.864148+00:00"
   }
 ]
