@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "6a0c5bad76e1489ebc766cafedfce9f6",
-    "article_title": "Sindoor 2.0 Strategy",
-    "question": "What should be the primary goal of Sindoor 2.0 strategy?",
-    "answer_label": "B",
-    "answer_text": "To extract concessions",
-    "explanation": "Sindoor 2.0 should focus on extracting concrete concessions from the other side, rather than just punishing them.",
-    "due_at": "2026-05-08T13:31:34.919272+00:00"
-  },
-  {
-    "reveal_id": "096e389267e24c42a043233a1ffe1896",
-    "article_title": "Sindoor 2.0 Strategy",
-    "question": "What is one of the demands India should make in exchange for captured territory?",
-    "answer_label": "B",
-    "answer_text": "Prosecution of terrorist leaders",
-    "explanation": "India should insist on the prosecution of terrorist leaders as one of the conditions for returning captured territory.",
-    "due_at": "2026-05-08T13:31:35.202247+00:00"
-  },
-  {
-    "reveal_id": "2897ffc4d87048c5a5b85a84d6cd727a",
-    "article_title": "Sindoor 2.0 Strategy",
-    "question": "Why is Sindoor 2.0 strategy important for India?",
+    "reveal_id": "400e4b65e02e43f28ab582186deefbbe",
+    "article_title": "AIADMK Hopes in Tamil Nadu",
+    "question": "Who is the General Secretary of AIADMK?",
     "answer_label": "A",
-    "answer_text": "It can help reduce terrorism",
-    "explanation": "An effective Sindoor 2.0 strategy can help reduce terrorism in India, making it a crucial aspect of national security.",
-    "due_at": "2026-05-08T13:31:35.500796+00:00"
+    "answer_text": "Edappadi K. Palaniswami",
+    "explanation": "Edappadi K. Palaniswami is the General Secretary of AIADMK, as mentioned in the article.",
+    "due_at": "2026-05-08T15:32:13.836277+00:00"
   },
   {
-    "reveal_id": "ac11b0e400844327b8c34c4febf5a972",
-    "article_title": "S&P 500, Nasdaq Fall",
-    "question": "What was the impact on West Texas Intermediate crude oil prices?",
-    "answer_label": "B",
-    "answer_text": "Increased by 0.2%",
-    "explanation": "Crude oil prices rose due to explosions heard near Bandar Abbas, a port city on the Strait of Hormuz.",
-    "due_at": "2026-05-08T13:31:42.007298+00:00"
+    "reveal_id": "ffc5fbdc29554c57842645df9aa610a1",
+    "article_title": "AIADMK Hopes in Tamil Nadu",
+    "question": "Which state is facing a deadlock in government formation?",
+    "answer_label": "A",
+    "answer_text": "Tamil Nadu",
+    "explanation": "Tamil Nadu is facing a deadlock in government formation, according to the article.",
+    "due_at": "2026-05-08T15:32:14.159453+00:00"
   },
   {
-    "reveal_id": "d2d0746e4b9747329803607db028bdcc",
-    "article_title": "S&P 500, Nasdaq Fall",
-    "question": "Why are markets awaiting Iran's reply?",
-    "answer_label": "B",
-    "answer_text": "Due to geopolitical tensions",
-    "explanation": "Markets are awaiting Iran's reply due to the potential impact of geopolitical tensions on global markets.",
-    "due_at": "2026-05-08T13:31:42.292956+00:00"
-  },
-  {
-    "reveal_id": "41266439dc064cbb8cee29e85f0b069a",
-    "article_title": "S&P 500, Nasdaq Fall",
-    "question": "How may India be affected by the rise in crude oil prices?",
+    "reveal_id": "b92049ab255f4d69995f308b4159a72a",
+    "article_title": "AIADMK Hopes in Tamil Nadu",
+    "question": "What did Edappadi K. Palaniswami tell AIADMK MLAs?",
     "answer_label": "C",
-    "answer_text": "Increased energy costs",
-    "explanation": "India may face increased energy costs due to the rise in crude oil prices, affecting its economy.",
-    "due_at": "2026-05-08T13:31:42.594086+00:00"
+    "answer_text": "That good things will happen",
+    "explanation": "Edappadi K. Palaniswami told AIADMK MLAs that good things will happen, as mentioned in the article.",
+    "due_at": "2026-05-08T15:32:14.473167+00:00"
+  },
+  {
+    "reveal_id": "a1719fead83c43ceb6622ab4e6bfb2e6",
+    "article_title": "Govt Land for Kakinada Airport",
+    "question": "Where is the proposed airport suggested to be built?",
+    "answer_label": "A",
+    "answer_text": "Near Tuni",
+    "explanation": "The proposed airport is suggested to be built near Tuni, specifically at Arempudi.",
+    "due_at": "2026-05-08T15:32:21.166453+00:00"
+  },
+  {
+    "reveal_id": "38417b7f3959418081531a0d3e9acd4d",
+    "article_title": "Govt Land for Kakinada Airport",
+    "question": "Who suggested using government land for the airport?",
+    "answer_label": "B",
+    "answer_text": "Social activist DN Ramesh",
+    "explanation": "Social activist DN Ramesh suggested using government land for the proposed airport.",
+    "due_at": "2026-05-08T15:32:21.476037+00:00"
+  },
+  {
+    "reveal_id": "6bdb749664674becbf3510e56d5d711d",
+    "article_title": "Govt Land for Kakinada Airport",
+    "question": "What is the potential benefit of the proposed airport?",
+    "answer_label": "B",
+    "answer_text": "Improved connectivity",
+    "explanation": "The proposed airport will improve connectivity and accessibility to the region, boosting economic growth.",
+    "due_at": "2026-05-08T15:32:21.788636+00:00"
   }
 ]
