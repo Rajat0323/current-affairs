@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "a099cf2dab7643efb46794029c2859b2",
-    "article_title": "Aamir Khan Sings at Daadi Ki Shaadi Screening",
-    "question": "Who attended the special screening of 'Daadi Ki Shaadi'?",
-    "answer_label": "D",
-    "answer_text": "All of the above",
-    "explanation": "Aamir Khan, Kapil Sharma, and Sadia Khateeb were all present at the screening.",
-    "due_at": "2026-05-08T17:13:24.265126+00:00"
-  },
-  {
-    "reveal_id": "e354e5e418644f25af1148aa4fcf24fe",
-    "article_title": "Aamir Khan Sings at Daadi Ki Shaadi Screening",
-    "question": "What song did Aamir Khan sing at the screening?",
-    "answer_label": "A",
-    "answer_text": "Aati Kya Khandala",
-    "explanation": "Aamir Khan sang 'Aati Kya Khandala' at the screening.",
-    "due_at": "2026-05-08T17:13:24.595023+00:00"
-  },
-  {
-    "reveal_id": "65b693a446eb4b13abf1c8a1f99148a3",
-    "article_title": "Aamir Khan Sings at Daadi Ki Shaadi Screening",
-    "question": "What was the outcome of Aamir Khan's singing at the screening?",
-    "answer_label": "C",
-    "answer_text": "Videos went viral online",
-    "explanation": "The evening turned into an informal musical celebration with videos going viral online.",
-    "due_at": "2026-05-08T17:13:24.893673+00:00"
-  },
-  {
-    "reveal_id": "c83339353d2d4b4587b1dcff452bb074",
-    "article_title": "Tripura Investment Roadshow",
-    "question": "What was the total investment interest attracted by Tripura at the Guwahati roadshow?",
-    "answer_label": "C",
-    "answer_text": "Rs 1322 crore",
-    "explanation": "The roadshow attracted investment interest of more than Rs 1322 crore, as per the agreements signed.",
-    "due_at": "2026-05-08T17:13:31.291127+00:00"
-  },
-  {
-    "reveal_id": "4c269c8d51964ba6959308dde2d1c5c1",
-    "article_title": "Tripura Investment Roadshow",
-    "question": "Where was the investors' roadshow held to boost investment in Tripura?",
+    "reveal_id": "e46898dd08b94ffd92db51ce01e78e81",
+    "article_title": "Pune Dental College Upgrades Labs",
+    "question": "Which city is home to the MA Rangoonwala College of Dental Sciences?",
     "answer_label": "B",
-    "answer_text": "Guwahati",
-    "explanation": "The roadshow was held in Guwahati to showcase Tripura's industrial potential and policy framework.",
-    "due_at": "2026-05-08T17:13:31.607730+00:00"
+    "answer_text": "Pune",
+    "explanation": "The college is located in Pune, as mentioned in the article.",
+    "due_at": "2026-05-08T18:31:29.187916+00:00"
   },
   {
-    "reveal_id": "cdab9b3cbb644f1687964a12240755b5",
-    "article_title": "Tripura Investment Roadshow",
-    "question": "How many Letters of Intent and Memorandums of Understanding were signed at the roadshow?",
-    "answer_label": "D",
-    "answer_text": "58",
-    "explanation": "Over 58 Letters of Intent and Memorandums of Understanding were signed, representing an investment of more than Rs 1322 crore.",
-    "due_at": "2026-05-08T17:13:31.910013+00:00"
+    "reveal_id": "4b2ccd5514d642cfa16bf556652a8f1a",
+    "article_title": "Pune Dental College Upgrades Labs",
+    "question": "What is the significance of the year for MA Rangoonwala College of Dental Sciences?",
+    "answer_label": "B",
+    "answer_text": "25th anniversary",
+    "explanation": "The college is marking its 25th Year Jubilee, as stated in the article.",
+    "due_at": "2026-05-08T18:31:29.564240+00:00"
+  },
+  {
+    "reveal_id": "6e72b9c3564c47b2816d5545ec6e8d17",
+    "article_title": "Pune Dental College Upgrades Labs",
+    "question": "What has the MA Rangoonwala College of Dental Sciences launched to boost hands-on learning?",
+    "answer_label": "B",
+    "answer_text": "Advanced pre-clinical labs",
+    "explanation": "The college has launched advanced pre-clinical labs to improve hands-on learning for students.",
+    "due_at": "2026-05-08T18:31:29.927071+00:00"
+  },
+  {
+    "reveal_id": "dcff4123e8b44c4e85fc27a4fced64f9",
+    "article_title": "Nigeria Introduces Computer-Based Exams",
+    "question": "What is the main reason for introducing computer-based exams in Nigeria?",
+    "answer_label": "C",
+    "answer_text": "To reduce malpractice and improve transparency",
+    "explanation": "The introduction of computer-based exams aims to reduce malpractice and improve transparency in Nigeria's education system.",
+    "due_at": "2026-05-08T18:31:34.111406+00:00"
+  },
+  {
+    "reveal_id": "787f61c6afbb4b77a02825b90492e65d",
+    "article_title": "Nigeria Introduces Computer-Based Exams",
+    "question": "Which organization is spearheading the computer-based examination reform in Nigeria?",
+    "answer_label": "B",
+    "answer_text": "National Examinations Council",
+    "explanation": "The National Examinations Council is spearheading the computer-based examination reform in Nigeria.",
+    "due_at": "2026-05-08T18:31:34.474734+00:00"
+  },
+  {
+    "reveal_id": "11ab35b4238c4460acc02e1ba82df02c",
+    "article_title": "Nigeria Introduces Computer-Based Exams",
+    "question": "What is the expected outcome of introducing computer-based exams in Nigeria?",
+    "answer_label": "C",
+    "answer_text": "Improved transparency and reduced malpractice",
+    "explanation": "The introduction of computer-based exams is expected to improve transparency and reduce malpractice in Nigeria's education system.",
+    "due_at": "2026-05-08T18:31:34.836937+00:00"
   }
 ]
