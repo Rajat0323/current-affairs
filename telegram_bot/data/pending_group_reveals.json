@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "d3465f2d386e4106b05a337a5573ad3b",
-    "article_title": "J&K Teacher Recruitment Crisis",
-    "question": "How many years have passed without teacher recruitment in J&K?",
+    "reveal_id": "6a0c5bad76e1489ebc766cafedfce9f6",
+    "article_title": "Sindoor 2.0 Strategy",
+    "question": "What should be the primary goal of Sindoor 2.0 strategy?",
+    "answer_label": "B",
+    "answer_text": "To extract concessions",
+    "explanation": "Sindoor 2.0 should focus on extracting concrete concessions from the other side, rather than just punishing them.",
+    "due_at": "2026-05-08T13:31:34.919272+00:00"
+  },
+  {
+    "reveal_id": "096e389267e24c42a043233a1ffe1896",
+    "article_title": "Sindoor 2.0 Strategy",
+    "question": "What is one of the demands India should make in exchange for captured territory?",
+    "answer_label": "B",
+    "answer_text": "Prosecution of terrorist leaders",
+    "explanation": "India should insist on the prosecution of terrorist leaders as one of the conditions for returning captured territory.",
+    "due_at": "2026-05-08T13:31:35.202247+00:00"
+  },
+  {
+    "reveal_id": "2897ffc4d87048c5a5b85a84d6cd727a",
+    "article_title": "Sindoor 2.0 Strategy",
+    "question": "Why is Sindoor 2.0 strategy important for India?",
+    "answer_label": "A",
+    "answer_text": "It can help reduce terrorism",
+    "explanation": "An effective Sindoor 2.0 strategy can help reduce terrorism in India, making it a crucial aspect of national security.",
+    "due_at": "2026-05-08T13:31:35.500796+00:00"
+  },
+  {
+    "reveal_id": "ac11b0e400844327b8c34c4febf5a972",
+    "article_title": "S&P 500, Nasdaq Fall",
+    "question": "What was the impact on West Texas Intermediate crude oil prices?",
+    "answer_label": "B",
+    "answer_text": "Increased by 0.2%",
+    "explanation": "Crude oil prices rose due to explosions heard near Bandar Abbas, a port city on the Strait of Hormuz.",
+    "due_at": "2026-05-08T13:31:42.007298+00:00"
+  },
+  {
+    "reveal_id": "d2d0746e4b9747329803607db028bdcc",
+    "article_title": "S&P 500, Nasdaq Fall",
+    "question": "Why are markets awaiting Iran's reply?",
+    "answer_label": "B",
+    "answer_text": "Due to geopolitical tensions",
+    "explanation": "Markets are awaiting Iran's reply due to the potential impact of geopolitical tensions on global markets.",
+    "due_at": "2026-05-08T13:31:42.292956+00:00"
+  },
+  {
+    "reveal_id": "41266439dc064cbb8cee29e85f0b069a",
+    "article_title": "S&P 500, Nasdaq Fall",
+    "question": "How may India be affected by the rise in crude oil prices?",
     "answer_label": "C",
-    "answer_text": "8 years",
-    "explanation": "According to the article, it has been eight years since teacher recruitment took place in J&K.",
-    "due_at": "2026-05-08T12:13:15.563593+00:00"
-  },
-  {
-    "reveal_id": "1cb446473fb74a409dfdf9e95e2ee8a2",
-    "article_title": "J&K Teacher Recruitment Crisis",
-    "question": "What is the main issue faced by B.Ed. and M.Ed. graduates in J&K?",
-    "answer_label": "B",
-    "answer_text": "Lack of jobs",
-    "explanation": "The main issue faced by these graduates is the unavailability of teaching jobs in the region.",
-    "due_at": "2026-05-08T12:13:15.898509+00:00"
-  },
-  {
-    "reveal_id": "b9ffe29ee2d94d3f925f5550cf9278c3",
-    "article_title": "J&K Teacher Recruitment Crisis",
-    "question": "What is at risk due to the lack of teacher recruitment in J&K?",
-    "answer_label": "B",
-    "answer_text": "Education system",
-    "explanation": "The future of the region's education system is in danger due to the lack of teacher recruitment.",
-    "due_at": "2026-05-08T12:13:16.230675+00:00"
-  },
-  {
-    "reveal_id": "4bd6ed62b51341edaa098fd5c3008ae1",
-    "article_title": "El Faro Assets Frozen",
-    "question": "Which Salvadoran news outlet had its assets frozen?",
-    "answer_label": "A",
-    "answer_text": "El Faro",
-    "explanation": "El Faro is the outlet that announced its assets were frozen due to its reporting on the government.",
-    "due_at": "2026-05-08T12:13:19.985826+00:00"
-  },
-  {
-    "reveal_id": "056d68a0a1734d0087f020b92cb8ddc0",
-    "article_title": "El Faro Assets Frozen",
-    "question": "Why were El Faro's assets frozen according to the outlet?",
-    "answer_label": "B",
-    "answer_text": "For exposing corruption in the government",
-    "explanation": "El Faro claims its assets were frozen as retaliation for its work exposing corruption in the government.",
-    "due_at": "2026-05-08T12:13:20.322385+00:00"
-  },
-  {
-    "reveal_id": "4fe02cdcf97f43889434e6e3db1671aa",
-    "article_title": "El Faro Assets Frozen",
-    "question": "What is the name of the President of Salvador whose government is being reported on by El Faro?",
-    "answer_label": "A",
-    "answer_text": "Nayib Bukele",
-    "explanation": "Nayib Bukele is the President of Salvador whose government is being reported on by El Faro.",
-    "due_at": "2026-05-08T12:13:20.663184+00:00"
+    "answer_text": "Increased energy costs",
+    "explanation": "India may face increased energy costs due to the rise in crude oil prices, affecting its economy.",
+    "due_at": "2026-05-08T13:31:42.594086+00:00"
   }
 ]
