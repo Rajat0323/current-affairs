@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "2eb099d9fc37457b86cb5e69dde55a65",
-    "article_title": "Battery-Free Breath Sensor for Diabetes",
-    "question": "What is the purpose of the battery-free breath sensor developed by Cusat study?",
+    "reveal_id": "668687b7d92c4b72b71536782c2d8094",
+    "article_title": "Former Kerala DGP P.J. Alexander passes away",
+    "question": "Who was P.J. Alexander?",
     "answer_label": "B",
-    "answer_text": "To detect diabetes",
-    "explanation": "The sensor is designed to detect diabetes early, which can help in timely treatment and prevention of complications.",
-    "due_at": "2026-05-08T22:15:13.718901+00:00"
+    "answer_text": "Former Kerala DGP",
+    "explanation": "P.J. Alexander was a former Director General of Police in Kerala, known for his distinguished career in academics and police leadership.",
+    "due_at": "2026-05-08T23:11:36.593431+00:00"
   },
   {
-    "reveal_id": "064222cf6b8b4897a8e626c3547b842e",
-    "article_title": "Battery-Free Breath Sensor for Diabetes",
-    "question": "What is the significance of this development in the Indian context?",
-    "answer_label": "B",
-    "answer_text": "India has a high prevalence of diabetes",
-    "explanation": "India has a high prevalence of diabetes, making early detection and treatment crucial to prevent complications.",
-    "due_at": "2026-05-08T22:15:14.004891+00:00"
+    "reveal_id": "f9ff2d13fc014f4a82d8e3117aba6b5d",
+    "article_title": "Former Kerala DGP P.J. Alexander passes away",
+    "question": "At what age did P.J. Alexander pass away?",
+    "answer_label": "D",
+    "answer_text": "92",
+    "explanation": "P.J. Alexander passed away at the age of 92, leaving behind a legacy of reforms in Kerala.",
+    "due_at": "2026-05-08T23:11:36.886681+00:00"
   },
   {
-    "reveal_id": "1f887fc61b9042fe88c06cab34b72103",
-    "article_title": "Battery-Free Breath Sensor for Diabetes",
-    "question": "What is unique about the breath sensor developed by Cusat study?",
+    "reveal_id": "015a42f22c634c3d93b1fd36a0d58765",
+    "article_title": "Former Kerala DGP P.J. Alexander passes away",
+    "question": "What was P.J. Alexander's field of work?",
     "answer_label": "C",
-    "answer_text": "It is battery-free",
-    "explanation": "The sensor is battery-free, making it a unique and innovative development in the field of medical technology.",
-    "due_at": "2026-05-08T22:15:14.284700+00:00"
+    "answer_text": "Police Administration",
+    "explanation": "P.J. Alexander worked in the field of police administration, serving as the Director General of Police in Kerala.",
+    "due_at": "2026-05-08T23:11:37.166577+00:00"
   },
   {
-    "reveal_id": "29be8f3a657f4b499d402600b0c49a83",
-    "article_title": "Enlit Africa 2026 Focuses on Nuclear Energy",
-    "question": "What is the main focus of Enlit Africa 2026?",
+    "reveal_id": "84cb917cbb0642b4b69f4beeec917c1d",
+    "article_title": "India's Global COVID Help",
+    "question": "What did India do during the COVID pandemic according to EAM Jaishankar?",
     "answer_label": "B",
-    "answer_text": "Nuclear energy",
-    "explanation": "Enlit Africa 2026 will discuss Africa's nuclear energy plans, including life extension and new build readiness.",
-    "due_at": "2026-05-08T22:15:20.692281+00:00"
+    "answer_text": "Helped other countries",
+    "explanation": "India provided aid to other nations during the pandemic, demonstrating its global responsibility.",
+    "due_at": "2026-05-08T23:11:44.084148+00:00"
   },
   {
-    "reveal_id": "9f33bda6bcc24418a81d08b6b24794dd",
-    "article_title": "Enlit Africa 2026 Focuses on Nuclear Energy",
-    "question": "Where will Enlit Africa 2026 take place?",
+    "reveal_id": "e9a4c404885a4f06abeaaf50a6efb88f",
+    "article_title": "India's Global COVID Help",
+    "question": "Who made the statement about India's role during the COVID pandemic?",
     "answer_label": "B",
-    "answer_text": "Cape Town, South Africa",
-    "explanation": "The event will take place at the Cape Town International Convention Centre in Cape Town, South Africa.",
-    "due_at": "2026-05-08T22:15:20.973182+00:00"
+    "answer_text": "EAM Jaishankar",
+    "explanation": "EAM Jaishankar stated that India helped countries during the pandemic while others stockpiled.",
+    "due_at": "2026-05-08T23:11:44.360772+00:00"
   },
   {
-    "reveal_id": "6756de1c28ce48829cdeab1e3c2ea1f4",
-    "article_title": "Enlit Africa 2026 Focuses on Nuclear Energy",
-    "question": "What are the key aspects of nuclear energy that Enlit Africa 2026 will cover?",
+    "reveal_id": "bf7e274bf4da4cdb9b6cfb1b0e4b60b1",
+    "article_title": "India's Global COVID Help",
+    "question": "What was notable about India's actions during the COVID pandemic?",
     "answer_label": "C",
-    "answer_text": "Life extension, new build readiness, and grid integration",
-    "explanation": "Enlit Africa 2026 will cover life extension, new build readiness, grid integration, and other practical aspects of nuclear energy.",
-    "due_at": "2026-05-08T22:15:21.259240+00:00"
+    "answer_text": "It helped other countries",
+    "explanation": "India's notable action was providing aid to other nations during the pandemic.",
+    "due_at": "2026-05-08T23:11:44.645320+00:00"
   }
 ]
