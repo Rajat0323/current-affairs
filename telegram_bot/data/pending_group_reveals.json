@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "668687b7d92c4b72b71536782c2d8094",
-    "article_title": "Former Kerala DGP P.J. Alexander passes away",
-    "question": "Who was P.J. Alexander?",
+    "reveal_id": "b6674330f47149209cafb2bc1f72757c",
+    "article_title": "RBI Grade B 2026 Exam",
+    "question": "How many vacancies are available for RBI Grade B 2026?",
     "answer_label": "B",
-    "answer_text": "Former Kerala DGP",
-    "explanation": "P.J. Alexander was a former Director General of Police in Kerala, known for his distinguished career in academics and police leadership.",
-    "due_at": "2026-05-08T23:11:36.593431+00:00"
+    "answer_text": "60",
+    "explanation": "According to the article, there are only 60 vacancies for RBI Grade B 2026, making it a highly competitive exam.",
+    "due_at": "2026-05-09T00:12:20.459155+00:00"
   },
   {
-    "reveal_id": "f9ff2d13fc014f4a82d8e3117aba6b5d",
-    "article_title": "Former Kerala DGP P.J. Alexander passes away",
-    "question": "At what age did P.J. Alexander pass away?",
-    "answer_label": "D",
-    "answer_text": "92",
-    "explanation": "P.J. Alexander passed away at the age of 92, leaving behind a legacy of reforms in Kerala.",
-    "due_at": "2026-05-08T23:11:36.886681+00:00"
+    "reveal_id": "9a2a7de536e1498e92242c64a249bb2c",
+    "article_title": "RBI Grade B 2026 Exam",
+    "question": "Why is it important for aspirants to assess their preparation for RBI Grade B 2026?",
+    "answer_label": "B",
+    "answer_text": "To avoid wasting attempts",
+    "explanation": "Aspirants should assess their preparation to avoid wasting attempts, as the exam is highly competitive with limited vacancies.",
+    "due_at": "2026-05-09T00:12:20.814064+00:00"
   },
   {
-    "reveal_id": "015a42f22c634c3d93b1fd36a0d58765",
-    "article_title": "Former Kerala DGP P.J. Alexander passes away",
-    "question": "What was P.J. Alexander's field of work?",
+    "reveal_id": "8fb1541dee254098b0b16ba4be5b29d8",
+    "article_title": "RBI Grade B 2026 Exam",
+    "question": "What is the main challenge for RBI Grade B 2026 aspirants?",
     "answer_label": "C",
-    "answer_text": "Police Administration",
-    "explanation": "P.J. Alexander worked in the field of police administration, serving as the Director General of Police in Kerala.",
-    "due_at": "2026-05-08T23:11:37.166577+00:00"
+    "answer_text": "Limited vacancies",
+    "explanation": "The main challenge for RBI Grade B 2026 aspirants is the limited number of vacancies, which increases competition among them.",
+    "due_at": "2026-05-09T00:12:21.172355+00:00"
   },
   {
-    "reveal_id": "84cb917cbb0642b4b69f4beeec917c1d",
-    "article_title": "India's Global COVID Help",
-    "question": "What did India do during the COVID pandemic according to EAM Jaishankar?",
+    "reveal_id": "aaf07931934846fa9a713c69f311cc95",
+    "article_title": "Hantavirus More Lethal Than COVID-19",
+    "question": "What does the World Health Organization say about Hantavirus?",
     "answer_label": "B",
-    "answer_text": "Helped other countries",
-    "explanation": "India provided aid to other nations during the pandemic, demonstrating its global responsibility.",
-    "due_at": "2026-05-08T23:11:44.084148+00:00"
+    "answer_text": "It is more lethal case-by-case than COVID-19",
+    "explanation": "The WHO states that Hantavirus is more lethal on a case-by-case basis compared to COVID-19.",
+    "due_at": "2026-05-09T00:12:25.397869+00:00"
   },
   {
-    "reveal_id": "e9a4c404885a4f06abeaaf50a6efb88f",
-    "article_title": "India's Global COVID Help",
-    "question": "Who made the statement about India's role during the COVID pandemic?",
-    "answer_label": "B",
-    "answer_text": "EAM Jaishankar",
-    "explanation": "EAM Jaishankar stated that India helped countries during the pandemic while others stockpiled.",
-    "due_at": "2026-05-08T23:11:44.360772+00:00"
-  },
-  {
-    "reveal_id": "bf7e274bf4da4cdb9b6cfb1b0e4b60b1",
-    "article_title": "India's Global COVID Help",
-    "question": "What was notable about India's actions during the COVID pandemic?",
+    "reveal_id": "e2c0b893c8cd4f3d8ce838de73a20f6f",
+    "article_title": "Hantavirus More Lethal Than COVID-19",
+    "question": "How do humans typically get infected with Hantavirus?",
     "answer_label": "C",
-    "answer_text": "It helped other countries",
-    "explanation": "India's notable action was providing aid to other nations during the pandemic.",
-    "due_at": "2026-05-08T23:11:44.645320+00:00"
+    "answer_text": "Through animal contact",
+    "explanation": "Hantavirus is a zoonotic disease, meaning it affects humans through contact with infected animals.",
+    "due_at": "2026-05-09T00:12:25.742108+00:00"
+  },
+  {
+    "reveal_id": "26031d8d3a2846829d56bf67b73cb081",
+    "article_title": "Hantavirus More Lethal Than COVID-19",
+    "question": "What triggered recent panic about Hantavirus?",
+    "answer_label": "C",
+    "answer_text": "An incident on a cruise ship",
+    "explanation": "A recent incident of Hantavirus on a cruise ship triggered widespread panic.",
+    "due_at": "2026-05-09T00:12:26.082399+00:00"
   }
 ]
