@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "e46898dd08b94ffd92db51ce01e78e81",
-    "article_title": "Pune Dental College Upgrades Labs",
-    "question": "Which city is home to the MA Rangoonwala College of Dental Sciences?",
-    "answer_label": "B",
-    "answer_text": "Pune",
-    "explanation": "The college is located in Pune, as mentioned in the article.",
-    "due_at": "2026-05-08T18:31:29.187916+00:00"
-  },
-  {
-    "reveal_id": "4b2ccd5514d642cfa16bf556652a8f1a",
-    "article_title": "Pune Dental College Upgrades Labs",
-    "question": "What is the significance of the year for MA Rangoonwala College of Dental Sciences?",
-    "answer_label": "B",
-    "answer_text": "25th anniversary",
-    "explanation": "The college is marking its 25th Year Jubilee, as stated in the article.",
-    "due_at": "2026-05-08T18:31:29.564240+00:00"
-  },
-  {
-    "reveal_id": "6e72b9c3564c47b2816d5545ec6e8d17",
-    "article_title": "Pune Dental College Upgrades Labs",
-    "question": "What has the MA Rangoonwala College of Dental Sciences launched to boost hands-on learning?",
-    "answer_label": "B",
-    "answer_text": "Advanced pre-clinical labs",
-    "explanation": "The college has launched advanced pre-clinical labs to improve hands-on learning for students.",
-    "due_at": "2026-05-08T18:31:29.927071+00:00"
-  },
-  {
-    "reveal_id": "dcff4123e8b44c4e85fc27a4fced64f9",
-    "article_title": "Nigeria Introduces Computer-Based Exams",
-    "question": "What is the main reason for introducing computer-based exams in Nigeria?",
+    "reveal_id": "83cdc42eec6f4bf28d3133fc288a532a",
+    "article_title": "Tamil Nadu Government Formation",
+    "question": "Which party has emerged as the single largest party in Tamil Nadu?",
     "answer_label": "C",
-    "answer_text": "To reduce malpractice and improve transparency",
-    "explanation": "The introduction of computer-based exams aims to reduce malpractice and improve transparency in Nigeria's education system.",
-    "due_at": "2026-05-08T18:31:34.111406+00:00"
+    "answer_text": "TVK",
+    "explanation": "TVK has emerged as the single largest party with 107 MLAs.",
+    "due_at": "2026-05-08T20:12:47.968296+00:00"
   },
   {
-    "reveal_id": "787f61c6afbb4b77a02825b90492e65d",
-    "article_title": "Nigeria Introduces Computer-Based Exams",
-    "question": "Which organization is spearheading the computer-based examination reform in Nigeria?",
-    "answer_label": "B",
-    "answer_text": "National Examinations Council",
-    "explanation": "The National Examinations Council is spearheading the computer-based examination reform in Nigeria.",
-    "due_at": "2026-05-08T18:31:34.474734+00:00"
-  },
-  {
-    "reveal_id": "11ab35b4238c4460acc02e1ba82df02c",
-    "article_title": "Nigeria Introduces Computer-Based Exams",
-    "question": "What is the expected outcome of introducing computer-based exams in Nigeria?",
+    "reveal_id": "52a75d0d80e94008b5f6c611112920d5",
+    "article_title": "Tamil Nadu Government Formation",
+    "question": "What is the DMK and AIADMK considering to keep TVK out of power?",
     "answer_label": "C",
-    "answer_text": "Improved transparency and reduced malpractice",
-    "explanation": "The introduction of computer-based exams is expected to improve transparency and reduce malpractice in Nigeria's education system.",
-    "due_at": "2026-05-08T18:31:34.836937+00:00"
+    "answer_text": "Coming together to form a government",
+    "explanation": "The DMK and AIADMK are reportedly considering coming together to keep TVK out of power.",
+    "due_at": "2026-05-08T20:12:48.268064+00:00"
+  },
+  {
+    "reveal_id": "6e46cfecb88a40929a81a930b2013373",
+    "article_title": "Tamil Nadu Government Formation",
+    "question": "What has TVK threatened to do if the DMK and AIADMK come together?",
+    "answer_label": "C",
+    "answer_text": "Resigning all 107 MLAs",
+    "explanation": "TVK has threatened to resign all 107 MLAs if the DMK and AIADMK come together.",
+    "due_at": "2026-05-08T20:12:48.564624+00:00"
+  },
+  {
+    "reveal_id": "38b80ace421d4fd8be95e85ac22d4879",
+    "article_title": "KRCL Recruitment 2026",
+    "question": "What type of posts are available in the KRCL Recruitment 2026?",
+    "answer_label": "B",
+    "answer_text": "Senior Section Engineer Mechanical",
+    "explanation": "The recruitment is for Senior Section Engineer Mechanical posts, as per the official notice.",
+    "due_at": "2026-05-08T20:12:55.561100+00:00"
+  },
+  {
+    "reveal_id": "020ad9c101af4577827f6ea82f0a3241",
+    "article_title": "KRCL Recruitment 2026",
+    "question": "Where are the Senior Section Engineer Mechanical posts available?",
+    "answer_label": "B",
+    "answer_text": "Visakhapatnam workshop",
+    "explanation": "The posts are available at the Visakhapatnam workshop, as mentioned in the vacancy notice.",
+    "due_at": "2026-05-08T20:12:55.859021+00:00"
+  },
+  {
+    "reveal_id": "d0a1b80bc30b4f9795445b8b5b9d63ff",
+    "article_title": "KRCL Recruitment 2026",
+    "question": "What is the last date to apply for the KRCL Recruitment 2026?",
+    "answer_label": "B",
+    "answer_text": "30 May 2026",
+    "explanation": "The application deadline is 30 May 2026, as specified in the recruitment notice.",
+    "due_at": "2026-05-08T20:12:56.155608+00:00"
   }
 ]
