@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "f1f7c3c920d44afd8efe2f048ca5a0c4",
-    "article_title": "DMK Accepts Stalin's Decision",
-    "question": "Who stated that the DMK party would accept MK Stalin's decision?",
-    "answer_label": "A",
-    "answer_text": "TKS Elangovan",
-    "explanation": "TKS Elangovan addressed reporters in DMK HQ and made this statement.",
-    "due_at": "2026-05-08T05:13:28.070321+00:00"
-  },
-  {
-    "reveal_id": "95d34dc6d9e84ff699e93eeff11a4bb9",
-    "article_title": "DMK Accepts Stalin's Decision",
-    "question": "Where did TKS Elangovan make this statement?",
+    "reveal_id": "efd5108aa9dc4cd8a6701d99efd5d8ec",
+    "article_title": "WWE Backlash 2026",
+    "question": "Where will WWE Backlash 2026 take place?",
     "answer_label": "B",
-    "answer_text": "DMK HQ",
-    "explanation": "Elangovan made this statement after the party MLAs meeting at DMK HQ.",
-    "due_at": "2026-05-08T05:13:28.352296+00:00"
+    "answer_text": "Tampa",
+    "explanation": "WWE Backlash 2026 will be held in Tampa, as mentioned in the article.",
+    "due_at": "2026-05-08T06:55:06.455457+00:00"
   },
   {
-    "reveal_id": "da4a415f00ca4ad2b0965a7826828b1e",
-    "article_title": "DMK Accepts Stalin's Decision",
-    "question": "What is the current political situation in Tamil Nadu according to the article?",
+    "reveal_id": "3cc3869640fe41c88ea67dc264fd9b47",
+    "article_title": "WWE Backlash 2026",
+    "question": "What championship will Roman Reigns defend at WWE Backlash 2026?",
+    "answer_label": "B",
+    "answer_text": "World Heavyweight Championship",
+    "explanation": "Roman Reigns will defend the World Heavyweight Championship at WWE Backlash 2026.",
+    "due_at": "2026-05-08T06:55:06.749171+00:00"
+  },
+  {
+    "reveal_id": "996636fd473e4eec8839fab2ac12ddfe",
+    "article_title": "WWE Backlash 2026",
+    "question": "Why is WWE Backlash 2026 significant for India?",
     "answer_label": "C",
-    "answer_text": "Drama",
-    "explanation": "The article mentions that the political drama is deepening in Tamil Nadu.",
-    "due_at": "2026-05-08T05:13:28.661700+00:00"
+    "answer_text": "It can be watched in India and promote cultural exchange",
+    "explanation": "WWE Backlash 2026 can be watched in India, making it significant for the country's sports entertainment industry and promoting cultural exchange.",
+    "due_at": "2026-05-08T06:55:07.033786+00:00"
   },
   {
-    "reveal_id": "c5a8388ac9584ee09c2fa1a9b6bddd6a",
-    "article_title": "Mumbai Watermelon Deaths",
-    "question": "What was initially suspected to be the cause of death in the Mumbai family?",
+    "reveal_id": "0a505d086a6b4803ada6bc5e87ac13c2",
+    "article_title": "Kashmir's Environmental Concerns",
+    "question": "What can be done to prevent environmental disasters in Kashmir?",
     "answer_label": "B",
-    "answer_text": "Watermelon",
-    "explanation": "The family was suspected to have died from eating watermelon, but it was later found to be rat poison.",
-    "due_at": "2026-05-08T05:13:35.168824+00:00"
+    "answer_text": "Map floodplains and stop illegal encroachments",
+    "explanation": "Mapping floodplains and stopping illegal encroachments can help prevent environmental disasters in Kashmir by guiding expansion and limiting harmful construction.",
+    "due_at": "2026-05-08T06:55:13.867274+00:00"
   },
   {
-    "reveal_id": "a9db765fdcfd431c8e13a6d010c14ccc",
-    "article_title": "Mumbai Watermelon Deaths",
-    "question": "What was found in the bodies of the victims during the investigation?",
-    "answer_label": "B",
-    "answer_text": "Rat poison",
-    "explanation": "Rat poison was found in the bodies of the victims, which caused their death.",
-    "due_at": "2026-05-08T05:13:35.495713+00:00"
+    "reveal_id": "99d92b8091e9443bb5b6f2cf11e838e2",
+    "article_title": "Kashmir's Environmental Concerns",
+    "question": "Who can guide the expansion of Kashmir to prevent disasters?",
+    "answer_label": "C",
+    "answer_text": "Urban planners, engineers, and local communities",
+    "explanation": "Collaboration between urban planners, engineers, and local communities is necessary to guide the expansion of Kashmir in a way that prevents environmental disasters.",
+    "due_at": "2026-05-08T06:55:14.158737+00:00"
   },
   {
-    "reveal_id": "34757d2ab5274c32aa38ec9bf00f4169",
-    "article_title": "Mumbai Watermelon Deaths",
-    "question": "What happened to the organs of the victims due to the poison?",
-    "answer_label": "B",
-    "answer_text": "They turned green",
-    "explanation": "The organs of the victims turned green due to the effect of the rat poison.",
-    "due_at": "2026-05-08T05:13:35.864148+00:00"
+    "reveal_id": "1db2c47e912a4c4c9a265053fa67e6d5",
+    "article_title": "Kashmir's Environmental Concerns",
+    "question": "Why is it important to protect Kashmir's environment?",
+    "answer_label": "C",
+    "answer_text": "It is crucial for the ecosystem and inhabitants",
+    "explanation": "Protecting Kashmir's environment is important because it is crucial for the ecosystem and inhabitants, and also has a broader impact on India's overall environmental health.",
+    "due_at": "2026-05-08T06:55:14.440969+00:00"
   }
 ]
