@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "4c51033612424bd0b592c36255af4cae",
-    "article_title": "DC vs KKR IPL Match",
-    "question": "Which team won the DC vs KKR match in IPL 2026?",
+    "reveal_id": "17c5346bf482474aa282bfeb72cbe493",
+    "article_title": "NASCAR Track Limit Setup",
+    "question": "Where is the new track limit setup implemented by NASCAR?",
     "answer_label": "B",
-    "answer_text": "Kolkata Knight Riders",
-    "explanation": "Kolkata Knight Riders won the match by 8 wickets.",
-    "due_at": "2026-05-09T09:27:20.241278+00:00"
+    "answer_text": "Watkins Glen International",
+    "explanation": "The new setup is implemented at Watkins Glen International, as per the given article.",
+    "due_at": "2026-05-09T10:45:34.551056+00:00"
   },
   {
-    "reveal_id": "87a92ddfb3674458b2d9dc1051846ebc",
-    "article_title": "DC vs KKR IPL Match",
-    "question": "How many runs did Finn Allen score in the DC vs KKR match?",
+    "reveal_id": "66ac84e9eda944aea43b611170e01cb2",
+    "article_title": "NASCAR Track Limit Setup",
+    "question": "What is the length of the road course where the changes are made?",
+    "answer_label": "B",
+    "answer_text": "2.45 miles",
+    "explanation": "The changes are made on the 2.45-mile road course at Watkins Glen International.",
+    "due_at": "2026-05-09T10:45:34.870301+00:00"
+  },
+  {
+    "reveal_id": "0539f3d0909a483fad62c87f168fb331",
+    "article_title": "NASCAR Track Limit Setup",
+    "question": "How have fans reacted to NASCAR's new track limit setup?",
     "answer_label": "C",
-    "answer_text": "100 runs",
-    "explanation": "Finn Allen scored an unbeaten 100 runs off 47 balls.",
-    "due_at": "2026-05-09T09:27:20.568087+00:00"
+    "answer_text": "They have criticized the setup",
+    "explanation": "Fans have criticized the new track limit setup, as mentioned in the article.",
+    "due_at": "2026-05-09T10:45:35.175896+00:00"
   },
   {
-    "reveal_id": "4e1212a46df541f298d56f1c93f418a2",
-    "article_title": "DC vs KKR IPL Match",
-    "question": "How many wickets did KKR win by in the DC vs KKR match?",
-    "answer_label": "D",
-    "answer_text": "8 wickets",
-    "explanation": "KKR won the match by 8 wickets, chasing 143 runs easily.",
-    "due_at": "2026-05-09T09:27:20.917536+00:00"
+    "reveal_id": "4d0d6b65ee9f494e9a08e2611f4507c4",
+    "article_title": "KKR's Win Over Delhi Capitals",
+    "question": "Who is the captain of Kolkata Knight Riders?",
+    "answer_label": "B",
+    "answer_text": "Ajinkya Rahane",
+    "explanation": "Ajinkya Rahane is the captain of KKR, as mentioned in the article.",
+    "due_at": "2026-05-09T10:45:41.921002+00:00"
   },
   {
-    "reveal_id": "7a779b79d1b6434e82bde8f8a083a381",
-    "article_title": "Rajasthan's Multiple Marriages",
-    "question": "What is the main reason for the tradition of multiple marriages in Rajasthan's Derasar village?",
-    "answer_label": "A",
-    "answer_text": "Water scarcity",
-    "explanation": "The tradition is rooted in severe water scarcity, forcing women to travel long distances for water.",
-    "due_at": "2026-05-09T09:27:24.979759+00:00"
+    "reveal_id": "ae3aba069b604fbe98a8f88a7a01b196",
+    "article_title": "KKR's Win Over Delhi Capitals",
+    "question": "What contributed to KKR's win over Delhi Capitals?",
+    "answer_label": "B",
+    "answer_text": "Finn Allen's century and spin bowlers",
+    "explanation": "Finn Allen's century and the team's spin bowlers played a crucial role in KKR's win.",
+    "due_at": "2026-05-09T10:45:42.218621+00:00"
   },
   {
-    "reveal_id": "81ce5d39cc9c423f99635b041018c7ee",
-    "article_title": "Rajasthan's Multiple Marriages",
-    "question": "What happens to the first wife when the husband takes a second wife in this tradition?",
+    "reveal_id": "1edb935b437f469daa7da366141a5fc1",
+    "article_title": "KKR's Win Over Delhi Capitals",
+    "question": "What is KKR's current goal?",
     "answer_label": "C",
-    "answer_text": "She is aware of her husband's intentions",
-    "explanation": "Women are often aware of their husbands' intentions to take a second wife when they become pregnant.",
-    "due_at": "2026-05-09T09:27:25.405263+00:00"
-  },
-  {
-    "reveal_id": "31c020052bd340a2bf23494d3fdfce4a",
-    "article_title": "Rajasthan's Multiple Marriages",
-    "question": "What is the broader impact of this tradition on rural Indian society?",
-    "answer_label": "C",
-    "answer_text": "It affects women's lives and societal norms",
-    "explanation": "The tradition continues to shape lives in rural India, affecting women's lives and societal norms.",
-    "due_at": "2026-05-09T09:27:25.781159+00:00"
+    "answer_text": "To maintain momentum for a playoff spot",
+    "explanation": "KKR aims to maintain their momentum to secure a playoff spot, as mentioned in the article.",
+    "due_at": "2026-05-09T10:45:42.523375+00:00"
   }
 ]
