@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "17c5346bf482474aa282bfeb72cbe493",
-    "article_title": "NASCAR Track Limit Setup",
-    "question": "Where is the new track limit setup implemented by NASCAR?",
-    "answer_label": "B",
-    "answer_text": "Watkins Glen International",
-    "explanation": "The new setup is implemented at Watkins Glen International, as per the given article.",
-    "due_at": "2026-05-09T10:45:34.551056+00:00"
+    "reveal_id": "cc2654c456df4487a78bf5769b6df7f8",
+    "article_title": "Sri Krishna's Divine Glories",
+    "question": "Who is Sri Krishna in the context of the Vrisnis?",
+    "answer_label": "A",
+    "answer_text": "A great-grandson of Yadu",
+    "explanation": "Sri Krishna is mentioned as the great-grandson of Yadu in the context of the Vrisnis.",
+    "due_at": "2026-05-09T11:45:08.553100+00:00"
   },
   {
-    "reveal_id": "66ac84e9eda944aea43b611170e01cb2",
-    "article_title": "NASCAR Track Limit Setup",
-    "question": "What is the length of the road course where the changes are made?",
-    "answer_label": "B",
-    "answer_text": "2.45 miles",
-    "explanation": "The changes are made on the 2.45-mile road course at Watkins Glen International.",
-    "due_at": "2026-05-09T10:45:34.870301+00:00"
-  },
-  {
-    "reveal_id": "0539f3d0909a483fad62c87f168fb331",
-    "article_title": "NASCAR Track Limit Setup",
-    "question": "How have fans reacted to NASCAR's new track limit setup?",
+    "reveal_id": "da00bd5737e440c8bd38d6597960553d",
+    "article_title": "Sri Krishna's Divine Glories",
+    "question": "What is the significance of Sri Krishna in Hinduism?",
     "answer_label": "C",
-    "answer_text": "They have criticized the setup",
-    "explanation": "Fans have criticized the new track limit setup, as mentioned in the article.",
-    "due_at": "2026-05-09T10:45:35.175896+00:00"
+    "answer_text": "He is a significant figure in the Mahabharata",
+    "explanation": "Sri Krishna is a significant figure in the Mahabharata, particularly in the Bhagavad Gita.",
+    "due_at": "2026-05-09T11:45:08.844559+00:00"
   },
   {
-    "reveal_id": "4d0d6b65ee9f494e9a08e2611f4507c4",
-    "article_title": "KKR's Win Over Delhi Capitals",
-    "question": "Who is the captain of Kolkata Knight Riders?",
+    "reveal_id": "51ebcec548b641e1b154c14c5b8f2977",
+    "article_title": "Sri Krishna's Divine Glories",
+    "question": "What is the name of the tribe formed by the descendants of Yadu's son Vrisni?",
     "answer_label": "B",
-    "answer_text": "Ajinkya Rahane",
-    "explanation": "Ajinkya Rahane is the captain of KKR, as mentioned in the article.",
-    "due_at": "2026-05-09T10:45:41.921002+00:00"
+    "answer_text": "Vrisnis",
+    "explanation": "The descendants of Yadu's son Vrisni formed the tribe called the Vrisnis.",
+    "due_at": "2026-05-09T11:45:09.215076+00:00"
   },
   {
-    "reveal_id": "ae3aba069b604fbe98a8f88a7a01b196",
-    "article_title": "KKR's Win Over Delhi Capitals",
-    "question": "What contributed to KKR's win over Delhi Capitals?",
+    "reveal_id": "280e3e0371544636873ac39e060e7aac",
+    "article_title": "Akal Takht Rejects Punjab Sacrilege Law",
+    "question": "What did the Akal Takht ask the Punjab government to do regarding the new sacrilege law?",
     "answer_label": "B",
-    "answer_text": "Finn Allen's century and spin bowlers",
-    "explanation": "Finn Allen's century and the team's spin bowlers played a crucial role in KKR's win.",
-    "due_at": "2026-05-09T10:45:42.218621+00:00"
+    "answer_text": "Amend the existing law",
+    "explanation": "Akal Takht gave 15 days to amend the law, indicating its rejection of the current form of the legislation.",
+    "due_at": "2026-05-09T11:45:16.339273+00:00"
   },
   {
-    "reveal_id": "1edb935b437f469daa7da366141a5fc1",
-    "article_title": "KKR's Win Over Delhi Capitals",
-    "question": "What is KKR's current goal?",
+    "reveal_id": "ec4ead0b286e410c90bb867026618e6e",
+    "article_title": "Akal Takht Rejects Punjab Sacrilege Law",
+    "question": "Why did the Akal Takht reject the new sacrilege law in Punjab?",
     "answer_label": "C",
-    "answer_text": "To maintain momentum for a playoff spot",
-    "explanation": "KKR aims to maintain their momentum to secure a playoff spot, as mentioned in the article.",
-    "due_at": "2026-05-09T10:45:42.523375+00:00"
+    "answer_text": "It allowed state surveillance over religious management",
+    "explanation": "The Akal Takht rejected the law because it believed religious management should not face state surveillance.",
+    "due_at": "2026-05-09T11:45:16.642384+00:00"
+  },
+  {
+    "reveal_id": "b6dc22fa516f4002abe4b1d10365971e",
+    "article_title": "Akal Takht Rejects Punjab Sacrilege Law",
+    "question": "What is the time frame given by the Akal Takht to the Punjab government to amend the sacrilege law?",
+    "answer_label": "B",
+    "answer_text": "15 days",
+    "explanation": "The Akal Takht gave the Punjab government 15 days to make the necessary amendments to the law.",
+    "due_at": "2026-05-09T11:45:16.937028+00:00"
   }
 ]
