@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "99e1e7156c9149b7b097e242c5da0639",
-    "article_title": "US-TikTok Settlement",
-    "question": "What is the amount of the settlement between the US and TikTok?",
+    "reveal_id": "4c51033612424bd0b592c36255af4cae",
+    "article_title": "DC vs KKR IPL Match",
+    "question": "Which team won the DC vs KKR match in IPL 2026?",
     "answer_label": "B",
-    "answer_text": "$400 million",
-    "explanation": "The settlement amount is $400 million, as reported by ABC News.",
-    "due_at": "2026-05-09T07:50:31.773173+00:00"
+    "answer_text": "Kolkata Knight Riders",
+    "explanation": "Kolkata Knight Riders won the match by 8 wickets.",
+    "due_at": "2026-05-09T09:27:20.241278+00:00"
   },
   {
-    "reveal_id": "4e7b3caa190146849d7c54b6c32e10fe",
-    "article_title": "US-TikTok Settlement",
-    "question": "Which administration initiated the lawsuit against TikTok?",
-    "answer_label": "B",
-    "answer_text": "Donald Trump's administration",
-    "explanation": "The lawsuit was initiated during Donald Trump's administration, as mentioned in the report.",
-    "due_at": "2026-05-09T07:50:32.122396+00:00"
+    "reveal_id": "87a92ddfb3674458b2d9dc1051846ebc",
+    "article_title": "DC vs KKR IPL Match",
+    "question": "How many runs did Finn Allen score in the DC vs KKR match?",
+    "answer_label": "C",
+    "answer_text": "100 runs",
+    "explanation": "Finn Allen scored an unbeaten 100 runs off 47 balls.",
+    "due_at": "2026-05-09T09:27:20.568087+00:00"
   },
   {
-    "reveal_id": "8f1914a94e854e8db9a9e6e3219c5104",
-    "article_title": "US-TikTok Settlement",
-    "question": "What is the main issue at the center of the US-TikTok settlement?",
-    "answer_label": "B",
-    "answer_text": "Child-privacy violations",
-    "explanation": "The main issue is alleged child-privacy violations, which led to the lawsuit and subsequent settlement.",
-    "due_at": "2026-05-09T07:50:32.475313+00:00"
+    "reveal_id": "4e1212a46df541f298d56f1c93f418a2",
+    "article_title": "DC vs KKR IPL Match",
+    "question": "How many wickets did KKR win by in the DC vs KKR match?",
+    "answer_label": "D",
+    "answer_text": "8 wickets",
+    "explanation": "KKR won the match by 8 wickets, chasing 143 runs easily.",
+    "due_at": "2026-05-09T09:27:20.917536+00:00"
   },
   {
-    "reveal_id": "b3d8b2747344443a8133b73f8b8c057b",
-    "article_title": "HC Dismisses Habeas Corpus Plea",
-    "question": "What type of plea was filed by the US-based father?",
+    "reveal_id": "7a779b79d1b6434e82bde8f8a083a381",
+    "article_title": "Rajasthan's Multiple Marriages",
+    "question": "What is the main reason for the tradition of multiple marriages in Rajasthan's Derasar village?",
     "answer_label": "A",
-    "answer_text": "Habeas corpus",
-    "explanation": "The father filed a habeas corpus petition to seek the repatriation of his child.",
-    "due_at": "2026-05-09T07:50:36.382749+00:00"
+    "answer_text": "Water scarcity",
+    "explanation": "The tradition is rooted in severe water scarcity, forcing women to travel long distances for water.",
+    "due_at": "2026-05-09T09:27:24.979759+00:00"
   },
   {
-    "reveal_id": "7faca8421d6f4fc5b58fae08c696be19",
-    "article_title": "HC Dismisses Habeas Corpus Plea",
-    "question": "What was the outcome of the US-based father's plea?",
-    "answer_label": "B",
-    "answer_text": "The court dismissed the plea",
-    "explanation": "The High Court dismissed the US-based father's habeas corpus plea.",
-    "due_at": "2026-05-09T07:50:36.756707+00:00"
+    "reveal_id": "81ce5d39cc9c423f99635b041018c7ee",
+    "article_title": "Rajasthan's Multiple Marriages",
+    "question": "What happens to the first wife when the husband takes a second wife in this tradition?",
+    "answer_label": "C",
+    "answer_text": "She is aware of her husband's intentions",
+    "explanation": "Women are often aware of their husbands' intentions to take a second wife when they become pregnant.",
+    "due_at": "2026-05-09T09:27:25.405263+00:00"
   },
   {
-    "reveal_id": "d49b5c2715ce407fa6fea31f425b14c8",
-    "article_title": "HC Dismisses Habeas Corpus Plea",
-    "question": "How old is the child involved in the case?",
-    "answer_label": "B",
-    "answer_text": "3.5 years",
-    "explanation": "The child involved in the case is 3.5 years old.",
-    "due_at": "2026-05-09T07:50:37.102145+00:00"
+    "reveal_id": "31c020052bd340a2bf23494d3fdfce4a",
+    "article_title": "Rajasthan's Multiple Marriages",
+    "question": "What is the broader impact of this tradition on rural Indian society?",
+    "answer_label": "C",
+    "answer_text": "It affects women's lives and societal norms",
+    "explanation": "The tradition continues to shape lives in rural India, affecting women's lives and societal norms.",
+    "due_at": "2026-05-09T09:27:25.781159+00:00"
   }
 ]
