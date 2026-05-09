@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "cc2654c456df4487a78bf5769b6df7f8",
-    "article_title": "Sri Krishna's Divine Glories",
-    "question": "Who is Sri Krishna in the context of the Vrisnis?",
+    "reveal_id": "b9127f157aea4f8e8c49644da2d37d2a",
+    "article_title": "Tamil Nadu Political Drama",
+    "question": "Which party alleged horse trading in Tamil Nadu?",
     "answer_label": "A",
-    "answer_text": "A great-grandson of Yadu",
-    "explanation": "Sri Krishna is mentioned as the great-grandson of Yadu in the context of the Vrisnis.",
-    "due_at": "2026-05-09T11:45:08.553100+00:00"
+    "answer_text": "AMMK",
+    "explanation": "AMMK General Secretary TTV Dhinakaran met the Acting Governor to report the issue of a missing MLA.",
+    "due_at": "2026-05-09T12:36:39.567128+00:00"
   },
   {
-    "reveal_id": "da00bd5737e440c8bd38d6597960553d",
-    "article_title": "Sri Krishna's Divine Glories",
-    "question": "What is the significance of Sri Krishna in Hinduism?",
+    "reveal_id": "d7a253feed324b8bad25ab9f3fbd8e0e",
+    "article_title": "Tamil Nadu Political Drama",
+    "question": "What is the current situation in Tamil Nadu?",
     "answer_label": "C",
-    "answer_text": "He is a significant figure in the Mahabharata",
-    "explanation": "Sri Krishna is a significant figure in the Mahabharata, particularly in the Bhagavad Gita.",
-    "due_at": "2026-05-09T11:45:08.844559+00:00"
+    "answer_text": "Political uncertainty prevails",
+    "explanation": "The article mentions deepened political uncertainty over government formation in Tamil Nadu.",
+    "due_at": "2026-05-09T12:36:39.868795+00:00"
   },
   {
-    "reveal_id": "51ebcec548b641e1b154c14c5b8f2977",
-    "article_title": "Sri Krishna's Divine Glories",
-    "question": "What is the name of the tribe formed by the descendants of Yadu's son Vrisni?",
+    "reveal_id": "2c8b79601331498fa5914dbb93b0265e",
+    "article_title": "Tamil Nadu Political Drama",
+    "question": "Who did the AMMK General Secretary meet to report the issue?",
     "answer_label": "B",
-    "answer_text": "Vrisnis",
-    "explanation": "The descendants of Yadu's son Vrisni formed the tribe called the Vrisnis.",
-    "due_at": "2026-05-09T11:45:09.215076+00:00"
+    "answer_text": "Acting Governor",
+    "explanation": "TTV Dhinakaran met Acting Governor Rajendra Vishwanath Arlekar to report the issue of a missing MLA.",
+    "due_at": "2026-05-09T12:36:40.165358+00:00"
   },
   {
-    "reveal_id": "280e3e0371544636873ac39e060e7aac",
-    "article_title": "Akal Takht Rejects Punjab Sacrilege Law",
-    "question": "What did the Akal Takht ask the Punjab government to do regarding the new sacrilege law?",
+    "reveal_id": "fae04b1975f1498abaf1de400529d992",
+    "article_title": "FIFA World Cup Opening",
+    "question": "Who will lead the cast at the start of the World Cup in the USA?",
+    "answer_label": "A",
+    "answer_text": "Katy Perry",
+    "explanation": "Katy Perry is scheduled to perform at the FIFA World Cup opening in the USA.",
+    "due_at": "2026-05-09T12:36:46.675775+00:00"
+  },
+  {
+    "reveal_id": "35236069cf444dd3826238e7f571a9e9",
+    "article_title": "FIFA World Cup Opening",
+    "question": "Which of the following will perform in Mexico?",
     "answer_label": "B",
-    "answer_text": "Amend the existing law",
-    "explanation": "Akal Takht gave 15 days to amend the law, indicating its rejection of the current form of the legislation.",
-    "due_at": "2026-05-09T11:45:16.339273+00:00"
+    "answer_text": "Los \u00c1ngeles Azules and Alejandro Fern\u00e1ndez",
+    "explanation": "Los \u00c1ngeles Azules and Alejandro Fern\u00e1ndez will perform in Mexico.",
+    "due_at": "2026-05-09T12:36:46.976349+00:00"
   },
   {
-    "reveal_id": "ec4ead0b286e410c90bb867026618e6e",
-    "article_title": "Akal Takht Rejects Punjab Sacrilege Law",
-    "question": "Why did the Akal Takht reject the new sacrilege law in Punjab?",
+    "reveal_id": "6a78fa3596ca4121a5e8bf6dc3b3c951",
+    "article_title": "FIFA World Cup Opening",
+    "question": "In which country will Alanis Morissette perform?",
     "answer_label": "C",
-    "answer_text": "It allowed state surveillance over religious management",
-    "explanation": "The Akal Takht rejected the law because it believed religious management should not face state surveillance.",
-    "due_at": "2026-05-09T11:45:16.642384+00:00"
-  },
-  {
-    "reveal_id": "b6dc22fa516f4002abe4b1d10365971e",
-    "article_title": "Akal Takht Rejects Punjab Sacrilege Law",
-    "question": "What is the time frame given by the Akal Takht to the Punjab government to amend the sacrilege law?",
-    "answer_label": "B",
-    "answer_text": "15 days",
-    "explanation": "The Akal Takht gave the Punjab government 15 days to make the necessary amendments to the law.",
-    "due_at": "2026-05-09T11:45:16.937028+00:00"
+    "answer_text": "Canada",
+    "explanation": "Alanis Morissette will perform in Canada.",
+    "due_at": "2026-05-09T12:36:47.278630+00:00"
   }
 ]
