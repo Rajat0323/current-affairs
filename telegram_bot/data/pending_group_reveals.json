@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "fe6ba2579ab743f299cf6df402d2fb22",
-    "article_title": "Oil Slick Off Iran",
-    "question": "Where was the large oil slick detected?",
+    "reveal_id": "cd737bd6e0894de588e7c6cdc247bf14",
+    "article_title": "British PM Keir Starmer's Inquiry Vote",
+    "question": "What was the recent vote in the British House of Commons about?",
     "answer_label": "B",
-    "answer_text": "Near a key Iranian oil depot",
-    "explanation": "The oil slick was detected near a key Iranian oil depot, as seen in satellite images.",
-    "due_at": "2026-05-09T14:22:03.101333+00:00"
+    "answer_text": "PM Keir Starmer's inquiry",
+    "explanation": "The vote was about whether PM Keir Starmer would face an inquiry, which has significant implications for his leadership.",
+    "due_at": "2026-05-09T15:19:04.175760+00:00"
   },
   {
-    "reveal_id": "5641238a30094e30a0a3d667aca96f56",
-    "article_title": "Oil Slick Off Iran",
-    "question": "What is affecting Iran's oil and gas infrastructure?",
+    "reveal_id": "65e1ecc7b0f34c2a857c83ed2b9b9a91",
+    "article_title": "British PM Keir Starmer's Inquiry Vote",
+    "question": "Why is the UK's political stability important for India?",
+    "answer_label": "B",
+    "answer_text": "The UK is a significant economic partner for India",
+    "explanation": "The UK is a significant economic partner for India, and its political stability can impact their trade and diplomatic relationships.",
+    "due_at": "2026-05-09T15:19:04.474563+00:00"
+  },
+  {
+    "reveal_id": "bfd06047dc38455e8c45ae96d8274200",
+    "article_title": "British PM Keir Starmer's Inquiry Vote",
+    "question": "What may be influenced by the outcome of the vote on PM Keir Starmer's inquiry?",
+    "answer_label": "B",
+    "answer_text": "India-UK diplomatic and trade ties",
+    "explanation": "The outcome of the vote may influence India-UK diplomatic and trade ties, given the UK's significant economic and strategic importance.",
+    "due_at": "2026-05-09T15:19:04.764896+00:00"
+  },
+  {
+    "reveal_id": "ff0c75b1ddc74c91821d76c1e2a92c44",
+    "article_title": "Suvendu Adhikari Elected BJP Leader",
+    "question": "Who has been elected as the BJP Legislature Party leader in West Bengal?",
     "answer_label": "A",
-    "answer_text": "US blockade on the Strait of Hormuz",
-    "explanation": "The US blockade on the Strait of Hormuz is affecting Iran's oil and gas infrastructure.",
-    "due_at": "2026-05-09T14:22:03.413575+00:00"
+    "answer_text": "Suvendu Adhikari",
+    "explanation": "Suvendu Adhikari has been chosen to lead the BJP legislature party in West Bengal.",
+    "due_at": "2026-05-09T15:19:11.694990+00:00"
   },
   {
-    "reveal_id": "cdf838ae81e146119e2ede517cd7f473",
-    "article_title": "Oil Slick Off Iran",
-    "question": "How may the oil slick affect India?",
-    "answer_label": "C",
-    "answer_text": "Impact global oil prices and India's energy imports",
-    "explanation": "The oil slick may impact global oil prices, which can affect India's energy imports.",
-    "due_at": "2026-05-09T14:22:03.767644+00:00"
+    "reveal_id": "03a2a7cd73654cc68663cff8d43d32e3",
+    "article_title": "Suvendu Adhikari Elected BJP Leader",
+    "question": "To whom did Suvendu Adhikari pay tribute after his election?",
+    "answer_label": "B",
+    "answer_text": "Syama Prasad Mookerjee and Swami Pranabananda",
+    "explanation": "Suvendu Adhikari paid tribute to Syama Prasad Mookerjee and Swami Pranabananda after his election.",
+    "due_at": "2026-05-09T15:19:12.004518+00:00"
   },
   {
-    "reveal_id": "cae1922af3c242c4b8c23d325cc9d8e5",
-    "article_title": "Power Supply Issues in Dharmavaram",
-    "question": "Who addressed power supply and civic grievances in Dharmavaram?",
+    "reveal_id": "955adf0490d344de9cb53f85f0b523ea",
+    "article_title": "Suvendu Adhikari Elected BJP Leader",
+    "question": "What did Suvendu Adhikari vow to do after his election as BJP Legislature Party leader?",
     "answer_label": "A",
-    "answer_text": "Paritala Sriram",
-    "explanation": "Paritala Sriram, a Telugu Desam Party leader, urged officials to resolve power supply issues in Dharmavaram.",
-    "due_at": "2026-05-09T14:22:10.898311+00:00"
-  },
-  {
-    "reveal_id": "42c7307121b84f1bbc87b64d8ed65b15",
-    "article_title": "Power Supply Issues in Dharmavaram",
-    "question": "What was the main issue addressed by Paritala Sriram in Dharmavaram?",
-    "answer_label": "B",
-    "answer_text": "Power supply problems",
-    "explanation": "Paritala Sriram primarily addressed power supply issues in Dharmavaram, urging officials to take immediate action.",
-    "due_at": "2026-05-09T14:22:11.225534+00:00"
-  },
-  {
-    "reveal_id": "885358af00bd433c94909b405bfc61eb",
-    "article_title": "Power Supply Issues in Dharmavaram",
-    "question": "Which party does Paritala Sriram belong to?",
-    "answer_label": "B",
-    "answer_text": "Telugu Desam Party",
-    "explanation": "Paritala Sriram is a leader of the Telugu Desam Party.",
-    "due_at": "2026-05-09T14:22:11.533229+00:00"
+    "answer_text": "Reconstruct Bengal",
+    "explanation": "Suvendu Adhikari vowed to reconstruct Bengal after his election as BJP Legislature Party leader.",
+    "due_at": "2026-05-09T15:19:12.308988+00:00"
   }
 ]
