@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "8842b938562e4f88b36dd312fc1b4531",
-    "article_title": "Central Banks Buy Gold",
-    "question": "What is driving central banks to buy gold in 2026?",
-    "answer_label": "B",
-    "answer_text": "Geopolitical uncertainty",
-    "explanation": "Central banks are driven by de-dollarization, geopolitical uncertainty, and inflation concerns to buy gold, despite record-high prices.",
-    "due_at": "2026-05-09T21:56:59.402627+00:00"
+    "reveal_id": "c9154dbc47974b3eb7d2fd44a2050203",
+    "article_title": "Kia Seltos vs Hyundai Creta",
+    "question": "Which two used car models are being compared in the article?",
+    "answer_label": "A",
+    "answer_text": "Kia Seltos and Hyundai Creta",
+    "explanation": "The article explores the key differences between Kia Seltos and Hyundai Creta to help potential buyers make an informed decision.",
+    "due_at": "2026-05-09T22:54:09.783417+00:00"
   },
   {
-    "reveal_id": "8a80aeac3aa340db9fdcefca7a82051c",
-    "article_title": "Central Banks Buy Gold",
-    "question": "Which countries are accumulating gold reserves?",
-    "answer_label": "B",
-    "answer_text": "China, Poland, and Kazakhstan",
-    "explanation": "Countries like China, Poland, and Kazakhstan are mentioned as examples of nations accumulating bullion.",
-    "due_at": "2026-05-09T21:56:59.676519+00:00"
-  },
-  {
-    "reveal_id": "d5802b4969ff4c9eb8201fb5d996621c",
-    "article_title": "Central Banks Buy Gold",
-    "question": "What is the expected outcome of central banks' gold buying spree?",
-    "answer_label": "B",
-    "answer_text": "Long-term price floor",
-    "explanation": "Analysts believe the sustained institutional demand is creating a strong long-term price floor for gold in global markets.",
-    "due_at": "2026-05-09T21:56:59.959265+00:00"
-  },
-  {
-    "reveal_id": "5c921de195aa4351bfa6051c91b96adb",
-    "article_title": "Tamil Nadu Government Formation",
-    "question": "What is the current status of government formation in Tamil Nadu?",
-    "answer_label": "B",
-    "answer_text": "Uncertain",
-    "explanation": "The government formation is uncertain due to VCK party's undecided stance on backing Vijay and the TVK alliance.",
-    "due_at": "2026-05-09T21:57:06.227397+00:00"
-  },
-  {
-    "reveal_id": "d661e434ca6b40b0872b22a84fadc999",
-    "article_title": "Tamil Nadu Government Formation",
-    "question": "How many MLAs does the TVK alliance currently have?",
+    "reveal_id": "306341b0ee3e4b21a321bd6b97f4dba0",
+    "article_title": "Kia Seltos vs Hyundai Creta",
+    "question": "What factors are considered when comparing Kia Seltos and Hyundai Creta?",
     "answer_label": "C",
-    "answer_text": "117",
-    "explanation": "The TVK alliance has 117 MLAs, which is one short of the majority mark.",
-    "due_at": "2026-05-09T21:57:06.514993+00:00"
+    "answer_text": "Pricing, features, and resale value",
+    "explanation": "The article considers pricing, features, and resale value when comparing Kia Seltos and Hyundai Creta.",
+    "due_at": "2026-05-09T22:54:10.121098+00:00"
   },
   {
-    "reveal_id": "b47c3717cce14b1ca452fdfa4da04c25",
-    "article_title": "Tamil Nadu Government Formation",
-    "question": "When is the VCK party expected to announce its decision on backing Vijay?",
+    "reveal_id": "354a8c0936e6473a8084ca304fc021b2",
+    "article_title": "Kia Seltos vs Hyundai Creta",
+    "question": "Why is it important for used car buyers in India to understand the differences between Kia Seltos and Hyundai Creta?",
     "answer_label": "C",
-    "answer_text": "4 PM",
-    "explanation": "The VCK party is expected to announce its decision at 4 PM.",
-    "due_at": "2026-05-09T21:57:06.789080+00:00"
+    "answer_text": "To make an informed decision based on their priorities",
+    "explanation": "Understanding the differences between Kia Seltos and Hyundai Creta helps buyers make an informed decision based on their priorities, such as features, value, or resale potential.",
+    "due_at": "2026-05-09T22:54:10.458361+00:00"
+  },
+  {
+    "reveal_id": "e57d6be5634a424ca1c7063ad1ff64fa",
+    "article_title": "Pentagon's 8-Pointed UFO",
+    "question": "What is the shape of the object spotted in the Pentagon's footage?",
+    "answer_label": "C",
+    "answer_text": "8-Pointed Star",
+    "explanation": "The object is described as an 8-pointed star, which has sparked interest and debate online.",
+    "due_at": "2026-05-09T22:54:14.456841+00:00"
+  },
+  {
+    "reveal_id": "bbe4fe3f6d4d4bf5b02172417f2d7cd3",
+    "article_title": "Pentagon's 8-Pointed UFO",
+    "question": "Which country's Defense Department released the footage?",
+    "answer_label": "C",
+    "answer_text": "United States",
+    "explanation": "The footage was released by the United States Department of Defense.",
+    "due_at": "2026-05-09T22:54:14.796097+00:00"
+  },
+  {
+    "reveal_id": "dce7f1978b91405494390d9e0d6d7eb9",
+    "article_title": "Pentagon's 8-Pointed UFO",
+    "question": "What is the name of the biblical concept linked to the UFO footage?",
+    "answer_label": "B",
+    "answer_text": "Ophanim",
+    "explanation": "The footage has been linked to ancient biblical warnings and descriptions, including the concept of Ophanim.",
+    "due_at": "2026-05-09T22:54:15.134977+00:00"
   }
 ]
