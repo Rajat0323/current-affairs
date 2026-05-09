@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "b9127f157aea4f8e8c49644da2d37d2a",
-    "article_title": "Tamil Nadu Political Drama",
-    "question": "Which party alleged horse trading in Tamil Nadu?",
-    "answer_label": "A",
-    "answer_text": "AMMK",
-    "explanation": "AMMK General Secretary TTV Dhinakaran met the Acting Governor to report the issue of a missing MLA.",
-    "due_at": "2026-05-09T12:36:39.567128+00:00"
-  },
-  {
-    "reveal_id": "d7a253feed324b8bad25ab9f3fbd8e0e",
-    "article_title": "Tamil Nadu Political Drama",
-    "question": "What is the current situation in Tamil Nadu?",
-    "answer_label": "C",
-    "answer_text": "Political uncertainty prevails",
-    "explanation": "The article mentions deepened political uncertainty over government formation in Tamil Nadu.",
-    "due_at": "2026-05-09T12:36:39.868795+00:00"
-  },
-  {
-    "reveal_id": "2c8b79601331498fa5914dbb93b0265e",
-    "article_title": "Tamil Nadu Political Drama",
-    "question": "Who did the AMMK General Secretary meet to report the issue?",
+    "reveal_id": "fe6ba2579ab743f299cf6df402d2fb22",
+    "article_title": "Oil Slick Off Iran",
+    "question": "Where was the large oil slick detected?",
     "answer_label": "B",
-    "answer_text": "Acting Governor",
-    "explanation": "TTV Dhinakaran met Acting Governor Rajendra Vishwanath Arlekar to report the issue of a missing MLA.",
-    "due_at": "2026-05-09T12:36:40.165358+00:00"
+    "answer_text": "Near a key Iranian oil depot",
+    "explanation": "The oil slick was detected near a key Iranian oil depot, as seen in satellite images.",
+    "due_at": "2026-05-09T14:22:03.101333+00:00"
   },
   {
-    "reveal_id": "fae04b1975f1498abaf1de400529d992",
-    "article_title": "FIFA World Cup Opening",
-    "question": "Who will lead the cast at the start of the World Cup in the USA?",
+    "reveal_id": "5641238a30094e30a0a3d667aca96f56",
+    "article_title": "Oil Slick Off Iran",
+    "question": "What is affecting Iran's oil and gas infrastructure?",
     "answer_label": "A",
-    "answer_text": "Katy Perry",
-    "explanation": "Katy Perry is scheduled to perform at the FIFA World Cup opening in the USA.",
-    "due_at": "2026-05-09T12:36:46.675775+00:00"
+    "answer_text": "US blockade on the Strait of Hormuz",
+    "explanation": "The US blockade on the Strait of Hormuz is affecting Iran's oil and gas infrastructure.",
+    "due_at": "2026-05-09T14:22:03.413575+00:00"
   },
   {
-    "reveal_id": "35236069cf444dd3826238e7f571a9e9",
-    "article_title": "FIFA World Cup Opening",
-    "question": "Which of the following will perform in Mexico?",
-    "answer_label": "B",
-    "answer_text": "Los \u00c1ngeles Azules and Alejandro Fern\u00e1ndez",
-    "explanation": "Los \u00c1ngeles Azules and Alejandro Fern\u00e1ndez will perform in Mexico.",
-    "due_at": "2026-05-09T12:36:46.976349+00:00"
-  },
-  {
-    "reveal_id": "6a78fa3596ca4121a5e8bf6dc3b3c951",
-    "article_title": "FIFA World Cup Opening",
-    "question": "In which country will Alanis Morissette perform?",
+    "reveal_id": "cdf838ae81e146119e2ede517cd7f473",
+    "article_title": "Oil Slick Off Iran",
+    "question": "How may the oil slick affect India?",
     "answer_label": "C",
-    "answer_text": "Canada",
-    "explanation": "Alanis Morissette will perform in Canada.",
-    "due_at": "2026-05-09T12:36:47.278630+00:00"
+    "answer_text": "Impact global oil prices and India's energy imports",
+    "explanation": "The oil slick may impact global oil prices, which can affect India's energy imports.",
+    "due_at": "2026-05-09T14:22:03.767644+00:00"
+  },
+  {
+    "reveal_id": "cae1922af3c242c4b8c23d325cc9d8e5",
+    "article_title": "Power Supply Issues in Dharmavaram",
+    "question": "Who addressed power supply and civic grievances in Dharmavaram?",
+    "answer_label": "A",
+    "answer_text": "Paritala Sriram",
+    "explanation": "Paritala Sriram, a Telugu Desam Party leader, urged officials to resolve power supply issues in Dharmavaram.",
+    "due_at": "2026-05-09T14:22:10.898311+00:00"
+  },
+  {
+    "reveal_id": "42c7307121b84f1bbc87b64d8ed65b15",
+    "article_title": "Power Supply Issues in Dharmavaram",
+    "question": "What was the main issue addressed by Paritala Sriram in Dharmavaram?",
+    "answer_label": "B",
+    "answer_text": "Power supply problems",
+    "explanation": "Paritala Sriram primarily addressed power supply issues in Dharmavaram, urging officials to take immediate action.",
+    "due_at": "2026-05-09T14:22:11.225534+00:00"
+  },
+  {
+    "reveal_id": "885358af00bd433c94909b405bfc61eb",
+    "article_title": "Power Supply Issues in Dharmavaram",
+    "question": "Which party does Paritala Sriram belong to?",
+    "answer_label": "B",
+    "answer_text": "Telugu Desam Party",
+    "explanation": "Paritala Sriram is a leader of the Telugu Desam Party.",
+    "due_at": "2026-05-09T14:22:11.533229+00:00"
   }
 ]
