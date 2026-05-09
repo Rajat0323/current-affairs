@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "0e5bed4b6fca4a60a9de65da239dfc35",
-    "article_title": "800-year-old Shiva Temple Demolished",
-    "question": "What was the reason for demolishing the 800-year-old Shiva temple in Telangana?",
+    "reveal_id": "149ece3011484478951cd244399fb573",
+    "article_title": "Punjab Minister ED Raid",
+    "question": "Who is the Chief Minister of Punjab mentioned in the article?",
     "answer_label": "B",
-    "answer_text": "Construction of a school",
-    "explanation": "The temple was demolished to make way for a school construction project, as per the authorities' allotment of the land.",
-    "due_at": "2026-05-09T19:08:09.310639+00:00"
+    "answer_text": "Bhagwant Mann",
+    "explanation": "Bhagwant Mann is the current Chief Minister of Punjab, as per the article.",
+    "due_at": "2026-05-09T20:16:40.650738+00:00"
   },
   {
-    "reveal_id": "f164534cbe2b4de1a18dfa52634ff373",
-    "article_title": "800-year-old Shiva Temple Demolished",
-    "question": "How did the locals react to the demolition of the temple?",
+    "reveal_id": "6aa19da28128421ca72081ecc6d712c0",
+    "article_title": "Punjab Minister ED Raid",
+    "question": "Which agency conducted the raid on the Punjab minister?",
     "answer_label": "B",
-    "answer_text": "They staged a protest",
-    "explanation": "The locals staged a protest against the officials after the temple was demolished, showing their opposition to the action.",
-    "due_at": "2026-05-09T19:08:09.639692+00:00"
+    "answer_text": "ED",
+    "explanation": "The Enforcement Directorate (ED) conducted the raid, as mentioned in the article.",
+    "due_at": "2026-05-09T20:16:41.001887+00:00"
   },
   {
-    "reveal_id": "6eebee45549b48e593fc8a4f4f3e8c36",
-    "article_title": "800-year-old Shiva Temple Demolished",
-    "question": "What is the estimated age of the demolished Shiva temple?",
-    "answer_label": "B",
-    "answer_text": "800 years",
-    "explanation": "The Shiva temple is believed to be approximately 800 years old, making it a significant historical and cultural site.",
-    "due_at": "2026-05-09T19:08:09.989659+00:00"
-  },
-  {
-    "reveal_id": "fe6ebc8fe4bf4602ada245f1522e36f6",
-    "article_title": "BJP Swearing-in at Brigade Parade Ground",
-    "question": "Where did the BJP hold its historic swearing-in ceremony in West Bengal?",
-    "answer_label": "A",
-    "answer_text": "Brigade Parade Ground",
-    "explanation": "The BJP chose Brigade Parade Ground for its swearing-in ceremony, marking a significant event in West Bengal's political history.",
-    "due_at": "2026-05-09T19:08:13.920326+00:00"
-  },
-  {
-    "reveal_id": "27e368b7bae84b8f9746ee3aa52930ce",
-    "article_title": "BJP Swearing-in at Brigade Parade Ground",
-    "question": "What is notable about the Brigade Parade Ground?",
+    "reveal_id": "1271057fcb15457896623d92be797169",
+    "article_title": "Punjab Minister ED Raid",
+    "question": "What was the response of Bhagwant Mann to the ED raid?",
     "answer_label": "C",
-    "answer_text": "It has hosted Soviet icons",
-    "explanation": "The Brigade Parade Ground has a rich history and has hosted many significant events, including those with Soviet icons.",
-    "due_at": "2026-05-09T19:08:14.243340+00:00"
+    "answer_text": "He said Punjab is not scared of threats",
+    "explanation": "Bhagwant Mann stated that Punjab is not scared of threats, as per the article.",
+    "due_at": "2026-05-09T20:16:41.311707+00:00"
   },
   {
-    "reveal_id": "798f51fae62a49bd9810fef8e45bfbdc",
-    "article_title": "BJP Swearing-in at Brigade Parade Ground",
-    "question": "What does the BJP swearing-in ceremony at Brigade Parade Ground signify?",
+    "reveal_id": "fb905ba9fec945ff866210d5917ca22a",
+    "article_title": "Suvendu Adhikari Takes Oath as Bengal's First BJP CM",
+    "question": "Who took oath as West Bengal's first BJP Chief Minister?",
     "answer_label": "B",
-    "answer_text": "A change in West Bengal's political landscape",
-    "explanation": "The ceremony marks a significant change in West Bengal's political dynamics, with the BJP forming its first-ever government in the state.",
-    "due_at": "2026-05-09T19:08:14.601639+00:00"
+    "answer_text": "Suvendu Adhikari",
+    "explanation": "Suvendu Adhikari became the first BJP Chief Minister of West Bengal after the party's election victory.",
+    "due_at": "2026-05-09T20:16:48.120362+00:00"
+  },
+  {
+    "reveal_id": "f219ddb00a9f40aa8b578d15358f5dd2",
+    "article_title": "Suvendu Adhikari Takes Oath as Bengal's First BJP CM",
+    "question": "Which party won the Assembly election in West Bengal?",
+    "answer_label": "C",
+    "answer_text": "Bharatiya Janata Party",
+    "explanation": "The Bharatiya Janata Party won the Assembly election in West Bengal, leading to the change in government.",
+    "due_at": "2026-05-09T20:16:48.425175+00:00"
+  },
+  {
+    "reveal_id": "20eb6a71fd6f4ccc8e36669c3e4d96ba",
+    "article_title": "Suvendu Adhikari Takes Oath as Bengal's First BJP CM",
+    "question": "What is significant about Suvendu Adhikari's oath-taking ceremony?",
+    "answer_label": "C",
+    "answer_text": "He is West Bengal's first BJP Chief Minister",
+    "explanation": "Suvendu Adhikari's oath-taking ceremony is significant because he is the first Chief Minister from the Bharatiya Janata Party in West Bengal.",
+    "due_at": "2026-05-09T20:16:48.734410+00:00"
   }
 ]
