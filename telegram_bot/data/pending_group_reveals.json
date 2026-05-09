@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "8053eeb43bbe4900a6bf213c8ebe1ffe",
-    "article_title": "New Navy Chief Appointed",
-    "question": "Who has been appointed as the next Chief of the Naval Staff?",
-    "answer_label": "B",
-    "answer_text": "Vice Admiral Krishna Swaminathan",
-    "explanation": "Vice Admiral Krishna Swaminathan has been appointed as the next Chief of the Naval Staff, as per the official announcement.",
-    "due_at": "2026-05-09T16:10:33.786643+00:00"
+    "reveal_id": "dc6da7ab1a99437dae8bdf3f56752f6c",
+    "article_title": "Tamil Nadu Government Formation",
+    "question": "Who commented on the recent high drama in Tamil Nadu's government formation?",
+    "answer_label": "A",
+    "answer_text": "S Gurumurthy",
+    "explanation": "S Gurumurthy is a well-known commentator on Indian politics and economy.",
+    "due_at": "2026-05-09T17:07:13.726584+00:00"
   },
   {
-    "reveal_id": "c6201bc539f94be49f830450dfb7e6e6",
-    "article_title": "New Navy Chief Appointed",
-    "question": "What is the role of the Chief of the Naval Staff?",
+    "reveal_id": "4d4c9655af0e4184975f841de1be751a",
+    "article_title": "Tamil Nadu Government Formation",
+    "question": "Which parties are involved in the government formation dynamics in Tamil Nadu?",
     "answer_label": "C",
-    "answer_text": "Leading the Indian Navy",
-    "explanation": "The Chief of the Naval Staff is the head of the Indian Navy, responsible for its operations and strategy.",
-    "due_at": "2026-05-09T16:10:34.156666+00:00"
+    "answer_text": "AIADMK, DMK, and BJP",
+    "explanation": "The situation involves the interplay between AIADMK, DMK, and BJP in Tamil Nadu.",
+    "due_at": "2026-05-09T17:07:14.028199+00:00"
   },
   {
-    "reveal_id": "3bc1d5fbcfce40cab53d36212dbc68ab",
-    "article_title": "New Navy Chief Appointed",
-    "question": "Where was the appointment of Vice Admiral Krishna Swaminathan announced?",
-    "answer_label": "B",
-    "answer_text": "New Delhi",
-    "explanation": "The appointment was announced in New Delhi, the capital city of India.",
-    "due_at": "2026-05-09T16:10:34.514893+00:00"
+    "reveal_id": "4bb9000f50d942b8bfdcb0189db44207",
+    "article_title": "Tamil Nadu Government Formation",
+    "question": "What did S Gurumurthy say about Vijay's TVK?",
+    "answer_label": "C",
+    "answer_text": "They made a rookie mistake",
+    "explanation": "According to S Gurumurthy, Vijay's TVK made a rookie mistake that led to the high drama in Tamil Nadu's government formation.",
+    "due_at": "2026-05-09T17:07:14.330110+00:00"
   },
   {
-    "reveal_id": "15e13e28b8c34b5f9a8c78e0490d99d2",
-    "article_title": "CPM Opens Doors to Criticism",
-    "question": "What is CPM doing after its election defeat?",
+    "reveal_id": "be196d01a114470fbe7494015c731f97",
+    "article_title": "Income Tax Deadlines May 2026",
+    "question": "What is the purpose of the Income Tax Department's tax calendar?",
     "answer_label": "B",
-    "answer_text": "Opening doors to criticism",
-    "explanation": "CPM is open to grassroots criticism to understand its weaknesses and improve.",
-    "due_at": "2026-05-09T16:10:38.477778+00:00"
+    "answer_text": "To inform taxpayers about deadlines",
+    "explanation": "The tax calendar helps taxpayers plan and complete their tax-related tasks on time.",
+    "due_at": "2026-05-09T17:07:21.195254+00:00"
   },
   {
-    "reveal_id": "276fe0058d5a46239792c73755b12590",
-    "article_title": "CPM Opens Doors to Criticism",
-    "question": "Why is CPM's move significant in India?",
+    "reveal_id": "9bc1a193f0464157aac777ac3bf7ae48",
+    "article_title": "Income Tax Deadlines May 2026",
+    "question": "How many income tax-related tasks must be completed in May 2026?",
     "answer_label": "B",
-    "answer_text": "It can help CPM regain public trust",
-    "explanation": "CPM's willingness to listen to criticism can help the party regain public trust and improve its performance in future elections.",
-    "due_at": "2026-05-09T16:10:38.834382+00:00"
+    "answer_text": "10 tasks",
+    "explanation": "According to the article, there are 10 income tax-related tasks to be completed in May 2026.",
+    "due_at": "2026-05-09T17:07:21.570341+00:00"
   },
   {
-    "reveal_id": "f15848b05b1a4f86bbf8159910af2651",
-    "article_title": "CPM Opens Doors to Criticism",
-    "question": "In which state can CPM's internal changes have a significant impact?",
-    "answer_label": "B",
-    "answer_text": "Kerala",
-    "explanation": "CPM has a strong presence in Kerala, so its internal changes can impact the state's political landscape.",
-    "due_at": "2026-05-09T16:10:39.191764+00:00"
+    "reveal_id": "90dc53121741456485ba4d8e6aa34153",
+    "article_title": "Income Tax Deadlines May 2026",
+    "question": "What is the consequence of missing income tax deadlines?",
+    "answer_label": "C",
+    "answer_text": "Penalties and fines",
+    "explanation": "Missing deadlines can result in penalties and fines for taxpayers.",
+    "due_at": "2026-05-09T17:07:21.873945+00:00"
   }
 ]
