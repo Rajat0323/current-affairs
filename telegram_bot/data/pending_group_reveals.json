@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "dc6da7ab1a99437dae8bdf3f56752f6c",
-    "article_title": "Tamil Nadu Government Formation",
-    "question": "Who commented on the recent high drama in Tamil Nadu's government formation?",
+    "reveal_id": "f3adc32110414061879ffee3dea620a8",
+    "article_title": "Lookout Circular Against Celina Jaitly's Husband",
+    "question": "Who filed an FIR against Peter Haag?",
     "answer_label": "A",
-    "answer_text": "S Gurumurthy",
-    "explanation": "S Gurumurthy is a well-known commentator on Indian politics and economy.",
-    "due_at": "2026-05-09T17:07:13.726584+00:00"
+    "answer_text": "Celina Jaitly",
+    "explanation": "Celina Jaitly, the wife of Peter Haag, filed the FIR against him at Versova Police Station.",
+    "due_at": "2026-05-09T18:06:33.280733+00:00"
   },
   {
-    "reveal_id": "4d4c9655af0e4184975f841de1be751a",
-    "article_title": "Tamil Nadu Government Formation",
-    "question": "Which parties are involved in the government formation dynamics in Tamil Nadu?",
+    "reveal_id": "5167a97a8da74b98a8448b5eb68e0f0a",
+    "article_title": "Lookout Circular Against Celina Jaitly's Husband",
+    "question": "What action was taken against Peter Haag?",
     "answer_label": "C",
-    "answer_text": "AIADMK, DMK, and BJP",
-    "explanation": "The situation involves the interplay between AIADMK, DMK, and BJP in Tamil Nadu.",
-    "due_at": "2026-05-09T17:07:14.028199+00:00"
+    "answer_text": "Lookout Circular",
+    "explanation": "A lookout circular was issued against Peter Haag after the FIR was filed by his wife.",
+    "due_at": "2026-05-09T18:06:33.574958+00:00"
   },
   {
-    "reveal_id": "4bb9000f50d942b8bfdcb0189db44207",
-    "article_title": "Tamil Nadu Government Formation",
-    "question": "What did S Gurumurthy say about Vijay's TVK?",
-    "answer_label": "C",
-    "answer_text": "They made a rookie mistake",
-    "explanation": "According to S Gurumurthy, Vijay's TVK made a rookie mistake that led to the high drama in Tamil Nadu's government formation.",
-    "due_at": "2026-05-09T17:07:14.330110+00:00"
-  },
-  {
-    "reveal_id": "be196d01a114470fbe7494015c731f97",
-    "article_title": "Income Tax Deadlines May 2026",
-    "question": "What is the purpose of the Income Tax Department's tax calendar?",
+    "reveal_id": "ed689a6c874f49899c90ebb68175914a",
+    "article_title": "Lookout Circular Against Celina Jaitly's Husband",
+    "question": "What is the nationality of Peter Haag?",
     "answer_label": "B",
-    "answer_text": "To inform taxpayers about deadlines",
-    "explanation": "The tax calendar helps taxpayers plan and complete their tax-related tasks on time.",
-    "due_at": "2026-05-09T17:07:21.195254+00:00"
+    "answer_text": "Austrian",
+    "explanation": "Peter Haag is an Austrian national, which may have implications for how the case is handled by Indian authorities.",
+    "due_at": "2026-05-09T18:06:33.895555+00:00"
   },
   {
-    "reveal_id": "9bc1a193f0464157aac777ac3bf7ae48",
-    "article_title": "Income Tax Deadlines May 2026",
-    "question": "How many income tax-related tasks must be completed in May 2026?",
+    "reveal_id": "929f5e4d5d1b418caf4d078ced9bae26",
+    "article_title": "Suvendu Adhikari to be West Bengal CM",
+    "question": "Which party does Suvendu Adhikari belong to?",
     "answer_label": "B",
-    "answer_text": "10 tasks",
-    "explanation": "According to the article, there are 10 income tax-related tasks to be completed in May 2026.",
-    "due_at": "2026-05-09T17:07:21.570341+00:00"
+    "answer_text": "Bharatiya Janata Party",
+    "explanation": "Suvendu Adhikari is a leader of the Bharatiya Janata Party.",
+    "due_at": "2026-05-09T18:06:40.358523+00:00"
   },
   {
-    "reveal_id": "90dc53121741456485ba4d8e6aa34153",
-    "article_title": "Income Tax Deadlines May 2026",
-    "question": "What is the consequence of missing income tax deadlines?",
-    "answer_label": "C",
-    "answer_text": "Penalties and fines",
-    "explanation": "Missing deadlines can result in penalties and fines for taxpayers.",
-    "due_at": "2026-05-09T17:07:21.873945+00:00"
+    "reveal_id": "8029da3c1f5347748e70515e4ef13294",
+    "article_title": "Suvendu Adhikari to be West Bengal CM",
+    "question": "What position will Suvendu Adhikari take oath for?",
+    "answer_label": "B",
+    "answer_text": "Chief Minister of West Bengal",
+    "explanation": "Suvendu Adhikari will take oath as the Chief Minister of West Bengal.",
+    "due_at": "2026-05-09T18:06:40.654645+00:00"
+  },
+  {
+    "reveal_id": "4c5ded670d5a4023a5e0d1c12b46f645",
+    "article_title": "Suvendu Adhikari to be West Bengal CM",
+    "question": "Why is Suvendu Adhikari's oath-taking significant?",
+    "answer_label": "B",
+    "answer_text": "He is the first BJP leader to hold this position",
+    "explanation": "Suvendu Adhikari is the first BJP leader to become the Chief Minister of West Bengal.",
+    "due_at": "2026-05-09T18:06:40.938476+00:00"
   }
 ]
