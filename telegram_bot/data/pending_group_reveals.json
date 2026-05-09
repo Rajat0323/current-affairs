@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "c9154dbc47974b3eb7d2fd44a2050203",
-    "article_title": "Kia Seltos vs Hyundai Creta",
-    "question": "Which two used car models are being compared in the article?",
-    "answer_label": "A",
-    "answer_text": "Kia Seltos and Hyundai Creta",
-    "explanation": "The article explores the key differences between Kia Seltos and Hyundai Creta to help potential buyers make an informed decision.",
-    "due_at": "2026-05-09T22:54:09.783417+00:00"
-  },
-  {
-    "reveal_id": "306341b0ee3e4b21a321bd6b97f4dba0",
-    "article_title": "Kia Seltos vs Hyundai Creta",
-    "question": "What factors are considered when comparing Kia Seltos and Hyundai Creta?",
-    "answer_label": "C",
-    "answer_text": "Pricing, features, and resale value",
-    "explanation": "The article considers pricing, features, and resale value when comparing Kia Seltos and Hyundai Creta.",
-    "due_at": "2026-05-09T22:54:10.121098+00:00"
-  },
-  {
-    "reveal_id": "354a8c0936e6473a8084ca304fc021b2",
-    "article_title": "Kia Seltos vs Hyundai Creta",
-    "question": "Why is it important for used car buyers in India to understand the differences between Kia Seltos and Hyundai Creta?",
-    "answer_label": "C",
-    "answer_text": "To make an informed decision based on their priorities",
-    "explanation": "Understanding the differences between Kia Seltos and Hyundai Creta helps buyers make an informed decision based on their priorities, such as features, value, or resale potential.",
-    "due_at": "2026-05-09T22:54:10.458361+00:00"
-  },
-  {
-    "reveal_id": "e57d6be5634a424ca1c7063ad1ff64fa",
-    "article_title": "Pentagon's 8-Pointed UFO",
-    "question": "What is the shape of the object spotted in the Pentagon's footage?",
-    "answer_label": "C",
-    "answer_text": "8-Pointed Star",
-    "explanation": "The object is described as an 8-pointed star, which has sparked interest and debate online.",
-    "due_at": "2026-05-09T22:54:14.456841+00:00"
-  },
-  {
-    "reveal_id": "bbe4fe3f6d4d4bf5b02172417f2d7cd3",
-    "article_title": "Pentagon's 8-Pointed UFO",
-    "question": "Which country's Defense Department released the footage?",
-    "answer_label": "C",
-    "answer_text": "United States",
-    "explanation": "The footage was released by the United States Department of Defense.",
-    "due_at": "2026-05-09T22:54:14.796097+00:00"
-  },
-  {
-    "reveal_id": "dce7f1978b91405494390d9e0d6d7eb9",
-    "article_title": "Pentagon's 8-Pointed UFO",
-    "question": "What is the name of the biblical concept linked to the UFO footage?",
+    "reveal_id": "25c8a86c6f924e25ba8401facdc75646",
+    "article_title": "Vijay Deverakonda on Passion",
+    "question": "What does Vijay Deverakonda prioritize over financial security?",
     "answer_label": "B",
-    "answer_text": "Ophanim",
-    "explanation": "The footage has been linked to ancient biblical warnings and descriptions, including the concept of Ophanim.",
-    "due_at": "2026-05-09T22:54:15.134977+00:00"
+    "answer_text": "Passion and purpose",
+    "explanation": "Vijay Deverakonda believes in prioritizing passion and purpose over financial security, as per his personal philosophy.",
+    "due_at": "2026-05-09T23:58:34.368439+00:00"
+  },
+  {
+    "reveal_id": "a7633591fda34db89d8ccb6de6930e26",
+    "article_title": "Vijay Deverakonda on Passion",
+    "question": "What is the main theme of Vijay Deverakonda's quote?",
+    "answer_label": "B",
+    "answer_text": "Power of passion",
+    "explanation": "The quote highlights the importance of believing in oneself and prioritizing passion and purpose.",
+    "due_at": "2026-05-09T23:58:34.657970+00:00"
+  },
+  {
+    "reveal_id": "ce11e721ef7b404dba2cfc3ac472873a",
+    "article_title": "Vijay Deverakonda on Passion",
+    "question": "What can be inferred about Vijay Deverakonda's approach to life?",
+    "answer_label": "C",
+    "answer_text": "He believes in himself",
+    "explanation": "Vijay Deverakonda's quote suggests that he believes in himself and his abilities, rather than relying solely on financial security.",
+    "due_at": "2026-05-09T23:58:34.940232+00:00"
+  },
+  {
+    "reveal_id": "8e5eb49bab8741c6b3b3710ee64199ae",
+    "article_title": "Mamata Banerjee's X Bio Update",
+    "question": "Who became the new BJP Chief Minister of West Bengal?",
+    "answer_label": "B",
+    "answer_text": "Suvendu Adhikari",
+    "explanation": "Suvendu Adhikari took oath as the new Chief Minister of West Bengal.",
+    "due_at": "2026-05-09T23:58:41.632512+00:00"
+  },
+  {
+    "reveal_id": "ac2e508fb6bb462b9fc1e18187776acb",
+    "article_title": "Mamata Banerjee's X Bio Update",
+    "question": "What change did Mamata Banerjee make to her X bio?",
+    "answer_label": "D",
+    "answer_text": "Removed her incumbent status",
+    "explanation": "Mamata Banerjee removed her incumbent status from her X bio.",
+    "due_at": "2026-05-09T23:58:41.934397+00:00"
+  },
+  {
+    "reveal_id": "5c0f42e1d89d4ea795ba5db7fff5a91f",
+    "article_title": "Mamata Banerjee's X Bio Update",
+    "question": "Which party does Suvendu Adhikari belong to?",
+    "answer_label": "B",
+    "answer_text": "BJP",
+    "explanation": "Suvendu Adhikari is a member of the Bharatiya Janata Party (BJP).",
+    "due_at": "2026-05-09T23:58:42.229246+00:00"
   }
 ]
