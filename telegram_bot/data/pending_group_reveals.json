@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "053603d5c9b748daa0220d414ecadf54",
-    "article_title": "Tejashwi Yadav on Stopping BJP",
-    "question": "Who according to Tejashwi Yadav can stop the BJP juggernaut?",
+    "reveal_id": "99e1e7156c9149b7b097e242c5da0639",
+    "article_title": "US-TikTok Settlement",
+    "question": "What is the amount of the settlement between the US and TikTok?",
     "answer_label": "B",
-    "answer_text": "Regional Parties",
-    "explanation": "Tejashwi Yadav believes that only regional parties can stop the BJP's dominance.",
-    "due_at": "2026-05-09T05:25:23.186608+00:00"
+    "answer_text": "$400 million",
+    "explanation": "The settlement amount is $400 million, as reported by ABC News.",
+    "due_at": "2026-05-09T07:50:31.773173+00:00"
   },
   {
-    "reveal_id": "6c4e694cfb7c4689b095635801a29bb3",
-    "article_title": "Tejashwi Yadav on Stopping BJP",
-    "question": "What did Tejashwi Yadav accuse the BJP of in Bihar?",
+    "reveal_id": "4e7b3caa190146849d7c54b6c32e10fe",
+    "article_title": "US-TikTok Settlement",
+    "question": "Which administration initiated the lawsuit against TikTok?",
     "answer_label": "B",
-    "answer_text": "Ignoring development and employment issues",
-    "explanation": "Tejashwi Yadav accused the BJP of ignoring development and employment issues in Bihar.",
-    "due_at": "2026-05-09T05:25:23.526854+00:00"
+    "answer_text": "Donald Trump's administration",
+    "explanation": "The lawsuit was initiated during Donald Trump's administration, as mentioned in the report.",
+    "due_at": "2026-05-09T07:50:32.122396+00:00"
   },
   {
-    "reveal_id": "9ad7780200d1479387a7a47a110689f9",
-    "article_title": "Tejashwi Yadav on Stopping BJP",
-    "question": "What does Tejashwi Yadav want opposition parties to do?",
-    "answer_label": "C",
-    "answer_text": "Unite and formulate a joint strategy",
-    "explanation": "Tejashwi Yadav wants opposition parties to unite and formulate a joint strategy to counter the BJP.",
-    "due_at": "2026-05-09T05:25:23.856387+00:00"
-  },
-  {
-    "reveal_id": "69673c2929cc4394a0a0019724d257eb",
-    "article_title": "Stories the Fire Could not Burn",
-    "question": "What is the main subject of the book 'Stories the Fire Could not Burn'?",
+    "reveal_id": "8f1914a94e854e8db9a9e6e3219c5104",
+    "article_title": "US-TikTok Settlement",
+    "question": "What is the main issue at the center of the US-TikTok settlement?",
     "answer_label": "B",
-    "answer_text": "A personal account of the conflict in Manipur",
-    "explanation": "The book is a personal account of the conflict in Manipur, written by Hoihnu Hauzel.",
-    "due_at": "2026-05-09T05:25:27.975422+00:00"
+    "answer_text": "Child-privacy violations",
+    "explanation": "The main issue is alleged child-privacy violations, which led to the lawsuit and subsequent settlement.",
+    "due_at": "2026-05-09T07:50:32.475313+00:00"
   },
   {
-    "reveal_id": "3464691f151f400089b633ae4325b9db",
-    "article_title": "Stories the Fire Could not Burn",
-    "question": "Why is the book 'Stories the Fire Could not Burn' relevant to India?",
-    "answer_label": "C",
-    "answer_text": "It sheds light on the Manipur conflict, which affects India's internal security",
-    "explanation": "The book is relevant to India because it discusses the conflict in Manipur, which is a significant issue for India's internal security and regional stability.",
-    "due_at": "2026-05-09T05:25:28.306297+00:00"
+    "reveal_id": "b3d8b2747344443a8133b73f8b8c057b",
+    "article_title": "HC Dismisses Habeas Corpus Plea",
+    "question": "What type of plea was filed by the US-based father?",
+    "answer_label": "A",
+    "answer_text": "Habeas corpus",
+    "explanation": "The father filed a habeas corpus petition to seek the repatriation of his child.",
+    "due_at": "2026-05-09T07:50:36.382749+00:00"
   },
   {
-    "reveal_id": "9599b79ec7e645e986e148ec94ccfb77",
-    "article_title": "Stories the Fire Could not Burn",
-    "question": "What can be inferred about the author's purpose in writing 'Stories the Fire Could not Burn'?",
-    "answer_label": "C",
-    "answer_text": "To bear witness to the human experience during conflict",
-    "explanation": "The author's purpose in writing the book is to bear witness to the human experience during conflict, providing a personal and emotional account of the struggles in Manipur.",
-    "due_at": "2026-05-09T05:25:28.628062+00:00"
+    "reveal_id": "7faca8421d6f4fc5b58fae08c696be19",
+    "article_title": "HC Dismisses Habeas Corpus Plea",
+    "question": "What was the outcome of the US-based father's plea?",
+    "answer_label": "B",
+    "answer_text": "The court dismissed the plea",
+    "explanation": "The High Court dismissed the US-based father's habeas corpus plea.",
+    "due_at": "2026-05-09T07:50:36.756707+00:00"
+  },
+  {
+    "reveal_id": "d49b5c2715ce407fa6fea31f425b14c8",
+    "article_title": "HC Dismisses Habeas Corpus Plea",
+    "question": "How old is the child involved in the case?",
+    "answer_label": "B",
+    "answer_text": "3.5 years",
+    "explanation": "The child involved in the case is 3.5 years old.",
+    "due_at": "2026-05-09T07:50:37.102145+00:00"
   }
 ]
