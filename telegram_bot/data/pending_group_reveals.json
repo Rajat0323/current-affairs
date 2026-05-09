@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "cd737bd6e0894de588e7c6cdc247bf14",
-    "article_title": "British PM Keir Starmer's Inquiry Vote",
-    "question": "What was the recent vote in the British House of Commons about?",
+    "reveal_id": "8053eeb43bbe4900a6bf213c8ebe1ffe",
+    "article_title": "New Navy Chief Appointed",
+    "question": "Who has been appointed as the next Chief of the Naval Staff?",
     "answer_label": "B",
-    "answer_text": "PM Keir Starmer's inquiry",
-    "explanation": "The vote was about whether PM Keir Starmer would face an inquiry, which has significant implications for his leadership.",
-    "due_at": "2026-05-09T15:19:04.175760+00:00"
+    "answer_text": "Vice Admiral Krishna Swaminathan",
+    "explanation": "Vice Admiral Krishna Swaminathan has been appointed as the next Chief of the Naval Staff, as per the official announcement.",
+    "due_at": "2026-05-09T16:10:33.786643+00:00"
   },
   {
-    "reveal_id": "65e1ecc7b0f34c2a857c83ed2b9b9a91",
-    "article_title": "British PM Keir Starmer's Inquiry Vote",
-    "question": "Why is the UK's political stability important for India?",
+    "reveal_id": "c6201bc539f94be49f830450dfb7e6e6",
+    "article_title": "New Navy Chief Appointed",
+    "question": "What is the role of the Chief of the Naval Staff?",
+    "answer_label": "C",
+    "answer_text": "Leading the Indian Navy",
+    "explanation": "The Chief of the Naval Staff is the head of the Indian Navy, responsible for its operations and strategy.",
+    "due_at": "2026-05-09T16:10:34.156666+00:00"
+  },
+  {
+    "reveal_id": "3bc1d5fbcfce40cab53d36212dbc68ab",
+    "article_title": "New Navy Chief Appointed",
+    "question": "Where was the appointment of Vice Admiral Krishna Swaminathan announced?",
     "answer_label": "B",
-    "answer_text": "The UK is a significant economic partner for India",
-    "explanation": "The UK is a significant economic partner for India, and its political stability can impact their trade and diplomatic relationships.",
-    "due_at": "2026-05-09T15:19:04.474563+00:00"
+    "answer_text": "New Delhi",
+    "explanation": "The appointment was announced in New Delhi, the capital city of India.",
+    "due_at": "2026-05-09T16:10:34.514893+00:00"
   },
   {
-    "reveal_id": "bfd06047dc38455e8c45ae96d8274200",
-    "article_title": "British PM Keir Starmer's Inquiry Vote",
-    "question": "What may be influenced by the outcome of the vote on PM Keir Starmer's inquiry?",
+    "reveal_id": "15e13e28b8c34b5f9a8c78e0490d99d2",
+    "article_title": "CPM Opens Doors to Criticism",
+    "question": "What is CPM doing after its election defeat?",
     "answer_label": "B",
-    "answer_text": "India-UK diplomatic and trade ties",
-    "explanation": "The outcome of the vote may influence India-UK diplomatic and trade ties, given the UK's significant economic and strategic importance.",
-    "due_at": "2026-05-09T15:19:04.764896+00:00"
+    "answer_text": "Opening doors to criticism",
+    "explanation": "CPM is open to grassroots criticism to understand its weaknesses and improve.",
+    "due_at": "2026-05-09T16:10:38.477778+00:00"
   },
   {
-    "reveal_id": "ff0c75b1ddc74c91821d76c1e2a92c44",
-    "article_title": "Suvendu Adhikari Elected BJP Leader",
-    "question": "Who has been elected as the BJP Legislature Party leader in West Bengal?",
-    "answer_label": "A",
-    "answer_text": "Suvendu Adhikari",
-    "explanation": "Suvendu Adhikari has been chosen to lead the BJP legislature party in West Bengal.",
-    "due_at": "2026-05-09T15:19:11.694990+00:00"
-  },
-  {
-    "reveal_id": "03a2a7cd73654cc68663cff8d43d32e3",
-    "article_title": "Suvendu Adhikari Elected BJP Leader",
-    "question": "To whom did Suvendu Adhikari pay tribute after his election?",
+    "reveal_id": "276fe0058d5a46239792c73755b12590",
+    "article_title": "CPM Opens Doors to Criticism",
+    "question": "Why is CPM's move significant in India?",
     "answer_label": "B",
-    "answer_text": "Syama Prasad Mookerjee and Swami Pranabananda",
-    "explanation": "Suvendu Adhikari paid tribute to Syama Prasad Mookerjee and Swami Pranabananda after his election.",
-    "due_at": "2026-05-09T15:19:12.004518+00:00"
+    "answer_text": "It can help CPM regain public trust",
+    "explanation": "CPM's willingness to listen to criticism can help the party regain public trust and improve its performance in future elections.",
+    "due_at": "2026-05-09T16:10:38.834382+00:00"
   },
   {
-    "reveal_id": "955adf0490d344de9cb53f85f0b523ea",
-    "article_title": "Suvendu Adhikari Elected BJP Leader",
-    "question": "What did Suvendu Adhikari vow to do after his election as BJP Legislature Party leader?",
-    "answer_label": "A",
-    "answer_text": "Reconstruct Bengal",
-    "explanation": "Suvendu Adhikari vowed to reconstruct Bengal after his election as BJP Legislature Party leader.",
-    "due_at": "2026-05-09T15:19:12.308988+00:00"
+    "reveal_id": "f15848b05b1a4f86bbf8159910af2651",
+    "article_title": "CPM Opens Doors to Criticism",
+    "question": "In which state can CPM's internal changes have a significant impact?",
+    "answer_label": "B",
+    "answer_text": "Kerala",
+    "explanation": "CPM has a strong presence in Kerala, so its internal changes can impact the state's political landscape.",
+    "due_at": "2026-05-09T16:10:39.191764+00:00"
   }
 ]
