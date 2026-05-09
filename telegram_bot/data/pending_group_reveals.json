@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "f3adc32110414061879ffee3dea620a8",
-    "article_title": "Lookout Circular Against Celina Jaitly's Husband",
-    "question": "Who filed an FIR against Peter Haag?",
+    "reveal_id": "0e5bed4b6fca4a60a9de65da239dfc35",
+    "article_title": "800-year-old Shiva Temple Demolished",
+    "question": "What was the reason for demolishing the 800-year-old Shiva temple in Telangana?",
+    "answer_label": "B",
+    "answer_text": "Construction of a school",
+    "explanation": "The temple was demolished to make way for a school construction project, as per the authorities' allotment of the land.",
+    "due_at": "2026-05-09T19:08:09.310639+00:00"
+  },
+  {
+    "reveal_id": "f164534cbe2b4de1a18dfa52634ff373",
+    "article_title": "800-year-old Shiva Temple Demolished",
+    "question": "How did the locals react to the demolition of the temple?",
+    "answer_label": "B",
+    "answer_text": "They staged a protest",
+    "explanation": "The locals staged a protest against the officials after the temple was demolished, showing their opposition to the action.",
+    "due_at": "2026-05-09T19:08:09.639692+00:00"
+  },
+  {
+    "reveal_id": "6eebee45549b48e593fc8a4f4f3e8c36",
+    "article_title": "800-year-old Shiva Temple Demolished",
+    "question": "What is the estimated age of the demolished Shiva temple?",
+    "answer_label": "B",
+    "answer_text": "800 years",
+    "explanation": "The Shiva temple is believed to be approximately 800 years old, making it a significant historical and cultural site.",
+    "due_at": "2026-05-09T19:08:09.989659+00:00"
+  },
+  {
+    "reveal_id": "fe6ebc8fe4bf4602ada245f1522e36f6",
+    "article_title": "BJP Swearing-in at Brigade Parade Ground",
+    "question": "Where did the BJP hold its historic swearing-in ceremony in West Bengal?",
     "answer_label": "A",
-    "answer_text": "Celina Jaitly",
-    "explanation": "Celina Jaitly, the wife of Peter Haag, filed the FIR against him at Versova Police Station.",
-    "due_at": "2026-05-09T18:06:33.280733+00:00"
+    "answer_text": "Brigade Parade Ground",
+    "explanation": "The BJP chose Brigade Parade Ground for its swearing-in ceremony, marking a significant event in West Bengal's political history.",
+    "due_at": "2026-05-09T19:08:13.920326+00:00"
   },
   {
-    "reveal_id": "5167a97a8da74b98a8448b5eb68e0f0a",
-    "article_title": "Lookout Circular Against Celina Jaitly's Husband",
-    "question": "What action was taken against Peter Haag?",
+    "reveal_id": "27e368b7bae84b8f9746ee3aa52930ce",
+    "article_title": "BJP Swearing-in at Brigade Parade Ground",
+    "question": "What is notable about the Brigade Parade Ground?",
     "answer_label": "C",
-    "answer_text": "Lookout Circular",
-    "explanation": "A lookout circular was issued against Peter Haag after the FIR was filed by his wife.",
-    "due_at": "2026-05-09T18:06:33.574958+00:00"
+    "answer_text": "It has hosted Soviet icons",
+    "explanation": "The Brigade Parade Ground has a rich history and has hosted many significant events, including those with Soviet icons.",
+    "due_at": "2026-05-09T19:08:14.243340+00:00"
   },
   {
-    "reveal_id": "ed689a6c874f49899c90ebb68175914a",
-    "article_title": "Lookout Circular Against Celina Jaitly's Husband",
-    "question": "What is the nationality of Peter Haag?",
+    "reveal_id": "798f51fae62a49bd9810fef8e45bfbdc",
+    "article_title": "BJP Swearing-in at Brigade Parade Ground",
+    "question": "What does the BJP swearing-in ceremony at Brigade Parade Ground signify?",
     "answer_label": "B",
-    "answer_text": "Austrian",
-    "explanation": "Peter Haag is an Austrian national, which may have implications for how the case is handled by Indian authorities.",
-    "due_at": "2026-05-09T18:06:33.895555+00:00"
-  },
-  {
-    "reveal_id": "929f5e4d5d1b418caf4d078ced9bae26",
-    "article_title": "Suvendu Adhikari to be West Bengal CM",
-    "question": "Which party does Suvendu Adhikari belong to?",
-    "answer_label": "B",
-    "answer_text": "Bharatiya Janata Party",
-    "explanation": "Suvendu Adhikari is a leader of the Bharatiya Janata Party.",
-    "due_at": "2026-05-09T18:06:40.358523+00:00"
-  },
-  {
-    "reveal_id": "8029da3c1f5347748e70515e4ef13294",
-    "article_title": "Suvendu Adhikari to be West Bengal CM",
-    "question": "What position will Suvendu Adhikari take oath for?",
-    "answer_label": "B",
-    "answer_text": "Chief Minister of West Bengal",
-    "explanation": "Suvendu Adhikari will take oath as the Chief Minister of West Bengal.",
-    "due_at": "2026-05-09T18:06:40.654645+00:00"
-  },
-  {
-    "reveal_id": "4c5ded670d5a4023a5e0d1c12b46f645",
-    "article_title": "Suvendu Adhikari to be West Bengal CM",
-    "question": "Why is Suvendu Adhikari's oath-taking significant?",
-    "answer_label": "B",
-    "answer_text": "He is the first BJP leader to hold this position",
-    "explanation": "Suvendu Adhikari is the first BJP leader to become the Chief Minister of West Bengal.",
-    "due_at": "2026-05-09T18:06:40.938476+00:00"
+    "answer_text": "A change in West Bengal's political landscape",
+    "explanation": "The ceremony marks a significant change in West Bengal's political dynamics, with the BJP forming its first-ever government in the state.",
+    "due_at": "2026-05-09T19:08:14.601639+00:00"
   }
 ]
