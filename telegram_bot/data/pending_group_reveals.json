@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "600008b594574bf5aa2aae07ec6a5c11",
-    "article_title": "Russia's Scaled-Down Victory Day Parade",
-    "question": "What was different about Russia's Victory Day parade this year?",
-    "answer_label": "C",
-    "answer_text": "It did not feature tanks and missiles",
-    "explanation": "The parade was scaled down and did not include tanks and missiles, which have been a part of the event since 2008.",
-    "due_at": "2026-05-10T09:47:07.234030+00:00"
-  },
-  {
-    "reveal_id": "744fff5ba8be4720b9f0e9dd54173dc0",
-    "article_title": "Russia's Scaled-Down Victory Day Parade",
-    "question": "What could be a possible reason for the scaled-down parade?",
-    "answer_label": "B",
-    "answer_text": "Shift in military priorities",
-    "explanation": "The scaled-down parade may indicate a shift in Russia's military priorities or strategies, which could have implications for global geopolitics.",
-    "due_at": "2026-05-10T09:47:10.977276+00:00"
-  },
-  {
-    "reveal_id": "b4f6328a73384f36af8f1e35cd7e804d",
-    "article_title": "Russia's Scaled-Down Victory Day Parade",
-    "question": "How often had tanks and missiles been featured in the Victory Day parade before this year?",
-    "answer_label": "C",
-    "answer_text": "Every year since 2008",
-    "explanation": "Tanks and missiles had been a part of the Victory Day parade every year since 2008, making this year's absence notable.",
-    "due_at": "2026-05-10T09:47:11.549499+00:00"
-  },
-  {
-    "reveal_id": "2dcca3f4e3714ef8a6bb3c09b3a577d6",
-    "article_title": "Illicit Allopathic Drugs in Baddi",
-    "question": "Which authority is responsible for monitoring food safety in India?",
+    "reveal_id": "b58a3a8d4e524a19a0f1a7af680e7e07",
+    "article_title": "Dogra Educational Trust Wins Innovation Award",
+    "question": "Where was the ICC World Technology Convention 2026 held?",
     "answer_label": "A",
-    "answer_text": "FSSAI",
-    "explanation": "The Food Safety and Standards Authority of India (FSSAI) is responsible for monitoring food safety in India.",
-    "due_at": "2026-05-10T09:47:18.080061+00:00"
+    "answer_text": "Jio World Convention Centre",
+    "explanation": "The convention was held at the Jio World Convention Centre, as mentioned in the article.",
+    "due_at": "2026-05-10T11:11:48.987206+00:00"
   },
   {
-    "reveal_id": "d0cc7d74f300483498feb97d1f931520",
-    "article_title": "Illicit Allopathic Drugs in Baddi",
-    "question": "What type of licence was used to produce illicit allopathic drugs in Baddi?",
+    "reveal_id": "3ef65c4063ee47e0bde98722ad02cb76",
+    "article_title": "Dogra Educational Trust Wins Innovation Award",
+    "question": "What category did Dogra Educational Trust win the award in?",
     "answer_label": "B",
-    "answer_text": "Food licence",
-    "explanation": "The illicit allopathic drugs were produced under a food licence in Baddi.",
-    "due_at": "2026-05-10T09:47:18.664373+00:00"
+    "answer_text": "Innovation Catalyst",
+    "explanation": "The trust won the award under the 'Innovation Catalyst' category.",
+    "due_at": "2026-05-10T11:11:49.703678+00:00"
   },
   {
-    "reveal_id": "386f2036c8884fe98395b70c56d5b64a",
-    "article_title": "Illicit Allopathic Drugs in Baddi",
-    "question": "Which agency raided the unit producing illicit allopathic drugs in Baddi?",
+    "reveal_id": "1f42718baa7a4c21935eab41b0167a4b",
+    "article_title": "Dogra Educational Trust Wins Innovation Award",
+    "question": "Who organized the ICC World Technology Convention 2026?",
+    "answer_label": "A",
+    "answer_text": "Indian Chamber of Commerce",
+    "explanation": "The convention was organized by the Indian Chamber of Commerce.",
+    "due_at": "2026-05-10T11:11:50.415494+00:00"
+  },
+  {
+    "reveal_id": "5b654c7ef3734f23aa23deb281b9b075",
+    "article_title": "India Wins Medals at Cheese Competition",
+    "question": "Where did India win 4 medals in a cheese competition?",
+    "answer_label": "A",
+    "answer_text": "Mundial do Queijo do Brasil 2026",
+    "explanation": "India won medals at the Mundial do Queijo do Brasil 2026, a cheese competition in Brazil.",
+    "due_at": "2026-05-10T11:11:54.735752+00:00"
+  },
+  {
+    "reveal_id": "245e2621611343609a27e0228caf209e",
+    "article_title": "India Wins Medals at Cheese Competition",
+    "question": "Who are championing artisanal Indian cheese?",
     "answer_label": "C",
-    "answer_text": "DCA",
-    "explanation": "The Baddi-based drug control administration (DCA) raided the unit producing illicit allopathic drugs.",
-    "due_at": "2026-05-10T09:47:19.236774+00:00"
+    "answer_text": "Prateek Sadhu and Garima Arora",
+    "explanation": "Chefs like Prateek Sadhu and Garima Arora are promoting artisanal Indian cheese.",
+    "due_at": "2026-05-10T11:11:55.472360+00:00"
+  },
+  {
+    "reveal_id": "b56acc75e60c4ccfb46f3d3de2162dac",
+    "article_title": "India Wins Medals at Cheese Competition",
+    "question": "What is the significance of India's win in the cheese competition?",
+    "answer_label": "C",
+    "answer_text": "Global recognition of Indian cuisine",
+    "explanation": "India's win promotes Indian cuisine globally and supports artisanal cheese production.",
+    "due_at": "2026-05-10T11:11:59.390446+00:00"
   }
 ]
