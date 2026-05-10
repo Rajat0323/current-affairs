@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "81d34fe6374f48f68f41cd7532879926",
-    "article_title": "New Income Tax Return Forms",
-    "question": "What is driving the transformation of India's personal tax compliance framework?",
+    "reveal_id": "452659ab8ffd4508b2a8b8e7a6b520f8",
+    "article_title": "Bengal Assembly Appointments",
+    "question": "Who was named Leader of Opposition in Bengal Assembly?",
     "answer_label": "A",
-    "answer_text": "Digitisation",
-    "explanation": "The transformation is driven by digitisation, pre-filled data integration, and simplified tax regimes.",
-    "due_at": "2026-05-10T01:54:22.386397+00:00"
+    "answer_text": "Sobhandeb Chattopadhyay",
+    "explanation": "Sobhandeb Chattopadhyay was named Leader of Opposition by All India Trinamool Congress.",
+    "due_at": "2026-05-10T05:38:50.845278+00:00"
   },
   {
-    "reveal_id": "7421a5f59aac41b0a08f18b67095aad2",
-    "article_title": "New Income Tax Return Forms",
-    "question": "Who will be affected by the new ITR forms?",
-    "answer_label": "C",
-    "answer_text": "Salaried taxpayers and cross-border employees",
-    "explanation": "The new ITR forms will affect salaried taxpayers, including those working across borders.",
-    "due_at": "2026-05-10T01:54:22.666810+00:00"
-  },
-  {
-    "reveal_id": "7a0dc93638f545a0add3cf1199cffce2",
-    "article_title": "New Income Tax Return Forms",
-    "question": "What is a key feature of the new ITR forms for FY 2025-26?",
+    "reveal_id": "5157ab3fdf564189987169381b26e5e9",
+    "article_title": "Bengal Assembly Appointments",
+    "question": "Which party made the key legislative appointments in Bengal Assembly?",
     "answer_label": "B",
-    "answer_text": "Pre-filled data integration",
-    "explanation": "The new ITR forms have pre-filled data integration, making the filing process easier.",
-    "due_at": "2026-05-10T01:54:22.956118+00:00"
+    "answer_text": "AITC",
+    "explanation": "All India Trinamool Congress made the key legislative appointments in Bengal Assembly.",
+    "due_at": "2026-05-10T05:38:51.137067+00:00"
   },
   {
-    "reveal_id": "805d640390274f5a97c495616fb740aa",
-    "article_title": "Latur Man Commits Suicide",
-    "question": "Where did the incident of social media harassment leading to suicide occur?",
+    "reveal_id": "86a3a0cafaad4c1f9daede621379c838",
+    "article_title": "Bengal Assembly Appointments",
+    "question": "Who was appointed chief whip in Bengal Assembly?",
+    "answer_label": "B",
+    "answer_text": "Firhad Hakim",
+    "explanation": "Firhad Hakim was appointed chief whip in Bengal Assembly by All India Trinamool Congress.",
+    "due_at": "2026-05-10T05:38:51.432441+00:00"
+  },
+  {
+    "reveal_id": "d98743b7f8bd499d8dfa8f00d2b3d6db",
+    "article_title": "Gujarat Heatwave",
+    "question": "Which state is bracing for a harsher heatwave spell till May 14?",
+    "answer_label": "B",
+    "answer_text": "Gujarat",
+    "explanation": "The article mentions Gujarat as the state expecting a severe heatwave.",
+    "due_at": "2026-05-10T05:38:57.962235+00:00"
+  },
+  {
+    "reveal_id": "a6da15e5ac18487094e06aa50f8d2340",
+    "article_title": "Gujarat Heatwave",
+    "question": "What is the expected duration of the heatwave in Gujarat?",
+    "answer_label": "B",
+    "answer_text": "Till May 14",
+    "explanation": "The article states that the heatwave is expected to last till May 14.",
+    "due_at": "2026-05-10T05:38:58.258705+00:00"
+  },
+  {
+    "reveal_id": "f578d811f5f845ada6d0fb9dd05aa874",
+    "article_title": "Gujarat Heatwave",
+    "question": "Which department has forecasted the harsher spell of summer in Gujarat?",
     "answer_label": "A",
-    "answer_text": "Latur, Maharashtra",
-    "explanation": "The incident occurred in Latur, Maharashtra, as per the given article.",
-    "due_at": "2026-05-10T01:54:29.345292+00:00"
-  },
-  {
-    "reveal_id": "f4d9554660ad4fd6b9da5aca9906761b",
-    "article_title": "Latur Man Commits Suicide",
-    "question": "How many individuals have been detained in connection with the incident?",
-    "answer_label": "B",
-    "answer_text": "4",
-    "explanation": "Four individuals have been detained by the police in connection with the incident.",
-    "due_at": "2026-05-10T01:54:29.625812+00:00"
-  },
-  {
-    "reveal_id": "40083fc6ef2340bb94e435980bb3eba1",
-    "article_title": "Latur Man Commits Suicide",
-    "question": "What was the alleged reason for the social media harassment?",
-    "answer_label": "B",
-    "answer_text": "A love affair",
-    "explanation": "The alleged reason for the social media harassment was a love affair, as mentioned in the article.",
-    "due_at": "2026-05-10T01:54:29.901087+00:00"
+    "answer_text": "Weather department",
+    "explanation": "The article mentions the weather department as the forecasting authority.",
+    "due_at": "2026-05-10T05:38:58.555702+00:00"
   }
 ]
