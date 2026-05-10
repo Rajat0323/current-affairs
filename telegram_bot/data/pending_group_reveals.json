@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "ac820e4508784bd58260ebbf3b3b907f",
-    "article_title": "Royal Bengal Tiger Spotted in Arunachal Sanctuary",
-    "question": "Where was the Royal Bengal Tiger spotted after nearly 20 years?",
+    "reveal_id": "c35c6eac98c4435087726e6e531bac86",
+    "article_title": "Decline of Janamaithri Network in Kerala",
+    "question": "What is the main concern due to the decline of the Janamaithri network in Kerala?",
     "answer_label": "B",
-    "answer_text": "Daying Ering Wildlife Sanctuary",
-    "explanation": "The Royal Bengal Tiger was spotted in Arunachal Pradesh's Daying Ering Wildlife Sanctuary, as reported in the article.",
-    "due_at": "2026-05-10T22:58:32.884469+00:00"
+    "answer_text": "Lack of care for elderly",
+    "explanation": "The decline of the Janamaithri network jeopardizes care for vulnerable elderly living alone, making their safety and well-being a concern.",
+    "due_at": "2026-05-11T00:03:19.925600+00:00"
   },
   {
-    "reveal_id": "8a173412eca54500963a268aac74c0fd",
-    "article_title": "Royal Bengal Tiger Spotted in Arunachal Sanctuary",
-    "question": "How long had it been since a Royal Bengal Tiger was last spotted in the sanctuary?",
+    "reveal_id": "4a638cd000fa4637a95e88f9a2685fc6",
+    "article_title": "Decline of Janamaithri Network in Kerala",
+    "question": "What kind of issue does the decline of the Janamaithri network represent?",
+    "answer_label": "B",
+    "answer_text": "Social issue",
+    "explanation": "The decline of the Janamaithri network represents a social issue, as it affects the care and well-being of elderly people.",
+    "due_at": "2026-05-11T00:03:23.664352+00:00"
+  },
+  {
+    "reveal_id": "8293c20481484300aaef923475213891",
+    "article_title": "Decline of Janamaithri Network in Kerala",
+    "question": "Why are community-based networks important for elderly care in India?",
     "answer_label": "C",
-    "answer_text": "20 years",
-    "explanation": "The article states that the Royal Bengal Tiger was spotted in the sanctuary after nearly 20 years.",
-    "due_at": "2026-05-10T22:58:36.648276+00:00"
+    "answer_text": "They support vulnerable populations",
+    "explanation": "Community-based networks like Janamaithri are important because they support vulnerable elderly populations, ensuring their safety and well-being.",
+    "due_at": "2026-05-11T00:03:24.224959+00:00"
   },
   {
-    "reveal_id": "2f6f0504284f49c3a0c972f6606c9902",
-    "article_title": "Royal Bengal Tiger Spotted in Arunachal Sanctuary",
-    "question": "What is the potential significance of the Royal Bengal Tiger's reappearance in the sanctuary?",
+    "reveal_id": "80765ade2adf490984309fbdba8f3f80",
+    "article_title": "Childless Women in Indian Workplaces",
+    "question": "What did a GIM study find about childless women in Indian workplaces?",
+    "answer_label": "B",
+    "answer_text": "They are seen as ideal workers by employers",
+    "explanation": "The study found that childless women are perceived as ideal workers by employers, but still face subtle exclusion and moral judgment.",
+    "due_at": "2026-05-11T00:03:31.302523+00:00"
+  },
+  {
+    "reveal_id": "5722abdc05aa40abb5db33efd7d3ba59",
+    "article_title": "Childless Women in Indian Workplaces",
+    "question": "What kind of pressure do childless women in India face at work, according to the study?",
+    "answer_label": "B",
+    "answer_text": "Pressure to fit into motherhood norms",
+    "explanation": "The study found that childless women in India face pressure to fit into traditional motherhood norms, despite being seen as ideal workers.",
+    "due_at": "2026-05-11T00:03:31.862217+00:00"
+  },
+  {
+    "reveal_id": "ec86380162a144e98586de06499d83f7",
+    "article_title": "Childless Women in Indian Workplaces",
+    "question": "What is a potential outcome of the study's findings for Indian workplaces?",
     "answer_label": "C",
-    "answer_text": "It raises questions about the tiger's habitat and migration patterns",
-    "explanation": "The reappearance of the Royal Bengal Tiger in the sanctuary can inform wildlife management policies and highlight the importance of conservation efforts.",
-    "due_at": "2026-05-10T22:58:37.274512+00:00"
-  },
-  {
-    "reveal_id": "2a7bddd74dcb40d891e342230fd014c4",
-    "article_title": "New Chief of Defence Staff Appointed",
-    "question": "Who has been appointed as India's next Chief of Defence Staff?",
-    "answer_label": "B",
-    "answer_text": "Lieutenant General NS Raja Subramani",
-    "explanation": "Lieutenant General NS Raja Subramani has been appointed as the next CDS, as per the official announcement.",
-    "due_at": "2026-05-10T22:58:43.943935+00:00"
-  },
-  {
-    "reveal_id": "10432e2fcc3840c8a3b5f52552474620",
-    "article_title": "New Chief of Defence Staff Appointed",
-    "question": "When will Lieutenant General NS Raja Subramani take over as the Chief of Defence Staff?",
-    "answer_label": "B",
-    "answer_text": "30 May 2026",
-    "explanation": "He will succeed General Anil Chauhan on 30 May 2026.",
-    "due_at": "2026-05-10T22:58:44.545680+00:00"
-  },
-  {
-    "reveal_id": "be6137aeeb2b41519a766f116fa88e0f",
-    "article_title": "New Chief of Defence Staff Appointed",
-    "question": "What other position will Lieutenant General NS Raja Subramani hold besides being the Chief of Defence Staff?",
-    "answer_label": "B",
-    "answer_text": "Secretary to the Government of India in the Department of Military Affairs",
-    "explanation": "He will also serve as Secretary to the Government of India in the Department of Military Affairs.",
-    "due_at": "2026-05-10T22:58:45.160660+00:00"
+    "answer_text": "Policies will be adopted to support childless women",
+    "explanation": "The study's findings highlight the need for Indian workplaces to adopt more supportive and accepting policies for childless women, promoting a more inclusive work environment.",
+    "due_at": "2026-05-11T00:03:32.423679+00:00"
   }
 ]
