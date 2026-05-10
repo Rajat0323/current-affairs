@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "87055c7c4a9b4724b668332583755def",
-    "article_title": "New Tamil Nadu CM Assumes Office",
-    "question": "Who is the new Chief Minister of Tamil Nadu?",
-    "answer_label": "A",
-    "answer_text": "C Joseph Vijay",
-    "explanation": "C Joseph Vijay is the chief of Tamilaga Vettri Kazhagam and has assumed office as Tamil Nadu CM.",
-    "due_at": "2026-05-10T19:08:23.917900+00:00"
-  },
-  {
-    "reveal_id": "99d3d5e659ae416bbff816001b56d970",
-    "article_title": "New Tamil Nadu CM Assumes Office",
-    "question": "What are the key areas the new CM has promised to prioritize?",
+    "reveal_id": "a725bae29c4146b4a7350f7a18cde330",
+    "article_title": "Fermented Organic Manure Blending with Fertilizers",
+    "question": "What is the proposed percentage of fermented organic manure to be blended with chemical fertilizers?",
     "answer_label": "B",
-    "answer_text": "Education, roads, and water facilities",
-    "explanation": "The new CM has pledged to prioritize education, roads, and water facilities for the people of Tamil Nadu.",
-    "due_at": "2026-05-10T19:08:27.665825+00:00"
+    "answer_text": "10%",
+    "explanation": "The Indian Biogas Association proposes a 10% mandatory blending of fermented organic manure with chemical fertilizers.",
+    "due_at": "2026-05-10T20:19:22.643891+00:00"
   },
   {
-    "reveal_id": "009f6b33fa70407fa6396abe194e2d0a",
-    "article_title": "New Tamil Nadu CM Assumes Office",
-    "question": "What is the new CM's stance on corruption and drug abuse?",
+    "reveal_id": "482a14b74430423b84606f90a2aacff1",
+    "article_title": "Fermented Organic Manure Blending with Fertilizers",
+    "question": "What is the estimated annual savings in imports through this initiative?",
     "answer_label": "B",
-    "answer_text": "He will take strict action against corruption and drug abuse",
-    "explanation": "The new CM has vowed to take strict action against corruption and drug abuse in Tamil Nadu.",
-    "due_at": "2026-05-10T19:08:28.251120+00:00"
+    "answer_text": "$2 billion",
+    "explanation": "The initiative aims to save $2 billion annually in imports.",
+    "due_at": "2026-05-10T20:19:26.378572+00:00"
   },
   {
-    "reveal_id": "102bdc9021e14159bdaaa1656f66800e",
-    "article_title": "India-Netherlands Naval Exercise",
-    "question": "Which Indian Navy ship conducted a passage exercise with the Dutch Naval Frigate?",
+    "reveal_id": "cd74be5cfef8494aa9df6068a2af7691",
+    "article_title": "Fermented Organic Manure Blending with Fertilizers",
+    "question": "By what year does the Indian Biogas Association propose to achieve the 10% blending target?",
     "answer_label": "B",
-    "answer_text": "INS Sharda",
-    "explanation": "INS Sharda conducted the passage exercise with HNLMS De Ruyter off the Kochi coast.",
-    "due_at": "2026-05-10T19:08:34.842021+00:00"
+    "answer_text": "2030",
+    "explanation": "The target is proposed to be achieved by 2030.",
+    "due_at": "2026-05-10T20:19:26.961666+00:00"
   },
   {
-    "reveal_id": "b92a652ff4fe4b2283aed3032a30f4f2",
-    "article_title": "India-Netherlands Naval Exercise",
-    "question": "Where was the passage exercise between INS Sharda and HNLMS De Ruyter conducted?",
-    "answer_label": "C",
-    "answer_text": "Off the coast of Kochi",
-    "explanation": "The exercise was conducted off the coast of Kochi.",
-    "due_at": "2026-05-10T19:08:35.424538+00:00"
+    "reveal_id": "8e451a81305a437ebdd29c1de81065d6",
+    "article_title": "Manure Blending with Fertilisers",
+    "question": "What is the proposed percentage of manure blending with fertilisers by 2030?",
+    "answer_label": "B",
+    "answer_text": "10%",
+    "explanation": "The Indian Biogas Association proposes 10% blending to save $2 billion in imports and improve soil health.",
+    "due_at": "2026-05-10T20:19:33.654012+00:00"
   },
   {
-    "reveal_id": "9b17dcc1151d4928bfdf6bcc9572c916",
-    "article_title": "India-Netherlands Naval Exercise",
-    "question": "Which country's naval frigate participated in the passage exercise with INS Sharda?",
-    "answer_label": "C",
-    "answer_text": "Netherlands",
-    "explanation": "The Netherlands Navy ship HNLMS De Ruyter participated in the exercise.",
-    "due_at": "2026-05-10T19:08:36.003417+00:00"
+    "reveal_id": "4610e5ce84de4b22848c0e11bc618409",
+    "article_title": "Manure Blending with Fertilisers",
+    "question": "What is the estimated annual savings from the proposed manure blending?",
+    "answer_label": "B",
+    "answer_text": "$2 billion",
+    "explanation": "The proposed blending can save $2 billion in fertiliser imports annually.",
+    "due_at": "2026-05-10T20:19:34.228130+00:00"
+  },
+  {
+    "reveal_id": "4ef9d5b5ff114db58fb99b815d6dd010",
+    "article_title": "Manure Blending with Fertilisers",
+    "question": "Which of the following schemes is proposed to be integrated with Fermented Organic Manure?",
+    "answer_label": "B",
+    "answer_text": "Soil Health Card scheme",
+    "explanation": "The white paper proposes integrating FOM into the Soil Health Card scheme among other government schemes.",
+    "due_at": "2026-05-10T20:19:34.809272+00:00"
   }
 ]
