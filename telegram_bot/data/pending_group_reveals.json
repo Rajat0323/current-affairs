@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "20f7756a7e2c4ba98356c0abcc4ea485",
-    "article_title": "Voting in India",
-    "question": "What is the primary purpose of voting in a democratic country like India?",
-    "answer_label": "A",
-    "answer_text": "To elect leaders",
-    "explanation": "Voting allows citizens to choose their representatives and leaders, giving them a say in the country's governance.",
-    "due_at": "2026-05-10T14:43:25.017105+00:00"
+    "reveal_id": "d1937daf4a4a4737aa5677bf4021c3a1",
+    "article_title": "Visakhapatnam School Achieves 100% SSC Pass Rate",
+    "question": "What is notable about the Visakhapatnam school's SSC results?",
+    "answer_label": "C",
+    "answer_text": "100% pass rate for 30 years",
+    "explanation": "The school has achieved a 100% SSC pass rate for 30 consecutive years, demonstrating its consistent academic excellence.",
+    "due_at": "2026-05-10T15:58:09.290659+00:00"
   },
   {
-    "reveal_id": "2d960dde8ad64140a3dad0c33669805a",
-    "article_title": "Voting in India",
-    "question": "Which of the following is a benefit of voting in India?",
+    "reveal_id": "8ee52f64dbeb4e57b9ea6dfff830b38c",
+    "article_title": "Visakhapatnam School Achieves 100% SSC Pass Rate",
+    "question": "How were students assisted during the SSC exams?",
     "answer_label": "C",
-    "answer_text": "It shapes the country's policies",
-    "explanation": "Voting enables citizens to influence the country's policies and decisions, making it a crucial aspect of democratic participation.",
-    "due_at": "2026-05-10T14:43:28.829792+00:00"
+    "answer_text": "By scribes from Class 9",
+    "explanation": "Students were assisted by scribes from Class 9, who wrote the answers based on dictation, enabling them to complete the exams.",
+    "due_at": "2026-05-10T15:58:10.025640+00:00"
   },
   {
-    "reveal_id": "07d89cec23e44afbbc2ca144e87f618c",
-    "article_title": "Voting in India",
-    "question": "What is the significance of exercising one's right to vote in India?",
-    "answer_label": "C",
-    "answer_text": "It is a fundamental right that shapes the country's future",
-    "explanation": "Exercising the right to vote is essential in India, as it allows citizens to participate in the democratic process and have a say in the country's governance and future.",
-    "due_at": "2026-05-10T14:43:29.485165+00:00"
+    "reveal_id": "9725d96c32334119878e66d316a3e77a",
+    "article_title": "Visakhapatnam School Achieves 100% SSC Pass Rate",
+    "question": "What is the significance of the school's achievement for India?",
+    "answer_label": "B",
+    "answer_text": "It highlights the potential of inclusive education in India",
+    "explanation": "The school's achievement showcases the effectiveness of inclusive education in India, demonstrating the potential of visually challenged students with proper support.",
+    "due_at": "2026-05-10T15:58:10.740577+00:00"
   },
   {
-    "reveal_id": "048272289fbe400e829c7f5b4d99066b",
-    "article_title": "Kerala Remittances Remain Strong",
-    "question": "What percentage of India's total inward remittances come from Kerala?",
-    "answer_label": "C",
-    "answer_text": "19-20%",
-    "explanation": "Kerala accounts for 19-20% of India's total inward remittances due to its large expatriate population in the Gulf.",
-    "due_at": "2026-05-10T14:43:36.320777+00:00"
+    "reveal_id": "5872602d7a0140a58418ccfbc7f29ef3",
+    "article_title": "Power Outages in Coimbatore",
+    "question": "What was the cause of power outages in Coimbatore?",
+    "answer_label": "B",
+    "answer_text": "Heavy rain and strong winds",
+    "explanation": "Heavy rain and strong winds led to power outages in Coimbatore, as reported.",
+    "due_at": "2026-05-10T15:58:15.025109+00:00"
   },
   {
-    "reveal_id": "68cc8060595a43efa44302590224606d",
-    "article_title": "Kerala Remittances Remain Strong",
-    "question": "Why is the West Asia crisis being closely watched in Kerala?",
+    "reveal_id": "311c0f5763d047c19a5f011d350f2017",
+    "article_title": "Power Outages in Coimbatore",
+    "question": "What is a potential concern during power outages in the election period?",
     "answer_label": "C",
-    "answer_text": "Due to expatriate population",
-    "explanation": "The West Asia crisis is being closely watched in Kerala because of its large expatriate population in the Gulf.",
-    "due_at": "2026-05-10T14:43:37.065313+00:00"
+    "answer_text": "Misuse of power outages for illegal activities",
+    "explanation": "There is a fear that power outages may be used as a shield for illegal activities like bribing voters.",
+    "due_at": "2026-05-10T15:58:15.717109+00:00"
   },
   {
-    "reveal_id": "20974052c4c04e06b3782794d9167055",
-    "article_title": "Kerala Remittances Remain Strong",
-    "question": "What is the significance of remittances to Kerala's economy?",
-    "answer_label": "C",
-    "answer_text": "It is significantly dependent on remittances",
-    "explanation": "Kerala's economy is significantly dependent on remittances from abroad, particularly from its expatriate population in the Gulf.",
-    "due_at": "2026-05-10T14:43:37.677481+00:00"
+    "reveal_id": "42906484e3ae4ef784b73f4f4b9c95ed",
+    "article_title": "Power Outages in Coimbatore",
+    "question": "In which city were power outages reported due to heavy rain and winds?",
+    "answer_label": "B",
+    "answer_text": "Coimbatore",
+    "explanation": "The power outages due to heavy rain and strong winds were reported in Coimbatore.",
+    "due_at": "2026-05-10T15:58:20.618399+00:00"
   }
 ]
