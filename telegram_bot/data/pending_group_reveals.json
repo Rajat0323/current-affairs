@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "452659ab8ffd4508b2a8b8e7a6b520f8",
-    "article_title": "Bengal Assembly Appointments",
-    "question": "Who was named Leader of Opposition in Bengal Assembly?",
-    "answer_label": "A",
-    "answer_text": "Sobhandeb Chattopadhyay",
-    "explanation": "Sobhandeb Chattopadhyay was named Leader of Opposition by All India Trinamool Congress.",
-    "due_at": "2026-05-10T05:38:50.845278+00:00"
-  },
-  {
-    "reveal_id": "5157ab3fdf564189987169381b26e5e9",
-    "article_title": "Bengal Assembly Appointments",
-    "question": "Which party made the key legislative appointments in Bengal Assembly?",
+    "reveal_id": "ad089fc188b94f3e97bd74adae064a0d",
+    "article_title": "Assembly Election Outcomes",
+    "question": "What is a significant factor in the recent Assembly elections in India?",
     "answer_label": "B",
-    "answer_text": "AITC",
-    "explanation": "All India Trinamool Congress made the key legislative appointments in Bengal Assembly.",
-    "due_at": "2026-05-10T05:38:51.137067+00:00"
+    "answer_text": "Regional parties",
+    "explanation": "Regional parties played a crucial role in the elections, influencing the outcome and governance in various states.",
+    "due_at": "2026-05-10T07:32:37.173815+00:00"
   },
   {
-    "reveal_id": "86a3a0cafaad4c1f9daede621379c838",
-    "article_title": "Bengal Assembly Appointments",
-    "question": "Who was appointed chief whip in Bengal Assembly?",
+    "reveal_id": "964bbc66ed6946cc9a69109f496a9b38",
+    "article_title": "Assembly Election Outcomes",
+    "question": "What do the Assembly election outcomes reflect?",
     "answer_label": "B",
-    "answer_text": "Firhad Hakim",
-    "explanation": "Firhad Hakim was appointed chief whip in Bengal Assembly by All India Trinamool Congress.",
-    "due_at": "2026-05-10T05:38:51.432441+00:00"
+    "answer_text": "Evolving voter expectations",
+    "explanation": "The election results indicate changing voter preferences and expectations, which can impact governance and policy-making.",
+    "due_at": "2026-05-10T07:32:41.101670+00:00"
   },
   {
-    "reveal_id": "d98743b7f8bd499d8dfa8f00d2b3d6db",
-    "article_title": "Gujarat Heatwave",
-    "question": "Which state is bracing for a harsher heatwave spell till May 14?",
+    "reveal_id": "ea5dca6f38244e69bb0968785cc0f4d0",
+    "article_title": "Assembly Election Outcomes",
+    "question": "What is impacted by the Assembly election outcomes?",
+    "answer_label": "C",
+    "answer_text": "Both state and national politics",
+    "explanation": "The election outcomes have implications for both state and national politics, affecting the balance of power and governance.",
+    "due_at": "2026-05-10T07:32:41.664685+00:00"
+  },
+  {
+    "reveal_id": "68aa792c73184c28ba39279e95267291",
+    "article_title": "Odisha Mob Lynching Probe",
+    "question": "What was the reason for the mob lynching incident in Odisha?",
     "answer_label": "B",
-    "answer_text": "Gujarat",
-    "explanation": "The article mentions Gujarat as the state expecting a severe heatwave.",
-    "due_at": "2026-05-10T05:38:57.962235+00:00"
+    "answer_text": "Accusation of sexual harassment",
+    "explanation": "The constable was accused of sexual harassment, leading to the mob lynching incident.",
+    "due_at": "2026-05-10T07:32:48.504142+00:00"
   },
   {
-    "reveal_id": "a6da15e5ac18487094e06aa50f8d2340",
-    "article_title": "Gujarat Heatwave",
-    "question": "What is the expected duration of the heatwave in Gujarat?",
+    "reveal_id": "aa07461f6a6e4997b130305747638c15",
+    "article_title": "Odisha Mob Lynching Probe",
+    "question": "Who ordered the Crime Branch probe into the incident?",
     "answer_label": "B",
-    "answer_text": "Till May 14",
-    "explanation": "The article states that the heatwave is expected to last till May 14.",
-    "due_at": "2026-05-10T05:38:58.258705+00:00"
+    "answer_text": "Chief Minister of Odisha",
+    "explanation": "The Chief Minister of Odisha ordered the Crime Branch probe into the mob lynching incident.",
+    "due_at": "2026-05-10T07:32:49.086578+00:00"
   },
   {
-    "reveal_id": "f578d811f5f845ada6d0fb9dd05aa874",
-    "article_title": "Gujarat Heatwave",
-    "question": "Which department has forecasted the harsher spell of summer in Gujarat?",
-    "answer_label": "A",
-    "answer_text": "Weather department",
-    "explanation": "The article mentions the weather department as the forecasting authority.",
-    "due_at": "2026-05-10T05:38:58.555702+00:00"
+    "reveal_id": "f3aebe0bee5b4bce9039f77978fa34e1",
+    "article_title": "Odisha Mob Lynching Probe",
+    "question": "What is the CM's stance on the incident?",
+    "answer_label": "B",
+    "answer_text": "The CM expressed anger and directed strict action",
+    "explanation": "The CM expressed anger and directed strict action to uphold the rule of law.",
+    "due_at": "2026-05-10T07:32:49.652590+00:00"
   }
 ]
