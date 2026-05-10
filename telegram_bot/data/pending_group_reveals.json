@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "b58a3a8d4e524a19a0f1a7af680e7e07",
-    "article_title": "Dogra Educational Trust Wins Innovation Award",
-    "question": "Where was the ICC World Technology Convention 2026 held?",
-    "answer_label": "A",
-    "answer_text": "Jio World Convention Centre",
-    "explanation": "The convention was held at the Jio World Convention Centre, as mentioned in the article.",
-    "due_at": "2026-05-10T11:11:48.987206+00:00"
+    "reveal_id": "5b764a73b71a46f89d8c9133997adba5",
+    "article_title": "Karnataka's Heatwave Response",
+    "question": "What is the primary issue affecting poor neighbourhoods in Karnataka?",
+    "answer_label": "C",
+    "answer_text": "Insufficient response to heatwaves",
+    "explanation": "The article highlights that the state's response to heatwaves is falling short, leading to difficulties for residents in poor neighbourhoods.",
+    "due_at": "2026-05-10T12:08:46.818143+00:00"
   },
   {
-    "reveal_id": "3ef65c4063ee47e0bde98722ad02cb76",
-    "article_title": "Dogra Educational Trust Wins Innovation Award",
-    "question": "What category did Dogra Educational Trust win the award in?",
+    "reveal_id": "d5b03ba244044ef98698435ddfc1142a",
+    "article_title": "Karnataka's Heatwave Response",
+    "question": "Which of the following groups is most vulnerable to heatwaves?",
     "answer_label": "B",
-    "answer_text": "Innovation Catalyst",
-    "explanation": "The trust won the award under the 'Innovation Catalyst' category.",
-    "due_at": "2026-05-10T11:11:49.703678+00:00"
+    "answer_text": "The poor and elderly",
+    "explanation": "Heatwaves tend to have a disproportionate impact on vulnerable populations, such as the poor and elderly, who may have limited access to resources and support.",
+    "due_at": "2026-05-10T12:08:47.551821+00:00"
   },
   {
-    "reveal_id": "1f42718baa7a4c21935eab41b0167a4b",
-    "article_title": "Dogra Educational Trust Wins Innovation Award",
-    "question": "Who organized the ICC World Technology Convention 2026?",
-    "answer_label": "A",
-    "answer_text": "Indian Chamber of Commerce",
-    "explanation": "The convention was organized by the Indian Chamber of Commerce.",
-    "due_at": "2026-05-10T11:11:50.415494+00:00"
-  },
-  {
-    "reveal_id": "5b654c7ef3734f23aa23deb281b9b075",
-    "article_title": "India Wins Medals at Cheese Competition",
-    "question": "Where did India win 4 medals in a cheese competition?",
-    "answer_label": "A",
-    "answer_text": "Mundial do Queijo do Brasil 2026",
-    "explanation": "India won medals at the Mundial do Queijo do Brasil 2026, a cheese competition in Brazil.",
-    "due_at": "2026-05-10T11:11:54.735752+00:00"
-  },
-  {
-    "reveal_id": "245e2621611343609a27e0228caf209e",
-    "article_title": "India Wins Medals at Cheese Competition",
-    "question": "Who are championing artisanal Indian cheese?",
+    "reveal_id": "c819bde5d1ea4f9390b11b59bf6bb3ec",
+    "article_title": "Karnataka's Heatwave Response",
+    "question": "What is the implication of Karnataka's inadequate response to heatwaves?",
     "answer_label": "C",
-    "answer_text": "Prateek Sadhu and Garima Arora",
-    "explanation": "Chefs like Prateek Sadhu and Garima Arora are promoting artisanal Indian cheese.",
-    "due_at": "2026-05-10T11:11:55.472360+00:00"
+    "answer_text": "Exacerbation of the issue",
+    "explanation": "The article suggests that the state's inadequate response to heatwaves can exacerbate the issue, leading to further difficulties for residents.",
+    "due_at": "2026-05-10T12:08:48.252330+00:00"
   },
   {
-    "reveal_id": "b56acc75e60c4ccfb46f3d3de2162dac",
-    "article_title": "India Wins Medals at Cheese Competition",
-    "question": "What is the significance of India's win in the cheese competition?",
+    "reveal_id": "a1cbd7aa534441ebba60f7168e9ba92c",
+    "article_title": "Life in Iran",
+    "question": "Where did the author's family move to when they were a toddler?",
+    "answer_label": "B",
+    "answer_text": "Iran",
+    "explanation": "The author mentions that their family moved to Iran when they were a toddler.",
+    "due_at": "2026-05-10T12:08:55.571327+00:00"
+  },
+  {
+    "reveal_id": "bcf22dbb92ad46ff873e5a929c68e949",
+    "article_title": "Life in Iran",
+    "question": "What type of memories does the author recall from their childhood in Iran?",
     "answer_label": "C",
-    "answer_text": "Global recognition of Indian cuisine",
-    "explanation": "India's win promotes Indian cuisine globally and supports artisanal cheese production.",
-    "due_at": "2026-05-10T11:11:59.390446+00:00"
+    "answer_text": "Both visual snapshots and sounds and rhythms",
+    "explanation": "The author recalls both visual snapshots and sounds and rhythms from their childhood in Iran.",
+    "due_at": "2026-05-10T12:08:56.329280+00:00"
+  },
+  {
+    "reveal_id": "1d62950283e346cd88e66ae7996d4b8c",
+    "article_title": "Life in Iran",
+    "question": "How long did the author's family stay in Iran?",
+    "answer_label": "B",
+    "answer_text": "10 years",
+    "explanation": "The author mentions that they lived in Iran for a decade, which is 10 years.",
+    "due_at": "2026-05-10T12:09:01.200405+00:00"
   }
 ]
