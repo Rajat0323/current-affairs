@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "5b764a73b71a46f89d8c9133997adba5",
-    "article_title": "Karnataka's Heatwave Response",
-    "question": "What is the primary issue affecting poor neighbourhoods in Karnataka?",
+    "reveal_id": "78b6da240c8b4a62a70a4f6dc5f3afc4",
+    "article_title": "India-Nepal Diplomacy",
+    "question": "What is the purpose of the International Big Cat Alliance summit?",
     "answer_label": "C",
-    "answer_text": "Insufficient response to heatwaves",
-    "explanation": "The article highlights that the state's response to heatwaves is falling short, leading to difficulties for residents in poor neighbourhoods.",
-    "due_at": "2026-05-10T12:08:46.818143+00:00"
+    "answer_text": "To conserve big cats",
+    "explanation": "The summit aims to promote conservation of big cats, which is a key aspect of wildlife conservation efforts.",
+    "due_at": "2026-05-10T13:13:59.532342+00:00"
   },
   {
-    "reveal_id": "d5b03ba244044ef98698435ddfc1142a",
-    "article_title": "Karnataka's Heatwave Response",
-    "question": "Which of the following groups is most vulnerable to heatwaves?",
+    "reveal_id": "25781ba2893b456789d9b662950c132b",
+    "article_title": "India-Nepal Diplomacy",
+    "question": "Which country has been invited to the International Big Cat Alliance summit?",
     "answer_label": "B",
-    "answer_text": "The poor and elderly",
-    "explanation": "Heatwaves tend to have a disproportionate impact on vulnerable populations, such as the poor and elderly, who may have limited access to resources and support.",
-    "due_at": "2026-05-10T12:08:47.551821+00:00"
+    "answer_text": "Nepal",
+    "explanation": "Nepal has been invited to the summit, along with other member states.",
+    "due_at": "2026-05-10T13:14:03.353481+00:00"
   },
   {
-    "reveal_id": "c819bde5d1ea4f9390b11b59bf6bb3ec",
-    "article_title": "Karnataka's Heatwave Response",
-    "question": "What is the implication of Karnataka's inadequate response to heatwaves?",
-    "answer_label": "C",
-    "answer_text": "Exacerbation of the issue",
-    "explanation": "The article suggests that the state's inadequate response to heatwaves can exacerbate the issue, leading to further difficulties for residents.",
-    "due_at": "2026-05-10T12:08:48.252330+00:00"
-  },
-  {
-    "reveal_id": "a1cbd7aa534441ebba60f7168e9ba92c",
-    "article_title": "Life in Iran",
-    "question": "Where did the author's family move to when they were a toddler?",
+    "reveal_id": "cfcaf5e20fde4b819d13a44c3c5c70ce",
+    "article_title": "India-Nepal Diplomacy",
+    "question": "When is the International Big Cat Alliance summit scheduled to take place?",
     "answer_label": "B",
-    "answer_text": "Iran",
-    "explanation": "The author mentions that their family moved to Iran when they were a toddler.",
-    "due_at": "2026-05-10T12:08:55.571327+00:00"
+    "answer_text": "June 1",
+    "explanation": "The summit is scheduled to take place on June 1.",
+    "due_at": "2026-05-10T13:14:04.017285+00:00"
   },
   {
-    "reveal_id": "bcf22dbb92ad46ff873e5a929c68e949",
-    "article_title": "Life in Iran",
-    "question": "What type of memories does the author recall from their childhood in Iran?",
-    "answer_label": "C",
-    "answer_text": "Both visual snapshots and sounds and rhythms",
-    "explanation": "The author recalls both visual snapshots and sounds and rhythms from their childhood in Iran.",
-    "due_at": "2026-05-10T12:08:56.329280+00:00"
-  },
-  {
-    "reveal_id": "1d62950283e346cd88e66ae7996d4b8c",
-    "article_title": "Life in Iran",
-    "question": "How long did the author's family stay in Iran?",
+    "reveal_id": "0d2b6d4f608b42cdbd985bff0873c659",
+    "article_title": "India's Informal Sector Debt and Investment",
+    "question": "What type of enterprises account for a sizable portion of India's economy?",
     "answer_label": "B",
-    "answer_text": "10 years",
-    "explanation": "The author mentions that they lived in Iran for a decade, which is 10 years.",
-    "due_at": "2026-05-10T12:09:01.200405+00:00"
+    "answer_text": "Unincorporated non-agricultural enterprises",
+    "explanation": "Unincorporated non-agricultural enterprises play a significant role in India's economy, as stated in the article.",
+    "due_at": "2026-05-10T13:14:10.896072+00:00"
+  },
+  {
+    "reveal_id": "7208da2caa4c42b887077842145c6722",
+    "article_title": "India's Informal Sector Debt and Investment",
+    "question": "What is happening to the debt of India's informal sector?",
+    "answer_label": "B",
+    "answer_text": "Decreasing slowly",
+    "explanation": "The informal sector is becoming less indebted, as mentioned in the article.",
+    "due_at": "2026-05-10T13:14:11.590576+00:00"
+  },
+  {
+    "reveal_id": "04ab33913f1840c38f624cd593962c22",
+    "article_title": "India's Informal Sector Debt and Investment",
+    "question": "How is the investment trend in India's informal sector?",
+    "answer_label": "B",
+    "answer_text": "Investing less",
+    "explanation": "The informal sector is also investing less, as stated in the article.",
+    "due_at": "2026-05-10T13:14:12.364605+00:00"
   }
 ]
