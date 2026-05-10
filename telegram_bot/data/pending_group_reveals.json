@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "78b6da240c8b4a62a70a4f6dc5f3afc4",
-    "article_title": "India-Nepal Diplomacy",
-    "question": "What is the purpose of the International Big Cat Alliance summit?",
+    "reveal_id": "20f7756a7e2c4ba98356c0abcc4ea485",
+    "article_title": "Voting in India",
+    "question": "What is the primary purpose of voting in a democratic country like India?",
+    "answer_label": "A",
+    "answer_text": "To elect leaders",
+    "explanation": "Voting allows citizens to choose their representatives and leaders, giving them a say in the country's governance.",
+    "due_at": "2026-05-10T14:43:25.017105+00:00"
+  },
+  {
+    "reveal_id": "2d960dde8ad64140a3dad0c33669805a",
+    "article_title": "Voting in India",
+    "question": "Which of the following is a benefit of voting in India?",
     "answer_label": "C",
-    "answer_text": "To conserve big cats",
-    "explanation": "The summit aims to promote conservation of big cats, which is a key aspect of wildlife conservation efforts.",
-    "due_at": "2026-05-10T13:13:59.532342+00:00"
+    "answer_text": "It shapes the country's policies",
+    "explanation": "Voting enables citizens to influence the country's policies and decisions, making it a crucial aspect of democratic participation.",
+    "due_at": "2026-05-10T14:43:28.829792+00:00"
   },
   {
-    "reveal_id": "25781ba2893b456789d9b662950c132b",
-    "article_title": "India-Nepal Diplomacy",
-    "question": "Which country has been invited to the International Big Cat Alliance summit?",
-    "answer_label": "B",
-    "answer_text": "Nepal",
-    "explanation": "Nepal has been invited to the summit, along with other member states.",
-    "due_at": "2026-05-10T13:14:03.353481+00:00"
+    "reveal_id": "07d89cec23e44afbbc2ca144e87f618c",
+    "article_title": "Voting in India",
+    "question": "What is the significance of exercising one's right to vote in India?",
+    "answer_label": "C",
+    "answer_text": "It is a fundamental right that shapes the country's future",
+    "explanation": "Exercising the right to vote is essential in India, as it allows citizens to participate in the democratic process and have a say in the country's governance and future.",
+    "due_at": "2026-05-10T14:43:29.485165+00:00"
   },
   {
-    "reveal_id": "cfcaf5e20fde4b819d13a44c3c5c70ce",
-    "article_title": "India-Nepal Diplomacy",
-    "question": "When is the International Big Cat Alliance summit scheduled to take place?",
-    "answer_label": "B",
-    "answer_text": "June 1",
-    "explanation": "The summit is scheduled to take place on June 1.",
-    "due_at": "2026-05-10T13:14:04.017285+00:00"
+    "reveal_id": "048272289fbe400e829c7f5b4d99066b",
+    "article_title": "Kerala Remittances Remain Strong",
+    "question": "What percentage of India's total inward remittances come from Kerala?",
+    "answer_label": "C",
+    "answer_text": "19-20%",
+    "explanation": "Kerala accounts for 19-20% of India's total inward remittances due to its large expatriate population in the Gulf.",
+    "due_at": "2026-05-10T14:43:36.320777+00:00"
   },
   {
-    "reveal_id": "0d2b6d4f608b42cdbd985bff0873c659",
-    "article_title": "India's Informal Sector Debt and Investment",
-    "question": "What type of enterprises account for a sizable portion of India's economy?",
-    "answer_label": "B",
-    "answer_text": "Unincorporated non-agricultural enterprises",
-    "explanation": "Unincorporated non-agricultural enterprises play a significant role in India's economy, as stated in the article.",
-    "due_at": "2026-05-10T13:14:10.896072+00:00"
+    "reveal_id": "68cc8060595a43efa44302590224606d",
+    "article_title": "Kerala Remittances Remain Strong",
+    "question": "Why is the West Asia crisis being closely watched in Kerala?",
+    "answer_label": "C",
+    "answer_text": "Due to expatriate population",
+    "explanation": "The West Asia crisis is being closely watched in Kerala because of its large expatriate population in the Gulf.",
+    "due_at": "2026-05-10T14:43:37.065313+00:00"
   },
   {
-    "reveal_id": "7208da2caa4c42b887077842145c6722",
-    "article_title": "India's Informal Sector Debt and Investment",
-    "question": "What is happening to the debt of India's informal sector?",
-    "answer_label": "B",
-    "answer_text": "Decreasing slowly",
-    "explanation": "The informal sector is becoming less indebted, as mentioned in the article.",
-    "due_at": "2026-05-10T13:14:11.590576+00:00"
-  },
-  {
-    "reveal_id": "04ab33913f1840c38f624cd593962c22",
-    "article_title": "India's Informal Sector Debt and Investment",
-    "question": "How is the investment trend in India's informal sector?",
-    "answer_label": "B",
-    "answer_text": "Investing less",
-    "explanation": "The informal sector is also investing less, as stated in the article.",
-    "due_at": "2026-05-10T13:14:12.364605+00:00"
+    "reveal_id": "20974052c4c04e06b3782794d9167055",
+    "article_title": "Kerala Remittances Remain Strong",
+    "question": "What is the significance of remittances to Kerala's economy?",
+    "answer_label": "C",
+    "answer_text": "It is significantly dependent on remittances",
+    "explanation": "Kerala's economy is significantly dependent on remittances from abroad, particularly from its expatriate population in the Gulf.",
+    "due_at": "2026-05-10T14:43:37.677481+00:00"
   }
 ]
