@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "a45df16e15c24147ae867de413e4fb6b",
-    "article_title": "Apple Mother's Day Sale in India",
-    "question": "What is the maximum discount offered by Apple in its Mother's Day sale in India?",
-    "answer_label": "C",
-    "answer_text": "Rs 10,000",
-    "explanation": "The sale offers discounts of up to Rs 10,000 on various Apple products.",
-    "due_at": "2026-05-10T21:07:39.968182+00:00"
-  },
-  {
-    "reveal_id": "741464ebbb9340749f001077afde8e48",
-    "article_title": "Apple Mother's Day Sale in India",
-    "question": "Which of the following products is included in Apple's Mother's Day sale in India?",
+    "reveal_id": "f2d572f0175a4a3090cada2404b74649",
+    "article_title": "India's Energy Shock Insulation Cost",
+    "question": "What is the daily cost of insulating India from global energy shocks?",
     "answer_label": "B",
-    "answer_text": "iPhone 17 Pro",
-    "explanation": "The iPhone 17 Pro is one of the products offered with a discount in the sale.",
-    "due_at": "2026-05-10T21:07:40.653360+00:00"
+    "answer_text": "\u20b91,600-1,700 crore",
+    "explanation": "The cost is estimated to be \u20b91,600-1,700 crore per day, as stated in the article.",
+    "due_at": "2026-05-10T22:05:36.887135+00:00"
   },
   {
-    "reveal_id": "011c389544824bf4876cbbebfa7ad3cf",
-    "article_title": "Apple Mother's Day Sale in India",
-    "question": "What is the occasion for which Apple has kicked off its sale in India?",
+    "reveal_id": "6ec3074e9ec64eb5a6472eb92625ac81",
+    "article_title": "India's Energy Shock Insulation Cost",
+    "question": "Why are state-owned oil companies supplying fuel at below-cost rates?",
     "answer_label": "C",
-    "answer_text": "Mother's Day",
-    "explanation": "The sale is being held to coincide with Mother's Day.",
-    "due_at": "2026-05-10T21:07:41.293861+00:00"
+    "answer_text": "To maintain stable fuel prices",
+    "explanation": "The companies are supplying fuel at below-cost rates to ensure uninterrupted supplies and maintain stable prices despite global energy shocks.",
+    "due_at": "2026-05-10T22:05:37.578908+00:00"
   },
   {
-    "reveal_id": "dd85754f52a942048bf3f7370ae2cf93",
-    "article_title": "PM Modi Criticizes Congress in Tamil Nadu",
-    "question": "What did PM Modi call the Congress party?",
+    "reveal_id": "130b30ec7dc744c1ae1fa8aada43014e",
+    "article_title": "India's Energy Shock Insulation Cost",
+    "question": "How long has the global energy shock been affecting India?",
     "answer_label": "B",
-    "answer_text": "A parasitic party",
-    "explanation": "PM Modi criticized Congress, calling it a parasitic party that latches onto other parties for power.",
-    "due_at": "2026-05-10T21:07:48.301673+00:00"
+    "answer_text": "10 weeks",
+    "explanation": "The global energy shock has been affecting India for 10 weeks, since the war broke out in the Middle East.",
+    "due_at": "2026-05-10T22:05:38.263539+00:00"
   },
   {
-    "reveal_id": "88ddb46054a24c82bc314f9136a593f5",
-    "article_title": "PM Modi Criticizes Congress in Tamil Nadu",
-    "question": "Where did PM Modi make the statement about Congress?",
+    "reveal_id": "8386e4e1012e4761995f23505e7f495d",
+    "article_title": "Toxic Water in Punjab Canals",
+    "question": "Who blamed the Mann government for toxic water in canals?",
     "answer_label": "B",
-    "answer_text": "Bengaluru",
-    "explanation": "PM Modi made the statement at a rally in Bengaluru.",
-    "due_at": "2026-05-10T21:07:49.013803+00:00"
+    "answer_text": "Punjab BJP president",
+    "explanation": "Punjab BJP president Sunil Jakhar held the Mann government responsible for the toxic water issue.",
+    "due_at": "2026-05-10T22:05:45.466493+00:00"
   },
   {
-    "reveal_id": "5815cf4082f34659b70851b99a083b9e",
-    "article_title": "PM Modi Criticizes Congress in Tamil Nadu",
-    "question": "What is the name of the party in Tamil Nadu that Congress is allegedly latching onto?",
+    "reveal_id": "7a74ceec2d924b8db2cd6751ed1572b1",
+    "article_title": "Toxic Water in Punjab Canals",
+    "question": "Which region is affected by the toxic water in canals?",
     "answer_label": "C",
-    "answer_text": "TVK",
-    "explanation": "According to the article, Congress is latching onto Vijay's TVK in Tamil Nadu.",
-    "due_at": "2026-05-10T21:07:49.658996+00:00"
+    "answer_text": "Malwa region",
+    "explanation": "The Malwa region is affected by the toxic water in canals, according to the report.",
+    "due_at": "2026-05-10T22:05:46.290027+00:00"
+  },
+  {
+    "reveal_id": "8eb4ef61b0424a3fa996b78b3aca2953",
+    "article_title": "Toxic Water in Punjab Canals",
+    "question": "What is the demand of Punjab BJP president Sunil Jakhar to the Chief Minister?",
+    "answer_label": "C",
+    "answer_text": "To focus on people's needs",
+    "explanation": "Sunil Jakhar urged the Chief Minister to focus on people's needs instead of shielding the corrupt.",
+    "due_at": "2026-05-10T22:05:50.142988+00:00"
   }
 ]
