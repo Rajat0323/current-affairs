@@ -194,15 +194,15 @@ class Settings:
             newsdata_api_url=_optional_env("NEWSDATA_API_URL", "https://newsdata.io/api/1/latest"),
             current_affairs_query=_optional_env(
                 "CURRENT_AFFAIRS_QUERY",
-                "India OR government OR parliament OR economy OR summit OR diplomacy OR science OR environment OR policy",
+                "India OR government OR economy OR policy OR science",
             ),
             newsdata_india_query=_optional_env(
                 "NEWSDATA_INDIA_QUERY",
-                "India OR government OR parliament OR economy OR summit OR diplomacy OR science OR environment OR policy",
+                "India OR government OR economy OR policy OR science",
             ),
             newsdata_world_query=_optional_env(
                 "NEWSDATA_WORLD_QUERY",
-                "government OR parliament OR economy OR summit OR diplomacy OR science OR environment OR policy",
+                "government OR economy OR diplomacy OR science OR policy",
             ),
             newsdata_india_country=_optional_env("NEWSDATA_INDIA_COUNTRY", "in"),
             preferred_topic_keywords=_csv_env(

@@ -8,6 +8,7 @@ A lightweight Python bot that fetches live news, turns it into short current-aff
   - `newsdata.io` India-focused query first
   - `newsdata.io` worldwide query second
   - `NewsAPI` worldwide query as an additional fallback
+  - if a `newsdata.io` query is rejected, the bot retries with a shorter query and then with top latest news before moving on
 - Filters articles through source and topic quality gates before posting.
 - Uses an OpenAI-compatible LLM API to create:
   - a short readable current-affairs summary
@@ -149,6 +150,7 @@ If `OPENAI_MODEL` is not set, the bot defaults to `gpt-4.1-mini`.
 
 - This project uses direct Telegram Bot API calls, so there is no heavy Telegram framework to maintain.
 - "Real time" here means scheduled polling. Adjust the GitHub Actions cron or local run mode as needed.
+- `newsdata.io` free plans have a shorter query-character limit, so keep `NEWSDATA_*_QUERY` values fairly compact. The bot now retries with shorter fallbacks automatically.
 - The default query is broad. You should tune it further for polity, economy, science-tech, international relations, environment, and sports.
 - The bot now rejects articles that are too old, off-topic, or outside the trusted-domain/topic rules. Tight curation is usually better for reach than high volume.
 - Telegram discovery is influenced by public username, channel/group title, description, post consistency, and engagement. This bot can improve post wording and keyword coverage, but it cannot bypass anti-spam bans from mass-sharing links in unrelated groups.

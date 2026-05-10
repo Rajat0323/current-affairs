@@ -10,6 +10,7 @@ from current_affairs_bot.models import Article
 
 
 LOGGER = logging.getLogger(__name__)
+NEWSDATA_FREE_QUERY_CHAR_LIMIT = 100
 
 
 class NewsClient:
@@ -24,7 +25,13 @@ class NewsClient:
         fresh_count = 0
 
         for provider_name, provider_call in self._provider_plan():
-            batch = self._filter_and_rank_articles(provider_name, provider_call())
+            try:
+                provider_items = provider_call()
+            except Exception as exc:
+                LOGGER.warning("Provider %s failed and will be skipped: %s", provider_name, exc)
+                continue
+
+            batch = self._filter_and_rank_articles(provider_name, provider_items)
             provider_added = 0
             provider_fresh = 0
             for article in batch:
@@ -201,25 +208,107 @@ class NewsClient:
         return self._normalize_newsapi_articles(payload.get("articles", []))
 
     def _fetch_newsdata(self, query: str, country: str) -> list[Article]:
-        params = {
-            "apikey": self.settings.newsdata_api_key,
-            "q": query,
-            "language": self.settings.news_language,
-        }
-        if country:
-            params["country"] = country
+        last_error: Exception | None = None
+        for params in self._newsdata_request_variants(query, country):
+            response = self.session.get(
+                self.settings.newsdata_api_url,
+                params=params,
+                timeout=self.settings.request_timeout_seconds,
+            )
+            payload = self._safe_json(response)
 
-        response = self.session.get(
-            self.settings.newsdata_api_url,
-            params=params,
-            timeout=self.settings.request_timeout_seconds,
+            if response.status_code == 422:
+                last_error = RuntimeError(
+                    "NewsData.io rejected the request parameters. "
+                    f"Response: {payload}"
+                )
+                LOGGER.warning(
+                    "NewsData.io returned HTTP 422 for params=%s. Trying a narrower fallback.",
+                    self._summarize_newsdata_params(params),
+                )
+                continue
+
+            if not response.ok:
+                raise RuntimeError(
+                    f"NewsData.io request failed with HTTP {response.status_code}. Response: {payload}"
+                )
+
+            status = str(payload.get("status", "")).lower() if isinstance(payload, dict) else ""
+            if status not in {"", "ok", "success"}:
+                raise RuntimeError(f"NewsData.io returned an unexpected payload: {payload}")
+            return self._normalize_newsdata_articles(payload.get("results", []))
+
+        if last_error is not None:
+            raise last_error
+        return []
+
+    def _newsdata_request_variants(self, query: str, country: str) -> list[dict[str, str]]:
+        variants: list[dict[str, str]] = []
+        seen_keys: set[tuple[tuple[str, str], ...]] = set()
+        for candidate_query in self._newsdata_query_candidates(query=query, country=country):
+            params = {
+                "apikey": self.settings.newsdata_api_key,
+                "language": self.settings.news_language,
+            }
+            if country:
+                params["country"] = country
+            if candidate_query:
+                params["q"] = candidate_query
+
+            dedupe_key = tuple(sorted(params.items()))
+            if dedupe_key in seen_keys:
+                continue
+            seen_keys.add(dedupe_key)
+            variants.append(params)
+        return variants
+
+    def _newsdata_query_candidates(self, query: str, country: str) -> list[str]:
+        normalized_query = " ".join(query.split())
+        candidates: list[str] = []
+        if normalized_query:
+            candidates.append(normalized_query)
+
+        fallback_terms = (
+            ["India", "government", "economy", "policy", "parliament", "science"]
+            if country
+            else ["government", "economy", "policy", "science", "diplomacy", "environment"]
         )
-        response.raise_for_status()
-        payload = response.json()
-        status = str(payload.get("status", "")).lower()
-        if status not in {"", "ok", "success"}:
-            raise RuntimeError(f"NewsData.io returned an unexpected payload: {payload}")
-        return self._normalize_newsdata_articles(payload.get("results", []))
+        shortened_query = self._join_or_terms_with_limit(fallback_terms, NEWSDATA_FREE_QUERY_CHAR_LIMIT)
+        if shortened_query:
+            candidates.append(shortened_query)
+        if fallback_terms:
+            candidates.append(fallback_terms[0])
+
+        # NewsData accepts requests without q, which lets us fetch top latest items
+        # for the selected country/worldwide when keyword search is too restrictive.
+        candidates.append("")
+        return candidates
+
+    def _join_or_terms_with_limit(self, terms: list[str], limit: int) -> str:
+        joined_terms: list[str] = []
+        current = ""
+        for term in terms:
+            stripped = term.strip()
+            if not stripped:
+                continue
+            candidate = stripped if not current else f"{current} OR {stripped}"
+            if len(candidate) > limit:
+                break
+            current = candidate
+            joined_terms.append(stripped)
+        return " OR ".join(joined_terms)
+
+    def _safe_json(self, response: requests.Response) -> dict | list | str:
+        try:
+            return response.json()
+        except ValueError:
+            return {"raw_text": response.text}
+
+    def _summarize_newsdata_params(self, params: dict[str, str]) -> dict[str, str]:
+        summary = dict(params)
+        if "apikey" in summary:
+            summary["apikey"] = "***"
+        return summary
 
     def _normalize_newsapi_articles(self, items: list[dict]) -> list[Article]:
         articles: list[Article] = []
