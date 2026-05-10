@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "1095e3cc30404e85930891e12b74f3a8",
-    "article_title": "HC Orders Restoration of Le Corbusier Centre",
-    "question": "Which court has taken notice of the poor condition of the Le Corbusier Centre?",
-    "answer_label": "B",
-    "answer_text": "Punjab and Haryana High Court",
-    "explanation": "The Punjab and Haryana High Court has taken suo motu cognisance of the report.",
-    "due_at": "2026-05-10T08:07:21.037121+00:00"
-  },
-  {
-    "reveal_id": "860299dfa66c42c1be8fc11a46a13ed3",
-    "article_title": "HC Orders Restoration of Le Corbusier Centre",
-    "question": "What prompted the High Court to take action on the Le Corbusier Centre?",
-    "answer_label": "B",
-    "answer_text": "A news report",
-    "explanation": "The High Court took action after a news report highlighted the centre's poor condition.",
-    "due_at": "2026-05-10T08:07:24.891075+00:00"
-  },
-  {
-    "reveal_id": "81d6709cf9454ea3846f379fd18bc9b8",
-    "article_title": "HC Orders Restoration of Le Corbusier Centre",
-    "question": "Where is the Le Corbusier Centre located?",
+    "reveal_id": "600008b594574bf5aa2aae07ec6a5c11",
+    "article_title": "Russia's Scaled-Down Victory Day Parade",
+    "question": "What was different about Russia's Victory Day parade this year?",
     "answer_label": "C",
-    "answer_text": "Chandigarh",
-    "explanation": "The Le Corbusier Centre is located in Chandigarh, a city in northern India.",
-    "due_at": "2026-05-10T08:07:25.570572+00:00"
+    "answer_text": "It did not feature tanks and missiles",
+    "explanation": "The parade was scaled down and did not include tanks and missiles, which have been a part of the event since 2008.",
+    "due_at": "2026-05-10T09:47:07.234030+00:00"
   },
   {
-    "reveal_id": "1815298f9eda4d718e032b4decd1ff20",
-    "article_title": "Delhi Sets Up Cooling Zone Near Jama Masjid Metro",
-    "question": "Where is the special cooling zone set up in Delhi?",
+    "reveal_id": "744fff5ba8be4720b9f0e9dd54173dc0",
+    "article_title": "Russia's Scaled-Down Victory Day Parade",
+    "question": "What could be a possible reason for the scaled-down parade?",
     "answer_label": "B",
-    "answer_text": "Near Jama Masjid Metro Station",
-    "explanation": "The cooling zone is set up near Jama Masjid Metro Station as part of the government's Heatwave Action Plan.",
-    "due_at": "2026-05-10T08:07:32.694072+00:00"
+    "answer_text": "Shift in military priorities",
+    "explanation": "The scaled-down parade may indicate a shift in Russia's military priorities or strategies, which could have implications for global geopolitics.",
+    "due_at": "2026-05-10T09:47:10.977276+00:00"
   },
   {
-    "reveal_id": "6c8ef7460d4c498b9c7503cce627d6c0",
-    "article_title": "Delhi Sets Up Cooling Zone Near Jama Masjid Metro",
-    "question": "What is the capacity of the special cooling zone?",
-    "answer_label": "B",
-    "answer_text": "Around 80 people",
-    "explanation": "The cooling zone has a capacity to accommodate around 80 people.",
-    "due_at": "2026-05-10T08:07:33.395919+00:00"
+    "reveal_id": "b4f6328a73384f36af8f1e35cd7e804d",
+    "article_title": "Russia's Scaled-Down Victory Day Parade",
+    "question": "How often had tanks and missiles been featured in the Victory Day parade before this year?",
+    "answer_label": "C",
+    "answer_text": "Every year since 2008",
+    "explanation": "Tanks and missiles had been a part of the Victory Day parade every year since 2008, making this year's absence notable.",
+    "due_at": "2026-05-10T09:47:11.549499+00:00"
   },
   {
-    "reveal_id": "af611914e5ad4722b36436d9076e266f",
-    "article_title": "Delhi Sets Up Cooling Zone Near Jama Masjid Metro",
-    "question": "Why has the Delhi Government set up the special cooling zone?",
+    "reveal_id": "2dcca3f4e3714ef8a6bb3c09b3a577d6",
+    "article_title": "Illicit Allopathic Drugs in Baddi",
+    "question": "Which authority is responsible for monitoring food safety in India?",
+    "answer_label": "A",
+    "answer_text": "FSSAI",
+    "explanation": "The Food Safety and Standards Authority of India (FSSAI) is responsible for monitoring food safety in India.",
+    "due_at": "2026-05-10T09:47:18.080061+00:00"
+  },
+  {
+    "reveal_id": "d0cc7d74f300483498feb97d1f931520",
+    "article_title": "Illicit Allopathic Drugs in Baddi",
+    "question": "What type of licence was used to produce illicit allopathic drugs in Baddi?",
     "answer_label": "B",
-    "answer_text": "To mitigate heatwave effects",
-    "explanation": "The cooling zone is set up as part of the government's Heatwave Action Plan to provide relief from heatwaves.",
-    "due_at": "2026-05-10T08:07:34.140164+00:00"
+    "answer_text": "Food licence",
+    "explanation": "The illicit allopathic drugs were produced under a food licence in Baddi.",
+    "due_at": "2026-05-10T09:47:18.664373+00:00"
+  },
+  {
+    "reveal_id": "386f2036c8884fe98395b70c56d5b64a",
+    "article_title": "Illicit Allopathic Drugs in Baddi",
+    "question": "Which agency raided the unit producing illicit allopathic drugs in Baddi?",
+    "answer_label": "C",
+    "answer_text": "DCA",
+    "explanation": "The Baddi-based drug control administration (DCA) raided the unit producing illicit allopathic drugs.",
+    "due_at": "2026-05-10T09:47:19.236774+00:00"
   }
 ]
