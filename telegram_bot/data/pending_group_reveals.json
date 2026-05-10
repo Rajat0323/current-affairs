@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "d1d2312c8e59453fa0e9a1741b143712",
-    "article_title": "Panchkula Municipal Corporation Elections",
-    "question": "When did the polling for the Panchkula Municipal Corporation begin?",
-    "answer_label": "B",
-    "answer_text": "Sunday",
-    "explanation": "Polling began on Sunday at 8 am across 204 polling booths.",
-    "due_at": "2026-05-10T17:03:29.200251+00:00"
-  },
-  {
-    "reveal_id": "55618868f95241ee8697d48aba9de8f0",
-    "article_title": "Panchkula Municipal Corporation Elections",
-    "question": "How many polling booths were set up for the Panchkula Municipal Corporation elections?",
+    "reveal_id": "74e96b66f5c04672af6254eb718c4e87",
+    "article_title": "AP Waqf Board Talent Test",
+    "question": "What is the purpose of the AP Waqf Board's talent test?",
     "answer_label": "C",
-    "answer_text": "204",
-    "explanation": "There were 204 polling booths set up for the elections.",
-    "due_at": "2026-05-10T17:03:32.952043+00:00"
+    "answer_text": "To provide free residential intermediate education",
+    "explanation": "The talent test aims to select 250 students for free residential intermediate education with IIT-JEE and NEET coaching.",
+    "due_at": "2026-05-10T18:05:02.895806+00:00"
   },
   {
-    "reveal_id": "d29d46e085324415a1bd6cc312b48202",
-    "article_title": "Panchkula Municipal Corporation Elections",
-    "question": "What time did senior citizens start reaching the polling centres?",
+    "reveal_id": "c0ca8b12859b46809af99cca6dc88b4d",
+    "article_title": "AP Waqf Board Talent Test",
+    "question": "How many students will be selected for the free residential intermediate education?",
     "answer_label": "C",
-    "answer_text": "7:30 am",
-    "explanation": "Senior citizens started reaching the polling centres around 7:30 am.",
-    "due_at": "2026-05-10T17:03:33.529902+00:00"
+    "answer_text": "250",
+    "explanation": "The AP Waqf Board will select 250 Muslim students for the free residential intermediate education.",
+    "due_at": "2026-05-10T18:05:06.665677+00:00"
   },
   {
-    "reveal_id": "1a2899d15f7e4d90867e0ddd5366951c",
-    "article_title": "Haryana Local Body Polls",
-    "question": "What was the voter turnout in Panchkula during the local body polls?",
+    "reveal_id": "d4972f8196234fdaab44fedb663813a5",
+    "article_title": "AP Waqf Board Talent Test",
+    "question": "What additional coaching will the selected students receive?",
+    "answer_label": "C",
+    "answer_text": "Both IIT-JEE and NEET coaching",
+    "explanation": "The selected students will receive both IIT-JEE and NEET coaching as part of their intermediate education.",
+    "due_at": "2026-05-10T18:05:07.314506+00:00"
+  },
+  {
+    "reveal_id": "4b0808da7a0e4252a93392b8a8f549e2",
+    "article_title": "FPI Stake in Indian Equities at 14-Year Low",
+    "question": "What is the current status of FPI's stake in Indian equities?",
+    "answer_label": "C",
+    "answer_text": "At a 14-year low",
+    "explanation": "FPI's stake in Indian equities has dropped to a 14-year low due to significant outflows.",
+    "due_at": "2026-05-10T18:05:14.391821+00:00"
+  },
+  {
+    "reveal_id": "4445b65159524ae797a3d62cc3ab386f",
+    "article_title": "FPI Stake in Indian Equities at 14-Year Low",
+    "question": "What is the reason for the drop in FPI's stake in Indian equities?",
     "answer_label": "B",
-    "answer_text": "52.3%",
-    "explanation": "Panchkula recorded 52.3% voter turnout, as per the given data.",
-    "due_at": "2026-05-10T17:03:40.573915+00:00"
+    "answer_text": "Significant outflows",
+    "explanation": "The drop in FPI's stake is due to significant outflows from Indian equities.",
+    "due_at": "2026-05-10T18:05:15.075720+00:00"
   },
   {
-    "reveal_id": "c03b7e03e1614c7ca6ee9a1c76990f8a",
-    "article_title": "Haryana Local Body Polls",
-    "question": "Which of the following districts had a Municipal Committee election?",
-    "answer_label": "D",
-    "answer_text": "All of the above",
-    "explanation": "Elections were held in various districts including Rohtak and Hisar.",
-    "due_at": "2026-05-10T17:03:41.211004+00:00"
-  },
-  {
-    "reveal_id": "7baab78515864006a9feaaa9f5f6c8f1",
-    "article_title": "Haryana Local Body Polls",
-    "question": "What type of elections were held in Rewari Municipal Council?",
-    "answer_label": "B",
-    "answer_text": "President and councillors",
-    "explanation": "Elections were held for president and councillors in Rewari Municipal Council.",
-    "due_at": "2026-05-10T17:03:41.818556+00:00"
+    "reveal_id": "137a34b1bb314390b60076023e433a66",
+    "article_title": "FPI Stake in Indian Equities at 14-Year Low",
+    "question": "What is the trend indicated by the drop in FPI's stake in Indian equities?",
+    "answer_label": "C",
+    "answer_text": "Shift towards domestic investors",
+    "explanation": "The drop in FPI's stake indicates a shift in investment trends towards domestic investors in India.",
+    "due_at": "2026-05-10T18:05:15.680950+00:00"
   }
 ]
