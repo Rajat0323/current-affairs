@@ -8,6 +8,7 @@ A lightweight Python bot that fetches live news, turns it into short current-aff
   - `newsdata.io` India-focused query first
   - `newsdata.io` worldwide query second
   - `NewsAPI` worldwide query as an additional fallback
+- Filters articles through source and topic quality gates before posting.
 - Uses an OpenAI-compatible LLM API to create:
   - a short readable current-affairs summary
   - "why it matters" points for government exam aspirants
@@ -118,6 +119,12 @@ Set at least one of `NEWS_API_KEY` or `NEWSDATA_API_KEY`.
 - `NEWSDATA_INDIA_QUERY`
 - `NEWSDATA_WORLD_QUERY`
 - `NEWSDATA_INDIA_COUNTRY`
+- `PREFERRED_TOPIC_KEYWORDS`
+- `BLOCKED_TOPIC_KEYWORDS`
+- `ALLOWED_SOURCE_DOMAINS`
+- `BLOCKED_SOURCE_DOMAINS`
+- `MINIMUM_ARTICLE_RELEVANCE_SCORE`
+- `MAX_ARTICLE_AGE_HOURS`
 - `NEWS_PAGE_SIZE`
 - `MAX_ARTICLES_PER_CYCLE`
 - `REQUEST_TIMEOUT_SECONDS`
@@ -143,5 +150,8 @@ If `OPENAI_MODEL` is not set, the bot defaults to `gpt-4.1-mini`.
 - This project uses direct Telegram Bot API calls, so there is no heavy Telegram framework to maintain.
 - "Real time" here means scheduled polling. Adjust the GitHub Actions cron or local run mode as needed.
 - The default query is broad. You should tune it further for polity, economy, science-tech, international relations, environment, and sports.
+- The bot now rejects articles that are too old, off-topic, or outside the trusted-domain/topic rules. Tight curation is usually better for reach than high volume.
 - Telegram discovery is influenced by public username, channel/group title, description, post consistency, and engagement. This bot can improve post wording and keyword coverage, but it cannot bypass anti-spam bans from mass-sharing links in unrelated groups.
+- Reach improves when the feed stays tightly focused on exam-relevant current affairs. The bot now defaults to trusted domains and rejects entertainment, gossip, shopping, reviews, press-release style content, and other low-value topics.
+- If Telegram upgrades your group to a supergroup, the bot now retries automatically using the migrated chat id and logs the new value so you can update `TELEGRAM_GROUP_ID`.
 

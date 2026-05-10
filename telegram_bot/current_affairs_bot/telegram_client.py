@@ -76,9 +76,10 @@ class TelegramClient:
         self._send_message(group_id, self._build_group_starter_message(generated_post))
         for mcq in generated_post.mcqs[: self.settings.mcqs_per_article]:
             self._send_message(group_id, self._build_group_question_prompt(generated_post, mcq))
+            self._send_quiz(group_id, mcq)
             reveals.append(self._build_pending_reveal(generated_post, mcq))
         LOGGER.info(
-            "Posted %s group message(s) and queued %s answer reveal(s) for article: %s",
+            "Posted %s discussion prompt(s) and %s poll(s) to the Telegram group for article: %s",
             len(generated_post.mcqs[: self.settings.mcqs_per_article]) + 1,
             len(generated_post.mcqs[: self.settings.mcqs_per_article]),
             article.title,
@@ -303,7 +304,7 @@ class TelegramClient:
             "<b>Quick Quiz</b>\n\n"
             f"<b>Topic:</b> {html.escape(generated_post.title)}\n"
             f"<b>Question:</b> {html.escape(mcq.question)}\n\n"
-            "Reply with your answer in the chat before the answer reveal."
+            "Vote in the poll and drop your reason in the chat before the answer reveal."
             ),
             generated_post.title,
             mcq.question,

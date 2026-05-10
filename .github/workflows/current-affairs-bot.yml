@@ -38,11 +38,17 @@ jobs:
       OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY || secrets.LLM_API_KEY || secrets.GROQ_API_KEY }}
       OPENAI_BASE_URL: ${{ secrets.OPENAI_BASE_URL || secrets.LLM_BASE_URL || secrets.GROQ_BASE_URL || vars.OPENAI_BASE_URL || vars.LLM_BASE_URL || vars.GROQ_BASE_URL || 'https://api.openai.com/v1' }}
       OPENAI_MODEL: ${{ secrets.OPENAI_MODEL || secrets.LLM_MODEL || secrets.GROQ_MODEL || vars.OPENAI_MODEL || vars.LLM_MODEL || vars.GROQ_MODEL || 'gpt-4.1-mini' }}
-      CURRENT_AFFAIRS_QUERY: ${{ vars.CURRENT_AFFAIRS_QUERY || 'India OR government OR parliament OR economy OR summit OR diplomacy OR science OR sports' }}
-      NEWSDATA_INDIA_QUERY: ${{ vars.NEWSDATA_INDIA_QUERY || 'India OR government OR parliament OR economy OR summit OR diplomacy OR science OR sports' }}
-      NEWSDATA_WORLD_QUERY: ${{ vars.NEWSDATA_WORLD_QUERY || 'government OR parliament OR economy OR summit OR diplomacy OR science OR sports' }}
+      CURRENT_AFFAIRS_QUERY: ${{ vars.CURRENT_AFFAIRS_QUERY || 'India OR government OR parliament OR economy OR summit OR diplomacy OR science OR environment OR policy' }}
+      NEWSDATA_INDIA_QUERY: ${{ vars.NEWSDATA_INDIA_QUERY || 'India OR government OR parliament OR economy OR summit OR diplomacy OR science OR environment OR policy' }}
+      NEWSDATA_WORLD_QUERY: ${{ vars.NEWSDATA_WORLD_QUERY || 'government OR parliament OR economy OR summit OR diplomacy OR science OR environment OR policy' }}
       NEWSDATA_INDIA_COUNTRY: ${{ vars.NEWSDATA_INDIA_COUNTRY || 'in' }}
       NEWSDATA_API_URL: ${{ vars.NEWSDATA_API_URL || 'https://newsdata.io/api/1/latest' }}
+      PREFERRED_TOPIC_KEYWORDS: ${{ vars.PREFERRED_TOPIC_KEYWORDS || 'india,indian,government,parliament,assembly,cabinet,ministry,ministry of finance,supreme court,high court,judgment,scheme,policy,bill,act,economy,inflation,gdp,rbi,banking,trade,exports,imports,diplomacy,foreign policy,defence,security,summit,agreement,ceasefire,sanction,un,who,wto,imf,world bank,adb,brics,g20,climate,environment,biodiversity,wildlife,science,technology,space,isro,satellite,semiconductor,artificial intelligence,ai,health,disease,vaccine,education,election,census,report,index,road safety,heatwave,monsoon,cyclone,earthquake,agriculture,appointment,committee,commission,regulation,guideline,energy,tax,employment' }}
+      BLOCKED_TOPIC_KEYWORDS: ${{ vars.BLOCKED_TOPIC_KEYWORDS || 'celebrity,actor,actress,box office,movie,film trailer,relationship,love life,viral,used car,car review,phone review,shopping,deals,quote of the day,travel guide,holiday,entertainment,gossip,web3,event promotion,product launch,market report,cagr,biopic,fitness method,ufo,astrology,horoscope,reels,instagram,x bio,mothers day,wedding look,style tips,skin care,net worth,luxury,launch event,sale today,astrological,dating,weekend watch,celeb,fan war' }}
+      ALLOWED_SOURCE_DOMAINS: ${{ vars.ALLOWED_SOURCE_DOMAINS || 'thehindu.com,indianexpress.com,pib.gov.in,prsindia.org,business-standard.com,livemint.com,thehindubusinessline.com,economictimes.indiatimes.com,timesofindia.indiatimes.com,hindustantimes.com,ndtv.com,news18.com,down2earth.org.in,moneycontrol.com,financialexpress.com,tribuneindia.com,theprint.in,newindianexpress.com,firstpost.com,deccanherald.com' }}
+      BLOCKED_SOURCE_DOMAINS: ${{ vars.BLOCKED_SOURCE_DOMAINS || 'globenewswire.com,prnewswire.com,news.google.com,gyanhigyan.com,brandiconimage.com,digitpatrox.com,asianetnews.com,siasat.com,rediff.com,informalnewz.com,goldpricetoday.co.in,collegesearch.in,new7tv.com,cbnc.com,newsable.asianetnews.com' }}
+      MINIMUM_ARTICLE_RELEVANCE_SCORE: ${{ vars.MINIMUM_ARTICLE_RELEVANCE_SCORE || '4' }}
+      MAX_ARTICLE_AGE_HOURS: ${{ vars.MAX_ARTICLE_AGE_HOURS || '72' }}
       NEWS_PAGE_SIZE: ${{ vars.NEWS_PAGE_SIZE || '10' }}
       MAX_ARTICLES_PER_CYCLE: ${{ vars.MAX_ARTICLES_PER_CYCLE || '2' }}
       REQUEST_TIMEOUT_SECONDS: ${{ vars.REQUEST_TIMEOUT_SECONDS || '30' }}

@@ -116,6 +116,12 @@ class Settings:
     newsdata_india_query: str
     newsdata_world_query: str
     newsdata_india_country: str
+    preferred_topic_keywords: tuple[str, ...]
+    blocked_topic_keywords: tuple[str, ...]
+    allowed_source_domains: tuple[str, ...]
+    blocked_source_domains: tuple[str, ...]
+    minimum_article_relevance_score: int
+    max_article_age_hours: int
     news_language: str
     news_page_size: int
     max_articles_per_cycle: int
@@ -188,17 +194,62 @@ class Settings:
             newsdata_api_url=_optional_env("NEWSDATA_API_URL", "https://newsdata.io/api/1/latest"),
             current_affairs_query=_optional_env(
                 "CURRENT_AFFAIRS_QUERY",
-                "India OR government OR parliament OR economy OR summit OR diplomacy OR science OR sports",
+                "India OR government OR parliament OR economy OR summit OR diplomacy OR science OR environment OR policy",
             ),
             newsdata_india_query=_optional_env(
                 "NEWSDATA_INDIA_QUERY",
-                "India OR government OR parliament OR economy OR summit OR diplomacy OR science OR sports",
+                "India OR government OR parliament OR economy OR summit OR diplomacy OR science OR environment OR policy",
             ),
             newsdata_world_query=_optional_env(
                 "NEWSDATA_WORLD_QUERY",
-                "government OR parliament OR economy OR summit OR diplomacy OR science OR sports",
+                "government OR parliament OR economy OR summit OR diplomacy OR science OR environment OR policy",
             ),
             newsdata_india_country=_optional_env("NEWSDATA_INDIA_COUNTRY", "in"),
+            preferred_topic_keywords=_csv_env(
+                "PREFERRED_TOPIC_KEYWORDS",
+                (
+                    "india,indian,government,parliament,assembly,cabinet,ministry,ministry of finance,"
+                    "supreme court,high court,judgment,scheme,policy,bill,act,economy,inflation,gdp,"
+                    "rbi,banking,trade,exports,imports,diplomacy,foreign policy,defence,security,"
+                    "summit,agreement,ceasefire,sanction,un,who,wto,imf,world bank,adb,brics,g20,"
+                    "climate,environment,biodiversity,wildlife,science,technology,space,isro,"
+                    "satellite,semiconductor,artificial intelligence,ai,health,disease,vaccine,"
+                    "education,election,census,report,index,road safety,heatwave,monsoon,"
+                    "cyclone,earthquake,agriculture,appointment,committee,commission,regulation,"
+                    "guideline,energy,tax,employment"
+                ),
+            ),
+            blocked_topic_keywords=_csv_env(
+                "BLOCKED_TOPIC_KEYWORDS",
+                (
+                    "celebrity,actor,actress,box office,movie,film trailer,relationship,love life,"
+                    "viral,used car,car review,phone review,shopping,deals,quote of the day,travel guide,"
+                    "holiday,entertainment,gossip,web3,event promotion,product launch,market report,cagr,"
+                    "biopic,fitness method,ufo,astrology,horoscope,reels,instagram,x bio,mother's day,"
+                    "wedding look,style tips,skin care,net worth,luxury,launch event,sale today,"
+                    "astrological,dating,weekend watch,celeb,fan war"
+                ),
+            ),
+            allowed_source_domains=_csv_env(
+                "ALLOWED_SOURCE_DOMAINS",
+                (
+                    "thehindu.com,indianexpress.com,pib.gov.in,prsindia.org,business-standard.com,"
+                    "livemint.com,thehindubusinessline.com,economictimes.indiatimes.com,"
+                    "timesofindia.indiatimes.com,hindustantimes.com,ndtv.com,news18.com,"
+                    "down2earth.org.in,moneycontrol.com,financialexpress.com,tribuneindia.com,"
+                    "theprint.in,newindianexpress.com,firstpost.com,deccanherald.com"
+                ),
+            ),
+            blocked_source_domains=_csv_env(
+                "BLOCKED_SOURCE_DOMAINS",
+                (
+                    "globenewswire.com,prnewswire.com,news.google.com,gyanhigyan.com,brandiconimage.com,"
+                    "digitpatrox.com,asianetnews.com,siasat.com,rediff.com,informalnewz.com,"
+                    "goldpricetoday.co.in,collegesearch.in,new7tv.com,cbnc.com,newsable.asianetnews.com"
+                ),
+            ),
+            minimum_article_relevance_score=_int_env("MINIMUM_ARTICLE_RELEVANCE_SCORE", 4),
+            max_article_age_hours=_int_env("MAX_ARTICLE_AGE_HOURS", 72),
             news_language=_optional_env("NEWS_LANGUAGE", "en"),
             news_page_size=_int_env("NEWS_PAGE_SIZE", 10),
             max_articles_per_cycle=_int_env("MAX_ARTICLES_PER_CYCLE", 2),

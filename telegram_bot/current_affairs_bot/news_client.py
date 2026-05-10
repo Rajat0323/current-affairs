@@ -1,5 +1,7 @@
 import logging
 from collections.abc import Callable
+from datetime import datetime, timezone
+from urllib.parse import urlparse
 
 import requests
 
@@ -22,7 +24,7 @@ class NewsClient:
         fresh_count = 0
 
         for provider_name, provider_call in self._provider_plan():
-            batch = provider_call()
+            batch = self._filter_and_rank_articles(provider_name, provider_call())
             provider_added = 0
             provider_fresh = 0
             for article in batch:
@@ -50,6 +52,106 @@ class NewsClient:
             fresh_count,
         )
         return articles
+
+    def _filter_and_rank_articles(self, provider_name: str, items: list[Article]) -> list[Article]:
+        accepted: list[tuple[int, int, Article]] = []
+        rejected_count = 0
+        for index, article in enumerate(items):
+            score = self._article_relevance_score(article)
+            if score < self.settings.minimum_article_relevance_score:
+                rejected_count += 1
+                LOGGER.debug(
+                    "Rejected article from %s with score=%s title=%s",
+                    provider_name,
+                    score,
+                    article.title,
+                )
+                continue
+            accepted.append((score, -index, article))
+
+        accepted.sort(reverse=True)
+        if rejected_count:
+            LOGGER.info(
+                "Filtered out %s low-quality article(s) from %s based on source/topic rules.",
+                rejected_count,
+                provider_name,
+            )
+        return [article for _, _, article in accepted]
+
+    def _article_relevance_score(self, article: Article) -> int:
+        domain = self._extract_domain(article.url)
+        if not domain:
+            return -10
+
+        combined_text = " ".join(
+            [
+                article.title,
+                article.description,
+                article.content,
+                article.source,
+            ]
+        ).lower()
+
+        if self._matches_any_domain(domain, self.settings.blocked_source_domains):
+            return -10
+        if any(keyword.lower() in combined_text for keyword in self.settings.blocked_topic_keywords):
+            return -10
+        if self._is_stale(article.published_at):
+            return -10
+
+        score = 0
+        preferred_matches = sum(
+            1 for keyword in self.settings.preferred_topic_keywords if keyword.lower() in combined_text
+        )
+        if preferred_matches == 0:
+            return -10
+        if self._matches_any_domain(domain, self.settings.allowed_source_domains):
+            score += 3
+        elif self.settings.allowed_source_domains:
+            score -= 2
+        if "india" in combined_text or "indian" in combined_text:
+            score += 2
+        score += 1
+        score += min(6, preferred_matches)
+
+        # Light penalty for ultra-short or vague titles that tend to perform poorly for exam prep.
+        if len(article.title.split()) < 5:
+            score -= 1
+        if domain.endswith(".gov.in") or domain.endswith(".nic.in"):
+            score += 2
+        if "exclusive" in combined_text or "viral" in combined_text:
+            score -= 2
+        if "?" in article.title:
+            score -= 1
+
+        return score
+
+    def _is_stale(self, published_at: str) -> bool:
+        if not published_at or self.settings.max_article_age_hours <= 0:
+            return False
+        try:
+            parsed = datetime.fromisoformat(published_at.replace("Z", "+00:00"))
+        except ValueError:
+            return False
+        if parsed.tzinfo is None:
+            parsed = parsed.replace(tzinfo=timezone.utc)
+        age_seconds = (datetime.now(timezone.utc) - parsed.astimezone(timezone.utc)).total_seconds()
+        return age_seconds > self.settings.max_article_age_hours * 3600
+
+    def _extract_domain(self, url: str) -> str:
+        hostname = (urlparse(url).hostname or "").lower().strip()
+        if hostname.startswith("www."):
+            hostname = hostname[4:]
+        return hostname
+
+    def _matches_any_domain(self, domain: str, patterns: tuple[str, ...]) -> bool:
+        for pattern in patterns:
+            cleaned = pattern.lower().strip()
+            if not cleaned:
+                continue
+            if domain == cleaned or domain.endswith(f".{cleaned}"):
+                return True
+        return False
 
     def _provider_plan(self) -> list[tuple[str, Callable[[], list[Article]]]]:
         plan: list[tuple[str, Callable[[], list[Article]]]] = []

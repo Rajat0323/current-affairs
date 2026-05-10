@@ -79,6 +79,8 @@ Rules:
 - every MCQ must have exactly 4 options
 - answer_index must be 0, 1, 2, or 3
 - avoid jargon and sensational wording
+- avoid celebrity, gossip, lifestyle, shopping, or entertainment framing
+- rewrite clickbait titles into sober exam-style titles
 - include India relevance whenever the article supports it
 
 Article title: {article.title}
