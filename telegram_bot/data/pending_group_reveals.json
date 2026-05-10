@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "f2d572f0175a4a3090cada2404b74649",
-    "article_title": "India's Energy Shock Insulation Cost",
-    "question": "What is the daily cost of insulating India from global energy shocks?",
+    "reveal_id": "ac820e4508784bd58260ebbf3b3b907f",
+    "article_title": "Royal Bengal Tiger Spotted in Arunachal Sanctuary",
+    "question": "Where was the Royal Bengal Tiger spotted after nearly 20 years?",
     "answer_label": "B",
-    "answer_text": "\u20b91,600-1,700 crore",
-    "explanation": "The cost is estimated to be \u20b91,600-1,700 crore per day, as stated in the article.",
-    "due_at": "2026-05-10T22:05:36.887135+00:00"
+    "answer_text": "Daying Ering Wildlife Sanctuary",
+    "explanation": "The Royal Bengal Tiger was spotted in Arunachal Pradesh's Daying Ering Wildlife Sanctuary, as reported in the article.",
+    "due_at": "2026-05-10T22:58:32.884469+00:00"
   },
   {
-    "reveal_id": "6ec3074e9ec64eb5a6472eb92625ac81",
-    "article_title": "India's Energy Shock Insulation Cost",
-    "question": "Why are state-owned oil companies supplying fuel at below-cost rates?",
+    "reveal_id": "8a173412eca54500963a268aac74c0fd",
+    "article_title": "Royal Bengal Tiger Spotted in Arunachal Sanctuary",
+    "question": "How long had it been since a Royal Bengal Tiger was last spotted in the sanctuary?",
     "answer_label": "C",
-    "answer_text": "To maintain stable fuel prices",
-    "explanation": "The companies are supplying fuel at below-cost rates to ensure uninterrupted supplies and maintain stable prices despite global energy shocks.",
-    "due_at": "2026-05-10T22:05:37.578908+00:00"
+    "answer_text": "20 years",
+    "explanation": "The article states that the Royal Bengal Tiger was spotted in the sanctuary after nearly 20 years.",
+    "due_at": "2026-05-10T22:58:36.648276+00:00"
   },
   {
-    "reveal_id": "130b30ec7dc744c1ae1fa8aada43014e",
-    "article_title": "India's Energy Shock Insulation Cost",
-    "question": "How long has the global energy shock been affecting India?",
+    "reveal_id": "2f6f0504284f49c3a0c972f6606c9902",
+    "article_title": "Royal Bengal Tiger Spotted in Arunachal Sanctuary",
+    "question": "What is the potential significance of the Royal Bengal Tiger's reappearance in the sanctuary?",
+    "answer_label": "C",
+    "answer_text": "It raises questions about the tiger's habitat and migration patterns",
+    "explanation": "The reappearance of the Royal Bengal Tiger in the sanctuary can inform wildlife management policies and highlight the importance of conservation efforts.",
+    "due_at": "2026-05-10T22:58:37.274512+00:00"
+  },
+  {
+    "reveal_id": "2a7bddd74dcb40d891e342230fd014c4",
+    "article_title": "New Chief of Defence Staff Appointed",
+    "question": "Who has been appointed as India's next Chief of Defence Staff?",
     "answer_label": "B",
-    "answer_text": "10 weeks",
-    "explanation": "The global energy shock has been affecting India for 10 weeks, since the war broke out in the Middle East.",
-    "due_at": "2026-05-10T22:05:38.263539+00:00"
+    "answer_text": "Lieutenant General NS Raja Subramani",
+    "explanation": "Lieutenant General NS Raja Subramani has been appointed as the next CDS, as per the official announcement.",
+    "due_at": "2026-05-10T22:58:43.943935+00:00"
   },
   {
-    "reveal_id": "8386e4e1012e4761995f23505e7f495d",
-    "article_title": "Toxic Water in Punjab Canals",
-    "question": "Who blamed the Mann government for toxic water in canals?",
+    "reveal_id": "10432e2fcc3840c8a3b5f52552474620",
+    "article_title": "New Chief of Defence Staff Appointed",
+    "question": "When will Lieutenant General NS Raja Subramani take over as the Chief of Defence Staff?",
     "answer_label": "B",
-    "answer_text": "Punjab BJP president",
-    "explanation": "Punjab BJP president Sunil Jakhar held the Mann government responsible for the toxic water issue.",
-    "due_at": "2026-05-10T22:05:45.466493+00:00"
+    "answer_text": "30 May 2026",
+    "explanation": "He will succeed General Anil Chauhan on 30 May 2026.",
+    "due_at": "2026-05-10T22:58:44.545680+00:00"
   },
   {
-    "reveal_id": "7a74ceec2d924b8db2cd6751ed1572b1",
-    "article_title": "Toxic Water in Punjab Canals",
-    "question": "Which region is affected by the toxic water in canals?",
-    "answer_label": "C",
-    "answer_text": "Malwa region",
-    "explanation": "The Malwa region is affected by the toxic water in canals, according to the report.",
-    "due_at": "2026-05-10T22:05:46.290027+00:00"
-  },
-  {
-    "reveal_id": "8eb4ef61b0424a3fa996b78b3aca2953",
-    "article_title": "Toxic Water in Punjab Canals",
-    "question": "What is the demand of Punjab BJP president Sunil Jakhar to the Chief Minister?",
-    "answer_label": "C",
-    "answer_text": "To focus on people's needs",
-    "explanation": "Sunil Jakhar urged the Chief Minister to focus on people's needs instead of shielding the corrupt.",
-    "due_at": "2026-05-10T22:05:50.142988+00:00"
+    "reveal_id": "be6137aeeb2b41519a766f116fa88e0f",
+    "article_title": "New Chief of Defence Staff Appointed",
+    "question": "What other position will Lieutenant General NS Raja Subramani hold besides being the Chief of Defence Staff?",
+    "answer_label": "B",
+    "answer_text": "Secretary to the Government of India in the Department of Military Affairs",
+    "explanation": "He will also serve as Secretary to the Government of India in the Department of Military Affairs.",
+    "due_at": "2026-05-10T22:58:45.160660+00:00"
   }
 ]
