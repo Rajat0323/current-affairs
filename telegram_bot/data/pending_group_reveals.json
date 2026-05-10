@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "74e96b66f5c04672af6254eb718c4e87",
-    "article_title": "AP Waqf Board Talent Test",
-    "question": "What is the purpose of the AP Waqf Board's talent test?",
-    "answer_label": "C",
-    "answer_text": "To provide free residential intermediate education",
-    "explanation": "The talent test aims to select 250 students for free residential intermediate education with IIT-JEE and NEET coaching.",
-    "due_at": "2026-05-10T18:05:02.895806+00:00"
+    "reveal_id": "87055c7c4a9b4724b668332583755def",
+    "article_title": "New Tamil Nadu CM Assumes Office",
+    "question": "Who is the new Chief Minister of Tamil Nadu?",
+    "answer_label": "A",
+    "answer_text": "C Joseph Vijay",
+    "explanation": "C Joseph Vijay is the chief of Tamilaga Vettri Kazhagam and has assumed office as Tamil Nadu CM.",
+    "due_at": "2026-05-10T19:08:23.917900+00:00"
   },
   {
-    "reveal_id": "c0ca8b12859b46809af99cca6dc88b4d",
-    "article_title": "AP Waqf Board Talent Test",
-    "question": "How many students will be selected for the free residential intermediate education?",
-    "answer_label": "C",
-    "answer_text": "250",
-    "explanation": "The AP Waqf Board will select 250 Muslim students for the free residential intermediate education.",
-    "due_at": "2026-05-10T18:05:06.665677+00:00"
-  },
-  {
-    "reveal_id": "d4972f8196234fdaab44fedb663813a5",
-    "article_title": "AP Waqf Board Talent Test",
-    "question": "What additional coaching will the selected students receive?",
-    "answer_label": "C",
-    "answer_text": "Both IIT-JEE and NEET coaching",
-    "explanation": "The selected students will receive both IIT-JEE and NEET coaching as part of their intermediate education.",
-    "due_at": "2026-05-10T18:05:07.314506+00:00"
-  },
-  {
-    "reveal_id": "4b0808da7a0e4252a93392b8a8f549e2",
-    "article_title": "FPI Stake in Indian Equities at 14-Year Low",
-    "question": "What is the current status of FPI's stake in Indian equities?",
-    "answer_label": "C",
-    "answer_text": "At a 14-year low",
-    "explanation": "FPI's stake in Indian equities has dropped to a 14-year low due to significant outflows.",
-    "due_at": "2026-05-10T18:05:14.391821+00:00"
-  },
-  {
-    "reveal_id": "4445b65159524ae797a3d62cc3ab386f",
-    "article_title": "FPI Stake in Indian Equities at 14-Year Low",
-    "question": "What is the reason for the drop in FPI's stake in Indian equities?",
+    "reveal_id": "99d3d5e659ae416bbff816001b56d970",
+    "article_title": "New Tamil Nadu CM Assumes Office",
+    "question": "What are the key areas the new CM has promised to prioritize?",
     "answer_label": "B",
-    "answer_text": "Significant outflows",
-    "explanation": "The drop in FPI's stake is due to significant outflows from Indian equities.",
-    "due_at": "2026-05-10T18:05:15.075720+00:00"
+    "answer_text": "Education, roads, and water facilities",
+    "explanation": "The new CM has pledged to prioritize education, roads, and water facilities for the people of Tamil Nadu.",
+    "due_at": "2026-05-10T19:08:27.665825+00:00"
   },
   {
-    "reveal_id": "137a34b1bb314390b60076023e433a66",
-    "article_title": "FPI Stake in Indian Equities at 14-Year Low",
-    "question": "What is the trend indicated by the drop in FPI's stake in Indian equities?",
+    "reveal_id": "009f6b33fa70407fa6396abe194e2d0a",
+    "article_title": "New Tamil Nadu CM Assumes Office",
+    "question": "What is the new CM's stance on corruption and drug abuse?",
+    "answer_label": "B",
+    "answer_text": "He will take strict action against corruption and drug abuse",
+    "explanation": "The new CM has vowed to take strict action against corruption and drug abuse in Tamil Nadu.",
+    "due_at": "2026-05-10T19:08:28.251120+00:00"
+  },
+  {
+    "reveal_id": "102bdc9021e14159bdaaa1656f66800e",
+    "article_title": "India-Netherlands Naval Exercise",
+    "question": "Which Indian Navy ship conducted a passage exercise with the Dutch Naval Frigate?",
+    "answer_label": "B",
+    "answer_text": "INS Sharda",
+    "explanation": "INS Sharda conducted the passage exercise with HNLMS De Ruyter off the Kochi coast.",
+    "due_at": "2026-05-10T19:08:34.842021+00:00"
+  },
+  {
+    "reveal_id": "b92a652ff4fe4b2283aed3032a30f4f2",
+    "article_title": "India-Netherlands Naval Exercise",
+    "question": "Where was the passage exercise between INS Sharda and HNLMS De Ruyter conducted?",
     "answer_label": "C",
-    "answer_text": "Shift towards domestic investors",
-    "explanation": "The drop in FPI's stake indicates a shift in investment trends towards domestic investors in India.",
-    "due_at": "2026-05-10T18:05:15.680950+00:00"
+    "answer_text": "Off the coast of Kochi",
+    "explanation": "The exercise was conducted off the coast of Kochi.",
+    "due_at": "2026-05-10T19:08:35.424538+00:00"
+  },
+  {
+    "reveal_id": "9b17dcc1151d4928bfdf6bcc9572c916",
+    "article_title": "India-Netherlands Naval Exercise",
+    "question": "Which country's naval frigate participated in the passage exercise with INS Sharda?",
+    "answer_label": "C",
+    "answer_text": "Netherlands",
+    "explanation": "The Netherlands Navy ship HNLMS De Ruyter participated in the exercise.",
+    "due_at": "2026-05-10T19:08:36.003417+00:00"
   }
 ]
