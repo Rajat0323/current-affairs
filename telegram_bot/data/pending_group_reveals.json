@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "25c8a86c6f924e25ba8401facdc75646",
-    "article_title": "Vijay Deverakonda on Passion",
-    "question": "What does Vijay Deverakonda prioritize over financial security?",
-    "answer_label": "B",
-    "answer_text": "Passion and purpose",
-    "explanation": "Vijay Deverakonda believes in prioritizing passion and purpose over financial security, as per his personal philosophy.",
-    "due_at": "2026-05-09T23:58:34.368439+00:00"
+    "reveal_id": "81d34fe6374f48f68f41cd7532879926",
+    "article_title": "New Income Tax Return Forms",
+    "question": "What is driving the transformation of India's personal tax compliance framework?",
+    "answer_label": "A",
+    "answer_text": "Digitisation",
+    "explanation": "The transformation is driven by digitisation, pre-filled data integration, and simplified tax regimes.",
+    "due_at": "2026-05-10T01:54:22.386397+00:00"
   },
   {
-    "reveal_id": "a7633591fda34db89d8ccb6de6930e26",
-    "article_title": "Vijay Deverakonda on Passion",
-    "question": "What is the main theme of Vijay Deverakonda's quote?",
-    "answer_label": "B",
-    "answer_text": "Power of passion",
-    "explanation": "The quote highlights the importance of believing in oneself and prioritizing passion and purpose.",
-    "due_at": "2026-05-09T23:58:34.657970+00:00"
-  },
-  {
-    "reveal_id": "ce11e721ef7b404dba2cfc3ac472873a",
-    "article_title": "Vijay Deverakonda on Passion",
-    "question": "What can be inferred about Vijay Deverakonda's approach to life?",
+    "reveal_id": "7421a5f59aac41b0a08f18b67095aad2",
+    "article_title": "New Income Tax Return Forms",
+    "question": "Who will be affected by the new ITR forms?",
     "answer_label": "C",
-    "answer_text": "He believes in himself",
-    "explanation": "Vijay Deverakonda's quote suggests that he believes in himself and his abilities, rather than relying solely on financial security.",
-    "due_at": "2026-05-09T23:58:34.940232+00:00"
+    "answer_text": "Salaried taxpayers and cross-border employees",
+    "explanation": "The new ITR forms will affect salaried taxpayers, including those working across borders.",
+    "due_at": "2026-05-10T01:54:22.666810+00:00"
   },
   {
-    "reveal_id": "8e5eb49bab8741c6b3b3710ee64199ae",
-    "article_title": "Mamata Banerjee's X Bio Update",
-    "question": "Who became the new BJP Chief Minister of West Bengal?",
+    "reveal_id": "7a0dc93638f545a0add3cf1199cffce2",
+    "article_title": "New Income Tax Return Forms",
+    "question": "What is a key feature of the new ITR forms for FY 2025-26?",
     "answer_label": "B",
-    "answer_text": "Suvendu Adhikari",
-    "explanation": "Suvendu Adhikari took oath as the new Chief Minister of West Bengal.",
-    "due_at": "2026-05-09T23:58:41.632512+00:00"
+    "answer_text": "Pre-filled data integration",
+    "explanation": "The new ITR forms have pre-filled data integration, making the filing process easier.",
+    "due_at": "2026-05-10T01:54:22.956118+00:00"
   },
   {
-    "reveal_id": "ac2e508fb6bb462b9fc1e18187776acb",
-    "article_title": "Mamata Banerjee's X Bio Update",
-    "question": "What change did Mamata Banerjee make to her X bio?",
-    "answer_label": "D",
-    "answer_text": "Removed her incumbent status",
-    "explanation": "Mamata Banerjee removed her incumbent status from her X bio.",
-    "due_at": "2026-05-09T23:58:41.934397+00:00"
+    "reveal_id": "805d640390274f5a97c495616fb740aa",
+    "article_title": "Latur Man Commits Suicide",
+    "question": "Where did the incident of social media harassment leading to suicide occur?",
+    "answer_label": "A",
+    "answer_text": "Latur, Maharashtra",
+    "explanation": "The incident occurred in Latur, Maharashtra, as per the given article.",
+    "due_at": "2026-05-10T01:54:29.345292+00:00"
   },
   {
-    "reveal_id": "5c0f42e1d89d4ea795ba5db7fff5a91f",
-    "article_title": "Mamata Banerjee's X Bio Update",
-    "question": "Which party does Suvendu Adhikari belong to?",
+    "reveal_id": "f4d9554660ad4fd6b9da5aca9906761b",
+    "article_title": "Latur Man Commits Suicide",
+    "question": "How many individuals have been detained in connection with the incident?",
     "answer_label": "B",
-    "answer_text": "BJP",
-    "explanation": "Suvendu Adhikari is a member of the Bharatiya Janata Party (BJP).",
-    "due_at": "2026-05-09T23:58:42.229246+00:00"
+    "answer_text": "4",
+    "explanation": "Four individuals have been detained by the police in connection with the incident.",
+    "due_at": "2026-05-10T01:54:29.625812+00:00"
+  },
+  {
+    "reveal_id": "40083fc6ef2340bb94e435980bb3eba1",
+    "article_title": "Latur Man Commits Suicide",
+    "question": "What was the alleged reason for the social media harassment?",
+    "answer_label": "B",
+    "answer_text": "A love affair",
+    "explanation": "The alleged reason for the social media harassment was a love affair, as mentioned in the article.",
+    "due_at": "2026-05-10T01:54:29.901087+00:00"
   }
 ]
