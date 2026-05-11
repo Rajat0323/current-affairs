@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "c35c6eac98c4435087726e6e531bac86",
-    "article_title": "Decline of Janamaithri Network in Kerala",
-    "question": "What is the main concern due to the decline of the Janamaithri network in Kerala?",
-    "answer_label": "B",
-    "answer_text": "Lack of care for elderly",
-    "explanation": "The decline of the Janamaithri network jeopardizes care for vulnerable elderly living alone, making their safety and well-being a concern.",
-    "due_at": "2026-05-11T00:03:19.925600+00:00"
+    "reveal_id": "466f00ebf1824bf8832c9a117a7db761",
+    "article_title": "Assam Government Formation",
+    "question": "Who was elected as the leader of the NDA Legislature Party in Assam?",
+    "answer_label": "A",
+    "answer_text": "Himanta Biswa Sarma",
+    "explanation": "Himanta Biswa Sarma was unanimously elected as the leader of the NDA Legislature Party in Assam.",
+    "due_at": "2026-05-11T01:59:31.127245+00:00"
   },
   {
-    "reveal_id": "4a638cd000fa4637a95e88f9a2685fc6",
-    "article_title": "Decline of Janamaithri Network in Kerala",
-    "question": "What kind of issue does the decline of the Janamaithri network represent?",
+    "reveal_id": "f2fe780f7245428aaa7d964226fc4431",
+    "article_title": "Assam Government Formation",
+    "question": "How many seats did the BJP win in the Assam Assembly elections?",
     "answer_label": "B",
-    "answer_text": "Social issue",
-    "explanation": "The decline of the Janamaithri network represents a social issue, as it affects the care and well-being of elderly people.",
-    "due_at": "2026-05-11T00:03:23.664352+00:00"
+    "answer_text": "82",
+    "explanation": "The BJP won 82 seats in the 126-member Assam Assembly.",
+    "due_at": "2026-05-11T01:59:34.943438+00:00"
   },
   {
-    "reveal_id": "8293c20481484300aaef923475213891",
-    "article_title": "Decline of Janamaithri Network in Kerala",
-    "question": "Why are community-based networks important for elderly care in India?",
+    "reveal_id": "ee5a58e9cf33468c9acb0997249096e5",
+    "article_title": "Assam Government Formation",
+    "question": "When will the NDA Council of Ministers take the oath in Assam?",
     "answer_label": "C",
-    "answer_text": "They support vulnerable populations",
-    "explanation": "Community-based networks like Janamaithri are important because they support vulnerable elderly populations, ensuring their safety and well-being.",
-    "due_at": "2026-05-11T00:03:24.224959+00:00"
+    "answer_text": "May 12",
+    "explanation": "The NDA Council of Ministers will take the oath on May 12 in the presence of the Prime Minister.",
+    "due_at": "2026-05-11T01:59:35.604023+00:00"
   },
   {
-    "reveal_id": "80765ade2adf490984309fbdba8f3f80",
-    "article_title": "Childless Women in Indian Workplaces",
-    "question": "What did a GIM study find about childless women in Indian workplaces?",
+    "reveal_id": "b40755f50a194651820ee4d36cce52dd",
+    "article_title": "Indian Techie Dies from Valley Fever in US",
+    "question": "What was the cause of Chiranjeevi Kolla's death?",
     "answer_label": "B",
-    "answer_text": "They are seen as ideal workers by employers",
-    "explanation": "The study found that childless women are perceived as ideal workers by employers, but still face subtle exclusion and moral judgment.",
-    "due_at": "2026-05-11T00:03:31.302523+00:00"
+    "answer_text": "Valley Fever",
+    "explanation": "Chiranjeevi Kolla died from Valley Fever, a fungal disease common in the southwestern US.",
+    "due_at": "2026-05-11T01:59:42.927114+00:00"
   },
   {
-    "reveal_id": "5722abdc05aa40abb5db33efd7d3ba59",
-    "article_title": "Childless Women in Indian Workplaces",
-    "question": "What kind of pressure do childless women in India face at work, according to the study?",
+    "reveal_id": "89a4f762a94c410c966a3f4771431adf",
+    "article_title": "Indian Techie Dies from Valley Fever in US",
+    "question": "Where is Valley Fever commonly found?",
     "answer_label": "B",
-    "answer_text": "Pressure to fit into motherhood norms",
-    "explanation": "The study found that childless women in India face pressure to fit into traditional motherhood norms, despite being seen as ideal workers.",
-    "due_at": "2026-05-11T00:03:31.862217+00:00"
+    "answer_text": "Southwestern US",
+    "explanation": "Valley Fever is commonly found in the southwestern United States.",
+    "due_at": "2026-05-11T01:59:43.590571+00:00"
   },
   {
-    "reveal_id": "ec86380162a144e98586de06499d83f7",
-    "article_title": "Childless Women in Indian Workplaces",
-    "question": "What is a potential outcome of the study's findings for Indian workplaces?",
+    "reveal_id": "c6db876a797c4f779475b33c7b0ee62a",
+    "article_title": "Indian Techie Dies from Valley Fever in US",
+    "question": "Why was Chiranjeevi Kolla's illness initially misdiagnosed?",
     "answer_label": "C",
-    "answer_text": "Policies will be adopted to support childless women",
-    "explanation": "The study's findings highlight the need for Indian workplaces to adopt more supportive and accepting policies for childless women, promoting a more inclusive work environment.",
-    "due_at": "2026-05-11T00:03:32.423679+00:00"
+    "answer_text": "Similar symptoms to pneumonia",
+    "explanation": "Chiranjeevi Kolla's illness was initially misdiagnosed as pneumonia due to similar symptoms.",
+    "due_at": "2026-05-11T01:59:44.243296+00:00"
   }
 ]
