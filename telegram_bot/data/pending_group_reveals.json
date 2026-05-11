@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "7bf75535f39b4e81a7ae3cd150b19623",
-    "article_title": "Great Nicobar Project Concerns",
-    "question": "Who raised concerns about the Great Nicobar Project?",
+    "reveal_id": "a10af7acf63f4476b74415bfbb97634e",
+    "article_title": "Gold Stocks in Focus",
+    "question": "Why may gold stocks be in focus on Monday?",
     "answer_label": "B",
-    "answer_text": "Ramesh",
-    "explanation": "Ramesh flagged inadequate studies for the project and demanded a high-powered panel report be made public.",
-    "due_at": "2026-05-11T12:29:40.171719+00:00"
+    "answer_text": "PM Modi's appeal to avoid gold purchases",
+    "explanation": "PM Modi's appeal to avoid gold purchases for weddings may impact gold sales and stocks.",
+    "due_at": "2026-05-11T16:03:48.521613+00:00"
   },
   {
-    "reveal_id": "e6ef9616fce140e79ff0693782b5081a",
-    "article_title": "Great Nicobar Project Concerns",
-    "question": "What is Ramesh's demand regarding the high-powered panel report?",
+    "reveal_id": "357b6121c02a4325907df5922242638e",
+    "article_title": "Gold Stocks in Focus",
+    "question": "Which companies are likely to be affected by the recent developments?",
+    "answer_label": "A",
+    "answer_text": "Titan, Kalyan Jewellers",
+    "explanation": "Titan and Kalyan Jewellers are jewellery companies that may be impacted by the recent developments.",
+    "due_at": "2026-05-11T16:03:49.161604+00:00"
+  },
+  {
+    "reveal_id": "e28fdcaf4fbe49bbb22694c7b9ae6157",
+    "article_title": "Gold Stocks in Focus",
+    "question": "What else may be contributing to the focus on gold stocks?",
     "answer_label": "B",
-    "answer_text": "To make the report public",
-    "explanation": "Ramesh demands that the high-powered panel report be made public for transparency.",
-    "due_at": "2026-05-11T12:29:43.962046+00:00"
+    "answer_text": "Strong Q4 earnings",
+    "explanation": "Strong Q4 earnings from key jewellery companies may also be contributing to the focus on gold stocks.",
+    "due_at": "2026-05-11T16:03:49.839879+00:00"
   },
   {
-    "reveal_id": "ff44c4f512814765b0206cd19ad26df1",
-    "article_title": "Great Nicobar Project Concerns",
-    "question": "Why does Ramesh want the Environment Minister to pause the Great Nicobar Project?",
-    "answer_label": "C",
-    "answer_text": "To revisit the project's design and detail",
-    "explanation": "Ramesh urges the Environment Minister to pause, reflect, and revisit the project in its present design and detail due to inadequate studies.",
-    "due_at": "2026-05-11T12:29:44.574546+00:00"
-  },
-  {
-    "reveal_id": "7b82867aac1c488b9fb5fd020dda2ec2",
-    "article_title": "Indian Crew Evacuated from Hantavirus-Hit Ship",
-    "question": "Where were the Indian crew members evacuated to?",
+    "reveal_id": "b2ffa6b1db264066acba3e862d0a6164",
+    "article_title": "Street Vendors' Revenue Boost",
+    "question": "What was the primary focus of Udhyam Learning Foundation's initiative?",
     "answer_label": "B",
-    "answer_text": "Netherlands",
-    "explanation": "The Indian crew members were evacuated to the Netherlands for quarantine.",
-    "due_at": "2026-05-11T12:29:51.495174+00:00"
+    "answer_text": "Vendors earning below Rs 30,000 a month",
+    "explanation": "The initiative primarily focuses on vendors earning below Rs 30,000 a month, many of whom are necessity-driven entrepreneurs.",
+    "due_at": "2026-05-11T16:03:56.802800+00:00"
   },
   {
-    "reveal_id": "70d23498e84d42f58dccee44a84f6187",
-    "article_title": "Indian Crew Evacuated from Hantavirus-Hit Ship",
-    "question": "What type of virus outbreak occurred on the MV Hondius?",
+    "reveal_id": "8a8d9054c048478c9acdd8b91bf7894d",
+    "article_title": "Street Vendors' Revenue Boost",
+    "question": "By what percentage did the street vendors' revenue increase after the training?",
     "answer_label": "B",
-    "answer_text": "Hantavirus",
-    "explanation": "The MV Hondius experienced a hantavirus outbreak.",
-    "due_at": "2026-05-11T12:29:52.133317+00:00"
+    "answer_text": "33%",
+    "explanation": "The training helped Bengaluru street vendors increase their revenue by 33%.",
+    "due_at": "2026-05-11T16:03:57.416680+00:00"
   },
   {
-    "reveal_id": "9c9189eff23c45379e93e22193fd70ca",
-    "article_title": "Indian Crew Evacuated from Hantavirus-Hit Ship",
-    "question": "What did the WHO advise regarding the hantavirus outbreak?",
-    "answer_label": "C",
-    "answer_text": "Risk-based approach",
-    "explanation": "The WHO advised a risk-based approach for managing contacts due to limited human-to-human transmission of the Andes virus.",
-    "due_at": "2026-05-11T12:29:52.733756+00:00"
+    "reveal_id": "cb2c2f6cf0b245abb66b72a0c84f35ce",
+    "article_title": "Street Vendors' Revenue Boost",
+    "question": "What type of entrepreneurs are many of the street vendors who benefited from the initiative?",
+    "answer_label": "B",
+    "answer_text": "Necessity-driven entrepreneurs",
+    "explanation": "Many of the street vendors who benefited from the initiative are necessity-driven entrepreneurs.",
+    "due_at": "2026-05-11T16:03:58.045474+00:00"
   }
 ]
