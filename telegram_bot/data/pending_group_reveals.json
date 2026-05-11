@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "960a277aaf7e4cddbc31f0d9689d6376",
-    "article_title": "BJP's Victory in West Bengal Assembly Elections",
-    "question": "Which party won the West Bengal Assembly elections?",
+    "reveal_id": "ed8f104a09b645ceb6644a38abd3b775",
+    "article_title": "Railway Pensioners Get Dearness Relief Hike",
+    "question": "What is the new dearness relief percentage for railway pensioners?",
+    "answer_label": "C",
+    "answer_text": "60%",
+    "explanation": "The dearness relief increases from 58% to 60% of the basic pension.",
+    "due_at": "2026-05-11T19:49:12.710046+00:00"
+  },
+  {
+    "reveal_id": "2f597bee3b3045cb8d238d5deba6d4fe",
+    "article_title": "Railway Pensioners Get Dearness Relief Hike",
+    "question": "When does the dearness relief hike take effect?",
     "answer_label": "B",
-    "answer_text": "Bharatiya Janata Party",
-    "explanation": "The Bharatiya Janata Party secured a resounding victory in the West Bengal Assembly elections.",
-    "due_at": "2026-05-11T18:05:30.707870+00:00"
+    "answer_text": "January 1, 2026",
+    "explanation": "The change takes effect from January 1, 2026.",
+    "due_at": "2026-05-11T19:49:13.435138+00:00"
   },
   {
-    "reveal_id": "9994108d17e342c2be595657c52745c2",
-    "article_title": "BJP's Victory in West Bengal Assembly Elections",
-    "question": "What factors contributed to the BJP's victory in West Bengal?",
+    "reveal_id": "ebf0eefc21794853ab386ea1a4051249",
+    "article_title": "Railway Pensioners Get Dearness Relief Hike",
+    "question": "What is the purpose of the dearness relief hike?",
     "answer_label": "B",
-    "answer_text": "Dedication, hard work, and planning",
-    "explanation": "The BJP's victory is attributed to dedication, hard work, and planning.",
-    "due_at": "2026-05-11T18:05:31.326639+00:00"
+    "answer_text": "To compensate for rising prices",
+    "explanation": "The move aims to compensate for rising prices and help pensioners cope with inflation.",
+    "due_at": "2026-05-11T19:49:14.155989+00:00"
   },
   {
-    "reveal_id": "37e9dc05dfcd42eaac2a34a31174f45a",
-    "article_title": "BJP's Victory in West Bengal Assembly Elections",
-    "question": "Who is the current Chief Minister of West Bengal?",
-    "answer_label": "A",
-    "answer_text": "Mamata Banerjee",
-    "explanation": "Mamata Banerjee is mentioned in the context of the West Bengal Assembly elections.",
-    "due_at": "2026-05-11T18:05:31.956810+00:00"
+    "reveal_id": "28191acabe4f4851beecce7de3d2d8ed",
+    "article_title": "India's Secure IoT Chip Production",
+    "question": "What is the expected cost reduction in devices using Mindgrove's IoT chip?",
+    "answer_label": "C",
+    "answer_text": "30%",
+    "explanation": "The RISC-V-based chip can cut device costs by nearly 30%. This is a significant reduction that can make IoT devices more affordable.",
+    "due_at": "2026-05-11T19:49:18.598948+00:00"
   },
   {
-    "reveal_id": "1e446c34dfec4aa28e1139e42e0005d8",
-    "article_title": "India's Shift from Gold and Oil",
-    "question": "What is Sunil Bharti Mittal's suggestion for India's economy?",
+    "reveal_id": "19e5ee666d1948a19cf975797022acb7",
+    "article_title": "India's Secure IoT Chip Production",
+    "question": "Which institute incubated the startup Mindgrove?",
+    "answer_label": "C",
+    "answer_text": "IIT Madras",
+    "explanation": "Mindgrove is an IIT Madras-incubated startup, which indicates the institute's support for innovative ventures.",
+    "due_at": "2026-05-11T19:49:19.320243+00:00"
+  },
+  {
+    "reveal_id": "73cc71f0bf324761b10db4d3d85c2862",
+    "article_title": "India's Secure IoT Chip Production",
+    "question": "What are the target markets for Mindgrove's secure IoT chip?",
     "answer_label": "B",
-    "answer_text": "Reduce oil consumption and boost renewables",
-    "explanation": "Sunil Bharti Mittal suggests reducing wasteful consumption and moving away from gold and oil, promoting renewables and capital expenditure instead.",
-    "due_at": "2026-05-11T18:05:38.800655+00:00"
-  },
-  {
-    "reveal_id": "9ed994b931ad484fa2fcb38f0f8439dc",
-    "article_title": "India's Shift from Gold and Oil",
-    "question": "Why is it important for India to reduce its dependence on gold and oil?",
-    "answer_label": "B",
-    "answer_text": "To reduce its carbon footprint and promote sustainable growth",
-    "explanation": "Reducing dependence on gold and oil can help reduce India's carbon footprint and promote sustainable growth.",
-    "due_at": "2026-05-11T18:05:39.422279+00:00"
-  },
-  {
-    "reveal_id": "e92bb0fb827049858b30c3a11866311e",
-    "article_title": "India's Shift from Gold and Oil",
-    "question": "Who has backed PM Modi's call to curb wasteful consumption?",
-    "answer_label": "A",
-    "answer_text": "Sunil Bharti Mittal",
-    "explanation": "Sunil Bharti Mittal has backed PM Modi's call to curb wasteful consumption and move away from gold and oil.",
-    "due_at": "2026-05-11T18:05:40.051973+00:00"
+    "answer_text": "Biometrics and industrial IoT",
+    "explanation": "The chip targets biometrics and industrial IoT markets, which require secure and efficient IoT solutions.",
+    "due_at": "2026-05-11T19:49:20.009985+00:00"
   }
 ]
