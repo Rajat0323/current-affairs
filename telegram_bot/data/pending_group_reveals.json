@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "466f00ebf1824bf8832c9a117a7db761",
-    "article_title": "Assam Government Formation",
-    "question": "Who was elected as the leader of the NDA Legislature Party in Assam?",
+    "reveal_id": "a3837e281111449da813acd4f2c3a7fe",
+    "article_title": "India-South Korea Defence Ties",
+    "question": "What is the purpose of KIND-X in India-South Korea relations?",
+    "answer_label": "B",
+    "answer_text": "To enhance defence innovation",
+    "explanation": "KIND-X aims to deepen bilateral defence R&D, co-production, and start-up collaboration between India and South Korea.",
+    "due_at": "2026-05-11T06:12:36.203424+00:00"
+  },
+  {
+    "reveal_id": "8863954ce0014194a7bcb428f7db2189",
+    "article_title": "India-South Korea Defence Ties",
+    "question": "Which of the following is a potential outcome of India-South Korea defence ties?",
+    "answer_label": "C",
+    "answer_text": "Enhanced regional security",
+    "explanation": "Strengthened defence ties can lead to enhanced regional security for India and South Korea.",
+    "due_at": "2026-05-11T06:12:36.809580+00:00"
+  },
+  {
+    "reveal_id": "7b3d72da17d046328cb81a04b39bd4cb",
+    "article_title": "India-South Korea Defence Ties",
+    "question": "What area of cooperation is being targeted by India and South Korea through their defence innovation ties?",
+    "answer_label": "B",
+    "answer_text": "Defence manufacturing",
+    "explanation": "India and South Korea are targeting defence manufacturing and innovation through their cooperation.",
+    "due_at": "2026-05-11T06:12:37.452332+00:00"
+  },
+  {
+    "reveal_id": "39350d66e58046318de5da37c3454483",
+    "article_title": "India Wins Archery World Cup Stage 2 Gold",
+    "question": "Where did India's archery team win the gold medal at the Archery World Cup Stage 2?",
     "answer_label": "A",
-    "answer_text": "Himanta Biswa Sarma",
-    "explanation": "Himanta Biswa Sarma was unanimously elected as the leader of the NDA Legislature Party in Assam.",
-    "due_at": "2026-05-11T01:59:31.127245+00:00"
+    "answer_text": "Shanghai",
+    "explanation": "The article states that the event took place in Shanghai.",
+    "due_at": "2026-05-11T06:12:44.367674+00:00"
   },
   {
-    "reveal_id": "f2fe780f7245428aaa7d964226fc4431",
-    "article_title": "Assam Government Formation",
-    "question": "How many seats did the BJP win in the Assam Assembly elections?",
-    "answer_label": "B",
-    "answer_text": "82",
-    "explanation": "The BJP won 82 seats in the 126-member Assam Assembly.",
-    "due_at": "2026-05-11T01:59:34.943438+00:00"
-  },
-  {
-    "reveal_id": "ee5a58e9cf33468c9acb0997249096e5",
-    "article_title": "Assam Government Formation",
-    "question": "When will the NDA Council of Ministers take the oath in Assam?",
+    "reveal_id": "0fcf2f59d6274efeae8a9d510b5fcebd",
+    "article_title": "India Wins Archery World Cup Stage 2 Gold",
+    "question": "What was the score that Deepika hit to claim the win in the shoot-off?",
     "answer_label": "C",
-    "answer_text": "May 12",
-    "explanation": "The NDA Council of Ministers will take the oath on May 12 in the presence of the Prime Minister.",
-    "due_at": "2026-05-11T01:59:35.604023+00:00"
+    "answer_text": "9",
+    "explanation": "The article mentions that Deepika hit a 9 to claim the win.",
+    "due_at": "2026-05-11T06:12:44.981866+00:00"
   },
   {
-    "reveal_id": "b40755f50a194651820ee4d36cce52dd",
-    "article_title": "Indian Techie Dies from Valley Fever in US",
-    "question": "What was the cause of Chiranjeevi Kolla's death?",
-    "answer_label": "B",
-    "answer_text": "Valley Fever",
-    "explanation": "Chiranjeevi Kolla died from Valley Fever, a fungal disease common in the southwestern US.",
-    "due_at": "2026-05-11T01:59:42.927114+00:00"
-  },
-  {
-    "reveal_id": "89a4f762a94c410c966a3f4771431adf",
-    "article_title": "Indian Techie Dies from Valley Fever in US",
-    "question": "Where is Valley Fever commonly found?",
-    "answer_label": "B",
-    "answer_text": "Southwestern US",
-    "explanation": "Valley Fever is commonly found in the southwestern United States.",
-    "due_at": "2026-05-11T01:59:43.590571+00:00"
-  },
-  {
-    "reveal_id": "c6db876a797c4f779475b33c7b0ee62a",
-    "article_title": "Indian Techie Dies from Valley Fever in US",
-    "question": "Why was Chiranjeevi Kolla's illness initially misdiagnosed?",
+    "reveal_id": "b8a1bd575321478499101e9ec2b63438",
+    "article_title": "India Wins Archery World Cup Stage 2 Gold",
+    "question": "How long had it been since India last won a Stage 2 medal before this victory?",
     "answer_label": "C",
-    "answer_text": "Similar symptoms to pneumonia",
-    "explanation": "Chiranjeevi Kolla's illness was initially misdiagnosed as pneumonia due to similar symptoms.",
-    "due_at": "2026-05-11T01:59:44.243296+00:00"
+    "answer_text": "2021",
+    "explanation": "The article states that India's last Stage 2 medal was in 2021.",
+    "due_at": "2026-05-11T06:12:45.643192+00:00"
   }
 ]
