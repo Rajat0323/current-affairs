@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "ed8f104a09b645ceb6644a38abd3b775",
-    "article_title": "Railway Pensioners Get Dearness Relief Hike",
-    "question": "What is the new dearness relief percentage for railway pensioners?",
+    "reveal_id": "e1ebfc6552fa4be086e72a8d8b31fffb",
+    "article_title": "India's Gold Imports and Current Account Deficit",
+    "question": "What is the main reason for India's rising current account deficit?",
     "answer_label": "C",
-    "answer_text": "60%",
-    "explanation": "The dearness relief increases from 58% to 60% of the basic pension.",
-    "due_at": "2026-05-11T19:49:12.710046+00:00"
+    "answer_text": "Increase in gold imports",
+    "explanation": "India imports almost all of its gold requirements, which increases dollar outflows and widens the current account deficit.",
+    "due_at": "2026-05-11T21:28:28.946809+00:00"
   },
   {
-    "reveal_id": "2f597bee3b3045cb8d238d5deba6d4fe",
-    "article_title": "Railway Pensioners Get Dearness Relief Hike",
-    "question": "When does the dearness relief hike take effect?",
-    "answer_label": "B",
-    "answer_text": "January 1, 2026",
-    "explanation": "The change takes effect from January 1, 2026.",
-    "due_at": "2026-05-11T19:49:13.435138+00:00"
-  },
-  {
-    "reveal_id": "ebf0eefc21794853ab386ea1a4051249",
-    "article_title": "Railway Pensioners Get Dearness Relief Hike",
-    "question": "What is the purpose of the dearness relief hike?",
-    "answer_label": "B",
-    "answer_text": "To compensate for rising prices",
-    "explanation": "The move aims to compensate for rising prices and help pensioners cope with inflation.",
-    "due_at": "2026-05-11T19:49:14.155989+00:00"
-  },
-  {
-    "reveal_id": "28191acabe4f4851beecce7de3d2d8ed",
-    "article_title": "India's Secure IoT Chip Production",
-    "question": "What is the expected cost reduction in devices using Mindgrove's IoT chip?",
+    "reveal_id": "c72d780337014f77b95cbf21dc260793",
+    "article_title": "India's Gold Imports and Current Account Deficit",
+    "question": "What is the impact of high gold imports on India's economy?",
     "answer_label": "C",
-    "answer_text": "30%",
-    "explanation": "The RISC-V-based chip can cut device costs by nearly 30%. This is a significant reduction that can make IoT devices more affordable.",
-    "due_at": "2026-05-11T19:49:18.598948+00:00"
+    "answer_text": "Increase in dollar outflows",
+    "explanation": "High gold imports increase dollar outflows, which can widen the current account deficit and affect India's economic stability.",
+    "due_at": "2026-05-11T21:28:32.688959+00:00"
   },
   {
-    "reveal_id": "19e5ee666d1948a19cf975797022acb7",
-    "article_title": "India's Secure IoT Chip Production",
-    "question": "Which institute incubated the startup Mindgrove?",
+    "reveal_id": "30ec3b4916f64be587a3cce504782201",
+    "article_title": "India's Gold Imports and Current Account Deficit",
+    "question": "Why are investors worried about India's gold imports?",
     "answer_label": "C",
-    "answer_text": "IIT Madras",
-    "explanation": "Mindgrove is an IIT Madras-incubated startup, which indicates the institute's support for innovative ventures.",
-    "due_at": "2026-05-11T19:49:19.320243+00:00"
+    "answer_text": "Due to rising import bill and its impact on CAD",
+    "explanation": "Investors are worried about the rising import bill and its impact on the current account deficit, which can affect India's economic stability.",
+    "due_at": "2026-05-11T21:28:33.252152+00:00"
   },
   {
-    "reveal_id": "73cc71f0bf324761b10db4d3d85c2862",
-    "article_title": "India's Secure IoT Chip Production",
-    "question": "What are the target markets for Mindgrove's secure IoT chip?",
+    "reveal_id": "a6411a6a99024fa08f81e41af29c149d",
+    "article_title": "UP Cabinet Expansion",
+    "question": "Who urged the Uttar Pradesh cabinet expansion to benefit the poor and weaker sections?",
+    "answer_label": "A",
+    "answer_text": "Mayawati",
+    "explanation": "Mayawati, the Bahujan Samaj Party chief, made this statement to ensure the cabinet expansion is inclusive.",
+    "due_at": "2026-05-11T21:28:40.204813+00:00"
+  },
+  {
+    "reveal_id": "e242f1af53b64428b90ee075b5c9a106",
+    "article_title": "UP Cabinet Expansion",
+    "question": "What did Mayawati caution might be the perception of the cabinet expansion if it does not benefit the poor?",
     "answer_label": "B",
-    "answer_text": "Biometrics and industrial IoT",
-    "explanation": "The chip targets biometrics and industrial IoT markets, which require secure and efficient IoT solutions.",
-    "due_at": "2026-05-11T19:49:20.009985+00:00"
+    "answer_text": "A mere political adjustment",
+    "explanation": "Mayawati warned that if the cabinet expansion does not benefit the poor, it might be seen as a mere political adjustment.",
+    "due_at": "2026-05-11T21:28:40.780343+00:00"
+  },
+  {
+    "reveal_id": "724f4193509640f3b73758f4bcc97a77",
+    "article_title": "UP Cabinet Expansion",
+    "question": "Which sections of society did Mayawati highlight the need for security and justice?",
+    "answer_label": "C",
+    "answer_text": "All communities, especially weaker sections",
+    "explanation": "Mayawati emphasized the need for security and justice for all communities, particularly the weaker sections.",
+    "due_at": "2026-05-11T21:28:41.343084+00:00"
   }
 ]
