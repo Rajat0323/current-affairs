@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "c03e41594ebf4a8fb72b769f083f072a",
-    "article_title": "SIR Impact on Bengal Poll Results",
-    "question": "What is the main issue raised by the TMC in the Supreme Court regarding the Bengal poll results?",
+    "reveal_id": "431a5bc6a47a4db394648962d5d92534",
+    "article_title": "India Tops ICC ODI Rankings",
+    "question": "Which team is at the top of the ICC Men's ODI Team Rankings?",
     "answer_label": "B",
-    "answer_text": "SIR impact on results",
-    "explanation": "The TMC has raised the issue of SIR affecting the Bengal poll results, specifically the BJP's victory margin in 31 seats.",
-    "due_at": "2026-05-11T22:47:13.216083+00:00"
+    "answer_text": "India",
+    "explanation": "India retained the top position after the latest annual update.",
+    "due_at": "2026-05-11T23:46:07.583165+00:00"
   },
   {
-    "reveal_id": "70a802ea317541cfad1a80b8efd76a3d",
-    "article_title": "SIR Impact on Bengal Poll Results",
-    "question": "How many seats had a BJP victory margin lower than the number of deletions, according to the TMC?",
+    "reveal_id": "1bc7aad2b13a4c3bb9f5935c23408611",
+    "article_title": "India Tops ICC ODI Rankings",
+    "question": "Which team is in the third spot in the ICC Men's ODI Team Rankings?",
     "answer_label": "B",
-    "answer_text": "31 seats",
-    "explanation": "The TMC has stated that the BJP's victory margin in 31 seats was lower than the number of deletions.",
-    "due_at": "2026-05-11T22:47:17.058503+00:00"
+    "answer_text": "Australia",
+    "explanation": "Australia claimed the third spot in the rankings.",
+    "due_at": "2026-05-11T23:46:11.310537+00:00"
   },
   {
-    "reveal_id": "605ec566d84b41ffa14e2c63b20e8fc8",
-    "article_title": "SIR Impact on Bengal Poll Results",
-    "question": "Which institution is hearing the TMC's petition regarding the SIR issue?",
-    "answer_label": "B",
-    "answer_text": "Supreme Court",
-    "explanation": "The Supreme Court is hearing the TMC's petition regarding the SIR issue and its impact on the Bengal poll results.",
-    "due_at": "2026-05-11T22:47:17.660629+00:00"
+    "reveal_id": "751ae021c91041bd8b7a8d112f2323e0",
+    "article_title": "India Tops ICC ODI Rankings",
+    "question": "Who issues the ICC Men's ODI Team Rankings?",
+    "answer_label": "A",
+    "answer_text": "International Cricket Council",
+    "explanation": "The International Cricket Council issues the rankings.",
+    "due_at": "2026-05-11T23:46:11.866239+00:00"
   },
   {
-    "reveal_id": "d0b6a1bbe24b4b09890132b579979a7e",
-    "article_title": "Dwarka Sub-City Development Plans",
-    "question": "Who is leading the efforts to develop Dwarka sub-city as an investment destination?",
-    "answer_label": "B",
-    "answer_text": "Lt Governor Taranjit Singh Sandhu",
-    "explanation": "Lt Governor Taranjit Singh Sandhu is leading the efforts as the chairman of the Delhi Development Authority.",
-    "due_at": "2026-05-11T22:47:24.642932+00:00"
+    "reveal_id": "84b0e262e317467085a3582da8c70958",
+    "article_title": "West Bengal Govt Orders Removal of Nominated Members",
+    "question": "What has the West Bengal government ordered for nominated members of non-statutory bodies?",
+    "answer_label": "C",
+    "answer_text": "To be immediately terminated",
+    "explanation": "The West Bengal government has ordered the immediate termination of nominated members from non-statutory bodies.",
+    "due_at": "2026-05-11T23:46:19.019734+00:00"
   },
   {
-    "reveal_id": "a937831a843f4883be72ee3abed29285",
-    "article_title": "Dwarka Sub-City Development Plans",
-    "question": "What type of industries is Dwarka sub-city being developed for?",
+    "reveal_id": "71678e33f837456ca572d6d0e3b84818",
+    "article_title": "West Bengal Govt Orders Removal of Nominated Members",
+    "question": "What is the maximum age for service extension as per the West Bengal government's order?",
     "answer_label": "B",
-    "answer_text": "IT, ITeS and digital infra",
-    "explanation": "Dwarka sub-city is being developed for IT, ITeS and digital infra industries.",
-    "due_at": "2026-05-11T22:47:25.238681+00:00"
+    "answer_text": "60 years",
+    "explanation": "The West Bengal government has ordered to end the re-employment and extension of the tenure of officers beyond 60 years.",
+    "due_at": "2026-05-11T23:46:19.582382+00:00"
   },
   {
-    "reveal_id": "5f2c456deefe4bf18706b714d7fc3374",
-    "article_title": "Dwarka Sub-City Development Plans",
-    "question": "Which authority is responsible for developing Dwarka sub-city?",
-    "answer_label": "B",
-    "answer_text": "Delhi Development Authority",
-    "explanation": "The Delhi Development Authority is responsible for developing Dwarka sub-city.",
-    "due_at": "2026-05-11T22:47:25.838421+00:00"
+    "reveal_id": "f6e8b05a453e4c6ab39d6391235e9926",
+    "article_title": "West Bengal Govt Orders Removal of Nominated Members",
+    "question": "Which of the following is likely to be an outcome of the West Bengal government's order?",
+    "answer_label": "D",
+    "answer_text": "Reduced financial burden on the state",
+    "explanation": "The move is expected to help in reducing the financial burden on the state exchequer.",
+    "due_at": "2026-05-11T23:46:20.146864+00:00"
   }
 ]
