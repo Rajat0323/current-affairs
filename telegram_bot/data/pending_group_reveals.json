@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "a3837e281111449da813acd4f2c3a7fe",
-    "article_title": "India-South Korea Defence Ties",
-    "question": "What is the purpose of KIND-X in India-South Korea relations?",
-    "answer_label": "B",
-    "answer_text": "To enhance defence innovation",
-    "explanation": "KIND-X aims to deepen bilateral defence R&D, co-production, and start-up collaboration between India and South Korea.",
-    "due_at": "2026-05-11T06:12:36.203424+00:00"
-  },
-  {
-    "reveal_id": "8863954ce0014194a7bcb428f7db2189",
-    "article_title": "India-South Korea Defence Ties",
-    "question": "Which of the following is a potential outcome of India-South Korea defence ties?",
+    "reveal_id": "619e002daee146a9941cc9f1abbf6f1c",
+    "article_title": "Early Warning System for Glacial Lakes",
+    "question": "What is the purpose of the early warning system for glacial lakes?",
     "answer_label": "C",
-    "answer_text": "Enhanced regional security",
-    "explanation": "Strengthened defence ties can lead to enhanced regional security for India and South Korea.",
-    "due_at": "2026-05-11T06:12:36.809580+00:00"
+    "answer_text": "To mitigate climate-driven disasters",
+    "explanation": "The early warning system aims to prepare for floods and heatwaves caused by climate-driven disasters.",
+    "due_at": "2026-05-11T09:20:22.894942+00:00"
   },
   {
-    "reveal_id": "7b3d72da17d046328cb81a04b39bd4cb",
-    "article_title": "India-South Korea Defence Ties",
-    "question": "What area of cooperation is being targeted by India and South Korea through their defence innovation ties?",
+    "reveal_id": "7231ec23402e49b78dfee37cd2209130",
+    "article_title": "Early Warning System for Glacial Lakes",
+    "question": "How many high-risk glacial lakes will be covered by the proposed system?",
+    "answer_label": "C",
+    "answer_text": "60",
+    "explanation": "The proposed system will cover at least 60 high-risk glacial and mountain lakes.",
+    "due_at": "2026-05-11T09:20:26.660897+00:00"
+  },
+  {
+    "reveal_id": "0241f055e5c54484bfef8ae1811d8ed5",
+    "article_title": "Early Warning System for Glacial Lakes",
+    "question": "Who chaired the high-level review meeting on the country's preparedness for floods and heatwaves?",
     "answer_label": "B",
-    "answer_text": "Defence manufacturing",
-    "explanation": "India and South Korea are targeting defence manufacturing and innovation through their cooperation.",
-    "due_at": "2026-05-11T06:12:37.452332+00:00"
+    "answer_text": "Union Home Minister",
+    "explanation": "Union Home Minister Amit Shah chaired the high-level review meeting.",
+    "due_at": "2026-05-11T09:20:27.274458+00:00"
   },
   {
-    "reveal_id": "39350d66e58046318de5da37c3454483",
-    "article_title": "India Wins Archery World Cup Stage 2 Gold",
-    "question": "Where did India's archery team win the gold medal at the Archery World Cup Stage 2?",
+    "reveal_id": "056cc6eece2547fabd117d0de926c885",
+    "article_title": "Col Sherjung Eco-Sensitive Zone",
+    "question": "What was the area declared as an eco-sensitive zone around Col Sherjung National Park?",
+    "answer_label": "C",
+    "answer_text": "31.24 sq km",
+    "explanation": "The notification declared 31.24 sq km as an eco-sensitive zone, which was later set aside by the court.",
+    "due_at": "2026-05-11T09:20:34.154862+00:00"
+  },
+  {
+    "reveal_id": "4e679ad135ca4c5f88db1c85427f61bf",
+    "article_title": "Col Sherjung Eco-Sensitive Zone",
+    "question": "Why was the 2022 notification set aside by the Himachal Pradesh High Court?",
+    "answer_label": "C",
+    "answer_text": "Procedural violations",
+    "explanation": "The court held that the process adopted by authorities did not follow mandatory legal safeguards, leading to procedural violations.",
+    "due_at": "2026-05-11T09:20:34.748532+00:00"
+  },
+  {
+    "reveal_id": "b21b7160a07c44bd94b1f7dbea52e69a",
+    "article_title": "Col Sherjung Eco-Sensitive Zone",
+    "question": "Which ministry issued the 2022 notification declaring the eco-sensitive zone?",
     "answer_label": "A",
-    "answer_text": "Shanghai",
-    "explanation": "The article states that the event took place in Shanghai.",
-    "due_at": "2026-05-11T06:12:44.367674+00:00"
-  },
-  {
-    "reveal_id": "0fcf2f59d6274efeae8a9d510b5fcebd",
-    "article_title": "India Wins Archery World Cup Stage 2 Gold",
-    "question": "What was the score that Deepika hit to claim the win in the shoot-off?",
-    "answer_label": "C",
-    "answer_text": "9",
-    "explanation": "The article mentions that Deepika hit a 9 to claim the win.",
-    "due_at": "2026-05-11T06:12:44.981866+00:00"
-  },
-  {
-    "reveal_id": "b8a1bd575321478499101e9ec2b63438",
-    "article_title": "India Wins Archery World Cup Stage 2 Gold",
-    "question": "How long had it been since India last won a Stage 2 medal before this victory?",
-    "answer_label": "C",
-    "answer_text": "2021",
-    "explanation": "The article states that India's last Stage 2 medal was in 2021.",
-    "due_at": "2026-05-11T06:12:45.643192+00:00"
+    "answer_text": "Ministry of Environment, Forest and Climate Change",
+    "explanation": "The Union Ministry of Environment, Forest and Climate Change issued the notification, which was later set aside by the court.",
+    "due_at": "2026-05-11T09:20:35.329740+00:00"
   }
 ]
