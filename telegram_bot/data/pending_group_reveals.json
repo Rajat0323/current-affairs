@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "e1ebfc6552fa4be086e72a8d8b31fffb",
-    "article_title": "India's Gold Imports and Current Account Deficit",
-    "question": "What is the main reason for India's rising current account deficit?",
-    "answer_label": "C",
-    "answer_text": "Increase in gold imports",
-    "explanation": "India imports almost all of its gold requirements, which increases dollar outflows and widens the current account deficit.",
-    "due_at": "2026-05-11T21:28:28.946809+00:00"
-  },
-  {
-    "reveal_id": "c72d780337014f77b95cbf21dc260793",
-    "article_title": "India's Gold Imports and Current Account Deficit",
-    "question": "What is the impact of high gold imports on India's economy?",
-    "answer_label": "C",
-    "answer_text": "Increase in dollar outflows",
-    "explanation": "High gold imports increase dollar outflows, which can widen the current account deficit and affect India's economic stability.",
-    "due_at": "2026-05-11T21:28:32.688959+00:00"
-  },
-  {
-    "reveal_id": "30ec3b4916f64be587a3cce504782201",
-    "article_title": "India's Gold Imports and Current Account Deficit",
-    "question": "Why are investors worried about India's gold imports?",
-    "answer_label": "C",
-    "answer_text": "Due to rising import bill and its impact on CAD",
-    "explanation": "Investors are worried about the rising import bill and its impact on the current account deficit, which can affect India's economic stability.",
-    "due_at": "2026-05-11T21:28:33.252152+00:00"
-  },
-  {
-    "reveal_id": "a6411a6a99024fa08f81e41af29c149d",
-    "article_title": "UP Cabinet Expansion",
-    "question": "Who urged the Uttar Pradesh cabinet expansion to benefit the poor and weaker sections?",
-    "answer_label": "A",
-    "answer_text": "Mayawati",
-    "explanation": "Mayawati, the Bahujan Samaj Party chief, made this statement to ensure the cabinet expansion is inclusive.",
-    "due_at": "2026-05-11T21:28:40.204813+00:00"
-  },
-  {
-    "reveal_id": "e242f1af53b64428b90ee075b5c9a106",
-    "article_title": "UP Cabinet Expansion",
-    "question": "What did Mayawati caution might be the perception of the cabinet expansion if it does not benefit the poor?",
+    "reveal_id": "c03e41594ebf4a8fb72b769f083f072a",
+    "article_title": "SIR Impact on Bengal Poll Results",
+    "question": "What is the main issue raised by the TMC in the Supreme Court regarding the Bengal poll results?",
     "answer_label": "B",
-    "answer_text": "A mere political adjustment",
-    "explanation": "Mayawati warned that if the cabinet expansion does not benefit the poor, it might be seen as a mere political adjustment.",
-    "due_at": "2026-05-11T21:28:40.780343+00:00"
+    "answer_text": "SIR impact on results",
+    "explanation": "The TMC has raised the issue of SIR affecting the Bengal poll results, specifically the BJP's victory margin in 31 seats.",
+    "due_at": "2026-05-11T22:47:13.216083+00:00"
   },
   {
-    "reveal_id": "724f4193509640f3b73758f4bcc97a77",
-    "article_title": "UP Cabinet Expansion",
-    "question": "Which sections of society did Mayawati highlight the need for security and justice?",
-    "answer_label": "C",
-    "answer_text": "All communities, especially weaker sections",
-    "explanation": "Mayawati emphasized the need for security and justice for all communities, particularly the weaker sections.",
-    "due_at": "2026-05-11T21:28:41.343084+00:00"
+    "reveal_id": "70a802ea317541cfad1a80b8efd76a3d",
+    "article_title": "SIR Impact on Bengal Poll Results",
+    "question": "How many seats had a BJP victory margin lower than the number of deletions, according to the TMC?",
+    "answer_label": "B",
+    "answer_text": "31 seats",
+    "explanation": "The TMC has stated that the BJP's victory margin in 31 seats was lower than the number of deletions.",
+    "due_at": "2026-05-11T22:47:17.058503+00:00"
+  },
+  {
+    "reveal_id": "605ec566d84b41ffa14e2c63b20e8fc8",
+    "article_title": "SIR Impact on Bengal Poll Results",
+    "question": "Which institution is hearing the TMC's petition regarding the SIR issue?",
+    "answer_label": "B",
+    "answer_text": "Supreme Court",
+    "explanation": "The Supreme Court is hearing the TMC's petition regarding the SIR issue and its impact on the Bengal poll results.",
+    "due_at": "2026-05-11T22:47:17.660629+00:00"
+  },
+  {
+    "reveal_id": "d0b6a1bbe24b4b09890132b579979a7e",
+    "article_title": "Dwarka Sub-City Development Plans",
+    "question": "Who is leading the efforts to develop Dwarka sub-city as an investment destination?",
+    "answer_label": "B",
+    "answer_text": "Lt Governor Taranjit Singh Sandhu",
+    "explanation": "Lt Governor Taranjit Singh Sandhu is leading the efforts as the chairman of the Delhi Development Authority.",
+    "due_at": "2026-05-11T22:47:24.642932+00:00"
+  },
+  {
+    "reveal_id": "a937831a843f4883be72ee3abed29285",
+    "article_title": "Dwarka Sub-City Development Plans",
+    "question": "What type of industries is Dwarka sub-city being developed for?",
+    "answer_label": "B",
+    "answer_text": "IT, ITeS and digital infra",
+    "explanation": "Dwarka sub-city is being developed for IT, ITeS and digital infra industries.",
+    "due_at": "2026-05-11T22:47:25.238681+00:00"
+  },
+  {
+    "reveal_id": "5f2c456deefe4bf18706b714d7fc3374",
+    "article_title": "Dwarka Sub-City Development Plans",
+    "question": "Which authority is responsible for developing Dwarka sub-city?",
+    "answer_label": "B",
+    "answer_text": "Delhi Development Authority",
+    "explanation": "The Delhi Development Authority is responsible for developing Dwarka sub-city.",
+    "due_at": "2026-05-11T22:47:25.838421+00:00"
   }
 ]
