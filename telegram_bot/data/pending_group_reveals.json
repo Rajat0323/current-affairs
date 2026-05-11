@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "619e002daee146a9941cc9f1abbf6f1c",
-    "article_title": "Early Warning System for Glacial Lakes",
-    "question": "What is the purpose of the early warning system for glacial lakes?",
-    "answer_label": "C",
-    "answer_text": "To mitigate climate-driven disasters",
-    "explanation": "The early warning system aims to prepare for floods and heatwaves caused by climate-driven disasters.",
-    "due_at": "2026-05-11T09:20:22.894942+00:00"
-  },
-  {
-    "reveal_id": "7231ec23402e49b78dfee37cd2209130",
-    "article_title": "Early Warning System for Glacial Lakes",
-    "question": "How many high-risk glacial lakes will be covered by the proposed system?",
-    "answer_label": "C",
-    "answer_text": "60",
-    "explanation": "The proposed system will cover at least 60 high-risk glacial and mountain lakes.",
-    "due_at": "2026-05-11T09:20:26.660897+00:00"
-  },
-  {
-    "reveal_id": "0241f055e5c54484bfef8ae1811d8ed5",
-    "article_title": "Early Warning System for Glacial Lakes",
-    "question": "Who chaired the high-level review meeting on the country's preparedness for floods and heatwaves?",
+    "reveal_id": "7bf75535f39b4e81a7ae3cd150b19623",
+    "article_title": "Great Nicobar Project Concerns",
+    "question": "Who raised concerns about the Great Nicobar Project?",
     "answer_label": "B",
-    "answer_text": "Union Home Minister",
-    "explanation": "Union Home Minister Amit Shah chaired the high-level review meeting.",
-    "due_at": "2026-05-11T09:20:27.274458+00:00"
+    "answer_text": "Ramesh",
+    "explanation": "Ramesh flagged inadequate studies for the project and demanded a high-powered panel report be made public.",
+    "due_at": "2026-05-11T12:29:40.171719+00:00"
   },
   {
-    "reveal_id": "056cc6eece2547fabd117d0de926c885",
-    "article_title": "Col Sherjung Eco-Sensitive Zone",
-    "question": "What was the area declared as an eco-sensitive zone around Col Sherjung National Park?",
+    "reveal_id": "e6ef9616fce140e79ff0693782b5081a",
+    "article_title": "Great Nicobar Project Concerns",
+    "question": "What is Ramesh's demand regarding the high-powered panel report?",
+    "answer_label": "B",
+    "answer_text": "To make the report public",
+    "explanation": "Ramesh demands that the high-powered panel report be made public for transparency.",
+    "due_at": "2026-05-11T12:29:43.962046+00:00"
+  },
+  {
+    "reveal_id": "ff44c4f512814765b0206cd19ad26df1",
+    "article_title": "Great Nicobar Project Concerns",
+    "question": "Why does Ramesh want the Environment Minister to pause the Great Nicobar Project?",
     "answer_label": "C",
-    "answer_text": "31.24 sq km",
-    "explanation": "The notification declared 31.24 sq km as an eco-sensitive zone, which was later set aside by the court.",
-    "due_at": "2026-05-11T09:20:34.154862+00:00"
+    "answer_text": "To revisit the project's design and detail",
+    "explanation": "Ramesh urges the Environment Minister to pause, reflect, and revisit the project in its present design and detail due to inadequate studies.",
+    "due_at": "2026-05-11T12:29:44.574546+00:00"
   },
   {
-    "reveal_id": "4e679ad135ca4c5f88db1c85427f61bf",
-    "article_title": "Col Sherjung Eco-Sensitive Zone",
-    "question": "Why was the 2022 notification set aside by the Himachal Pradesh High Court?",
+    "reveal_id": "7b82867aac1c488b9fb5fd020dda2ec2",
+    "article_title": "Indian Crew Evacuated from Hantavirus-Hit Ship",
+    "question": "Where were the Indian crew members evacuated to?",
+    "answer_label": "B",
+    "answer_text": "Netherlands",
+    "explanation": "The Indian crew members were evacuated to the Netherlands for quarantine.",
+    "due_at": "2026-05-11T12:29:51.495174+00:00"
+  },
+  {
+    "reveal_id": "70d23498e84d42f58dccee44a84f6187",
+    "article_title": "Indian Crew Evacuated from Hantavirus-Hit Ship",
+    "question": "What type of virus outbreak occurred on the MV Hondius?",
+    "answer_label": "B",
+    "answer_text": "Hantavirus",
+    "explanation": "The MV Hondius experienced a hantavirus outbreak.",
+    "due_at": "2026-05-11T12:29:52.133317+00:00"
+  },
+  {
+    "reveal_id": "9c9189eff23c45379e93e22193fd70ca",
+    "article_title": "Indian Crew Evacuated from Hantavirus-Hit Ship",
+    "question": "What did the WHO advise regarding the hantavirus outbreak?",
     "answer_label": "C",
-    "answer_text": "Procedural violations",
-    "explanation": "The court held that the process adopted by authorities did not follow mandatory legal safeguards, leading to procedural violations.",
-    "due_at": "2026-05-11T09:20:34.748532+00:00"
-  },
-  {
-    "reveal_id": "b21b7160a07c44bd94b1f7dbea52e69a",
-    "article_title": "Col Sherjung Eco-Sensitive Zone",
-    "question": "Which ministry issued the 2022 notification declaring the eco-sensitive zone?",
-    "answer_label": "A",
-    "answer_text": "Ministry of Environment, Forest and Climate Change",
-    "explanation": "The Union Ministry of Environment, Forest and Climate Change issued the notification, which was later set aside by the court.",
-    "due_at": "2026-05-11T09:20:35.329740+00:00"
+    "answer_text": "Risk-based approach",
+    "explanation": "The WHO advised a risk-based approach for managing contacts due to limited human-to-human transmission of the Andes virus.",
+    "due_at": "2026-05-11T12:29:52.733756+00:00"
   }
 ]
