@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "a10af7acf63f4476b74415bfbb97634e",
-    "article_title": "Gold Stocks in Focus",
-    "question": "Why may gold stocks be in focus on Monday?",
+    "reveal_id": "960a277aaf7e4cddbc31f0d9689d6376",
+    "article_title": "BJP's Victory in West Bengal Assembly Elections",
+    "question": "Which party won the West Bengal Assembly elections?",
     "answer_label": "B",
-    "answer_text": "PM Modi's appeal to avoid gold purchases",
-    "explanation": "PM Modi's appeal to avoid gold purchases for weddings may impact gold sales and stocks.",
-    "due_at": "2026-05-11T16:03:48.521613+00:00"
+    "answer_text": "Bharatiya Janata Party",
+    "explanation": "The Bharatiya Janata Party secured a resounding victory in the West Bengal Assembly elections.",
+    "due_at": "2026-05-11T18:05:30.707870+00:00"
   },
   {
-    "reveal_id": "357b6121c02a4325907df5922242638e",
-    "article_title": "Gold Stocks in Focus",
-    "question": "Which companies are likely to be affected by the recent developments?",
+    "reveal_id": "9994108d17e342c2be595657c52745c2",
+    "article_title": "BJP's Victory in West Bengal Assembly Elections",
+    "question": "What factors contributed to the BJP's victory in West Bengal?",
+    "answer_label": "B",
+    "answer_text": "Dedication, hard work, and planning",
+    "explanation": "The BJP's victory is attributed to dedication, hard work, and planning.",
+    "due_at": "2026-05-11T18:05:31.326639+00:00"
+  },
+  {
+    "reveal_id": "37e9dc05dfcd42eaac2a34a31174f45a",
+    "article_title": "BJP's Victory in West Bengal Assembly Elections",
+    "question": "Who is the current Chief Minister of West Bengal?",
     "answer_label": "A",
-    "answer_text": "Titan, Kalyan Jewellers",
-    "explanation": "Titan and Kalyan Jewellers are jewellery companies that may be impacted by the recent developments.",
-    "due_at": "2026-05-11T16:03:49.161604+00:00"
+    "answer_text": "Mamata Banerjee",
+    "explanation": "Mamata Banerjee is mentioned in the context of the West Bengal Assembly elections.",
+    "due_at": "2026-05-11T18:05:31.956810+00:00"
   },
   {
-    "reveal_id": "e28fdcaf4fbe49bbb22694c7b9ae6157",
-    "article_title": "Gold Stocks in Focus",
-    "question": "What else may be contributing to the focus on gold stocks?",
+    "reveal_id": "1e446c34dfec4aa28e1139e42e0005d8",
+    "article_title": "India's Shift from Gold and Oil",
+    "question": "What is Sunil Bharti Mittal's suggestion for India's economy?",
     "answer_label": "B",
-    "answer_text": "Strong Q4 earnings",
-    "explanation": "Strong Q4 earnings from key jewellery companies may also be contributing to the focus on gold stocks.",
-    "due_at": "2026-05-11T16:03:49.839879+00:00"
+    "answer_text": "Reduce oil consumption and boost renewables",
+    "explanation": "Sunil Bharti Mittal suggests reducing wasteful consumption and moving away from gold and oil, promoting renewables and capital expenditure instead.",
+    "due_at": "2026-05-11T18:05:38.800655+00:00"
   },
   {
-    "reveal_id": "b2ffa6b1db264066acba3e862d0a6164",
-    "article_title": "Street Vendors' Revenue Boost",
-    "question": "What was the primary focus of Udhyam Learning Foundation's initiative?",
+    "reveal_id": "9ed994b931ad484fa2fcb38f0f8439dc",
+    "article_title": "India's Shift from Gold and Oil",
+    "question": "Why is it important for India to reduce its dependence on gold and oil?",
     "answer_label": "B",
-    "answer_text": "Vendors earning below Rs 30,000 a month",
-    "explanation": "The initiative primarily focuses on vendors earning below Rs 30,000 a month, many of whom are necessity-driven entrepreneurs.",
-    "due_at": "2026-05-11T16:03:56.802800+00:00"
+    "answer_text": "To reduce its carbon footprint and promote sustainable growth",
+    "explanation": "Reducing dependence on gold and oil can help reduce India's carbon footprint and promote sustainable growth.",
+    "due_at": "2026-05-11T18:05:39.422279+00:00"
   },
   {
-    "reveal_id": "8a8d9054c048478c9acdd8b91bf7894d",
-    "article_title": "Street Vendors' Revenue Boost",
-    "question": "By what percentage did the street vendors' revenue increase after the training?",
-    "answer_label": "B",
-    "answer_text": "33%",
-    "explanation": "The training helped Bengaluru street vendors increase their revenue by 33%.",
-    "due_at": "2026-05-11T16:03:57.416680+00:00"
-  },
-  {
-    "reveal_id": "cb2c2f6cf0b245abb66b72a0c84f35ce",
-    "article_title": "Street Vendors' Revenue Boost",
-    "question": "What type of entrepreneurs are many of the street vendors who benefited from the initiative?",
-    "answer_label": "B",
-    "answer_text": "Necessity-driven entrepreneurs",
-    "explanation": "Many of the street vendors who benefited from the initiative are necessity-driven entrepreneurs.",
-    "due_at": "2026-05-11T16:03:58.045474+00:00"
+    "reveal_id": "e92bb0fb827049858b30c3a11866311e",
+    "article_title": "India's Shift from Gold and Oil",
+    "question": "Who has backed PM Modi's call to curb wasteful consumption?",
+    "answer_label": "A",
+    "answer_text": "Sunil Bharti Mittal",
+    "explanation": "Sunil Bharti Mittal has backed PM Modi's call to curb wasteful consumption and move away from gold and oil.",
+    "due_at": "2026-05-11T18:05:40.051973+00:00"
   }
 ]
