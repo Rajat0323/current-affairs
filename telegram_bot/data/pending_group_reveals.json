@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "3170191dd6a041bb939c645ce6f0909e",
-    "article_title": "UN Global Compact Launches Angola Network",
-    "question": "What is the main goal of the UN Global Compact's Country Network in Angola?",
+    "reveal_id": "1a9eed275f6940c9bc1f76a65c64e768",
+    "article_title": "Revised BOT Guidelines for Highway Projects",
+    "question": "What type of funds are now allowed to bid for BOT projects?",
     "answer_label": "B",
-    "answer_text": "To support responsible business practices and sustainable development",
-    "explanation": "The UN Global Compact's Country Network in Angola aims to support a new phase of economic growth that is inclusive, future-oriented, and aligned with global expectations.",
-    "due_at": "2026-05-12T07:51:00.220189+00:00"
+    "answer_text": "Sovereign wealth funds and infrastructure funds",
+    "explanation": "The Ministry of Road Transport and Highways has allowed sovereign wealth funds, infrastructure funds and pension funds to bid for BOT projects.",
+    "due_at": "2026-05-12T10:33:29.682146+00:00"
   },
   {
-    "reveal_id": "03d9161b9f344e85a2e2d9d5bebf1966",
-    "article_title": "UN Global Compact Launches Angola Network",
-    "question": "What is the expected outcome of the UN Global Compact's launch in Angola?",
+    "reveal_id": "f8ed085530aa46eca2550a06272a23a7",
+    "article_title": "Revised BOT Guidelines for Highway Projects",
+    "question": "What is the main goal of revising the BOT guidelines?",
     "answer_label": "C",
-    "answer_text": "Inclusive growth and sustainable development",
-    "explanation": "The launch of the UN Global Compact's Country Network in Angola is expected to support a new phase of economic growth that is inclusive, future-oriented, and aligned with global expectations.",
-    "due_at": "2026-05-12T07:51:00.902000+00:00"
+    "answer_text": "To attract more private investment",
+    "explanation": "The revision aims to attract more private investment in highway projects after some projects failed to attract private investment.",
+    "due_at": "2026-05-12T10:33:30.407684+00:00"
   },
   {
-    "reveal_id": "6beb7f6c8d454f92b97dba68d16b5013",
-    "article_title": "UN Global Compact Launches Angola Network",
-    "question": "How will the UN Global Compact's Country Network in Angola operate?",
-    "answer_label": "C",
-    "answer_text": "By acting as a bridge between global sustainability ambition and local implementation",
-    "explanation": "The UN Global Compact's Country Network in Angola will act as a bridge between global sustainability ambition and local implementation, translating international standards into practical action across sectors.",
-    "due_at": "2026-05-12T07:51:01.522561+00:00"
-  },
-  {
-    "reveal_id": "4435c2ef12ad443eb2fa8b05f072a190",
-    "article_title": "India Inc on PM Modi's WFH Appeal",
-    "question": "Which companies are exploring greater flexibility in response to PM Modi's WFH appeal?",
+    "reveal_id": "c79f4254612448b49cd413cf6dd593c2",
+    "article_title": "Revised BOT Guidelines for Highway Projects",
+    "question": "Under which model are the BOT projects being implemented?",
     "answer_label": "A",
-    "answer_text": "RIL and Tata group",
-    "explanation": "RIL and Tata group are exploring greater flexibility in response to PM Modi's WFH appeal, as per the article.",
-    "due_at": "2026-05-12T07:51:08.288051+00:00"
+    "answer_text": "Public-Private-Partnership (PPP) model",
+    "explanation": "The BOT projects are being implemented under the public-private-partnership (PPP) model.",
+    "due_at": "2026-05-12T10:33:35.303901+00:00"
   },
   {
-    "reveal_id": "8297617b06594071a265c634a9321a53",
-    "article_title": "India Inc on PM Modi's WFH Appeal",
-    "question": "What may be impacted by the move to work-from-home options?",
+    "reveal_id": "1ec60997ed984b2fb3f558e19435e66c",
+    "article_title": "Global Oil Supply Disruptions",
+    "question": "What is the estimated global oil supply disruption in April, according to JPMorgan?",
     "answer_label": "B",
-    "answer_text": "IT companies' return-to-office plans",
-    "explanation": "The move to work-from-home options may impact IT companies' return-to-office plans, as mentioned in the article.",
-    "due_at": "2026-05-12T07:51:08.939470+00:00"
+    "answer_text": "13.7 million bpd",
+    "explanation": "JPMorgan estimates that global oil supply disruptions reached 13.7 million barrels per day in April, roughly 14% of world demand.",
+    "due_at": "2026-05-12T10:33:39.755989+00:00"
   },
   {
-    "reveal_id": "e0e6275ba67545059f0d97392b0a428b",
-    "article_title": "India Inc on PM Modi's WFH Appeal",
-    "question": "Who made the appeal for work-from-home options?",
-    "answer_label": "A",
-    "answer_text": "PM Modi",
-    "explanation": "PM Modi made the appeal for work-from-home options, as stated in the article.",
-    "due_at": "2026-05-12T07:51:09.562896+00:00"
+    "reveal_id": "6cdd1c2b983a4eba9899b901fb857f44",
+    "article_title": "Global Oil Supply Disruptions",
+    "question": "What is the predicted average Brent oil price for 2026, according to JPMorgan?",
+    "answer_label": "C",
+    "answer_text": "$96 per barrel",
+    "explanation": "JPMorgan expects Brent to average $96 per barrel in 2026, with the market shifting into meaningful oversupply from September.",
+    "due_at": "2026-05-12T10:33:40.512683+00:00"
+  },
+  {
+    "reveal_id": "ebd4ed7cc755496bb430f37323f24cd9",
+    "article_title": "Global Oil Supply Disruptions",
+    "question": "What is the expected impact of the oil supply disruptions on US inflation, according to JPMorgan?",
+    "answer_label": "D",
+    "answer_text": "US inflation will reach 4% by May",
+    "explanation": "JPMorgan's base case has US headline CPI reaching 4% by May, with inflation remaining above the Fed's 2% target through early next year.",
+    "due_at": "2026-05-12T10:33:41.255692+00:00"
   }
 ]
