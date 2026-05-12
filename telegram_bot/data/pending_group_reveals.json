@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "59c7fcae313e43bab4ac3b8f977d7de4",
-    "article_title": "Balan The Boy Release",
-    "question": "When will the film 'Balan The Boy' be released worldwide?",
+    "reveal_id": "2dc21769a01a44fd81324c89bea476a7",
+    "article_title": "NEET UG Exam Cancelled Due to Paper Leak",
+    "question": "What was the reason for the cancellation of NEET UG 2026 exam?",
     "answer_label": "B",
-    "answer_text": "June 19, 2026",
-    "explanation": "The film is scheduled to release on June 19, 2026, as per the given information.",
-    "due_at": "2026-05-12T17:58:26.225925+00:00"
+    "answer_text": "Paper leak in Rajasthan",
+    "explanation": "The exam was cancelled due to a question paper leak in Rajasthan, which raised concerns over exam integrity.",
+    "due_at": "2026-05-12T19:50:54.830704+00:00"
   },
   {
-    "reveal_id": "8492e2fa1fa84e4a9ff0a64b285ec110",
-    "article_title": "Balan The Boy Release",
-    "question": "Where will 'Balan The Boy' premiere apart from its theatrical release?",
-    "answer_label": "B",
-    "answer_text": "Cannes Film Festival",
-    "explanation": "The film will premiere at the Cannes Film Festival's Marche\u0301 du Film on May 14.",
-    "due_at": "2026-05-12T17:58:29.997814+00:00"
+    "reveal_id": "1a9f64dc538a407c870fdb2c35ad59d9",
+    "article_title": "NEET UG Exam Cancelled Due to Paper Leak",
+    "question": "How many candidates were impacted by the cancellation of NEET UG 2026 exam?",
+    "answer_label": "D",
+    "answer_text": "22 lakh",
+    "explanation": "Nearly 22 lakh candidates were impacted by the cancellation of the exam.",
+    "due_at": "2026-05-12T19:50:58.584408+00:00"
   },
   {
-    "reveal_id": "fb61e5624d574653a9e773fecc335367",
-    "article_title": "Balan The Boy Release",
-    "question": "How many languages will 'Balan The Boy' be released in?",
+    "reveal_id": "02daa891b79844f189af70053b7ff2b9",
+    "article_title": "NEET UG Exam Cancelled Due to Paper Leak",
+    "question": "What action has been taken regarding the paper leak in NEET UG 2026 exam?",
+    "answer_label": "B",
+    "answer_text": "CBI investigation",
+    "explanation": "A CBI investigation has been ordered to look into the paper leak.",
+    "due_at": "2026-05-12T19:50:59.170616+00:00"
+  },
+  {
+    "reveal_id": "baab014e0a6d4ba89c0fe4422b512737",
+    "article_title": "NEET UG 2026 Exam Cancelled",
+    "question": "How many candidates were affected by the NEET UG 2026 exam cancellation?",
     "answer_label": "C",
-    "answer_text": "Five languages",
-    "explanation": "The film is set to release in five languages, as mentioned in the article.",
-    "due_at": "2026-05-12T17:58:30.568132+00:00"
+    "answer_text": "22.79 lakh",
+    "explanation": "According to the report, 22.79 lakh candidates were affected by the exam cancellation.",
+    "due_at": "2026-05-12T19:51:05.869432+00:00"
   },
   {
-    "reveal_id": "ebf917ce5c6a496ebfa94396091061b7",
-    "article_title": "Online Parliamentary Meetings",
-    "question": "What is the proposed method to save government expenditure?",
+    "reveal_id": "c217e2dd01f64b269b2211bdebc43d65",
+    "article_title": "NEET UG 2026 Exam Cancelled",
+    "question": "In how many cities was the NEET UG 2026 exam conducted in India?",
     "answer_label": "B",
-    "answer_text": "Holding online meetings",
-    "explanation": "Holding online meetings can reduce travel and accommodation costs for MPs and officials.",
-    "due_at": "2026-05-12T17:58:37.188285+00:00"
+    "answer_text": "551 cities",
+    "explanation": "The exam was conducted across 551 cities in India.",
+    "due_at": "2026-05-12T19:51:06.476626+00:00"
   },
   {
-    "reveal_id": "e9753b235c2b4be3a68afe4b1454c10c",
-    "article_title": "Online Parliamentary Meetings",
-    "question": "When are virtual meetings proposed to be held?",
+    "reveal_id": "f2c89b679c6a4a3ba5d11d40f8e54ea8",
+    "article_title": "NEET UG 2026 Exam Cancelled",
+    "question": "What is the likely impact of the NEET UG 2026 exam cancellation on medical college admissions in India?",
     "answer_label": "B",
-    "answer_text": "When parliament is not in session",
-    "explanation": "Virtual meetings are proposed to be held when parliament is not in session to reduce costs.",
-    "due_at": "2026-05-12T17:58:37.760320+00:00"
-  },
-  {
-    "reveal_id": "398484d1336e4462ac739d7593314985",
-    "article_title": "Online Parliamentary Meetings",
-    "question": "What is the estimated amount that can be saved by India?",
-    "answer_label": "B",
-    "answer_text": "Rs 100 crore",
-    "explanation": "The estimated amount that can be saved by India is Rs 100 crore.",
-    "due_at": "2026-05-12T17:58:38.335304+00:00"
+    "answer_text": "Delayed admissions",
+    "explanation": "The cancellation may affect the admission process to medical colleges in India, potentially leading to delayed admissions.",
+    "due_at": "2026-05-12T19:51:07.080467+00:00"
   }
 ]
