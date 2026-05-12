@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "1a9eed275f6940c9bc1f76a65c64e768",
-    "article_title": "Revised BOT Guidelines for Highway Projects",
-    "question": "What type of funds are now allowed to bid for BOT projects?",
+    "reveal_id": "190d7691dbf24d2aae1110b62ea686b4",
+    "article_title": "Dwarka to be Semiconductor Hub",
+    "question": "What is the proposed plan for Dwarka?",
     "answer_label": "B",
-    "answer_text": "Sovereign wealth funds and infrastructure funds",
-    "explanation": "The Ministry of Road Transport and Highways has allowed sovereign wealth funds, infrastructure funds and pension funds to bid for BOT projects.",
-    "due_at": "2026-05-12T10:33:29.682146+00:00"
+    "answer_text": "To establish it as a semiconductor and data centre hub",
+    "explanation": "The plan aims to develop Dwarka as a hub for semiconductor plants and data centres, as per the LG's directive to DDA.",
+    "due_at": "2026-05-12T12:41:34.123507+00:00"
   },
   {
-    "reveal_id": "f8ed085530aa46eca2550a06272a23a7",
-    "article_title": "Revised BOT Guidelines for Highway Projects",
-    "question": "What is the main goal of revising the BOT guidelines?",
-    "answer_label": "C",
-    "answer_text": "To attract more private investment",
-    "explanation": "The revision aims to attract more private investment in highway projects after some projects failed to attract private investment.",
-    "due_at": "2026-05-12T10:33:30.407684+00:00"
-  },
-  {
-    "reveal_id": "c79f4254612448b49cd413cf6dd593c2",
-    "article_title": "Revised BOT Guidelines for Highway Projects",
-    "question": "Under which model are the BOT projects being implemented?",
-    "answer_label": "A",
-    "answer_text": "Public-Private-Partnership (PPP) model",
-    "explanation": "The BOT projects are being implemented under the public-private-partnership (PPP) model.",
-    "due_at": "2026-05-12T10:33:35.303901+00:00"
-  },
-  {
-    "reveal_id": "1ec60997ed984b2fb3f558e19435e66c",
-    "article_title": "Global Oil Supply Disruptions",
-    "question": "What is the estimated global oil supply disruption in April, according to JPMorgan?",
+    "reveal_id": "2db2a827ce384b7589bcf63f9cbbff18",
+    "article_title": "Dwarka to be Semiconductor Hub",
+    "question": "Who has instructed the DDA to draw up the plan for Dwarka?",
     "answer_label": "B",
-    "answer_text": "13.7 million bpd",
-    "explanation": "JPMorgan estimates that global oil supply disruptions reached 13.7 million barrels per day in April, roughly 14% of world demand.",
-    "due_at": "2026-05-12T10:33:39.755989+00:00"
+    "answer_text": "Lieutenant Governor of Delhi",
+    "explanation": "The Lieutenant Governor of Delhi has instructed the DDA to draw up the plan for Dwarka.",
+    "due_at": "2026-05-12T12:41:34.933381+00:00"
   },
   {
-    "reveal_id": "6cdd1c2b983a4eba9899b901fb857f44",
-    "article_title": "Global Oil Supply Disruptions",
-    "question": "What is the predicted average Brent oil price for 2026, according to JPMorgan?",
+    "reveal_id": "83d319932835418cb56754accdca129b",
+    "article_title": "Dwarka to be Semiconductor Hub",
+    "question": "What is the expected outcome of developing Dwarka as a semiconductor hub?",
     "answer_label": "C",
-    "answer_text": "$96 per barrel",
-    "explanation": "JPMorgan expects Brent to average $96 per barrel in 2026, with the market shifting into meaningful oversupply from September.",
-    "due_at": "2026-05-12T10:33:40.512683+00:00"
+    "answer_text": "Boost to India's electronics manufacturing sector",
+    "explanation": "The development of Dwarka as a semiconductor hub is expected to boost India's electronics manufacturing sector and enhance Delhi's role in the national technology landscape.",
+    "due_at": "2026-05-12T12:41:35.637361+00:00"
   },
   {
-    "reveal_id": "ebd4ed7cc755496bb430f37323f24cd9",
-    "article_title": "Global Oil Supply Disruptions",
-    "question": "What is the expected impact of the oil supply disruptions on US inflation, according to JPMorgan?",
-    "answer_label": "D",
-    "answer_text": "US inflation will reach 4% by May",
-    "explanation": "JPMorgan's base case has US headline CPI reaching 4% by May, with inflation remaining above the Fed's 2% target through early next year.",
-    "due_at": "2026-05-12T10:33:41.255692+00:00"
+    "reveal_id": "303bf8c9f80f4fc79bcadc45175d5ae6",
+    "article_title": "Kota Maternal Deaths",
+    "question": "What was the cause of death of the 31-year-old woman in Kota?",
+    "answer_label": "B",
+    "answer_text": "Kidney-related issues",
+    "explanation": "The woman died due to kidney-related issues after undergoing a C-section.",
+    "due_at": "2026-05-12T12:41:43.031163+00:00"
+  },
+  {
+    "reveal_id": "afb268a311b9420f87e04262f84588a8",
+    "article_title": "Kota Maternal Deaths",
+    "question": "In which hospital did the 31-year-old woman undergo C-section?",
+    "answer_label": "B",
+    "answer_text": "JK Lone Hospital",
+    "explanation": "The woman underwent C-section in JK Lone Hospital in Kota.",
+    "due_at": "2026-05-12T12:41:43.711144+00:00"
+  },
+  {
+    "reveal_id": "9ab592d10e2d4e51a3deed8358938af4",
+    "article_title": "Kota Maternal Deaths",
+    "question": "What is the broader implication of maternal deaths in India?",
+    "answer_label": "C",
+    "answer_text": "Healthcare system concerns",
+    "explanation": "Maternal deaths are a key indicator of a country's healthcare system and its ability to provide quality care to mothers.",
+    "due_at": "2026-05-12T12:41:50.866952+00:00"
   }
 ]
