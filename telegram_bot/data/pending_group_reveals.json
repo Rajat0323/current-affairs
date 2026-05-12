@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "45c5bd32649a4d22ab38b53d6b65990c",
-    "article_title": "Maruti Suzuki Selects Startups for Automation",
-    "question": "What is the main goal of Maruti Suzuki's accelerator programme?",
+    "reveal_id": "e878a2c44c4641d38e675cd8a51662d7",
+    "article_title": "NEET-UG Paper Leak Controversy",
+    "question": "What was the reason for the cancellation of the NEET-UG 2026 examination?",
     "answer_label": "B",
-    "answer_text": "To improve automation and customer experience",
-    "explanation": "The programme aims to develop AI-based and technology-driven solutions for improving automation and customer experience.",
-    "due_at": "2026-05-12T22:51:23.519702+00:00"
+    "answer_text": "Paper leak allegations",
+    "explanation": "The NEET-UG 2026 exam was cancelled due to allegations of paper leak and examination irregularities.",
+    "due_at": "2026-05-13T00:05:18.859806+00:00"
   },
   {
-    "reveal_id": "7705eb6431504ed69a5353ddf557f51f",
-    "article_title": "Maruti Suzuki Selects Startups for Automation",
-    "question": "How many startups were selected by Maruti Suzuki for the 10th cohort?",
+    "reveal_id": "01ed766b04904ac999a709f3efb6a32e",
+    "article_title": "NEET-UG Paper Leak Controversy",
+    "question": "Who refused to answer media questions about the NEET-UG paper leak controversy?",
+    "answer_label": "B",
+    "answer_text": "Union Education Minister",
+    "explanation": "Union Education Minister Dharmendra Pradhan refused to answer media questions about the NEET-UG paper leak controversy.",
+    "due_at": "2026-05-13T00:05:19.629717+00:00"
+  },
+  {
+    "reveal_id": "29d5ad3ff02c42f68de7e2e8c131c84d",
+    "article_title": "NEET-UG Paper Leak Controversy",
+    "question": "What is the significance of the NEET-UG exam in India?",
     "answer_label": "C",
-    "answer_text": "6 startups",
-    "explanation": "Maruti Suzuki selected 6 startups under the 10th cohort of its flagship accelerator programme.",
-    "due_at": "2026-05-12T22:51:24.183456+00:00"
+    "answer_text": "It is a crucial entrance test for medical students",
+    "explanation": "The NEET-UG exam is a crucial entrance test for medical students in India, determining their eligibility for medical colleges.",
+    "due_at": "2026-05-13T00:05:20.323541+00:00"
   },
   {
-    "reveal_id": "039534c36b194bce9beb5fc12d918e0f",
-    "article_title": "Maruti Suzuki Selects Startups for Automation",
-    "question": "What type of solutions are the selected startups expected to develop?",
-    "answer_label": "B",
-    "answer_text": "AI-based and technology-driven solutions",
-    "explanation": "The selected startups are expected to develop AI-based and technology-driven solutions.",
-    "due_at": "2026-05-12T22:51:24.843203+00:00"
-  },
-  {
-    "reveal_id": "beacb6e1022944faa47e99ee130eecac",
-    "article_title": "Google Tech Hub in West Bengal",
-    "question": "Which company is in talks to build a major tech hub in West Bengal?",
-    "answer_label": "B",
-    "answer_text": "Google",
-    "explanation": "Google is in discussions to build a tech hub in West Bengal, as per the article.",
-    "due_at": "2026-05-12T22:51:32.177034+00:00"
-  },
-  {
-    "reveal_id": "4697a109009b453ab24a879c6e808587",
-    "article_title": "Google Tech Hub in West Bengal",
-    "question": "Who is leading the discussions for the tech hub in West Bengal?",
-    "answer_label": "B",
-    "answer_text": "Ashwini Vaishnaw",
-    "explanation": "Union IT Minister Ashwini Vaishnaw is leading the discussions for the tech hub in West Bengal.",
-    "due_at": "2026-05-12T22:51:32.847445+00:00"
-  },
-  {
-    "reveal_id": "725183b1d6594b06b65b378aef925982",
-    "article_title": "Google Tech Hub in West Bengal",
-    "question": "What is the expected outcome of the Google tech hub in West Bengal?",
+    "reveal_id": "7bdc0a79b5ef443b808ec1008500f392",
+    "article_title": "India Rebukes China on Pakistan Support",
+    "question": "What was the context of India's response to China?",
     "answer_label": "C",
-    "answer_text": "Investment, digital infrastructure, and skilled jobs",
-    "explanation": "The Google tech hub is expected to bring major investment, digital infrastructure, and skilled jobs to eastern India, boosting India's AI push.",
-    "due_at": "2026-05-12T22:51:39.886452+00:00"
+    "answer_text": "Reports of China helping Pakistan during Operation Sindoor",
+    "explanation": "India responded to reports of China's support to Pakistan during Operation Sindoor, emphasizing the impact on global reputation.",
+    "due_at": "2026-05-13T00:05:24.760424+00:00"
+  },
+  {
+    "reveal_id": "d7caf55a15e947228e766a627879e6b3",
+    "article_title": "India Rebukes China on Pakistan Support",
+    "question": "What did India emphasize in its response to China?",
+    "answer_label": "C",
+    "answer_text": "The impact of supporting terror infrastructure on global reputation",
+    "explanation": "India stated that supporting terror infrastructure affects a country's global standing and reputation.",
+    "due_at": "2026-05-13T00:05:25.460504+00:00"
+  },
+  {
+    "reveal_id": "26646bcf163f4345b6c22caf4a8650d9",
+    "article_title": "India Rebukes China on Pakistan Support",
+    "question": "What is the significance of Operation Sindoor in this context?",
+    "answer_label": "C",
+    "answer_text": "A report on China's support to Pakistan",
+    "explanation": "Operation Sindoor is mentioned as the context in which China allegedly supported Pakistan, prompting India's response.",
+    "due_at": "2026-05-13T00:05:30.310273+00:00"
   }
 ]
