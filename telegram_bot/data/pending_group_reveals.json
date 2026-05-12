@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "190d7691dbf24d2aae1110b62ea686b4",
-    "article_title": "Dwarka to be Semiconductor Hub",
-    "question": "What is the proposed plan for Dwarka?",
+    "reveal_id": "3a7cc7109be141bea15a9569bfdcf749",
+    "article_title": "India-Bangladesh Border Tension",
+    "question": "What is the recent development along the India-Bangladesh border?",
     "answer_label": "B",
-    "answer_text": "To establish it as a semiconductor and data centre hub",
-    "explanation": "The plan aims to develop Dwarka as a hub for semiconductor plants and data centres, as per the LG's directive to DDA.",
-    "due_at": "2026-05-12T12:41:34.123507+00:00"
+    "answer_text": "Approval of BSF border fencing",
+    "explanation": "The West Bengal government approved land transfer for BSF fencing operations, leading to tensions with Bangladesh.",
+    "due_at": "2026-05-12T15:45:20.381841+00:00"
   },
   {
-    "reveal_id": "2db2a827ce384b7589bcf63f9cbbff18",
-    "article_title": "Dwarka to be Semiconductor Hub",
-    "question": "Who has instructed the DDA to draw up the plan for Dwarka?",
-    "answer_label": "B",
-    "answer_text": "Lieutenant Governor of Delhi",
-    "explanation": "The Lieutenant Governor of Delhi has instructed the DDA to draw up the plan for Dwarka.",
-    "due_at": "2026-05-12T12:41:34.933381+00:00"
-  },
-  {
-    "reveal_id": "83d319932835418cb56754accdca129b",
-    "article_title": "Dwarka to be Semiconductor Hub",
-    "question": "What is the expected outcome of developing Dwarka as a semiconductor hub?",
+    "reveal_id": "5415ffe721d14afaab1404ace98b427f",
+    "article_title": "India-Bangladesh Border Tension",
+    "question": "How did Bangladesh react to the BSF border fencing approval?",
     "answer_label": "C",
-    "answer_text": "Boost to India's electronics manufacturing sector",
-    "explanation": "The development of Dwarka as a semiconductor hub is expected to boost India's electronics manufacturing sector and enhance Delhi's role in the national technology landscape.",
-    "due_at": "2026-05-12T12:41:35.637361+00:00"
+    "answer_text": "It stated it cannot be intimidated",
+    "explanation": "Bangladesh reacted sharply, stating it cannot be intimidated by the move.",
+    "due_at": "2026-05-12T15:45:21.114986+00:00"
   },
   {
-    "reveal_id": "303bf8c9f80f4fc79bcadc45175d5ae6",
-    "article_title": "Kota Maternal Deaths",
-    "question": "What was the cause of death of the 31-year-old woman in Kota?",
+    "reveal_id": "89ca7b2699ee47e3bdcf3b8bad0977f3",
+    "article_title": "India-Bangladesh Border Tension",
+    "question": "Which Indian state is involved in the border dispute with Bangladesh?",
     "answer_label": "B",
-    "answer_text": "Kidney-related issues",
-    "explanation": "The woman died due to kidney-related issues after undergoing a C-section.",
-    "due_at": "2026-05-12T12:41:43.031163+00:00"
+    "answer_text": "West Bengal",
+    "explanation": "The West Bengal government's approval of BSF border fencing led to tensions with Bangladesh.",
+    "due_at": "2026-05-12T15:45:21.856254+00:00"
   },
   {
-    "reveal_id": "afb268a311b9420f87e04262f84588a8",
-    "article_title": "Kota Maternal Deaths",
-    "question": "In which hospital did the 31-year-old woman undergo C-section?",
-    "answer_label": "B",
-    "answer_text": "JK Lone Hospital",
-    "explanation": "The woman underwent C-section in JK Lone Hospital in Kota.",
-    "due_at": "2026-05-12T12:41:43.711144+00:00"
+    "reveal_id": "9f1d98221abe47d18f3251c63f3c781f",
+    "article_title": "Indian Market Volatility",
+    "question": "What is expected to keep the Indian market under pressure?",
+    "answer_label": "A",
+    "answer_text": "Austerity measures",
+    "explanation": "The Prime Minister's suggested austerity measures are expected to keep the market under pressure.",
+    "due_at": "2026-05-12T15:45:26.385196+00:00"
   },
   {
-    "reveal_id": "9ab592d10e2d4e51a3deed8358938af4",
-    "article_title": "Kota Maternal Deaths",
-    "question": "What is the broader implication of maternal deaths in India?",
+    "reveal_id": "731e281f44334ba7a1c0bbe26963b8b1",
+    "article_title": "Indian Market Volatility",
+    "question": "What is a potential impact of austerity measures on the economy?",
     "answer_label": "C",
-    "answer_text": "Healthcare system concerns",
-    "explanation": "Maternal deaths are a key indicator of a country's healthcare system and its ability to provide quality care to mothers.",
-    "due_at": "2026-05-12T12:41:50.866952+00:00"
+    "answer_text": "Reduced investor confidence",
+    "explanation": "Austerity measures can lead to reduced investor confidence, affecting the economy.",
+    "due_at": "2026-05-12T15:45:27.181521+00:00"
+  },
+  {
+    "reveal_id": "f1c35ca3ebbc4a3d89af251df967ac7b",
+    "article_title": "Indian Market Volatility",
+    "question": "Who suggested austerity measures that may affect the Indian market?",
+    "answer_label": "B",
+    "answer_text": "The Prime Minister",
+    "explanation": "The Prime Minister suggested austerity measures that may impact the Indian market.",
+    "due_at": "2026-05-12T15:45:31.219373+00:00"
   }
 ]
