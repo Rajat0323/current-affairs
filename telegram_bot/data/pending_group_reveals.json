@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "13599d57a237470aa20a6a43616c6375",
-    "article_title": "Lyne Startup Series Launched in India",
-    "question": "What is the starting price of the newly launched Lyne Startup Series products?",
+    "reveal_id": "45c5bd32649a4d22ab38b53d6b65990c",
+    "article_title": "Maruti Suzuki Selects Startups for Automation",
+    "question": "What is the main goal of Maruti Suzuki's accelerator programme?",
     "answer_label": "B",
-    "answer_text": "Rs 449",
-    "explanation": "The starting price of the newly launched Lyne Startup Series products is Rs 449, as mentioned in the article.",
-    "due_at": "2026-05-12T21:28:08.706388+00:00"
+    "answer_text": "To improve automation and customer experience",
+    "explanation": "The programme aims to develop AI-based and technology-driven solutions for improving automation and customer experience.",
+    "due_at": "2026-05-12T22:51:23.519702+00:00"
   },
   {
-    "reveal_id": "c6dce272fd014f26802d5b66c6decc4b",
-    "article_title": "Lyne Startup Series Launched in India",
-    "question": "Which of the following products is part of the Lyne Startup Series?",
+    "reveal_id": "7705eb6431504ed69a5353ddf557f51f",
+    "article_title": "Maruti Suzuki Selects Startups for Automation",
+    "question": "How many startups were selected by Maruti Suzuki for the 10th cohort?",
+    "answer_label": "C",
+    "answer_text": "6 startups",
+    "explanation": "Maruti Suzuki selected 6 startups under the 10th cohort of its flagship accelerator programme.",
+    "due_at": "2026-05-12T22:51:24.183456+00:00"
+  },
+  {
+    "reveal_id": "039534c36b194bce9beb5fc12d918e0f",
+    "article_title": "Maruti Suzuki Selects Startups for Automation",
+    "question": "What type of solutions are the selected startups expected to develop?",
     "answer_label": "B",
-    "answer_text": "Startup 70 TWS",
-    "explanation": "The Startup 70 TWS is one of the products launched under the Lyne Startup Series.",
-    "due_at": "2026-05-12T21:28:09.365968+00:00"
+    "answer_text": "AI-based and technology-driven solutions",
+    "explanation": "The selected startups are expected to develop AI-based and technology-driven solutions.",
+    "due_at": "2026-05-12T22:51:24.843203+00:00"
   },
   {
-    "reveal_id": "8363c84124954bf7b475191b30e43537",
-    "article_title": "Lyne Startup Series Launched in India",
-    "question": "What is a key feature of the Lyne Startup Series earbuds?",
+    "reveal_id": "beacb6e1022944faa47e99ee130eecac",
+    "article_title": "Google Tech Hub in West Bengal",
+    "question": "Which company is in talks to build a major tech hub in West Bengal?",
     "answer_label": "B",
-    "answer_text": "3D sound",
-    "explanation": "The Lyne Startup Series earbuds offer 3D sound, which is a key feature mentioned in the article.",
-    "due_at": "2026-05-12T21:28:10.058904+00:00"
+    "answer_text": "Google",
+    "explanation": "Google is in discussions to build a tech hub in West Bengal, as per the article.",
+    "due_at": "2026-05-12T22:51:32.177034+00:00"
   },
   {
-    "reveal_id": "2c7c56fa37fd484fbc2fce07805ed4f2",
-    "article_title": "Labour Reforms Operationalised",
-    "question": "What is the main goal of the new labour codes?",
+    "reveal_id": "4697a109009b453ab24a879c6e808587",
+    "article_title": "Google Tech Hub in West Bengal",
+    "question": "Who is leading the discussions for the tech hub in West Bengal?",
     "answer_label": "B",
-    "answer_text": "To simplify business operations and protect workers",
-    "explanation": "The new labour codes aim to simplify business operations and protect workers by consolidating existing laws into a modern framework.",
-    "due_at": "2026-05-12T21:28:17.114519+00:00"
+    "answer_text": "Ashwini Vaishnaw",
+    "explanation": "Union IT Minister Ashwini Vaishnaw is leading the discussions for the tech hub in West Bengal.",
+    "due_at": "2026-05-12T22:51:32.847445+00:00"
   },
   {
-    "reveal_id": "4691fe6d0b3b4eec961d213e18392a00",
-    "article_title": "Labour Reforms Operationalised",
-    "question": "How many existing laws are consolidated into the new labour codes?",
-    "answer_label": "D",
-    "answer_text": "29 laws",
-    "explanation": "The four new labour codes consolidate 29 existing laws into a modern framework.",
-    "due_at": "2026-05-12T21:28:17.792465+00:00"
-  },
-  {
-    "reveal_id": "0223b826b5894ff5915c032aa4389519",
-    "article_title": "Labour Reforms Operationalised",
-    "question": "What is a key feature of the new labour codes?",
-    "answer_label": "A",
-    "answer_text": "Universal social security",
-    "explanation": "The new labour codes provide universal social security, ensuring equal pay for equal work and protecting workers' rights.",
-    "due_at": "2026-05-12T21:28:18.460366+00:00"
+    "reveal_id": "725183b1d6594b06b65b378aef925982",
+    "article_title": "Google Tech Hub in West Bengal",
+    "question": "What is the expected outcome of the Google tech hub in West Bengal?",
+    "answer_label": "C",
+    "answer_text": "Investment, digital infrastructure, and skilled jobs",
+    "explanation": "The Google tech hub is expected to bring major investment, digital infrastructure, and skilled jobs to eastern India, boosting India's AI push.",
+    "due_at": "2026-05-12T22:51:39.886452+00:00"
   }
 ]
