@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "e52e28cbd2ed4bf98b8fda651cf0b9fb",
-    "article_title": "IHCL Posts 14.7% Rise in Q4 Profit",
-    "question": "What was the percentage rise in IHCL's consolidated net profit for the fourth quarter?",
+    "reveal_id": "3170191dd6a041bb939c645ce6f0909e",
+    "article_title": "UN Global Compact Launches Angola Network",
+    "question": "What is the main goal of the UN Global Compact's Country Network in Angola?",
+    "answer_label": "B",
+    "answer_text": "To support responsible business practices and sustainable development",
+    "explanation": "The UN Global Compact's Country Network in Angola aims to support a new phase of economic growth that is inclusive, future-oriented, and aligned with global expectations.",
+    "due_at": "2026-05-12T07:51:00.220189+00:00"
+  },
+  {
+    "reveal_id": "03d9161b9f344e85a2e2d9d5bebf1966",
+    "article_title": "UN Global Compact Launches Angola Network",
+    "question": "What is the expected outcome of the UN Global Compact's launch in Angola?",
     "answer_label": "C",
-    "answer_text": "14.71%",
-    "explanation": "IHCL reported a 14.71% year-on-year rise in its consolidated net profit for the fourth quarter.",
-    "due_at": "2026-05-12T04:41:54.179149+00:00"
+    "answer_text": "Inclusive growth and sustainable development",
+    "explanation": "The launch of the UN Global Compact's Country Network in Angola is expected to support a new phase of economic growth that is inclusive, future-oriented, and aligned with global expectations.",
+    "due_at": "2026-05-12T07:51:00.902000+00:00"
   },
   {
-    "reveal_id": "e2cff19aba414495b40929ebcea4e524",
-    "article_title": "IHCL Posts 14.7% Rise in Q4 Profit",
-    "question": "What is the revenue from operations of IHCL for the fourth quarter?",
-    "answer_label": "B",
-    "answer_text": "Rs 2,765.29 crore",
-    "explanation": "The company's revenue from operations increased to Rs 2,765.29 crore during the fourth quarter.",
-    "due_at": "2026-05-12T04:41:57.944356+00:00"
-  },
-  {
-    "reveal_id": "da587722a5154c0d965d8a27dbbb9aa2",
-    "article_title": "IHCL Posts 14.7% Rise in Q4 Profit",
-    "question": "What is the expected growth rate of IHCL for the current fiscal year?",
+    "reveal_id": "6beb7f6c8d454f92b97dba68d16b5013",
+    "article_title": "UN Global Compact Launches Angola Network",
+    "question": "How will the UN Global Compact's Country Network in Angola operate?",
     "answer_label": "C",
-    "answer_text": "12-14%",
-    "explanation": "IHCL still maintains its guidance of double-digit growth for this fiscal year, which means around 12-14%.",
-    "due_at": "2026-05-12T04:41:58.523803+00:00"
+    "answer_text": "By acting as a bridge between global sustainability ambition and local implementation",
+    "explanation": "The UN Global Compact's Country Network in Angola will act as a bridge between global sustainability ambition and local implementation, translating international standards into practical action across sectors.",
+    "due_at": "2026-05-12T07:51:01.522561+00:00"
   },
   {
-    "reveal_id": "b52b1dadad02416ea3af125b1001e0a2",
-    "article_title": "AI Job Growth in India",
-    "question": "What is the estimated growth rate of AI-related jobs in India?",
-    "answer_label": "B",
-    "answer_text": "15-20%",
-    "explanation": "According to Union Electronics and IT minister Ashwini Vaishnaw, AI-related jobs are growing by 15-20% in India.",
-    "due_at": "2026-05-12T04:42:05.276562+00:00"
+    "reveal_id": "4435c2ef12ad443eb2fa8b05f072a190",
+    "article_title": "India Inc on PM Modi's WFH Appeal",
+    "question": "Which companies are exploring greater flexibility in response to PM Modi's WFH appeal?",
+    "answer_label": "A",
+    "answer_text": "RIL and Tata group",
+    "explanation": "RIL and Tata group are exploring greater flexibility in response to PM Modi's WFH appeal, as per the article.",
+    "due_at": "2026-05-12T07:51:08.288051+00:00"
   },
   {
-    "reveal_id": "4e6457559f5049bd8750cc81c426ad1b",
-    "article_title": "AI Job Growth in India",
-    "question": "What incentive has the government offered to promote investments in data centres?",
+    "reveal_id": "8297617b06594071a265c634a9321a53",
+    "article_title": "India Inc on PM Modi's WFH Appeal",
+    "question": "What may be impacted by the move to work-from-home options?",
     "answer_label": "B",
-    "answer_text": "Tax exemption till 2047",
-    "explanation": "The government has waived off taxes on data centres till 2047 to promote investments in the segment.",
-    "due_at": "2026-05-12T04:42:05.870012+00:00"
+    "answer_text": "IT companies' return-to-office plans",
+    "explanation": "The move to work-from-home options may impact IT companies' return-to-office plans, as mentioned in the article.",
+    "due_at": "2026-05-12T07:51:08.939470+00:00"
   },
   {
-    "reveal_id": "0c5c09156d894744bbef3c67011e163f",
-    "article_title": "AI Job Growth in India",
-    "question": "Which company has started manufacturing AI servers in India?",
-    "answer_label": "B",
-    "answer_text": "HP",
-    "explanation": "According to the minister, HP has started manufacturing AI servers in India, and other companies like Google have been requested to follow suit.",
-    "due_at": "2026-05-12T04:42:06.489522+00:00"
+    "reveal_id": "e0e6275ba67545059f0d97392b0a428b",
+    "article_title": "India Inc on PM Modi's WFH Appeal",
+    "question": "Who made the appeal for work-from-home options?",
+    "answer_label": "A",
+    "answer_text": "PM Modi",
+    "explanation": "PM Modi made the appeal for work-from-home options, as stated in the article.",
+    "due_at": "2026-05-12T07:51:09.562896+00:00"
   }
 ]
