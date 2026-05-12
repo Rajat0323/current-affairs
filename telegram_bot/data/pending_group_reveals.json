@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "431a5bc6a47a4db394648962d5d92534",
-    "article_title": "India Tops ICC ODI Rankings",
-    "question": "Which team is at the top of the ICC Men's ODI Team Rankings?",
+    "reveal_id": "dc5f297302b14e288df1cce7b840d7cf",
+    "article_title": "NTA SWAYAM Result 2026",
+    "question": "What is the last date to apply for SWAYAM 2026 courses?",
     "answer_label": "B",
-    "answer_text": "India",
-    "explanation": "India retained the top position after the latest annual update.",
-    "due_at": "2026-05-11T23:46:07.583165+00:00"
+    "answer_text": "May 13, 2026",
+    "explanation": "The last date to apply for SWAYAM 2026 courses is May 13, 2026, as per the official notification.",
+    "due_at": "2026-05-12T00:45:28.438675+00:00"
   },
   {
-    "reveal_id": "1bc7aad2b13a4c3bb9f5935c23408611",
-    "article_title": "India Tops ICC ODI Rankings",
-    "question": "Which team is in the third spot in the ICC Men's ODI Team Rankings?",
-    "answer_label": "B",
-    "answer_text": "Australia",
-    "explanation": "Australia claimed the third spot in the rankings.",
-    "due_at": "2026-05-11T23:46:11.310537+00:00"
-  },
-  {
-    "reveal_id": "751ae021c91041bd8b7a8d112f2323e0",
-    "article_title": "India Tops ICC ODI Rankings",
-    "question": "Who issues the ICC Men's ODI Team Rankings?",
-    "answer_label": "A",
-    "answer_text": "International Cricket Council",
-    "explanation": "The International Cricket Council issues the rankings.",
-    "due_at": "2026-05-11T23:46:11.866239+00:00"
-  },
-  {
-    "reveal_id": "84b0e262e317467085a3582da8c70958",
-    "article_title": "West Bengal Govt Orders Removal of Nominated Members",
-    "question": "What has the West Bengal government ordered for nominated members of non-statutory bodies?",
+    "reveal_id": "05e3bf4942e6401ea508dd9d10489afc",
+    "article_title": "NTA SWAYAM Result 2026",
+    "question": "What types of courses are offered by SWAYAM?",
     "answer_label": "C",
-    "answer_text": "To be immediately terminated",
-    "explanation": "The West Bengal government has ordered the immediate termination of nominated members from non-statutory bodies.",
-    "due_at": "2026-05-11T23:46:19.019734+00:00"
+    "answer_text": "UG, PG, and certificate courses",
+    "explanation": "SWAYAM offers UG, PG, and certificate courses, providing opportunities for skill development and higher education.",
+    "due_at": "2026-05-12T00:45:29.067734+00:00"
   },
   {
-    "reveal_id": "71678e33f837456ca572d6d0e3b84818",
-    "article_title": "West Bengal Govt Orders Removal of Nominated Members",
-    "question": "What is the maximum age for service extension as per the West Bengal government's order?",
+    "reveal_id": "1b431406e72c489ebd4f2785980dc42f",
+    "article_title": "NTA SWAYAM Result 2026",
+    "question": "When were the results for the SWAYAM 2025 examinations declared?",
     "answer_label": "B",
-    "answer_text": "60 years",
-    "explanation": "The West Bengal government has ordered to end the re-employment and extension of the tenure of officers beyond 60 years.",
-    "due_at": "2026-05-11T23:46:19.582382+00:00"
+    "answer_text": "January 12, 2026",
+    "explanation": "The results for the SWAYAM 2025 examinations were declared on January 12, 2026.",
+    "due_at": "2026-05-12T00:45:29.656301+00:00"
   },
   {
-    "reveal_id": "f6e8b05a453e4c6ab39d6391235e9926",
-    "article_title": "West Bengal Govt Orders Removal of Nominated Members",
-    "question": "Which of the following is likely to be an outcome of the West Bengal government's order?",
-    "answer_label": "D",
-    "answer_text": "Reduced financial burden on the state",
-    "explanation": "The move is expected to help in reducing the financial burden on the state exchequer.",
-    "due_at": "2026-05-11T23:46:20.146864+00:00"
+    "reveal_id": "c03b323ec0114ebaa159cbe65e918456",
+    "article_title": "Oil Prices Impact Indian Bonds",
+    "question": "What is the main reason for decreased demand for Indian bonds?",
+    "answer_label": "A",
+    "answer_text": "Rising global oil prices",
+    "explanation": "Rising global oil prices are putting pressure on India's foreign exchange reserves, leading to decreased demand for Indian bonds.",
+    "due_at": "2026-05-12T00:45:36.229530+00:00"
+  },
+  {
+    "reveal_id": "1d508653f9fa48d8bf3aa519303f1984",
+    "article_title": "Oil Prices Impact Indian Bonds",
+    "question": "What measure has PM Modi suggested to reduce fuel consumption?",
+    "answer_label": "B",
+    "answer_text": "Resume work-from-home",
+    "explanation": "PM Modi has urged Indians to resume work-from-home to reduce fuel consumption and alleviate pressure on foreign exchange reserves.",
+    "due_at": "2026-05-12T00:45:36.817936+00:00"
+  },
+  {
+    "reveal_id": "8ee810c57843463d88150ee4bd12a5d6",
+    "article_title": "Oil Prices Impact Indian Bonds",
+    "question": "Why is it important for India to conserve foreign exchange reserves?",
+    "answer_label": "C",
+    "answer_text": "To stabilize the economy",
+    "explanation": "Conserving foreign exchange reserves is crucial for India to stabilize its economy and maintain economic growth.",
+    "due_at": "2026-05-12T00:45:43.742888+00:00"
   }
 ]
