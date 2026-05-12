@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "3a7cc7109be141bea15a9569bfdcf749",
-    "article_title": "India-Bangladesh Border Tension",
-    "question": "What is the recent development along the India-Bangladesh border?",
+    "reveal_id": "59c7fcae313e43bab4ac3b8f977d7de4",
+    "article_title": "Balan The Boy Release",
+    "question": "When will the film 'Balan The Boy' be released worldwide?",
     "answer_label": "B",
-    "answer_text": "Approval of BSF border fencing",
-    "explanation": "The West Bengal government approved land transfer for BSF fencing operations, leading to tensions with Bangladesh.",
-    "due_at": "2026-05-12T15:45:20.381841+00:00"
+    "answer_text": "June 19, 2026",
+    "explanation": "The film is scheduled to release on June 19, 2026, as per the given information.",
+    "due_at": "2026-05-12T17:58:26.225925+00:00"
   },
   {
-    "reveal_id": "5415ffe721d14afaab1404ace98b427f",
-    "article_title": "India-Bangladesh Border Tension",
-    "question": "How did Bangladesh react to the BSF border fencing approval?",
+    "reveal_id": "8492e2fa1fa84e4a9ff0a64b285ec110",
+    "article_title": "Balan The Boy Release",
+    "question": "Where will 'Balan The Boy' premiere apart from its theatrical release?",
+    "answer_label": "B",
+    "answer_text": "Cannes Film Festival",
+    "explanation": "The film will premiere at the Cannes Film Festival's Marche\u0301 du Film on May 14.",
+    "due_at": "2026-05-12T17:58:29.997814+00:00"
+  },
+  {
+    "reveal_id": "fb61e5624d574653a9e773fecc335367",
+    "article_title": "Balan The Boy Release",
+    "question": "How many languages will 'Balan The Boy' be released in?",
     "answer_label": "C",
-    "answer_text": "It stated it cannot be intimidated",
-    "explanation": "Bangladesh reacted sharply, stating it cannot be intimidated by the move.",
-    "due_at": "2026-05-12T15:45:21.114986+00:00"
+    "answer_text": "Five languages",
+    "explanation": "The film is set to release in five languages, as mentioned in the article.",
+    "due_at": "2026-05-12T17:58:30.568132+00:00"
   },
   {
-    "reveal_id": "89ca7b2699ee47e3bdcf3b8bad0977f3",
-    "article_title": "India-Bangladesh Border Tension",
-    "question": "Which Indian state is involved in the border dispute with Bangladesh?",
+    "reveal_id": "ebf917ce5c6a496ebfa94396091061b7",
+    "article_title": "Online Parliamentary Meetings",
+    "question": "What is the proposed method to save government expenditure?",
     "answer_label": "B",
-    "answer_text": "West Bengal",
-    "explanation": "The West Bengal government's approval of BSF border fencing led to tensions with Bangladesh.",
-    "due_at": "2026-05-12T15:45:21.856254+00:00"
+    "answer_text": "Holding online meetings",
+    "explanation": "Holding online meetings can reduce travel and accommodation costs for MPs and officials.",
+    "due_at": "2026-05-12T17:58:37.188285+00:00"
   },
   {
-    "reveal_id": "9f1d98221abe47d18f3251c63f3c781f",
-    "article_title": "Indian Market Volatility",
-    "question": "What is expected to keep the Indian market under pressure?",
-    "answer_label": "A",
-    "answer_text": "Austerity measures",
-    "explanation": "The Prime Minister's suggested austerity measures are expected to keep the market under pressure.",
-    "due_at": "2026-05-12T15:45:26.385196+00:00"
-  },
-  {
-    "reveal_id": "731e281f44334ba7a1c0bbe26963b8b1",
-    "article_title": "Indian Market Volatility",
-    "question": "What is a potential impact of austerity measures on the economy?",
-    "answer_label": "C",
-    "answer_text": "Reduced investor confidence",
-    "explanation": "Austerity measures can lead to reduced investor confidence, affecting the economy.",
-    "due_at": "2026-05-12T15:45:27.181521+00:00"
-  },
-  {
-    "reveal_id": "f1c35ca3ebbc4a3d89af251df967ac7b",
-    "article_title": "Indian Market Volatility",
-    "question": "Who suggested austerity measures that may affect the Indian market?",
+    "reveal_id": "e9753b235c2b4be3a68afe4b1454c10c",
+    "article_title": "Online Parliamentary Meetings",
+    "question": "When are virtual meetings proposed to be held?",
     "answer_label": "B",
-    "answer_text": "The Prime Minister",
-    "explanation": "The Prime Minister suggested austerity measures that may impact the Indian market.",
-    "due_at": "2026-05-12T15:45:31.219373+00:00"
+    "answer_text": "When parliament is not in session",
+    "explanation": "Virtual meetings are proposed to be held when parliament is not in session to reduce costs.",
+    "due_at": "2026-05-12T17:58:37.760320+00:00"
+  },
+  {
+    "reveal_id": "398484d1336e4462ac739d7593314985",
+    "article_title": "Online Parliamentary Meetings",
+    "question": "What is the estimated amount that can be saved by India?",
+    "answer_label": "B",
+    "answer_text": "Rs 100 crore",
+    "explanation": "The estimated amount that can be saved by India is Rs 100 crore.",
+    "due_at": "2026-05-12T17:58:38.335304+00:00"
   }
 ]
