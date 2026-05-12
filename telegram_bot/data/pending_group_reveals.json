@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "2dc21769a01a44fd81324c89bea476a7",
-    "article_title": "NEET UG Exam Cancelled Due to Paper Leak",
-    "question": "What was the reason for the cancellation of NEET UG 2026 exam?",
+    "reveal_id": "13599d57a237470aa20a6a43616c6375",
+    "article_title": "Lyne Startup Series Launched in India",
+    "question": "What is the starting price of the newly launched Lyne Startup Series products?",
     "answer_label": "B",
-    "answer_text": "Paper leak in Rajasthan",
-    "explanation": "The exam was cancelled due to a question paper leak in Rajasthan, which raised concerns over exam integrity.",
-    "due_at": "2026-05-12T19:50:54.830704+00:00"
+    "answer_text": "Rs 449",
+    "explanation": "The starting price of the newly launched Lyne Startup Series products is Rs 449, as mentioned in the article.",
+    "due_at": "2026-05-12T21:28:08.706388+00:00"
   },
   {
-    "reveal_id": "1a9f64dc538a407c870fdb2c35ad59d9",
-    "article_title": "NEET UG Exam Cancelled Due to Paper Leak",
-    "question": "How many candidates were impacted by the cancellation of NEET UG 2026 exam?",
+    "reveal_id": "c6dce272fd014f26802d5b66c6decc4b",
+    "article_title": "Lyne Startup Series Launched in India",
+    "question": "Which of the following products is part of the Lyne Startup Series?",
+    "answer_label": "B",
+    "answer_text": "Startup 70 TWS",
+    "explanation": "The Startup 70 TWS is one of the products launched under the Lyne Startup Series.",
+    "due_at": "2026-05-12T21:28:09.365968+00:00"
+  },
+  {
+    "reveal_id": "8363c84124954bf7b475191b30e43537",
+    "article_title": "Lyne Startup Series Launched in India",
+    "question": "What is a key feature of the Lyne Startup Series earbuds?",
+    "answer_label": "B",
+    "answer_text": "3D sound",
+    "explanation": "The Lyne Startup Series earbuds offer 3D sound, which is a key feature mentioned in the article.",
+    "due_at": "2026-05-12T21:28:10.058904+00:00"
+  },
+  {
+    "reveal_id": "2c7c56fa37fd484fbc2fce07805ed4f2",
+    "article_title": "Labour Reforms Operationalised",
+    "question": "What is the main goal of the new labour codes?",
+    "answer_label": "B",
+    "answer_text": "To simplify business operations and protect workers",
+    "explanation": "The new labour codes aim to simplify business operations and protect workers by consolidating existing laws into a modern framework.",
+    "due_at": "2026-05-12T21:28:17.114519+00:00"
+  },
+  {
+    "reveal_id": "4691fe6d0b3b4eec961d213e18392a00",
+    "article_title": "Labour Reforms Operationalised",
+    "question": "How many existing laws are consolidated into the new labour codes?",
     "answer_label": "D",
-    "answer_text": "22 lakh",
-    "explanation": "Nearly 22 lakh candidates were impacted by the cancellation of the exam.",
-    "due_at": "2026-05-12T19:50:58.584408+00:00"
+    "answer_text": "29 laws",
+    "explanation": "The four new labour codes consolidate 29 existing laws into a modern framework.",
+    "due_at": "2026-05-12T21:28:17.792465+00:00"
   },
   {
-    "reveal_id": "02daa891b79844f189af70053b7ff2b9",
-    "article_title": "NEET UG Exam Cancelled Due to Paper Leak",
-    "question": "What action has been taken regarding the paper leak in NEET UG 2026 exam?",
-    "answer_label": "B",
-    "answer_text": "CBI investigation",
-    "explanation": "A CBI investigation has been ordered to look into the paper leak.",
-    "due_at": "2026-05-12T19:50:59.170616+00:00"
-  },
-  {
-    "reveal_id": "baab014e0a6d4ba89c0fe4422b512737",
-    "article_title": "NEET UG 2026 Exam Cancelled",
-    "question": "How many candidates were affected by the NEET UG 2026 exam cancellation?",
-    "answer_label": "C",
-    "answer_text": "22.79 lakh",
-    "explanation": "According to the report, 22.79 lakh candidates were affected by the exam cancellation.",
-    "due_at": "2026-05-12T19:51:05.869432+00:00"
-  },
-  {
-    "reveal_id": "c217e2dd01f64b269b2211bdebc43d65",
-    "article_title": "NEET UG 2026 Exam Cancelled",
-    "question": "In how many cities was the NEET UG 2026 exam conducted in India?",
-    "answer_label": "B",
-    "answer_text": "551 cities",
-    "explanation": "The exam was conducted across 551 cities in India.",
-    "due_at": "2026-05-12T19:51:06.476626+00:00"
-  },
-  {
-    "reveal_id": "f2c89b679c6a4a3ba5d11d40f8e54ea8",
-    "article_title": "NEET UG 2026 Exam Cancelled",
-    "question": "What is the likely impact of the NEET UG 2026 exam cancellation on medical college admissions in India?",
-    "answer_label": "B",
-    "answer_text": "Delayed admissions",
-    "explanation": "The cancellation may affect the admission process to medical colleges in India, potentially leading to delayed admissions.",
-    "due_at": "2026-05-12T19:51:07.080467+00:00"
+    "reveal_id": "0223b826b5894ff5915c032aa4389519",
+    "article_title": "Labour Reforms Operationalised",
+    "question": "What is a key feature of the new labour codes?",
+    "answer_label": "A",
+    "answer_text": "Universal social security",
+    "explanation": "The new labour codes provide universal social security, ensuring equal pay for equal work and protecting workers' rights.",
+    "due_at": "2026-05-12T21:28:18.460366+00:00"
   }
 ]
