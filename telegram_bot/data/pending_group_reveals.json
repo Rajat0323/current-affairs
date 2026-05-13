@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "3a5dc895c65d4f638a2b2424b1b4c3ca",
-    "article_title": "Casagrand Launches Residential Project in Chennai",
-    "question": "Where is Casagrand's largest residential project located?",
-    "answer_label": "B",
-    "answer_text": "Chennai",
-    "explanation": "The project is located on Chennai's Outer Ring Road, making it a significant development for the city.",
-    "due_at": "2026-05-13T20:46:53.616251+00:00"
+    "reveal_id": "96fb2c8ba8594ddcaf1c425f229076b7",
+    "article_title": "Tamil Nadu Government Wins Trust Vote",
+    "question": "Who led the Tamil Nadu government that won the trust vote?",
+    "answer_label": "A",
+    "answer_text": "C Joseph Vijay",
+    "explanation": "C Joseph Vijay is the leader of the Tamil Nadu government that won the trust vote.",
+    "due_at": "2026-05-13T22:18:48.811995+00:00"
   },
   {
-    "reveal_id": "333abaade8a444f4ab8a11f5fba6fadc",
-    "article_title": "Casagrand Launches Residential Project in Chennai",
-    "question": "What is a notable feature of the Casagrand Highcity project?",
-    "answer_label": "B",
-    "answer_text": "A 5-acre sports clubhouse",
-    "explanation": "The project features a 5-acre sports clubhouse, providing residents with extensive amenities.",
-    "due_at": "2026-05-13T20:46:54.334054+00:00"
-  },
-  {
-    "reveal_id": "f8e12ef1a84541758a17dd3ca0730614",
-    "article_title": "Casagrand Launches Residential Project in Chennai",
-    "question": "How many residences are featured in the Casagrand Highcity project?",
-    "answer_label": "D",
-    "answer_text": "Over 4,000",
-    "explanation": "The project features over 4,000 residences, making it a large-scale residential community.",
-    "due_at": "2026-05-13T20:46:55.060765+00:00"
-  },
-  {
-    "reveal_id": "6d79b04cd0e94896b86d72787851e3df",
-    "article_title": "Indian Shuttlers Advance in Thailand Open",
-    "question": "Which Indian shuttlers advanced to the second round of the Thailand Open?",
+    "reveal_id": "3935875ad4f549b382202b23752a033c",
+    "article_title": "Tamil Nadu Government Wins Trust Vote",
+    "question": "What was the margin of the trust vote won by the Tamil Nadu government?",
     "answer_label": "C",
-    "answer_text": "Kidambi Srikanth and PV Sindhu",
-    "explanation": "Kidambi Srikanth and PV Sindhu won their matches in straight games to advance to the second round.",
-    "due_at": "2026-05-13T20:46:59.359513+00:00"
+    "answer_text": "144:22",
+    "explanation": "The Tamil Nadu government won the trust vote by a margin of 144:22.",
+    "due_at": "2026-05-13T22:18:49.459664+00:00"
   },
   {
-    "reveal_id": "12a058d38dc4496b8dee8ace32271c36",
-    "article_title": "Indian Shuttlers Advance in Thailand Open",
-    "question": "What is the level of the Thailand Open tournament where Indian shuttlers are competing?",
-    "answer_label": "C",
-    "answer_text": "Super 500",
-    "explanation": "The Thailand Open is a Super 500 tournament, which is a level of badminton tournaments.",
-    "due_at": "2026-05-13T20:47:00.072076+00:00"
-  },
-  {
-    "reveal_id": "795da46125f6449ba81586b7e4b50605",
-    "article_title": "Indian Shuttlers Advance in Thailand Open",
-    "question": "Who did Kidambi Srikanth defeat in the Thailand Open?",
+    "reveal_id": "151e699ceb4a4a20950be1b01b8c0b7f",
+    "article_title": "Tamil Nadu Government Wins Trust Vote",
+    "question": "Which party walked out during the trust vote in the Tamil Nadu Assembly?",
     "answer_label": "B",
-    "answer_text": "Loh Kean Yew of Singapore",
-    "explanation": "Kidambi Srikanth defeated Loh Kean Yew of Singapore in the Thailand Open.",
-    "due_at": "2026-05-13T20:47:07.120877+00:00"
+    "answer_text": "DMK",
+    "explanation": "The DMK walked out during the trust vote in the Tamil Nadu Assembly.",
+    "due_at": "2026-05-13T22:18:50.110468+00:00"
+  },
+  {
+    "reveal_id": "a34cda7aa4c044018c80373b1e6e0dc2",
+    "article_title": "Australia's New Frigates to Get SeaRAM Defense Systems",
+    "question": "Which company has been awarded a contract to provide SeaRAM for Australia's new Mogami-class frigates?",
+    "answer_label": "B",
+    "answer_text": "Raytheon",
+    "explanation": "Raytheon, an RTX business, has been selected to provide SeaRAM ship self-defense systems for Australia's new Mogami-class frigates.",
+    "due_at": "2026-05-13T22:18:57.395126+00:00"
+  },
+  {
+    "reveal_id": "ecd17b732bd74ff3a9135bd297fe0cd4",
+    "article_title": "Australia's New Frigates to Get SeaRAM Defense Systems",
+    "question": "What is the purpose of the Sea3000 program in Australia?",
+    "answer_label": "C",
+    "answer_text": "To replace decommissioning Anzac-class frigates",
+    "explanation": "The Sea3000 program aims to replace the decommissioning Anzac-class frigates with new Mogami-class frigates.",
+    "due_at": "2026-05-13T22:18:58.050578+00:00"
+  },
+  {
+    "reveal_id": "936926f4ac214fec8433329ef4c20a61",
+    "article_title": "Australia's New Frigates to Get SeaRAM Defense Systems",
+    "question": "How many Upgraded Mogami-class frigates will be involved in the Sea3000 program?",
+    "answer_label": "C",
+    "answer_text": "11",
+    "explanation": "The Sea3000 program involves 11 Upgraded Mogami-class frigates.",
+    "due_at": "2026-05-13T22:18:58.711117+00:00"
   }
 ]
