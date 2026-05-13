@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "93e4ddfcd6e54510b1534a111eb06b4c",
-    "article_title": "China's AI Export Boom",
-    "question": "What is the estimated value of China's AI exports every hour?",
+    "reveal_id": "2fe34974a3b94f9fba4d2218f18c22d6",
+    "article_title": "Flying Snakes of Southeast Asia",
+    "question": "Where are the flying snakes primarily found?",
     "answer_label": "B",
-    "answer_text": "$500 million",
-    "explanation": "According to the report, China's AI exports generate $500 million every hour.",
-    "due_at": "2026-05-13T06:02:56.653079+00:00"
+    "answer_text": "Southeast Asia",
+    "explanation": "The flying snakes are native to Southeast Asia, where they have adapted to the region's forests and trees.",
+    "due_at": "2026-05-13T08:51:42.699478+00:00"
   },
   {
-    "reveal_id": "6e753f86958b4ba896f28ad441f3b7d5",
-    "article_title": "China's AI Export Boom",
-    "question": "Which two countries are involved in the new AI trade link?",
+    "reveal_id": "ffba8cbf45e343c392cabaf91e525e11",
+    "article_title": "Flying Snakes of Southeast Asia",
+    "question": "How do the flying snakes stabilize their flight?",
     "answer_label": "C",
-    "answer_text": "US and China",
-    "explanation": "The report mentions a new trade link between the US and China despite tariffs and tensions.",
-    "due_at": "2026-05-13T06:02:57.341864+00:00"
+    "answer_text": "Through rhythmic waves",
+    "explanation": "The flying snakes use rhythmic waves, or aerial undulation, to stabilize their flight and travel long distances.",
+    "due_at": "2026-05-13T08:51:43.405920+00:00"
   },
   {
-    "reveal_id": "1931ea47c6f24bd193c70c80877cf831",
-    "article_title": "China's AI Export Boom",
-    "question": "What is driving the growth of China's AI exports?",
+    "reveal_id": "b41a4d0f8d42468d975d3dc3686199d6",
+    "article_title": "Flying Snakes of Southeast Asia",
+    "question": "What is unique about the flying snakes' gliding ability?",
     "answer_label": "C",
-    "answer_text": "Global AI boom",
-    "explanation": "The report attributes the growth of China's AI exports to the global AI boom.",
-    "due_at": "2026-05-13T06:03:04.344139+00:00"
+    "answer_text": "They flatten their bodies",
+    "explanation": "The flying snakes are able to glide through the air by flattening their bodies into a ribbon-like shape, allowing them to ride the wind.",
+    "due_at": "2026-05-13T08:51:44.125435+00:00"
   },
   {
-    "reveal_id": "f4d3e7b5a15e47deb6e9a7060c7da046",
-    "article_title": "India on China's Support to Pakistan",
-    "question": "What was the context of China's support to Pakistan according to the MEA?",
-    "answer_label": "A",
-    "answer_text": "Operation Sindoor",
-    "explanation": "The MEA statement was related to Operation Sindoor, an Indian military operation.",
-    "due_at": "2026-05-13T06:03:08.226346+00:00"
+    "reveal_id": "7ef94b7b04734df789af91f584e97ef0",
+    "article_title": "RCB vs KKR Head-to-Head Record in IPL",
+    "question": "Which two teams are being compared in the head-to-head record?",
+    "answer_label": "C",
+    "answer_text": "RCB and KKR",
+    "explanation": "The head-to-head record is between Royal Challengers Bengaluru and Kolkata Knight Riders.",
+    "due_at": "2026-05-13T08:51:48.812699+00:00"
   },
   {
-    "reveal_id": "50dd5b968f644bb1b2ef3f60f03afb94",
-    "article_title": "India on China's Support to Pakistan",
-    "question": "How did the External Affairs Ministry respond to China's support to Pakistan?",
-    "answer_label": "A",
-    "answer_text": "Condemned China's actions",
-    "explanation": "The MEA condemned China's actions by stating that responsible countries must reflect on their involvement.",
-    "due_at": "2026-05-13T06:03:12.198979+00:00"
+    "reveal_id": "367200c1ca034b58b38ed5378980508e",
+    "article_title": "RCB vs KKR Head-to-Head Record in IPL",
+    "question": "In which league are RCB and KKR competing?",
+    "answer_label": "C",
+    "answer_text": "Indian Premier League",
+    "explanation": "RCB and KKR are competing in the Indian Premier League.",
+    "due_at": "2026-05-13T08:51:49.485985+00:00"
   },
   {
-    "reveal_id": "66dd2dda830b478b8303a5863238f79d",
-    "article_title": "India on China's Support to Pakistan",
-    "question": "What was the basis of the MEA's claim on China's involvement?",
-    "answer_label": "A",
-    "answer_text": "Recent reports",
-    "explanation": "The MEA's claim was based on recent reports that corroborated India's previous statements.",
-    "due_at": "2026-05-13T06:03:12.978336+00:00"
+    "reveal_id": "9639e0a7b9e74bd994bcb2dd87fddd40",
+    "article_title": "RCB vs KKR Head-to-Head Record in IPL",
+    "question": "What type of information is available about RCB and KKR?",
+    "answer_label": "C",
+    "answer_text": "Head-to-head record and stats",
+    "explanation": "The head-to-head record and stats between RCB and KKR are available.",
+    "due_at": "2026-05-13T08:51:56.531243+00:00"
   }
 ]
