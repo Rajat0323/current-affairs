@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "b413d60b7c494d38a940059353f7a4b6",
-    "article_title": "AIADMK Internal Conflict",
-    "question": "What is the current situation in the AIADMK party?",
-    "answer_label": "C",
-    "answer_text": "Facing internal rebellion",
-    "explanation": "The AIADMK party is facing an internal rebellion after a fractured verdict in the state assembly elections.",
-    "due_at": "2026-05-13T01:57:14.035614+00:00"
-  },
-  {
-    "reveal_id": "26ab16d81a57465797c1ff82d5e1ce84",
-    "article_title": "AIADMK Internal Conflict",
-    "question": "What was the outcome of the Tamil Nadu Assembly elections?",
+    "reveal_id": "93e4ddfcd6e54510b1534a111eb06b4c",
+    "article_title": "China's AI Export Boom",
+    "question": "What is the estimated value of China's AI exports every hour?",
     "answer_label": "B",
-    "answer_text": "Fractured verdict",
-    "explanation": "The Tamil Nadu Assembly elections resulted in a fractured verdict.",
-    "due_at": "2026-05-13T01:57:17.782679+00:00"
+    "answer_text": "$500 million",
+    "explanation": "According to the report, China's AI exports generate $500 million every hour.",
+    "due_at": "2026-05-13T06:02:56.653079+00:00"
   },
   {
-    "reveal_id": "14881392d0cd446484be00706507bc78",
-    "article_title": "AIADMK Internal Conflict",
-    "question": "What is being affected by the AIADMK's internal conflict?",
+    "reveal_id": "6e753f86958b4ba896f28ad441f3b7d5",
+    "article_title": "China's AI Export Boom",
+    "question": "Which two countries are involved in the new AI trade link?",
     "answer_label": "C",
-    "answer_text": "Dravidian dominance in Tamil Nadu",
-    "explanation": "The internal conflict in the AIADMK party is affecting the Dravidian dominance in Tamil Nadu.",
-    "due_at": "2026-05-13T01:57:18.380548+00:00"
+    "answer_text": "US and China",
+    "explanation": "The report mentions a new trade link between the US and China despite tariffs and tensions.",
+    "due_at": "2026-05-13T06:02:57.341864+00:00"
   },
   {
-    "reveal_id": "7fdcc5c2ef18459cacef93bee1865b44",
-    "article_title": "India-Israel-UAE Security Partnership",
-    "question": "What is the primary reason for the formation of the India-Israel-UAE security trilateral?",
-    "answer_label": "B",
-    "answer_text": "Global economic and security disruptions",
-    "explanation": "The trilateral is forming due to accelerating disruptions in the global economic and security order.",
-    "due_at": "2026-05-13T01:57:25.061163+00:00"
-  },
-  {
-    "reveal_id": "8c7281ee507b472885055c90abcb9a06",
-    "article_title": "India-Israel-UAE Security Partnership",
-    "question": "Which of the following is a potential benefit of the India-Israel-UAE security partnership?",
+    "reveal_id": "1931ea47c6f24bd193c70c80877cf831",
+    "article_title": "China's AI Export Boom",
+    "question": "What is driving the growth of China's AI exports?",
     "answer_label": "C",
-    "answer_text": "Enhanced cooperation in addressing common security challenges",
-    "explanation": "The partnership enhances cooperation among the three nations in addressing common security challenges.",
-    "due_at": "2026-05-13T01:57:25.648807+00:00"
+    "answer_text": "Global AI boom",
+    "explanation": "The report attributes the growth of China's AI exports to the global AI boom.",
+    "due_at": "2026-05-13T06:03:04.344139+00:00"
   },
   {
-    "reveal_id": "52fe2a347d1a4f7abece3f33142db2ff",
-    "article_title": "India-Israel-UAE Security Partnership",
-    "question": "What is the expected outcome of the India-Israel-UAE security trilateral in terms of regional architecture?",
-    "answer_label": "B",
-    "answer_text": "Creation of a new regional architecture",
-    "explanation": "The partnership aims to create a new regional architecture amidst stress-tested existing frameworks.",
-    "due_at": "2026-05-13T01:57:26.220913+00:00"
+    "reveal_id": "f4d3e7b5a15e47deb6e9a7060c7da046",
+    "article_title": "India on China's Support to Pakistan",
+    "question": "What was the context of China's support to Pakistan according to the MEA?",
+    "answer_label": "A",
+    "answer_text": "Operation Sindoor",
+    "explanation": "The MEA statement was related to Operation Sindoor, an Indian military operation.",
+    "due_at": "2026-05-13T06:03:08.226346+00:00"
+  },
+  {
+    "reveal_id": "50dd5b968f644bb1b2ef3f60f03afb94",
+    "article_title": "India on China's Support to Pakistan",
+    "question": "How did the External Affairs Ministry respond to China's support to Pakistan?",
+    "answer_label": "A",
+    "answer_text": "Condemned China's actions",
+    "explanation": "The MEA condemned China's actions by stating that responsible countries must reflect on their involvement.",
+    "due_at": "2026-05-13T06:03:12.198979+00:00"
+  },
+  {
+    "reveal_id": "66dd2dda830b478b8303a5863238f79d",
+    "article_title": "India on China's Support to Pakistan",
+    "question": "What was the basis of the MEA's claim on China's involvement?",
+    "answer_label": "A",
+    "answer_text": "Recent reports",
+    "explanation": "The MEA's claim was based on recent reports that corroborated India's previous statements.",
+    "due_at": "2026-05-13T06:03:12.978336+00:00"
   }
 ]
