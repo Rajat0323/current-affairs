@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "3fa1b177dab1448d977d1cebcd71e91a",
-    "article_title": "London Offices Fail Green Standards",
-    "question": "What percentage of London offices fail to meet green standards?",
-    "answer_label": "C",
-    "answer_text": "70%",
-    "explanation": "According to the article, about 70% of London offices do not meet green standards.",
-    "due_at": "2026-05-13T18:50:54.626367+00:00"
-  },
-  {
-    "reveal_id": "6dffebc9ac9649bbaf909b2b4ad48e05",
-    "article_title": "London Offices Fail Green Standards",
-    "question": "What is the predicted outcome for the London office market?",
+    "reveal_id": "3a5dc895c65d4f638a2b2424b1b4c3ca",
+    "article_title": "Casagrand Launches Residential Project in Chennai",
+    "question": "Where is Casagrand's largest residential project located?",
     "answer_label": "B",
-    "answer_text": "It will divide into two tiers",
-    "explanation": "The article suggests that the London office market may divide into two tiers due to the energy efficiency standards.",
-    "due_at": "2026-05-13T18:50:55.318823+00:00"
+    "answer_text": "Chennai",
+    "explanation": "The project is located on Chennai's Outer Ring Road, making it a significant development for the city.",
+    "due_at": "2026-05-13T20:46:53.616251+00:00"
   },
   {
-    "reveal_id": "1e7e955c848b4f75a243ad658b02a349",
-    "article_title": "London Offices Fail Green Standards",
-    "question": "By what year are Westminster offices unlikely to meet energy efficiency standards?",
-    "answer_label": "C",
-    "answer_text": "2030s",
-    "explanation": "According to the article, 78% of Westminster offices are unlikely to meet energy efficiency standards by the 2030s.",
-    "due_at": "2026-05-13T18:50:56.016626+00:00"
-  },
-  {
-    "reveal_id": "889d62abef304bb2b366390978c5bcd4",
-    "article_title": "Indian Women's Hockey Team to Tour Australia",
-    "question": "Where will the Indian women's hockey team tour ahead of the Nations Cup?",
-    "answer_label": "A",
-    "answer_text": "Australia",
-    "explanation": "The team will tour Australia to prepare for the Nations Cup in June.",
-    "due_at": "2026-05-13T18:51:00.408806+00:00"
-  },
-  {
-    "reveal_id": "fd328f54250043c2ba347f204d457a69",
-    "article_title": "Indian Women's Hockey Team to Tour Australia",
-    "question": "Who will conduct the drag-flick training clinic for Indian players?",
-    "answer_label": "A",
-    "answer_text": "Taeke Taekema",
-    "explanation": "Dutch legend Taeke Taekema will conduct the drag-flick training clinic.",
-    "due_at": "2026-05-13T18:51:01.143482+00:00"
-  },
-  {
-    "reveal_id": "f06a5425484144d7bef9fe9bb46b0803",
-    "article_title": "Indian Women's Hockey Team to Tour Australia",
-    "question": "What is the purpose of the Indian women's hockey team's tour to Australia?",
+    "reveal_id": "333abaade8a444f4ab8a11f5fba6fadc",
+    "article_title": "Casagrand Launches Residential Project in Chennai",
+    "question": "What is a notable feature of the Casagrand Highcity project?",
     "answer_label": "B",
-    "answer_text": "To prepare for the Nations Cup",
-    "explanation": "The tour is to prepare the team for the upcoming Nations Cup in June.",
-    "due_at": "2026-05-13T18:51:01.919344+00:00"
+    "answer_text": "A 5-acre sports clubhouse",
+    "explanation": "The project features a 5-acre sports clubhouse, providing residents with extensive amenities.",
+    "due_at": "2026-05-13T20:46:54.334054+00:00"
+  },
+  {
+    "reveal_id": "f8e12ef1a84541758a17dd3ca0730614",
+    "article_title": "Casagrand Launches Residential Project in Chennai",
+    "question": "How many residences are featured in the Casagrand Highcity project?",
+    "answer_label": "D",
+    "answer_text": "Over 4,000",
+    "explanation": "The project features over 4,000 residences, making it a large-scale residential community.",
+    "due_at": "2026-05-13T20:46:55.060765+00:00"
+  },
+  {
+    "reveal_id": "6d79b04cd0e94896b86d72787851e3df",
+    "article_title": "Indian Shuttlers Advance in Thailand Open",
+    "question": "Which Indian shuttlers advanced to the second round of the Thailand Open?",
+    "answer_label": "C",
+    "answer_text": "Kidambi Srikanth and PV Sindhu",
+    "explanation": "Kidambi Srikanth and PV Sindhu won their matches in straight games to advance to the second round.",
+    "due_at": "2026-05-13T20:46:59.359513+00:00"
+  },
+  {
+    "reveal_id": "12a058d38dc4496b8dee8ace32271c36",
+    "article_title": "Indian Shuttlers Advance in Thailand Open",
+    "question": "What is the level of the Thailand Open tournament where Indian shuttlers are competing?",
+    "answer_label": "C",
+    "answer_text": "Super 500",
+    "explanation": "The Thailand Open is a Super 500 tournament, which is a level of badminton tournaments.",
+    "due_at": "2026-05-13T20:47:00.072076+00:00"
+  },
+  {
+    "reveal_id": "795da46125f6449ba81586b7e4b50605",
+    "article_title": "Indian Shuttlers Advance in Thailand Open",
+    "question": "Who did Kidambi Srikanth defeat in the Thailand Open?",
+    "answer_label": "B",
+    "answer_text": "Loh Kean Yew of Singapore",
+    "explanation": "Kidambi Srikanth defeated Loh Kean Yew of Singapore in the Thailand Open.",
+    "due_at": "2026-05-13T20:47:07.120877+00:00"
   }
 ]
