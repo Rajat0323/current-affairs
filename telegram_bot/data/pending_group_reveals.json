@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "f2514cbc845d4a8ea0277173d820760e",
-    "article_title": "Cheetah Cubs Found Dead in Kuno National Park",
-    "question": "What was the cause of death of the cheetah cubs in Kuno National Park?",
+    "reveal_id": "560a7d00b6de4b79845bea4ad3dd55bd",
+    "article_title": "India Warned of Oil Shock Risks",
+    "question": "What is the main reason for Uday Kotak's warning to India?",
     "answer_label": "B",
-    "answer_text": "Predation by another animal",
-    "explanation": "The death of the cubs was caused by predation, as reported in the incident.",
-    "due_at": "2026-05-13T13:57:03.437036+00:00"
+    "answer_text": "West Asia tensions",
+    "explanation": "Uday Kotak warned India to prepare for an oil shock due to rising tensions in West Asia, which could disrupt oil supplies.",
+    "due_at": "2026-05-13T16:38:17.456962+00:00"
   },
   {
-    "reveal_id": "9930e3aedb334a5fad89380b19d943e6",
-    "article_title": "Cheetah Cubs Found Dead in Kuno National Park",
-    "question": "Where were the four cheetah cubs found dead?",
+    "reveal_id": "6b672269b5e041ec9da0e75e00adb36a",
+    "article_title": "India Warned of Oil Shock Risks",
+    "question": "What does Uday Kotak suggest Indian firms should focus on?",
+    "answer_label": "B",
+    "answer_text": "Long-term investments",
+    "explanation": "Uday Kotak advises Indian firms to focus on long-term investments rather than short-term stock gains.",
+    "due_at": "2026-05-13T16:38:18.081572+00:00"
+  },
+  {
+    "reveal_id": "57ff57146e484185b3642179e66a8d36",
+    "article_title": "India Warned of Oil Shock Risks",
+    "question": "What is one of the ways India can reduce its vulnerability to oil price shocks?",
+    "answer_label": "D",
+    "answer_text": "Reducing dependence on foreign capital",
+    "explanation": "Reducing dependence on foreign capital can help India reduce its vulnerability to oil price shocks and achieve economic stability.",
+    "due_at": "2026-05-13T16:38:18.699755+00:00"
+  },
+  {
+    "reveal_id": "3a8008dc796e49fa87b214855c022598",
+    "article_title": "MSCI Index Rejig",
+    "question": "What happened to Adani Energy in the recent MSCI Index rejig?",
+    "answer_label": "B",
+    "answer_text": "It was added to the index",
+    "explanation": "Adani Energy was added to the MSCI Global Standard Index.",
+    "due_at": "2026-05-13T16:38:25.697551+00:00"
+  },
+  {
+    "reveal_id": "846fda381a1e4b5fb48d72ee22a86287",
+    "article_title": "MSCI Index Rejig",
+    "question": "What is the current weightage of India in the MSCI Standard Index?",
     "answer_label": "C",
-    "answer_text": "Kuno National Park",
-    "explanation": "The incident occurred in Kuno National Park, Madhya Pradesh.",
-    "due_at": "2026-05-13T13:57:04.089862+00:00"
+    "answer_text": "12.3%",
+    "explanation": "India's weightage in the MSCI Standard Index is 12.3%.",
+    "due_at": "2026-05-13T16:38:26.371227+00:00"
   },
   {
-    "reveal_id": "6c2badcc88164e679d2e5b90607b4acb",
-    "article_title": "Cheetah Cubs Found Dead in Kuno National Park",
-    "question": "How old were the cheetah cubs when they were found dead?",
-    "answer_label": "B",
-    "answer_text": "One month",
-    "explanation": "The cubs were approximately one month old when they were found dead.",
-    "due_at": "2026-05-13T13:57:04.717032+00:00"
-  },
-  {
-    "reveal_id": "e1420fe908914fa08926c78f7b16cb33",
-    "article_title": "Kerala CM Announcement",
-    "question": "Which party won the majority of seats in Kerala's state assembly?",
-    "answer_label": "B",
-    "answer_text": "Congress",
-    "explanation": "Congress won 102 seats in Kerala's state assembly, ending a decade of Left rule.",
-    "due_at": "2026-05-13T13:57:12.032090+00:00"
-  },
-  {
-    "reveal_id": "4787844d43ac4021b4d37647c7d450a6",
-    "article_title": "Kerala CM Announcement",
-    "question": "What is expected to happen in Kerala today?",
+    "reveal_id": "669ff92313464694863a1a1a9cf6ebc1",
+    "article_title": "MSCI Index Rejig",
+    "question": "Which of the following companies was removed from the MSCI Global Standard Index?",
     "answer_label": "C",
-    "answer_text": "CM announcement",
-    "explanation": "Congress is expected to announce its CM pick today in Kerala.",
-    "due_at": "2026-05-13T13:57:12.687534+00:00"
-  },
-  {
-    "reveal_id": "f3fcf5d8282841ef80f8423a0849c7f7",
-    "article_title": "Kerala CM Announcement",
-    "question": "Which state in India is having a trust vote?",
-    "answer_label": "B",
-    "answer_text": "Tamil Nadu",
-    "explanation": "AIADMK has warned its MPs ahead of a trust vote in Tamil Nadu.",
-    "due_at": "2026-05-13T13:57:13.323967+00:00"
+    "answer_text": "Hyundai and RVNL",
+    "explanation": "Hyundai and RVNL were removed from the MSCI Global Standard Index.",
+    "due_at": "2026-05-13T16:38:27.100448+00:00"
   }
 ]
