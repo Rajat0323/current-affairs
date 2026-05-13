@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "e878a2c44c4641d38e675cd8a51662d7",
-    "article_title": "NEET-UG Paper Leak Controversy",
-    "question": "What was the reason for the cancellation of the NEET-UG 2026 examination?",
+    "reveal_id": "b413d60b7c494d38a940059353f7a4b6",
+    "article_title": "AIADMK Internal Conflict",
+    "question": "What is the current situation in the AIADMK party?",
+    "answer_label": "C",
+    "answer_text": "Facing internal rebellion",
+    "explanation": "The AIADMK party is facing an internal rebellion after a fractured verdict in the state assembly elections.",
+    "due_at": "2026-05-13T01:57:14.035614+00:00"
+  },
+  {
+    "reveal_id": "26ab16d81a57465797c1ff82d5e1ce84",
+    "article_title": "AIADMK Internal Conflict",
+    "question": "What was the outcome of the Tamil Nadu Assembly elections?",
     "answer_label": "B",
-    "answer_text": "Paper leak allegations",
-    "explanation": "The NEET-UG 2026 exam was cancelled due to allegations of paper leak and examination irregularities.",
-    "due_at": "2026-05-13T00:05:18.859806+00:00"
+    "answer_text": "Fractured verdict",
+    "explanation": "The Tamil Nadu Assembly elections resulted in a fractured verdict.",
+    "due_at": "2026-05-13T01:57:17.782679+00:00"
   },
   {
-    "reveal_id": "01ed766b04904ac999a709f3efb6a32e",
-    "article_title": "NEET-UG Paper Leak Controversy",
-    "question": "Who refused to answer media questions about the NEET-UG paper leak controversy?",
+    "reveal_id": "14881392d0cd446484be00706507bc78",
+    "article_title": "AIADMK Internal Conflict",
+    "question": "What is being affected by the AIADMK's internal conflict?",
+    "answer_label": "C",
+    "answer_text": "Dravidian dominance in Tamil Nadu",
+    "explanation": "The internal conflict in the AIADMK party is affecting the Dravidian dominance in Tamil Nadu.",
+    "due_at": "2026-05-13T01:57:18.380548+00:00"
+  },
+  {
+    "reveal_id": "7fdcc5c2ef18459cacef93bee1865b44",
+    "article_title": "India-Israel-UAE Security Partnership",
+    "question": "What is the primary reason for the formation of the India-Israel-UAE security trilateral?",
     "answer_label": "B",
-    "answer_text": "Union Education Minister",
-    "explanation": "Union Education Minister Dharmendra Pradhan refused to answer media questions about the NEET-UG paper leak controversy.",
-    "due_at": "2026-05-13T00:05:19.629717+00:00"
+    "answer_text": "Global economic and security disruptions",
+    "explanation": "The trilateral is forming due to accelerating disruptions in the global economic and security order.",
+    "due_at": "2026-05-13T01:57:25.061163+00:00"
   },
   {
-    "reveal_id": "29d5ad3ff02c42f68de7e2e8c131c84d",
-    "article_title": "NEET-UG Paper Leak Controversy",
-    "question": "What is the significance of the NEET-UG exam in India?",
+    "reveal_id": "8c7281ee507b472885055c90abcb9a06",
+    "article_title": "India-Israel-UAE Security Partnership",
+    "question": "Which of the following is a potential benefit of the India-Israel-UAE security partnership?",
     "answer_label": "C",
-    "answer_text": "It is a crucial entrance test for medical students",
-    "explanation": "The NEET-UG exam is a crucial entrance test for medical students in India, determining their eligibility for medical colleges.",
-    "due_at": "2026-05-13T00:05:20.323541+00:00"
+    "answer_text": "Enhanced cooperation in addressing common security challenges",
+    "explanation": "The partnership enhances cooperation among the three nations in addressing common security challenges.",
+    "due_at": "2026-05-13T01:57:25.648807+00:00"
   },
   {
-    "reveal_id": "7bdc0a79b5ef443b808ec1008500f392",
-    "article_title": "India Rebukes China on Pakistan Support",
-    "question": "What was the context of India's response to China?",
-    "answer_label": "C",
-    "answer_text": "Reports of China helping Pakistan during Operation Sindoor",
-    "explanation": "India responded to reports of China's support to Pakistan during Operation Sindoor, emphasizing the impact on global reputation.",
-    "due_at": "2026-05-13T00:05:24.760424+00:00"
-  },
-  {
-    "reveal_id": "d7caf55a15e947228e766a627879e6b3",
-    "article_title": "India Rebukes China on Pakistan Support",
-    "question": "What did India emphasize in its response to China?",
-    "answer_label": "C",
-    "answer_text": "The impact of supporting terror infrastructure on global reputation",
-    "explanation": "India stated that supporting terror infrastructure affects a country's global standing and reputation.",
-    "due_at": "2026-05-13T00:05:25.460504+00:00"
-  },
-  {
-    "reveal_id": "26646bcf163f4345b6c22caf4a8650d9",
-    "article_title": "India Rebukes China on Pakistan Support",
-    "question": "What is the significance of Operation Sindoor in this context?",
-    "answer_label": "C",
-    "answer_text": "A report on China's support to Pakistan",
-    "explanation": "Operation Sindoor is mentioned as the context in which China allegedly supported Pakistan, prompting India's response.",
-    "due_at": "2026-05-13T00:05:30.310273+00:00"
+    "reveal_id": "52fe2a347d1a4f7abece3f33142db2ff",
+    "article_title": "India-Israel-UAE Security Partnership",
+    "question": "What is the expected outcome of the India-Israel-UAE security trilateral in terms of regional architecture?",
+    "answer_label": "B",
+    "answer_text": "Creation of a new regional architecture",
+    "explanation": "The partnership aims to create a new regional architecture amidst stress-tested existing frameworks.",
+    "due_at": "2026-05-13T01:57:26.220913+00:00"
   }
 ]
