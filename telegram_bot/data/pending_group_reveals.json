@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "560a7d00b6de4b79845bea4ad3dd55bd",
-    "article_title": "India Warned of Oil Shock Risks",
-    "question": "What is the main reason for Uday Kotak's warning to India?",
-    "answer_label": "B",
-    "answer_text": "West Asia tensions",
-    "explanation": "Uday Kotak warned India to prepare for an oil shock due to rising tensions in West Asia, which could disrupt oil supplies.",
-    "due_at": "2026-05-13T16:38:17.456962+00:00"
-  },
-  {
-    "reveal_id": "6b672269b5e041ec9da0e75e00adb36a",
-    "article_title": "India Warned of Oil Shock Risks",
-    "question": "What does Uday Kotak suggest Indian firms should focus on?",
-    "answer_label": "B",
-    "answer_text": "Long-term investments",
-    "explanation": "Uday Kotak advises Indian firms to focus on long-term investments rather than short-term stock gains.",
-    "due_at": "2026-05-13T16:38:18.081572+00:00"
-  },
-  {
-    "reveal_id": "57ff57146e484185b3642179e66a8d36",
-    "article_title": "India Warned of Oil Shock Risks",
-    "question": "What is one of the ways India can reduce its vulnerability to oil price shocks?",
-    "answer_label": "D",
-    "answer_text": "Reducing dependence on foreign capital",
-    "explanation": "Reducing dependence on foreign capital can help India reduce its vulnerability to oil price shocks and achieve economic stability.",
-    "due_at": "2026-05-13T16:38:18.699755+00:00"
-  },
-  {
-    "reveal_id": "3a8008dc796e49fa87b214855c022598",
-    "article_title": "MSCI Index Rejig",
-    "question": "What happened to Adani Energy in the recent MSCI Index rejig?",
-    "answer_label": "B",
-    "answer_text": "It was added to the index",
-    "explanation": "Adani Energy was added to the MSCI Global Standard Index.",
-    "due_at": "2026-05-13T16:38:25.697551+00:00"
-  },
-  {
-    "reveal_id": "846fda381a1e4b5fb48d72ee22a86287",
-    "article_title": "MSCI Index Rejig",
-    "question": "What is the current weightage of India in the MSCI Standard Index?",
+    "reveal_id": "3fa1b177dab1448d977d1cebcd71e91a",
+    "article_title": "London Offices Fail Green Standards",
+    "question": "What percentage of London offices fail to meet green standards?",
     "answer_label": "C",
-    "answer_text": "12.3%",
-    "explanation": "India's weightage in the MSCI Standard Index is 12.3%.",
-    "due_at": "2026-05-13T16:38:26.371227+00:00"
+    "answer_text": "70%",
+    "explanation": "According to the article, about 70% of London offices do not meet green standards.",
+    "due_at": "2026-05-13T18:50:54.626367+00:00"
   },
   {
-    "reveal_id": "669ff92313464694863a1a1a9cf6ebc1",
-    "article_title": "MSCI Index Rejig",
-    "question": "Which of the following companies was removed from the MSCI Global Standard Index?",
+    "reveal_id": "6dffebc9ac9649bbaf909b2b4ad48e05",
+    "article_title": "London Offices Fail Green Standards",
+    "question": "What is the predicted outcome for the London office market?",
+    "answer_label": "B",
+    "answer_text": "It will divide into two tiers",
+    "explanation": "The article suggests that the London office market may divide into two tiers due to the energy efficiency standards.",
+    "due_at": "2026-05-13T18:50:55.318823+00:00"
+  },
+  {
+    "reveal_id": "1e7e955c848b4f75a243ad658b02a349",
+    "article_title": "London Offices Fail Green Standards",
+    "question": "By what year are Westminster offices unlikely to meet energy efficiency standards?",
     "answer_label": "C",
-    "answer_text": "Hyundai and RVNL",
-    "explanation": "Hyundai and RVNL were removed from the MSCI Global Standard Index.",
-    "due_at": "2026-05-13T16:38:27.100448+00:00"
+    "answer_text": "2030s",
+    "explanation": "According to the article, 78% of Westminster offices are unlikely to meet energy efficiency standards by the 2030s.",
+    "due_at": "2026-05-13T18:50:56.016626+00:00"
+  },
+  {
+    "reveal_id": "889d62abef304bb2b366390978c5bcd4",
+    "article_title": "Indian Women's Hockey Team to Tour Australia",
+    "question": "Where will the Indian women's hockey team tour ahead of the Nations Cup?",
+    "answer_label": "A",
+    "answer_text": "Australia",
+    "explanation": "The team will tour Australia to prepare for the Nations Cup in June.",
+    "due_at": "2026-05-13T18:51:00.408806+00:00"
+  },
+  {
+    "reveal_id": "fd328f54250043c2ba347f204d457a69",
+    "article_title": "Indian Women's Hockey Team to Tour Australia",
+    "question": "Who will conduct the drag-flick training clinic for Indian players?",
+    "answer_label": "A",
+    "answer_text": "Taeke Taekema",
+    "explanation": "Dutch legend Taeke Taekema will conduct the drag-flick training clinic.",
+    "due_at": "2026-05-13T18:51:01.143482+00:00"
+  },
+  {
+    "reveal_id": "f06a5425484144d7bef9fe9bb46b0803",
+    "article_title": "Indian Women's Hockey Team to Tour Australia",
+    "question": "What is the purpose of the Indian women's hockey team's tour to Australia?",
+    "answer_label": "B",
+    "answer_text": "To prepare for the Nations Cup",
+    "explanation": "The tour is to prepare the team for the upcoming Nations Cup in June.",
+    "due_at": "2026-05-13T18:51:01.919344+00:00"
   }
 ]
