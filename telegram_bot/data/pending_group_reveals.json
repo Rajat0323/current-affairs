@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "ed9592f0e9f142049adf996f2d58865f",
-    "article_title": "Young Motherhood and Identity",
-    "question": "At what age did Savannah James become a mother?",
-    "answer_label": "B",
-    "answer_text": "16",
-    "explanation": "Savannah James became a mother at the age of 16, which is mentioned in the article.",
-    "due_at": "2026-05-14T10:27:43.232782+00:00"
-  },
-  {
-    "reveal_id": "5d441edeacfa4e0ea49e5a089e98b630",
-    "article_title": "Young Motherhood and Identity",
-    "question": "Who is Savannah James' husband?",
-    "answer_label": "B",
-    "answer_text": "LeBron James",
-    "explanation": "Savannah James is married to NBA legend LeBron James, as stated in the article.",
-    "due_at": "2026-05-14T10:27:47.008996+00:00"
-  },
-  {
-    "reveal_id": "4c37143c74454afc80d22b73c8835504",
-    "article_title": "Young Motherhood and Identity",
-    "question": "What was the topic Savannah James recently spoke about?",
-    "answer_label": "C",
-    "answer_text": "The challenges of early motherhood",
-    "explanation": "Savannah James spoke about how becoming a young mother at 16 affected her sense of identity.",
-    "due_at": "2026-05-14T10:27:47.592909+00:00"
-  },
-  {
-    "reveal_id": "ff2a2316d973436398fe870bbc2fbedb",
-    "article_title": "Indian Delegate at Commonwealth Youth Parliament",
-    "question": "Where will the 13th Commonwealth Youth Parliament be held?",
-    "answer_label": "B",
-    "answer_text": "Sydney",
-    "explanation": "The event will take place in Sydney, Australia from July 26-31.",
-    "due_at": "2026-05-14T10:27:54.169658+00:00"
-  },
-  {
-    "reveal_id": "4a4dacabb5a849598a1cc346fb585fba",
-    "article_title": "Indian Delegate at Commonwealth Youth Parliament",
-    "question": "Who will represent India at the 13th Commonwealth Youth Parliament?",
+    "reveal_id": "0bf36228c80e4e049d94cf4ef65b5bb6",
+    "article_title": "CBI Chief's Tenure Extended",
+    "question": "Who is the current chief of the Central Bureau of Investigation (CBI)?",
     "answer_label": "A",
-    "answer_text": "Nandini Sangma",
-    "explanation": "Nandini Sangma from Meghalaya will represent India at the event.",
-    "due_at": "2026-05-14T10:27:54.778969+00:00"
+    "answer_text": "Praveen Sood",
+    "explanation": "Praveen Sood is the current CBI chief, who has been given a one-year extension.",
+    "due_at": "2026-05-14T12:34:40.916240+00:00"
   },
   {
-    "reveal_id": "c2a57e66bd1d4458bd1ce9734bc16c05",
-    "article_title": "Indian Delegate at Commonwealth Youth Parliament",
-    "question": "What is the duration of the 13th Commonwealth Youth Parliament?",
-    "answer_label": "B",
-    "answer_text": "July 26-31",
-    "explanation": "The event will take place from July 26-31.",
-    "due_at": "2026-05-14T10:27:55.365311+00:00"
+    "reveal_id": "31b7f5a76dce4edaaaf046cbe288421c",
+    "article_title": "CBI Chief's Tenure Extended",
+    "question": "What is the maximum tenure of the CBI director as per the amended DSPE law?",
+    "answer_label": "C",
+    "answer_text": "5 years",
+    "explanation": "The amended DSPE law allows the CBI director to have a maximum tenure of 5 years.",
+    "due_at": "2026-05-14T12:34:44.696618+00:00"
+  },
+  {
+    "reveal_id": "bcf43a2811e046aabc8b7d128474844b",
+    "article_title": "CBI Chief's Tenure Extended",
+    "question": "Who heads the selection committee that recommends the extension of the CBI director's tenure?",
+    "answer_label": "A",
+    "answer_text": "Prime Minister of India",
+    "explanation": "The selection committee is headed by the Prime Minister of India.",
+    "due_at": "2026-05-14T12:34:45.287119+00:00"
+  },
+  {
+    "reveal_id": "2d900b6e015444b19cda739f70ac306c",
+    "article_title": "Jammu and Kashmir Power Projects",
+    "question": "Which company was handed over Jammu and Kashmir's power projects by the National Conference?",
+    "answer_label": "A",
+    "answer_text": "NHPC",
+    "explanation": "The National Conference handed over Jammu and Kashmir's power projects to the National Hydroelectric Power Corporation (NHPC).",
+    "due_at": "2026-05-14T12:34:52.475575+00:00"
+  },
+  {
+    "reveal_id": "d6449ce39abf4ac3b3eb080476f457df",
+    "article_title": "Jammu and Kashmir Power Projects",
+    "question": "What is the PDP's stance on banning liquor in Jammu and Kashmir?",
+    "answer_label": "C",
+    "answer_text": "The PDP never had a majority to ban liquor",
+    "explanation": "The PDP chief, Mehbooba Mufti, stated that her party never had an absolute majority to take decisive steps like banning liquor.",
+    "due_at": "2026-05-14T12:34:53.072936+00:00"
+  },
+  {
+    "reveal_id": "f19c428c4e094030b4795cf38fdc91bc",
+    "article_title": "Jammu and Kashmir Power Projects",
+    "question": "Who made remarks advocating continued dialogue with Pakistan?",
+    "answer_label": "A",
+    "answer_text": "RSS General Secretary DattatreyaHosabale",
+    "explanation": "RSS General Secretary DattatreyaHosabale made remarks advocating continued dialogue with Pakistan, which was welcomed by the PDP.",
+    "due_at": "2026-05-14T12:34:53.659118+00:00"
   }
 ]
