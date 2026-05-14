@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "0bf36228c80e4e049d94cf4ef65b5bb6",
-    "article_title": "CBI Chief's Tenure Extended",
-    "question": "Who is the current chief of the Central Bureau of Investigation (CBI)?",
-    "answer_label": "A",
-    "answer_text": "Praveen Sood",
-    "explanation": "Praveen Sood is the current CBI chief, who has been given a one-year extension.",
-    "due_at": "2026-05-14T12:34:40.916240+00:00"
-  },
-  {
-    "reveal_id": "31b7f5a76dce4edaaaf046cbe288421c",
-    "article_title": "CBI Chief's Tenure Extended",
-    "question": "What is the maximum tenure of the CBI director as per the amended DSPE law?",
+    "reveal_id": "195d4d6ce8ca4ee3a3b860a6eeb2e0e8",
+    "article_title": "Karuppu Film Advance Sales",
+    "question": "What is the approximate amount of advance sales for the film Karuppu?",
     "answer_label": "C",
-    "answer_text": "5 years",
-    "explanation": "The amended DSPE law allows the CBI director to have a maximum tenure of 5 years.",
-    "due_at": "2026-05-14T12:34:44.696618+00:00"
+    "answer_text": "Rs 5 Crore",
+    "explanation": "The film Karuppu has witnessed strong advance bookings, with sales nearing Rs 5 crore.",
+    "due_at": "2026-05-14T15:08:13.770447+00:00"
   },
   {
-    "reveal_id": "bcf43a2811e046aabc8b7d128474844b",
-    "article_title": "CBI Chief's Tenure Extended",
-    "question": "Who heads the selection committee that recommends the extension of the CBI director's tenure?",
-    "answer_label": "A",
-    "answer_text": "Prime Minister of India",
-    "explanation": "The selection committee is headed by the Prime Minister of India.",
-    "due_at": "2026-05-14T12:34:45.287119+00:00"
+    "reveal_id": "db47a67971a84f45a71a64135537634d",
+    "article_title": "Karuppu Film Advance Sales",
+    "question": "Who is the director of the film Karuppu?",
+    "answer_label": "B",
+    "answer_text": "RJ Balaji",
+    "explanation": "The film Karuppu is directed by RJ Balaji.",
+    "due_at": "2026-05-14T15:08:17.537966+00:00"
   },
   {
-    "reveal_id": "2d900b6e015444b19cda739f70ac306c",
-    "article_title": "Jammu and Kashmir Power Projects",
-    "question": "Which company was handed over Jammu and Kashmir's power projects by the National Conference?",
-    "answer_label": "A",
-    "answer_text": "NHPC",
-    "explanation": "The National Conference handed over Jammu and Kashmir's power projects to the National Hydroelectric Power Corporation (NHPC).",
-    "due_at": "2026-05-14T12:34:52.475575+00:00"
-  },
-  {
-    "reveal_id": "d6449ce39abf4ac3b3eb080476f457df",
-    "article_title": "Jammu and Kashmir Power Projects",
-    "question": "What is the PDP's stance on banning liquor in Jammu and Kashmir?",
+    "reveal_id": "8b4aa3c8dee94f15913145aa6b2d32e7",
+    "article_title": "Karuppu Film Advance Sales",
+    "question": "What genre of film is Karuppu?",
     "answer_label": "C",
-    "answer_text": "The PDP never had a majority to ban liquor",
-    "explanation": "The PDP chief, Mehbooba Mufti, stated that her party never had an absolute majority to take decisive steps like banning liquor.",
-    "due_at": "2026-05-14T12:34:53.072936+00:00"
+    "answer_text": "Action Drama",
+    "explanation": "The film Karuppu is an action drama, generating excitement among fans.",
+    "due_at": "2026-05-14T15:08:18.195434+00:00"
   },
   {
-    "reveal_id": "f19c428c4e094030b4795cf38fdc91bc",
-    "article_title": "Jammu and Kashmir Power Projects",
-    "question": "Who made remarks advocating continued dialogue with Pakistan?",
-    "answer_label": "A",
-    "answer_text": "RSS General Secretary DattatreyaHosabale",
-    "explanation": "RSS General Secretary DattatreyaHosabale made remarks advocating continued dialogue with Pakistan, which was welcomed by the PDP.",
-    "due_at": "2026-05-14T12:34:53.659118+00:00"
+    "reveal_id": "66ba3d4860b94e6aaad2f90097470f1a",
+    "article_title": "Land Pooling Scheme in Andhra Pradesh",
+    "question": "What is the main purpose of the land pooling scheme?",
+    "answer_label": "B",
+    "answer_text": "To develop infrastructure projects",
+    "explanation": "The land pooling scheme is used to acquire land for various infrastructure projects such as roads and other development initiatives.",
+    "due_at": "2026-05-14T15:08:25.387645+00:00"
+  },
+  {
+    "reveal_id": "138bd0b8e3ce4a9f959412b45a2baf5c",
+    "article_title": "Land Pooling Scheme in Andhra Pradesh",
+    "question": "Where is the land pooling scheme being implemented?",
+    "answer_label": "B",
+    "answer_text": "Nekkalu, Andhra Pradesh",
+    "explanation": "The land pooling scheme is being implemented at Nekkalu in Andhra Pradesh.",
+    "due_at": "2026-05-14T15:08:25.983057+00:00"
+  },
+  {
+    "reveal_id": "1510b5689b764bc19858698b9dc4d728",
+    "article_title": "Land Pooling Scheme in Andhra Pradesh",
+    "question": "Who is being urged to join the land pooling scheme?",
+    "answer_label": "B",
+    "answer_text": "Farmers",
+    "explanation": "Farmers, also known as ryots, are being encouraged to participate in the land pooling scheme.",
+    "due_at": "2026-05-14T15:08:26.571036+00:00"
   }
 ]
