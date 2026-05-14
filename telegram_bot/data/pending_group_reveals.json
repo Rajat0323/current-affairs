@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "2afcd31fa3f44a18a3c0d720f550251b",
-    "article_title": "Nepal Denies Border Restrictions for Indians",
-    "question": "What did Nepal recently deny regarding Indian tourists?",
-    "answer_label": "A",
-    "answer_text": "Imposing strict border checks",
-    "explanation": "Nepal denied reports of strict border checks and mandatory IDs for Indian tourists.",
-    "due_at": "2026-05-14T00:43:14.080269+00:00"
-  },
-  {
-    "reveal_id": "7a1048ef48014e02972495adf3837d04",
-    "article_title": "Nepal Denies Border Restrictions for Indians",
-    "question": "What is the purpose of Nepal's new digital system?",
+    "reveal_id": "959ad45d66f241ceafd77478eb9ede8b",
+    "article_title": "NEET-UG Paper Leak Case",
+    "question": "What was the outcome of the NEET-UG paper leak?",
     "answer_label": "B",
-    "answer_text": "To simplify vehicle entry procedures",
-    "explanation": "The new digital system aims to simplify vehicle entry procedures for tourists.",
-    "due_at": "2026-05-14T00:43:14.913526+00:00"
+    "answer_text": "The exam was cancelled",
+    "explanation": "The NEET-UG exam was cancelled due to the paper leak.",
+    "due_at": "2026-05-14T04:56:21.902306+00:00"
   },
   {
-    "reveal_id": "c9c1f9c7e15045cb901e2a484015a886",
-    "article_title": "Nepal Denies Border Restrictions for Indians",
-    "question": "How did Nepal describe reports of border restrictions for Indian tourists?",
+    "reveal_id": "a2527c5062ee4f08b5fc8217b1db4517",
+    "article_title": "NEET-UG Paper Leak Case",
+    "question": "How many students appeared for the NEET-UG exam on May 3?",
+    "answer_label": "D",
+    "answer_text": "Over 22 lakh",
+    "explanation": "Over 22 lakh students appeared for the NEET-UG exam on May 3.",
+    "due_at": "2026-05-14T04:56:22.602805+00:00"
+  },
+  {
+    "reveal_id": "cacfcac3c764402081cacd3b3a429c1d",
+    "article_title": "NEET-UG Paper Leak Case",
+    "question": "Which agency is investigating the NEET-UG paper leak case?",
     "answer_label": "B",
-    "answer_text": "False, baseless, and misleading",
-    "explanation": "Nepal described the reports as false, baseless, and misleading.",
-    "due_at": "2026-05-14T00:43:15.616389+00:00"
+    "answer_text": "CBI",
+    "explanation": "The CBI is investigating the NEET-UG paper leak case.",
+    "due_at": "2026-05-14T04:56:23.283249+00:00"
   },
   {
-    "reveal_id": "257ad5e8ab64431eb5eed4b01b3ba8c6",
-    "article_title": "SpaceX Plans Advanced Spaceports",
-    "question": "What is SpaceX planning to build to support future space travel?",
+    "reveal_id": "3fea09cbc0f94a63992708af276196a5",
+    "article_title": "Oil India's Profit Rises 12.5%",
+    "question": "What was the percentage increase in Oil India's net profit?",
     "answer_label": "B",
-    "answer_text": "Advanced spaceports",
-    "explanation": "SpaceX is planning to build advanced spaceports to support future Mars and lunar travel.",
-    "due_at": "2026-05-14T00:43:22.864992+00:00"
+    "answer_text": "12.5%",
+    "explanation": "The increase in net profit was driven by higher crude prices.",
+    "due_at": "2026-05-14T04:56:30.407217+00:00"
   },
   {
-    "reveal_id": "4417359041ff4f5da0312d0e7259c828",
-    "article_title": "SpaceX Plans Advanced Spaceports",
-    "question": "What can advanced spaceports facilitate according to the article?",
-    "answer_label": "C",
-    "answer_text": "Frequent space travel",
-    "explanation": "Advanced spaceports can facilitate frequent space travel, making it more accessible and efficient.",
-    "due_at": "2026-05-14T00:43:23.570695+00:00"
+    "reveal_id": "e18f2be20387422b84a5e2810b539a56",
+    "article_title": "Oil India's Profit Rises 12.5%",
+    "question": "What dividend per share did Oil India announce?",
+    "answer_label": "B",
+    "answer_text": "\u20b91",
+    "explanation": "The dividend announcement is a key aspect of the company's financial performance.",
+    "due_at": "2026-05-14T04:56:31.091067+00:00"
   },
   {
-    "reveal_id": "e8d5acab675b4e0284368d330d0cbed4",
-    "article_title": "SpaceX Plans Advanced Spaceports",
-    "question": "Why can India benefit from SpaceX's advanced spaceport project?",
-    "answer_label": "C",
-    "answer_text": "It can enhance India's space program",
-    "explanation": "India can benefit from such developments, as it can enhance the country's space program and collaboration with international space agencies.",
-    "due_at": "2026-05-14T00:43:30.603760+00:00"
+    "reveal_id": "dd57a2e78b564ac1b5ef37124c9c1382",
+    "article_title": "Oil India's Profit Rises 12.5%",
+    "question": "What was the main reason for Oil India's profit increase?",
+    "answer_label": "B",
+    "answer_text": "Higher crude prices",
+    "explanation": "Higher crude prices led to better price realisation for Oil India.",
+    "due_at": "2026-05-14T04:56:38.104267+00:00"
   }
 ]
