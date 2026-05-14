@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "3ac54ee9d38841b3898dafc4b4faf585",
-    "article_title": "Vivo and Realme Phones Launch",
-    "question": "Which company's processors will be used in Vivo T5 Lite and Realme P4R?",
+    "reveal_id": "33d342fa62ab47c4857dbc27c532295a",
+    "article_title": "Congress Party's Petition for Sale Deed Execution",
+    "question": "Which party has petitioned the Delhi High Court for execution of a sale deed?",
     "answer_label": "B",
-    "answer_text": "MediTek",
-    "explanation": "The article states that both phones will have MediaTek processors.",
-    "due_at": "2026-05-14T19:33:29.254616+00:00"
+    "answer_text": "Indian National Congress",
+    "explanation": "The Indian National Congress has petitioned the Delhi High Court for execution of a sale deed for its former headquarters.",
+    "due_at": "2026-05-14T21:12:09.145770+00:00"
   },
   {
-    "reveal_id": "830486a3c4954e3d89742845df413c33",
-    "article_title": "Vivo and Realme Phones Launch",
-    "question": "When is the Vivo T5 Lite expected to launch in India?",
-    "answer_label": "B",
-    "answer_text": "By the end of May",
-    "explanation": "The article mentions that the Vivo T5 Lite is expected to launch by the end of May.",
-    "due_at": "2026-05-14T19:33:33.076649+00:00"
+    "reveal_id": "94aed6382eb34740ad2f461eb9613d9e",
+    "article_title": "Congress Party's Petition for Sale Deed Execution",
+    "question": "Where is the property for which the Congress party is seeking execution of a sale deed located?",
+    "answer_label": "A",
+    "answer_text": "Jantar Mantar Road",
+    "explanation": "The property is located on Jantar Mantar Road in Delhi.",
+    "due_at": "2026-05-14T21:12:12.896821+00:00"
   },
   {
-    "reveal_id": "4751fc9e46594015801e5e1e5c03cdad",
-    "article_title": "Vivo and Realme Phones Launch",
-    "question": "Which of the following phones is expected to launch in June?",
+    "reveal_id": "3aaa86d4dc21478895380a3d9d23d13c",
+    "article_title": "Congress Party's Petition for Sale Deed Execution",
+    "question": "In which year did the Congress party pay the sale consideration for the property?",
     "answer_label": "B",
-    "answer_text": "Realme P4R",
-    "explanation": "The article states that the Realme P4R is expected to launch in June.",
-    "due_at": "2026-05-14T19:33:33.719553+00:00"
+    "answer_text": "1959",
+    "explanation": "The Congress party paid the sale consideration for the property in 1959.",
+    "due_at": "2026-05-14T21:12:13.501861+00:00"
   },
   {
-    "reveal_id": "57ceb8f72dd3475a88f64ffcb216cc19",
-    "article_title": "IPL 2026: PBKS vs MI at Dharamshala Stadium",
-    "question": "Which team has been knocked out of the playoff race in IPL 2026?",
+    "reveal_id": "6c88b84a9c8644868dd6428d6adf8537",
+    "article_title": "India's Wholesale Inflation Rises to 8.3%",
+    "question": "What is the primary reason for the surge in India's wholesale inflation in April?",
     "answer_label": "B",
-    "answer_text": "Mumbai Indians",
-    "explanation": "Mumbai Indians lost to Royal Challengers Bengaluru, knocking them out of the playoff race.",
-    "due_at": "2026-05-14T19:33:40.739376+00:00"
+    "answer_text": "Increase in fuel and crude oil prices",
+    "explanation": "The surge in wholesale inflation is primarily due to the increase in fuel, power, and crude oil prices.",
+    "due_at": "2026-05-14T21:12:20.570812+00:00"
   },
   {
-    "reveal_id": "074e9f1bdc464d94a8dec62d7f0ade02",
-    "article_title": "IPL 2026: PBKS vs MI at Dharamshala Stadium",
-    "question": "Where will the PBKS vs MI match be played?",
-    "answer_label": "C",
-    "answer_text": "Dharamshala",
-    "explanation": "The match will be played at Dharamshala Stadium.",
-    "due_at": "2026-05-14T19:33:41.400910+00:00"
+    "reveal_id": "562b14c0f1754f4fb53a5cc360e78fd3",
+    "article_title": "India's Wholesale Inflation Rises to 8.3%",
+    "question": "What global event has contributed to the rise in India's wholesale inflation?",
+    "answer_label": "B",
+    "answer_text": "West Asia crisis",
+    "explanation": "The West Asia crisis has exacerbated the rise in fuel, power, and crude oil prices, contributing to the surge in wholesale inflation.",
+    "due_at": "2026-05-14T21:12:21.153074+00:00"
   },
   {
-    "reveal_id": "b6d54d00e6804eee98e8bfa7a5f0f99e",
-    "article_title": "IPL 2026: PBKS vs MI at Dharamshala Stadium",
-    "question": "Which team defeated Mumbai Indians, knocking them out of the playoff race?",
+    "reveal_id": "b52acec9524f49bb831e110b7eb13240",
+    "article_title": "India's Wholesale Inflation Rises to 8.3%",
+    "question": "What was the wholesale inflation rate in India in March?",
     "answer_label": "B",
-    "answer_text": "Royal Challengers Bengaluru",
-    "explanation": "Royal Challengers Bengaluru defeated Mumbai Indians, ending their playoff hopes.",
-    "due_at": "2026-05-14T19:33:42.052428+00:00"
+    "answer_text": "3.88%",
+    "explanation": "The wholesale inflation rate in India was 3.88% in March, which is significantly lower than the 8.3% rate in April.",
+    "due_at": "2026-05-14T21:12:21.734656+00:00"
   }
 ]
