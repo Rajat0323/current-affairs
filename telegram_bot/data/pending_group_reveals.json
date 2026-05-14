@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "95c1b977f2054a22afa982e7b4fc856a",
-    "article_title": "VD Satheesan Emerges as Kerala CM Contender",
-    "question": "Which party has openly backed VD Satheesan for the Kerala CM post?",
+    "reveal_id": "3ac54ee9d38841b3898dafc4b4faf585",
+    "article_title": "Vivo and Realme Phones Launch",
+    "question": "Which company's processors will be used in Vivo T5 Lite and Realme P4R?",
     "answer_label": "B",
-    "answer_text": "Indian Union Muslim League",
-    "explanation": "The Indian Union Muslim League has openly supported VD Satheesan for the Kerala CM post, as per the given information.",
-    "due_at": "2026-05-14T17:24:24.992700+00:00"
+    "answer_text": "MediTek",
+    "explanation": "The article states that both phones will have MediaTek processors.",
+    "due_at": "2026-05-14T19:33:29.254616+00:00"
   },
   {
-    "reveal_id": "11cc5cddf2b9434a8dee2308f77bdef4",
-    "article_title": "VD Satheesan Emerges as Kerala CM Contender",
-    "question": "What is VD Satheesan's role in the Congress party?",
+    "reveal_id": "830486a3c4954e3d89742845df413c33",
+    "article_title": "Vivo and Realme Phones Launch",
+    "question": "When is the Vivo T5 Lite expected to launch in India?",
     "answer_label": "B",
-    "answer_text": "He is a state-level leader and contender for CM",
-    "explanation": "VD Satheesan is a state-level leader in the Congress party and is now a contender for the Kerala CM post.",
-    "due_at": "2026-05-14T17:24:25.720312+00:00"
+    "answer_text": "By the end of May",
+    "explanation": "The article mentions that the Vivo T5 Lite is expected to launch by the end of May.",
+    "due_at": "2026-05-14T19:33:33.076649+00:00"
   },
   {
-    "reveal_id": "5d2f373c208f426586ed81a1f4d7075a",
-    "article_title": "VD Satheesan Emerges as Kerala CM Contender",
-    "question": "Which state is VD Satheesan associated with?",
+    "reveal_id": "4751fc9e46594015801e5e1e5c03cdad",
+    "article_title": "Vivo and Realme Phones Launch",
+    "question": "Which of the following phones is expected to launch in June?",
     "answer_label": "B",
-    "answer_text": "Kerala",
-    "explanation": "VD Satheesan is associated with the state of Kerala, where he is a contender for the CM post.",
-    "due_at": "2026-05-14T17:24:26.322814+00:00"
+    "answer_text": "Realme P4R",
+    "explanation": "The article states that the Realme P4R is expected to launch in June.",
+    "due_at": "2026-05-14T19:33:33.719553+00:00"
   },
   {
-    "reveal_id": "d0b8f4197f1042989841e8db77e64105",
-    "article_title": "World Cup Heat Concerns",
-    "question": "What measure has FIFA taken to address heat concerns during World Cup matches?",
+    "reveal_id": "57ceb8f72dd3475a88f64ffcb216cc19",
+    "article_title": "IPL 2026: PBKS vs MI at Dharamshala Stadium",
+    "question": "Which team has been knocked out of the playoff race in IPL 2026?",
     "answer_label": "B",
-    "answer_text": "Introduced cooling breaks",
-    "explanation": "FIFA has introduced cooling breaks during each half of the World Cup matches to mitigate heat risks.",
-    "due_at": "2026-05-14T17:24:33.301730+00:00"
+    "answer_text": "Mumbai Indians",
+    "explanation": "Mumbai Indians lost to Royal Challengers Bengaluru, knocking them out of the playoff race.",
+    "due_at": "2026-05-14T19:33:40.739376+00:00"
   },
   {
-    "reveal_id": "506347b67cfb4d6e9ade03cf064b4566",
-    "article_title": "World Cup Heat Concerns",
-    "question": "In which countries will the World Cup matches take place?",
-    "answer_label": "A",
-    "answer_text": "US, Mexico, and Canada",
-    "explanation": "The World Cup matches will be held across the US, Mexico, and Canada.",
-    "due_at": "2026-05-14T17:24:33.910722+00:00"
+    "reveal_id": "074e9f1bdc464d94a8dec62d7f0ade02",
+    "article_title": "IPL 2026: PBKS vs MI at Dharamshala Stadium",
+    "question": "Where will the PBKS vs MI match be played?",
+    "answer_label": "C",
+    "answer_text": "Dharamshala",
+    "explanation": "The match will be played at Dharamshala Stadium.",
+    "due_at": "2026-05-14T19:33:41.400910+00:00"
   },
   {
-    "reveal_id": "a2cff01ff27844bd929e8c0038bfb743",
-    "article_title": "World Cup Heat Concerns",
-    "question": "When will the World Cup matches take place?",
+    "reveal_id": "b6d54d00e6804eee98e8bfa7a5f0f99e",
+    "article_title": "IPL 2026: PBKS vs MI at Dharamshala Stadium",
+    "question": "Which team defeated Mumbai Indians, knocking them out of the playoff race?",
     "answer_label": "B",
-    "answer_text": "June 11 to July 19",
-    "explanation": "The World Cup matches are scheduled to occur between June 11 and July 19.",
-    "due_at": "2026-05-14T17:24:40.945692+00:00"
+    "answer_text": "Royal Challengers Bengaluru",
+    "explanation": "Royal Challengers Bengaluru defeated Mumbai Indians, ending their playoff hopes.",
+    "due_at": "2026-05-14T19:33:42.052428+00:00"
   }
 ]
