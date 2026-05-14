@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "195d4d6ce8ca4ee3a3b860a6eeb2e0e8",
-    "article_title": "Karuppu Film Advance Sales",
-    "question": "What is the approximate amount of advance sales for the film Karuppu?",
-    "answer_label": "C",
-    "answer_text": "Rs 5 Crore",
-    "explanation": "The film Karuppu has witnessed strong advance bookings, with sales nearing Rs 5 crore.",
-    "due_at": "2026-05-14T15:08:13.770447+00:00"
-  },
-  {
-    "reveal_id": "db47a67971a84f45a71a64135537634d",
-    "article_title": "Karuppu Film Advance Sales",
-    "question": "Who is the director of the film Karuppu?",
+    "reveal_id": "95c1b977f2054a22afa982e7b4fc856a",
+    "article_title": "VD Satheesan Emerges as Kerala CM Contender",
+    "question": "Which party has openly backed VD Satheesan for the Kerala CM post?",
     "answer_label": "B",
-    "answer_text": "RJ Balaji",
-    "explanation": "The film Karuppu is directed by RJ Balaji.",
-    "due_at": "2026-05-14T15:08:17.537966+00:00"
+    "answer_text": "Indian Union Muslim League",
+    "explanation": "The Indian Union Muslim League has openly supported VD Satheesan for the Kerala CM post, as per the given information.",
+    "due_at": "2026-05-14T17:24:24.992700+00:00"
   },
   {
-    "reveal_id": "8b4aa3c8dee94f15913145aa6b2d32e7",
-    "article_title": "Karuppu Film Advance Sales",
-    "question": "What genre of film is Karuppu?",
-    "answer_label": "C",
-    "answer_text": "Action Drama",
-    "explanation": "The film Karuppu is an action drama, generating excitement among fans.",
-    "due_at": "2026-05-14T15:08:18.195434+00:00"
-  },
-  {
-    "reveal_id": "66ba3d4860b94e6aaad2f90097470f1a",
-    "article_title": "Land Pooling Scheme in Andhra Pradesh",
-    "question": "What is the main purpose of the land pooling scheme?",
+    "reveal_id": "11cc5cddf2b9434a8dee2308f77bdef4",
+    "article_title": "VD Satheesan Emerges as Kerala CM Contender",
+    "question": "What is VD Satheesan's role in the Congress party?",
     "answer_label": "B",
-    "answer_text": "To develop infrastructure projects",
-    "explanation": "The land pooling scheme is used to acquire land for various infrastructure projects such as roads and other development initiatives.",
-    "due_at": "2026-05-14T15:08:25.387645+00:00"
+    "answer_text": "He is a state-level leader and contender for CM",
+    "explanation": "VD Satheesan is a state-level leader in the Congress party and is now a contender for the Kerala CM post.",
+    "due_at": "2026-05-14T17:24:25.720312+00:00"
   },
   {
-    "reveal_id": "138bd0b8e3ce4a9f959412b45a2baf5c",
-    "article_title": "Land Pooling Scheme in Andhra Pradesh",
-    "question": "Where is the land pooling scheme being implemented?",
+    "reveal_id": "5d2f373c208f426586ed81a1f4d7075a",
+    "article_title": "VD Satheesan Emerges as Kerala CM Contender",
+    "question": "Which state is VD Satheesan associated with?",
     "answer_label": "B",
-    "answer_text": "Nekkalu, Andhra Pradesh",
-    "explanation": "The land pooling scheme is being implemented at Nekkalu in Andhra Pradesh.",
-    "due_at": "2026-05-14T15:08:25.983057+00:00"
+    "answer_text": "Kerala",
+    "explanation": "VD Satheesan is associated with the state of Kerala, where he is a contender for the CM post.",
+    "due_at": "2026-05-14T17:24:26.322814+00:00"
   },
   {
-    "reveal_id": "1510b5689b764bc19858698b9dc4d728",
-    "article_title": "Land Pooling Scheme in Andhra Pradesh",
-    "question": "Who is being urged to join the land pooling scheme?",
+    "reveal_id": "d0b8f4197f1042989841e8db77e64105",
+    "article_title": "World Cup Heat Concerns",
+    "question": "What measure has FIFA taken to address heat concerns during World Cup matches?",
     "answer_label": "B",
-    "answer_text": "Farmers",
-    "explanation": "Farmers, also known as ryots, are being encouraged to participate in the land pooling scheme.",
-    "due_at": "2026-05-14T15:08:26.571036+00:00"
+    "answer_text": "Introduced cooling breaks",
+    "explanation": "FIFA has introduced cooling breaks during each half of the World Cup matches to mitigate heat risks.",
+    "due_at": "2026-05-14T17:24:33.301730+00:00"
+  },
+  {
+    "reveal_id": "506347b67cfb4d6e9ade03cf064b4566",
+    "article_title": "World Cup Heat Concerns",
+    "question": "In which countries will the World Cup matches take place?",
+    "answer_label": "A",
+    "answer_text": "US, Mexico, and Canada",
+    "explanation": "The World Cup matches will be held across the US, Mexico, and Canada.",
+    "due_at": "2026-05-14T17:24:33.910722+00:00"
+  },
+  {
+    "reveal_id": "a2cff01ff27844bd929e8c0038bfb743",
+    "article_title": "World Cup Heat Concerns",
+    "question": "When will the World Cup matches take place?",
+    "answer_label": "B",
+    "answer_text": "June 11 to July 19",
+    "explanation": "The World Cup matches are scheduled to occur between June 11 and July 19.",
+    "due_at": "2026-05-14T17:24:40.945692+00:00"
   }
 ]
