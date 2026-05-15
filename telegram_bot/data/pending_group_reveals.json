@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "8bfd45e38d324a079e081e427d4c6e6d",
-    "article_title": "Prateek Kuhad's New Album",
-    "question": "What is the title of Prateek Kuhad's new album?",
-    "answer_label": "A",
-    "answer_text": "Full Moon Chamber",
-    "explanation": "The album title is mentioned in the article as 'Full Moon Chamber'.",
-    "due_at": "2026-05-15T22:45:09.039476+00:00"
-  },
-  {
-    "reveal_id": "de6aa6d0919a40c5ad33b6a2fad519df",
-    "article_title": "Prateek Kuhad's New Album",
-    "question": "What is the name of Prateek Kuhad's new song?",
+    "reveal_id": "586f0724bcf44fc7b72ddd5816efc736",
+    "article_title": "Virat Kohli's Comments on Proving Worth",
+    "question": "Who did Virat Kohli seemingly take a dig at in the RCB podcast?",
     "answer_label": "B",
-    "answer_text": "Blush",
-    "explanation": "The new song is mentioned in the article as 'Blush'.",
-    "due_at": "2026-05-15T22:45:09.715642+00:00"
+    "answer_text": "Gautam Gambhir and Ajit Agarkar",
+    "explanation": "Virat Kohli's comments were directed towards Gautam Gambhir and Ajit Agarkar, as per the article.",
+    "due_at": "2026-05-15T23:45:58.685052+00:00"
   },
   {
-    "reveal_id": "8a43cc9a6c4646d6b0f410cc9640ee9d",
-    "article_title": "Prateek Kuhad's New Album",
-    "question": "When was Prateek Kuhad's last full-length album released?",
+    "reveal_id": "9d706ad6f62b41a38405a62eed73881c",
+    "article_title": "Virat Kohli's Comments on Proving Worth",
+    "question": "What upcoming event is Virat Kohli looking forward to?",
+    "answer_label": "B",
+    "answer_text": "2027 ODI World Cup",
+    "explanation": "The article mentions Virat Kohli gearing up for the 2027 World Cup.",
+    "due_at": "2026-05-15T23:45:59.353581+00:00"
+  },
+  {
+    "reveal_id": "4f9539a69faa495b850d2f5049607126",
+    "article_title": "Virat Kohli's Comments on Proving Worth",
+    "question": "What issue did Virat Kohli hint at during the podcast?",
     "answer_label": "C",
-    "answer_text": "2022",
-    "explanation": "The article mentions that Prateek Kuhad's last full-length album was released in 2022.",
-    "due_at": "2026-05-15T22:45:10.388490+00:00"
+    "answer_text": "Up and down communication",
+    "explanation": "Virat Kohli hinted at 'up and down' communication, suggesting issues with team communication.",
+    "due_at": "2026-05-15T23:46:00.032739+00:00"
   },
   {
-    "reveal_id": "4819aca3d56b4dd288396c62a0bb0544",
-    "article_title": "Maharashtra Reduces VAT on Aviation Fuel",
-    "question": "What is the new VAT rate on aviation fuel in Maharashtra?",
-    "answer_label": "B",
-    "answer_text": "7%",
-    "explanation": "The new VAT rate on aviation fuel in Maharashtra is 7%, reduced from 18% for six months.",
-    "due_at": "2026-05-15T22:45:17.876817+00:00"
+    "reveal_id": "d75c1f60604d4e0e8360589349b4c3f4",
+    "article_title": "Attack on Indian Ship off Oman",
+    "question": "Where was the Indian ship attacked?",
+    "answer_label": "C",
+    "answer_text": "Off the coast of Oman",
+    "explanation": "The ship was attacked off the coast of Oman, as reported in the incident.",
+    "due_at": "2026-05-15T23:46:07.052553+00:00"
   },
   {
-    "reveal_id": "17bd65175b8345d99da868639b08d856",
-    "article_title": "Maharashtra Reduces VAT on Aviation Fuel",
-    "question": "What is the expected outcome of reducing VAT on aviation fuel?",
+    "reveal_id": "7c10fae7aec1401cbd95a59e1ee6eaef",
+    "article_title": "Attack on Indian Ship off Oman",
+    "question": "What was the outcome of the attack on the Indian ship?",
     "answer_label": "B",
-    "answer_text": "Stabilization of airfares",
-    "explanation": "The reduction in VAT on aviation fuel is expected to stabilize airfares, making air travel more affordable for consumers.",
-    "due_at": "2026-05-15T22:45:18.550545+00:00"
+    "answer_text": "Total loss of the vessel",
+    "explanation": "The attack led to a fire and eventually a total loss of the vessel.",
+    "due_at": "2026-05-15T23:46:07.768545+00:00"
   },
   {
-    "reveal_id": "5048b908fc5742afa19be8552f285049",
-    "article_title": "Maharashtra Reduces VAT on Aviation Fuel",
-    "question": "How long will the reduced VAT rate on aviation fuel be in effect?",
+    "reveal_id": "12b47939fafa4ff8a5b6e740c44ef3f6",
+    "article_title": "Attack on Indian Ship off Oman",
+    "question": "What has the owner of the Indian ship called for?",
     "answer_label": "B",
-    "answer_text": "6 months",
-    "explanation": "The reduced VAT rate on aviation fuel will be in effect for six months, starting from May 15.",
-    "due_at": "2026-05-15T22:45:25.568217+00:00"
+    "answer_text": "A probe into the attack",
+    "explanation": "The owner has called for a probe into the attack on the Indian ship off Oman.",
+    "due_at": "2026-05-15T23:46:08.568127+00:00"
   }
 ]
