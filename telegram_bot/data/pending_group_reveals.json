@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "a9e756217a9c4b539cb95f20eae103a8",
-    "article_title": "Skyworth and Jaina Group Form JV for Panasonic TVs",
-    "question": "Which company has teamed up with Jaina Group to manufacture Panasonic TVs in India?",
-    "answer_label": "A",
-    "answer_text": "Skyworth Group",
-    "explanation": "Skyworth Group from China has partnered with Jaina Group to manufacture Panasonic televisions in India.",
-    "due_at": "2026-05-15T08:13:59.168591+00:00"
-  },
-  {
-    "reveal_id": "b6de046d82c645a8bbb524a606ddac70",
-    "article_title": "Skyworth and Jaina Group Form JV for Panasonic TVs",
-    "question": "What is the expected outcome of the joint venture between Skyworth and Jaina Group?",
-    "answer_label": "C",
-    "answer_text": "Enhancing local supply chains",
-    "explanation": "The joint venture aims to enhance local supply chains and bolster the Panasonic TV brand in India.",
-    "due_at": "2026-05-15T08:14:02.937499+00:00"
-  },
-  {
-    "reveal_id": "bfb0db8bb307432f9a154b633d341ae5",
-    "article_title": "Skyworth and Jaina Group Form JV for Panasonic TVs",
-    "question": "What is the likely ownership structure of the joint venture between Skyworth and Jaina Group?",
+    "reveal_id": "35ad490bdb784613b31efe4e6dc462bf",
+    "article_title": "Maharaja Ranjit Singh Hockey Academy Revival",
+    "question": "Where is the Maharaja Ranjit Singh Hockey Academy located?",
     "answer_label": "B",
-    "answer_text": "Jaina Group will own the majority share",
-    "explanation": "Jaina Group is likely to own the majority share in the joint venture with Skyworth Group.",
-    "due_at": "2026-05-15T08:14:03.526618+00:00"
+    "answer_text": "Amritsar",
+    "explanation": "The academy is located in Amritsar, as mentioned in the article.",
+    "due_at": "2026-05-15T10:39:45.278191+00:00"
   },
   {
-    "reveal_id": "17830e043156461aa8095c04e1fa5b03",
-    "article_title": "I-T Department Monitors Foreign Outflows",
-    "question": "What is the main reason for the I-T department to increase vigilance on foreign outflows?",
-    "answer_label": "C",
-    "answer_text": "Decline in rupee value",
-    "explanation": "The decline in rupee value makes it essential to monitor foreign outflows to prevent illegal transactions.",
-    "due_at": "2026-05-15T08:14:10.558420+00:00"
-  },
-  {
-    "reveal_id": "c5eefcf11ef6459683102e7f6577cdfd",
-    "article_title": "I-T Department Monitors Foreign Outflows",
-    "question": "What is the annual limit for a resident to spend and invest abroad under the LRS?",
+    "reveal_id": "92d818f21bbd41ef8c47757b4ba5d704",
+    "article_title": "Maharaja Ranjit Singh Hockey Academy Revival",
+    "question": "Why was the Maharaja Ranjit Singh Hockey Academy closed?",
     "answer_label": "B",
-    "answer_text": "$250,000",
-    "explanation": "The RBI's liberalised remittance scheme sets a limit of $250,000 per year for residents to spend and invest abroad.",
-    "due_at": "2026-05-15T08:14:11.158276+00:00"
+    "answer_text": "Covid-19 pandemic",
+    "explanation": "The academy was closed due to an economic setback caused by the Covid-19 pandemic.",
+    "due_at": "2026-05-15T10:39:49.029553+00:00"
   },
   {
-    "reveal_id": "c47f8b93fda7474888ff9f158132c06a",
-    "article_title": "I-T Department Monitors Foreign Outflows",
-    "question": "How are individuals bypassing the LRS limit to transfer money abroad?",
+    "reveal_id": "7ab801139ea54678a05ee111ab34d221",
+    "article_title": "Maharaja Ranjit Singh Hockey Academy Revival",
+    "question": "How many players were selected during the recent trials?",
+    "answer_label": "D",
+    "answer_text": "60",
+    "explanation": "60 players were selected during the recent two-day trials held in Amritsar.",
+    "due_at": "2026-05-15T10:39:49.608686+00:00"
+  },
+  {
+    "reveal_id": "cff54c62597d45d8836a4f8a9efbbfce",
+    "article_title": "Indian Dhow Attacked in Omani Waters",
+    "question": "Where was the Indian dhow Haji Ali attacked?",
+    "answer_label": "B",
+    "answer_text": "In Omani waters",
+    "explanation": "The dhow was attacked in Omani waters while sailing from Somalia to Sharjah in the UAE.",
+    "due_at": "2026-05-15T10:39:56.318877+00:00"
+  },
+  {
+    "reveal_id": "efc1f754a81940a696061fcb4803a24e",
+    "article_title": "Indian Dhow Attacked in Omani Waters",
+    "question": "What was the origin and destination of the Indian dhow Haji Ali?",
+    "answer_label": "B",
+    "answer_text": "From Somalia to Sharjah in the UAE",
+    "explanation": "The dhow was sailing from Somalia to Sharjah in the UAE when it was attacked.",
+    "due_at": "2026-05-15T10:39:56.896385+00:00"
+  },
+  {
+    "reveal_id": "dd3b291b7a8d4be58de644e737c8112c",
+    "article_title": "Indian Dhow Attacked in Omani Waters",
+    "question": "What was the outcome for the crew of the Indian dhow Haji Ali after the attack?",
     "answer_label": "C",
-    "answer_text": "Using dozens of fake PANs",
-    "explanation": "Individuals are using dozens of fake permanent account numbers with the same name but different addresses and dates of birth to transfer money abroad.",
-    "due_at": "2026-05-15T08:14:11.749641+00:00"
+    "answer_text": "The crew was rescued",
+    "explanation": "Despite the ship sinking, the crew of the dhow was rescued after the attack.",
+    "due_at": "2026-05-15T10:39:57.470682+00:00"
   }
 ]
