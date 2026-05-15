@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "a1aacb1e1c0b4449a33ac1827b9f541b",
-    "article_title": "Super El Nin\u0303o 2026",
-    "question": "What is the expected intensity of the Super El Nin\u0303o event in 2026?",
+    "reveal_id": "7483b9ffaa8d4d72a85c05b37ce8d991",
+    "article_title": "US CLARITY Act and India's Crypto Future",
+    "question": "What is the main purpose of the US CLARITY Act?",
+    "answer_label": "B",
+    "answer_text": "To regulate cryptocurrencies",
+    "explanation": "The CLARITY Act aims to regulate cryptocurrencies amid industry tensions.",
+    "due_at": "2026-05-15T20:27:03.522168+00:00"
+  },
+  {
+    "reveal_id": "ad959618261344439107841dbf2f3941",
+    "article_title": "US CLARITY Act and India's Crypto Future",
+    "question": "Which committee advanced the CLARITY Act?",
+    "answer_label": "B",
+    "answer_text": "Senate Banking Committee",
+    "explanation": "The Senate Banking Committee advanced the CLARITY Act.",
+    "due_at": "2026-05-15T20:27:07.249905+00:00"
+  },
+  {
+    "reveal_id": "3c7c3209773b4f02b868301e88bdb753",
+    "article_title": "US CLARITY Act and India's Crypto Future",
+    "question": "What do experts say about crypto rules in India?",
+    "answer_label": "B",
+    "answer_text": "Rules should fit India's large market",
+    "explanation": "Experts say rules must fit India's large market for the crypto industry to grow.",
+    "due_at": "2026-05-15T20:27:07.895934+00:00"
+  },
+  {
+    "reveal_id": "7c6d0761730f49cd80beee37b466acbd",
+    "article_title": "India-UAE Strategic Cooperation",
+    "question": "What type of cooperation did India and the UAE agree on?",
     "answer_label": "C",
-    "answer_text": "Most intense since the 1870s",
-    "explanation": "The Super El Nin\u0303o event of 2026 is expected to be one of the most intense since the 1870s, making it a significant concern globally.",
-    "due_at": "2026-05-15T18:41:28.554768+00:00"
+    "answer_text": "Strategic defence cooperation and energy",
+    "explanation": "India and the UAE signed pacts on strategic defence cooperation and energy, including petroleum reserves and liquefied petroleum gas supply.",
+    "due_at": "2026-05-15T20:27:14.646180+00:00"
   },
   {
-    "reveal_id": "ff7b17d4a3ce4f48b2811867e0225ab6",
-    "article_title": "Super El Nin\u0303o 2026",
-    "question": "Which of the following countries is particularly vulnerable to the effects of Super El Nin\u0303o?",
-    "answer_label": "B",
-    "answer_text": "India",
-    "explanation": "India, being a densely populated country, is particularly vulnerable to the effects of Super El Nin\u0303o due to its geographical location and climate.",
-    "due_at": "2026-05-15T18:41:29.219233+00:00"
+    "reveal_id": "b3a3b7e3e6d24930a7f7e4ba791ea501",
+    "article_title": "India-UAE Strategic Cooperation",
+    "question": "How did PM Modi respond to attacks on the UAE?",
+    "answer_label": "A",
+    "answer_text": "He condemned the attacks and offered support for peace",
+    "explanation": "PM Modi denounced the attacks on the UAE and offered all support for peace.",
+    "due_at": "2026-05-15T20:27:15.234854+00:00"
   },
   {
-    "reveal_id": "34a4578264a241b4bd0d166f25a1e623",
-    "article_title": "Super El Nin\u0303o 2026",
-    "question": "What can be the potential effects of Super El Nin\u0303o on global food production?",
-    "answer_label": "D",
-    "answer_text": "Extreme weather conditions leading to crop failures",
-    "explanation": "Super El Nin\u0303o can lead to extreme weather conditions like droughts and floods, which can result in crop failures and decreased food production globally.",
-    "due_at": "2026-05-15T18:41:29.893920+00:00"
-  },
-  {
-    "reveal_id": "d4e89c84e5dd4e5e87c8006e4cdfa1ba",
-    "article_title": "Fuel Price Hike in India",
-    "question": "What was the recent change in petrol and diesel prices in India?",
+    "reveal_id": "23fe8bbcb15b4d2ea959158ba4786904",
+    "article_title": "India-UAE Strategic Cooperation",
+    "question": "What is the significance of India-UAE cooperation in the energy sector?",
     "answer_label": "C",
-    "answer_text": "Rs 3 per litre increase",
-    "explanation": "The recent fuel price hike was Rs 3 per litre for both petrol and diesel.",
-    "due_at": "2026-05-15T18:41:34.317201+00:00"
-  },
-  {
-    "reveal_id": "67988802729a4700bfce50ee004f6670",
-    "article_title": "Fuel Price Hike in India",
-    "question": "According to Mallikarjun Kharge, what is a major reason for India's economic crisis?",
-    "answer_label": "B",
-    "answer_text": "Modi government's leadership crisis",
-    "explanation": "Kharge alleged that the Modi government's leadership crisis is a major reason for India's economic crisis.",
-    "due_at": "2026-05-15T18:41:34.976054+00:00"
-  },
-  {
-    "reveal_id": "4301ef7de80c4e44adf1eccafea947c9",
-    "article_title": "Fuel Price Hike in India",
-    "question": "What measure has the Prime Minister suggested to conserve foreign exchange?",
-    "answer_label": "B",
-    "answer_text": "Using metro rail services and carpooling",
-    "explanation": "The Prime Minister suggested using metro rail services, carpooling, and working from home to conserve foreign exchange.",
-    "due_at": "2026-05-15T18:41:41.988801+00:00"
+    "answer_text": "It enhances India's energy security through diversified supply",
+    "explanation": "The cooperation between India and the UAE in the energy sector, including petroleum reserves and liquefied petroleum gas supply, can enhance India's energy security through a diversified supply.",
+    "due_at": "2026-05-15T20:27:15.798362+00:00"
   }
 ]
