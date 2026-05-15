@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "7483b9ffaa8d4d72a85c05b37ce8d991",
-    "article_title": "US CLARITY Act and India's Crypto Future",
-    "question": "What is the main purpose of the US CLARITY Act?",
+    "reveal_id": "6152e5eca425405690821f680ae13ae7",
+    "article_title": "Accenture and OpenAI Partnership for AI Adoption",
+    "question": "What is the primary objective of the Accenture and OpenAI partnership?",
     "answer_label": "B",
-    "answer_text": "To regulate cryptocurrencies",
-    "explanation": "The CLARITY Act aims to regulate cryptocurrencies amid industry tensions.",
-    "due_at": "2026-05-15T20:27:03.522168+00:00"
+    "answer_text": "To accelerate AI adoption in US federal agencies",
+    "explanation": "The partnership aims to accelerate AI adoption in US federal agencies, enabling rapid and secure deployment of AI systems.",
+    "due_at": "2026-05-15T21:46:49.674296+00:00"
   },
   {
-    "reveal_id": "ad959618261344439107841dbf2f3941",
-    "article_title": "US CLARITY Act and India's Crypto Future",
-    "question": "Which committee advanced the CLARITY Act?",
+    "reveal_id": "c5a7de44d2404d96a0f7214d74cdd0d5",
+    "article_title": "Accenture and OpenAI Partnership for AI Adoption",
+    "question": "What is the expected outcome of the Accenture and OpenAI partnership for US federal agencies?",
     "answer_label": "B",
-    "answer_text": "Senate Banking Committee",
-    "explanation": "The Senate Banking Committee advanced the CLARITY Act.",
-    "due_at": "2026-05-15T20:27:07.249905+00:00"
+    "answer_text": "Faster modernization of legacy systems and improved citizen services",
+    "explanation": "The partnership is expected to result in faster modernization of legacy systems and improved citizen services in the US.",
+    "due_at": "2026-05-15T21:46:50.343332+00:00"
   },
   {
-    "reveal_id": "3c7c3209773b4f02b868301e88bdb753",
-    "article_title": "US CLARITY Act and India's Crypto Future",
-    "question": "What do experts say about crypto rules in India?",
-    "answer_label": "B",
-    "answer_text": "Rules should fit India's large market",
-    "explanation": "Experts say rules must fit India's large market for the crypto industry to grow.",
-    "due_at": "2026-05-15T20:27:07.895934+00:00"
-  },
-  {
-    "reveal_id": "7c6d0761730f49cd80beee37b466acbd",
-    "article_title": "India-UAE Strategic Cooperation",
-    "question": "What type of cooperation did India and the UAE agree on?",
+    "reveal_id": "c2f1b58707464863aaa8c37bb4525cb6",
+    "article_title": "Accenture and OpenAI Partnership for AI Adoption",
+    "question": "What is the potential implication of the Accenture and OpenAI partnership for India's IT sector?",
     "answer_label": "C",
-    "answer_text": "Strategic defence cooperation and energy",
-    "explanation": "India and the UAE signed pacts on strategic defence cooperation and energy, including petroleum reserves and liquefied petroleum gas supply.",
-    "due_at": "2026-05-15T20:27:14.646180+00:00"
+    "answer_text": "Opportunities for collaboration and knowledge transfer",
+    "explanation": "The partnership signals opportunities for collaboration and knowledge transfer between US and Indian IT hubs, such as Gurugram.",
+    "due_at": "2026-05-15T21:46:51.007785+00:00"
   },
   {
-    "reveal_id": "b3a3b7e3e6d24930a7f7e4ba791ea501",
-    "article_title": "India-UAE Strategic Cooperation",
-    "question": "How did PM Modi respond to attacks on the UAE?",
-    "answer_label": "A",
-    "answer_text": "He condemned the attacks and offered support for peace",
-    "explanation": "PM Modi denounced the attacks on the UAE and offered all support for peace.",
-    "due_at": "2026-05-15T20:27:15.234854+00:00"
-  },
-  {
-    "reveal_id": "23fe8bbcb15b4d2ea959158ba4786904",
-    "article_title": "India-UAE Strategic Cooperation",
-    "question": "What is the significance of India-UAE cooperation in the energy sector?",
+    "reveal_id": "01a6894391e7432ca9aae8a69ad96fa3",
+    "article_title": "RBI Underwriting Auction Result",
+    "question": "What was the notified amount for the underwriting auction?",
     "answer_label": "C",
-    "answer_text": "It enhances India's energy security through diversified supply",
-    "explanation": "The cooperation between India and the UAE in the energy sector, including petroleum reserves and liquefied petroleum gas supply, can enhance India's energy security through a diversified supply.",
-    "due_at": "2026-05-15T20:27:15.798362+00:00"
+    "answer_text": "Rs 32,000 crore",
+    "explanation": "The notified amount was Rs 32,000 crore, as per the RBI release.",
+    "due_at": "2026-05-15T21:46:58.287394+00:00"
+  },
+  {
+    "reveal_id": "346617e1e9e64948a7df5b374e078630",
+    "article_title": "RBI Underwriting Auction Result",
+    "question": "Which organization conducted the underwriting auction?",
+    "answer_label": "B",
+    "answer_text": "RBI",
+    "explanation": "The RBI conducted the underwriting auction for government securities.",
+    "due_at": "2026-05-15T21:46:58.929450+00:00"
+  },
+  {
+    "reveal_id": "6e0ff7e480dd4fcea68b77a26d19b6d6",
+    "article_title": "RBI Underwriting Auction Result",
+    "question": "What type of securities were underwriting auction conducted for?",
+    "answer_label": "B",
+    "answer_text": "Government securities",
+    "explanation": "The underwriting auction was conducted for Government of India securities.",
+    "due_at": "2026-05-15T21:47:05.924417+00:00"
   }
 ]
