@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "2117c0ecfac0408d866fa957a627499d",
-    "article_title": "ECI Announces Phase 3 of Electoral Roll Revision",
-    "question": "What is the purpose of the Special Intensive Revision of electoral rolls?",
+    "reveal_id": "a9e756217a9c4b539cb95f20eae103a8",
+    "article_title": "Skyworth and Jaina Group Form JV for Panasonic TVs",
+    "question": "Which company has teamed up with Jaina Group to manufacture Panasonic TVs in India?",
+    "answer_label": "A",
+    "answer_text": "Skyworth Group",
+    "explanation": "Skyworth Group from China has partnered with Jaina Group to manufacture Panasonic televisions in India.",
+    "due_at": "2026-05-15T08:13:59.168591+00:00"
+  },
+  {
+    "reveal_id": "b6de046d82c645a8bbb524a606ddac70",
+    "article_title": "Skyworth and Jaina Group Form JV for Panasonic TVs",
+    "question": "What is the expected outcome of the joint venture between Skyworth and Jaina Group?",
     "answer_label": "C",
-    "answer_text": "To update voter lists",
-    "explanation": "The Special Intensive Revision aims to update voter lists to ensure accuracy and fairness in elections.",
-    "due_at": "2026-05-15T05:02:22.132378+00:00"
+    "answer_text": "Enhancing local supply chains",
+    "explanation": "The joint venture aims to enhance local supply chains and bolster the Panasonic TV brand in India.",
+    "due_at": "2026-05-15T08:14:02.937499+00:00"
   },
   {
-    "reveal_id": "aeeff4df2d094f278b5d0095effbed0a",
-    "article_title": "ECI Announces Phase 3 of Electoral Roll Revision",
-    "question": "How many states are involved in Phase 3 of the Special Intensive Revision?",
+    "reveal_id": "bfb0db8bb307432f9a154b633d341ae5",
+    "article_title": "Skyworth and Jaina Group Form JV for Panasonic TVs",
+    "question": "What is the likely ownership structure of the joint venture between Skyworth and Jaina Group?",
+    "answer_label": "B",
+    "answer_text": "Jaina Group will own the majority share",
+    "explanation": "Jaina Group is likely to own the majority share in the joint venture with Skyworth Group.",
+    "due_at": "2026-05-15T08:14:03.526618+00:00"
+  },
+  {
+    "reveal_id": "17830e043156461aa8095c04e1fa5b03",
+    "article_title": "I-T Department Monitors Foreign Outflows",
+    "question": "What is the main reason for the I-T department to increase vigilance on foreign outflows?",
     "answer_label": "C",
-    "answer_text": "16 states",
-    "explanation": "The Election Commission of India announced the schedule for Phase 3 in 16 states and 3 union territories.",
-    "due_at": "2026-05-15T05:02:22.848737+00:00"
+    "answer_text": "Decline in rupee value",
+    "explanation": "The decline in rupee value makes it essential to monitor foreign outflows to prevent illegal transactions.",
+    "due_at": "2026-05-15T08:14:10.558420+00:00"
   },
   {
-    "reveal_id": "2bea3f31ea5b4133902a0fc6e6dad019",
-    "article_title": "ECI Announces Phase 3 of Electoral Roll Revision",
-    "question": "Which body announced the schedule for Phase 3 of the Special Intensive Revision?",
+    "reveal_id": "c5eefcf11ef6459683102e7f6577cdfd",
+    "article_title": "I-T Department Monitors Foreign Outflows",
+    "question": "What is the annual limit for a resident to spend and invest abroad under the LRS?",
     "answer_label": "B",
-    "answer_text": "Election Commission of India",
-    "explanation": "The Election Commission of India is responsible for conducting and supervising elections in India.",
-    "due_at": "2026-05-15T05:02:23.568990+00:00"
+    "answer_text": "$250,000",
+    "explanation": "The RBI's liberalised remittance scheme sets a limit of $250,000 per year for residents to spend and invest abroad.",
+    "due_at": "2026-05-15T08:14:11.158276+00:00"
   },
   {
-    "reveal_id": "e39087d735d341cc8fdb850c587a77f5",
-    "article_title": "Election Commission Independence",
-    "question": "What is necessary for free and fair elections according to the Supreme Court?",
-    "answer_label": "B",
-    "answer_text": "An independent Election Commission",
-    "explanation": "The Supreme Court stated that an independent Election Commission is necessary for free and fair elections.",
-    "due_at": "2026-05-15T05:02:30.972077+00:00"
-  },
-  {
-    "reveal_id": "a33224ed5b0f4fa3b70702a73a8f9847",
-    "article_title": "Election Commission Independence",
-    "question": "Who appoints the Chief Election Commissioner and Election Commissioners according to the new law?",
+    "reveal_id": "c47f8b93fda7474888ff9f158132c06a",
+    "article_title": "I-T Department Monitors Foreign Outflows",
+    "question": "How are individuals bypassing the LRS limit to transfer money abroad?",
     "answer_label": "C",
-    "answer_text": "The President on the recommendation of a Selection Committee",
-    "explanation": "The new law mandates that the CEC and ECs are appointed by the President on the recommendation of a Selection Committee.",
-    "due_at": "2026-05-15T05:02:31.717478+00:00"
-  },
-  {
-    "reveal_id": "56d9ab9d4c7545d5b043abff1b9f3671",
-    "article_title": "Election Commission Independence",
-    "question": "What is the composition of the Selection Committee for appointing the CEC and ECs?",
-    "answer_label": "B",
-    "answer_text": "The Prime Minister, a Union Cabinet Minister, and the Leader of Opposition",
-    "explanation": "The Selection Committee consists of the Prime Minister, a Union Cabinet Minister, and the Leader of Opposition in the Lok Sabha.",
-    "due_at": "2026-05-15T05:02:38.823027+00:00"
+    "answer_text": "Using dozens of fake PANs",
+    "explanation": "Individuals are using dozens of fake permanent account numbers with the same name but different addresses and dates of birth to transfer money abroad.",
+    "due_at": "2026-05-15T08:14:11.749641+00:00"
   }
 ]
