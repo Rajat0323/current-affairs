@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "5def97bf169949b4840ac24b335b1456",
-    "article_title": "Indian Cargo Vessel Sinks Off Oman",
-    "question": "What was the suspected cause of the Indian cargo vessel sinking off Oman?",
-    "answer_label": "B",
-    "answer_text": "Drone or missile attack",
-    "explanation": "The vessel sank due to a suspected drone or missile attack, as reported by India's shipping ministry.",
-    "due_at": "2026-05-15T12:45:42.913313+00:00"
+    "reveal_id": "a0b03f82072f4d9fa2ca3a217543d78a",
+    "article_title": "PM Modi's Meeting on Fuel Conservation",
+    "question": "What is the main agenda of PM Modi's meeting on May 21?",
+    "answer_label": "D",
+    "answer_text": "All of the above",
+    "explanation": "The meeting will cover multiple topics including fuel conservation, cabinet reshuffle, and geopolitical situation review.",
+    "due_at": "2026-05-15T15:11:48.718168+00:00"
   },
   {
-    "reveal_id": "b91463022a324554baca7bcef4f74aec",
-    "article_title": "Indian Cargo Vessel Sinks Off Oman",
-    "question": "Where was the Indian-flagged cargo vessel headed when the incident occurred?",
+    "reveal_id": "412f25f51b6f45978267b811d4da5269",
+    "article_title": "PM Modi's Meeting on Fuel Conservation",
+    "question": "Why is the geopolitical situation important for India?",
     "answer_label": "B",
-    "answer_text": "United Arab Emirates",
-    "explanation": "The vessel was sailing from Somalia to the United Arab Emirates when the incident occurred.",
-    "due_at": "2026-05-15T12:45:43.597971+00:00"
+    "answer_text": "It impacts India's energy security",
+    "explanation": "India's energy security is closely linked to global geopolitical developments, especially in the energy and fuel sectors.",
+    "due_at": "2026-05-15T15:11:52.484192+00:00"
   },
   {
-    "reveal_id": "fa154c7a32d34ac9b4b9d5f14fcf74f6",
-    "article_title": "Indian Cargo Vessel Sinks Off Oman",
-    "question": "What is the broader context of the maritime security threats in the region?",
+    "reveal_id": "4c5a7b9352494d68885050912cb6f8ee",
+    "article_title": "PM Modi's Meeting on Fuel Conservation",
+    "question": "What is one possible outcome of the meeting on May 21?",
     "answer_label": "B",
-    "answer_text": "Iran conflict",
-    "explanation": "The incident highlights the escalating maritime security threats linked to the ongoing Iran conflict.",
-    "due_at": "2026-05-15T12:45:44.305649+00:00"
+    "answer_text": "Cabinet reshuffle",
+    "explanation": "The meeting is expected to discuss a cabinet reshuffle among other topics.",
+    "due_at": "2026-05-15T15:11:53.088741+00:00"
   },
   {
-    "reveal_id": "f62c799823e74023b5c50d4cc3b803eb",
-    "article_title": "India-Pakistan Dialogue",
-    "question": "Who supported the RSS leader's comments on dialogue with Pakistan?",
-    "answer_label": "A",
-    "answer_text": "Farooq Abdullah",
-    "explanation": "Farooq Abdullah, the National Conference president, backed the RSS leader's comments on dialogue with Pakistan.",
-    "due_at": "2026-05-15T12:45:48.796090+00:00"
+    "reveal_id": "4dac0ceb8463434588914074c263a21d",
+    "article_title": "Election Commission Rolls Out SIR in Punjab",
+    "question": "What is the purpose of the Special Intensive Revision of electoral rolls?",
+    "answer_label": "B",
+    "answer_text": "To remove duplicate or ineligible voters",
+    "explanation": "The Special Intensive Revision aims to ensure the accuracy and integrity of electoral rolls by removing duplicate or ineligible voters.",
+    "due_at": "2026-05-15T15:11:59.946647+00:00"
   },
   {
-    "reveal_id": "648cd138f8ac44199ed635f4982fd51e",
-    "article_title": "India-Pakistan Dialogue",
-    "question": "What is the suggested way to resolve conflicts according to Farooq Abdullah?",
+    "reveal_id": "9a698fa37ae04ea6b399b551ddaa99a7",
+    "article_title": "Election Commission Rolls Out SIR in Punjab",
+    "question": "When will the voter verification process start in Punjab?",
     "answer_label": "B",
-    "answer_text": "Dialogue",
-    "explanation": "Farooq Abdullah believes that dialogue remains the only way to resolve conflicts across the world.",
-    "due_at": "2026-05-15T12:45:49.488519+00:00"
+    "answer_text": "June 15",
+    "explanation": "The voter verification process is scheduled to begin on June 15.",
+    "due_at": "2026-05-15T15:12:00.585419+00:00"
   },
   {
-    "reveal_id": "52fabcc317114ec0876ed89345eb09e3",
-    "article_title": "India-Pakistan Dialogue",
-    "question": "Who also welcomed the statement by RSS General Secretary Dattatreya Hosabale?",
-    "answer_label": "B",
-    "answer_text": "Mehbooba Mufti",
-    "explanation": "Mehbooba Mufti, the PDP Chief, welcomed the statement by RSS General Secretary Dattatreya Hosabale calling for dialogue with Pakistan.",
-    "due_at": "2026-05-15T12:45:50.183253+00:00"
+    "reveal_id": "dc50c0a7eeb146c2b67790dbca2c8a23",
+    "article_title": "Election Commission Rolls Out SIR in Punjab",
+    "question": "When will the final electoral roll be published in Punjab?",
+    "answer_label": "C",
+    "answer_text": "October 1",
+    "explanation": "The final electoral roll will be published on October 1, ahead of the state assembly elections.",
+    "due_at": "2026-05-15T15:12:01.191513+00:00"
   }
 ]
