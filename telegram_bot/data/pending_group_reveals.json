@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "6152e5eca425405690821f680ae13ae7",
-    "article_title": "Accenture and OpenAI Partnership for AI Adoption",
-    "question": "What is the primary objective of the Accenture and OpenAI partnership?",
-    "answer_label": "B",
-    "answer_text": "To accelerate AI adoption in US federal agencies",
-    "explanation": "The partnership aims to accelerate AI adoption in US federal agencies, enabling rapid and secure deployment of AI systems.",
-    "due_at": "2026-05-15T21:46:49.674296+00:00"
+    "reveal_id": "8bfd45e38d324a079e081e427d4c6e6d",
+    "article_title": "Prateek Kuhad's New Album",
+    "question": "What is the title of Prateek Kuhad's new album?",
+    "answer_label": "A",
+    "answer_text": "Full Moon Chamber",
+    "explanation": "The album title is mentioned in the article as 'Full Moon Chamber'.",
+    "due_at": "2026-05-15T22:45:09.039476+00:00"
   },
   {
-    "reveal_id": "c5a7de44d2404d96a0f7214d74cdd0d5",
-    "article_title": "Accenture and OpenAI Partnership for AI Adoption",
-    "question": "What is the expected outcome of the Accenture and OpenAI partnership for US federal agencies?",
+    "reveal_id": "de6aa6d0919a40c5ad33b6a2fad519df",
+    "article_title": "Prateek Kuhad's New Album",
+    "question": "What is the name of Prateek Kuhad's new song?",
     "answer_label": "B",
-    "answer_text": "Faster modernization of legacy systems and improved citizen services",
-    "explanation": "The partnership is expected to result in faster modernization of legacy systems and improved citizen services in the US.",
-    "due_at": "2026-05-15T21:46:50.343332+00:00"
+    "answer_text": "Blush",
+    "explanation": "The new song is mentioned in the article as 'Blush'.",
+    "due_at": "2026-05-15T22:45:09.715642+00:00"
   },
   {
-    "reveal_id": "c2f1b58707464863aaa8c37bb4525cb6",
-    "article_title": "Accenture and OpenAI Partnership for AI Adoption",
-    "question": "What is the potential implication of the Accenture and OpenAI partnership for India's IT sector?",
+    "reveal_id": "8a43cc9a6c4646d6b0f410cc9640ee9d",
+    "article_title": "Prateek Kuhad's New Album",
+    "question": "When was Prateek Kuhad's last full-length album released?",
     "answer_label": "C",
-    "answer_text": "Opportunities for collaboration and knowledge transfer",
-    "explanation": "The partnership signals opportunities for collaboration and knowledge transfer between US and Indian IT hubs, such as Gurugram.",
-    "due_at": "2026-05-15T21:46:51.007785+00:00"
+    "answer_text": "2022",
+    "explanation": "The article mentions that Prateek Kuhad's last full-length album was released in 2022.",
+    "due_at": "2026-05-15T22:45:10.388490+00:00"
   },
   {
-    "reveal_id": "01a6894391e7432ca9aae8a69ad96fa3",
-    "article_title": "RBI Underwriting Auction Result",
-    "question": "What was the notified amount for the underwriting auction?",
-    "answer_label": "C",
-    "answer_text": "Rs 32,000 crore",
-    "explanation": "The notified amount was Rs 32,000 crore, as per the RBI release.",
-    "due_at": "2026-05-15T21:46:58.287394+00:00"
-  },
-  {
-    "reveal_id": "346617e1e9e64948a7df5b374e078630",
-    "article_title": "RBI Underwriting Auction Result",
-    "question": "Which organization conducted the underwriting auction?",
+    "reveal_id": "4819aca3d56b4dd288396c62a0bb0544",
+    "article_title": "Maharashtra Reduces VAT on Aviation Fuel",
+    "question": "What is the new VAT rate on aviation fuel in Maharashtra?",
     "answer_label": "B",
-    "answer_text": "RBI",
-    "explanation": "The RBI conducted the underwriting auction for government securities.",
-    "due_at": "2026-05-15T21:46:58.929450+00:00"
+    "answer_text": "7%",
+    "explanation": "The new VAT rate on aviation fuel in Maharashtra is 7%, reduced from 18% for six months.",
+    "due_at": "2026-05-15T22:45:17.876817+00:00"
   },
   {
-    "reveal_id": "6e0ff7e480dd4fcea68b77a26d19b6d6",
-    "article_title": "RBI Underwriting Auction Result",
-    "question": "What type of securities were underwriting auction conducted for?",
+    "reveal_id": "17bd65175b8345d99da868639b08d856",
+    "article_title": "Maharashtra Reduces VAT on Aviation Fuel",
+    "question": "What is the expected outcome of reducing VAT on aviation fuel?",
     "answer_label": "B",
-    "answer_text": "Government securities",
-    "explanation": "The underwriting auction was conducted for Government of India securities.",
-    "due_at": "2026-05-15T21:47:05.924417+00:00"
+    "answer_text": "Stabilization of airfares",
+    "explanation": "The reduction in VAT on aviation fuel is expected to stabilize airfares, making air travel more affordable for consumers.",
+    "due_at": "2026-05-15T22:45:18.550545+00:00"
+  },
+  {
+    "reveal_id": "5048b908fc5742afa19be8552f285049",
+    "article_title": "Maharashtra Reduces VAT on Aviation Fuel",
+    "question": "How long will the reduced VAT rate on aviation fuel be in effect?",
+    "answer_label": "B",
+    "answer_text": "6 months",
+    "explanation": "The reduced VAT rate on aviation fuel will be in effect for six months, starting from May 15.",
+    "due_at": "2026-05-15T22:45:25.568217+00:00"
   }
 ]
