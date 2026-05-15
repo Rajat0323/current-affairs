@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "35ad490bdb784613b31efe4e6dc462bf",
-    "article_title": "Maharaja Ranjit Singh Hockey Academy Revival",
-    "question": "Where is the Maharaja Ranjit Singh Hockey Academy located?",
+    "reveal_id": "5def97bf169949b4840ac24b335b1456",
+    "article_title": "Indian Cargo Vessel Sinks Off Oman",
+    "question": "What was the suspected cause of the Indian cargo vessel sinking off Oman?",
     "answer_label": "B",
-    "answer_text": "Amritsar",
-    "explanation": "The academy is located in Amritsar, as mentioned in the article.",
-    "due_at": "2026-05-15T10:39:45.278191+00:00"
+    "answer_text": "Drone or missile attack",
+    "explanation": "The vessel sank due to a suspected drone or missile attack, as reported by India's shipping ministry.",
+    "due_at": "2026-05-15T12:45:42.913313+00:00"
   },
   {
-    "reveal_id": "92d818f21bbd41ef8c47757b4ba5d704",
-    "article_title": "Maharaja Ranjit Singh Hockey Academy Revival",
-    "question": "Why was the Maharaja Ranjit Singh Hockey Academy closed?",
+    "reveal_id": "b91463022a324554baca7bcef4f74aec",
+    "article_title": "Indian Cargo Vessel Sinks Off Oman",
+    "question": "Where was the Indian-flagged cargo vessel headed when the incident occurred?",
     "answer_label": "B",
-    "answer_text": "Covid-19 pandemic",
-    "explanation": "The academy was closed due to an economic setback caused by the Covid-19 pandemic.",
-    "due_at": "2026-05-15T10:39:49.029553+00:00"
+    "answer_text": "United Arab Emirates",
+    "explanation": "The vessel was sailing from Somalia to the United Arab Emirates when the incident occurred.",
+    "due_at": "2026-05-15T12:45:43.597971+00:00"
   },
   {
-    "reveal_id": "7ab801139ea54678a05ee111ab34d221",
-    "article_title": "Maharaja Ranjit Singh Hockey Academy Revival",
-    "question": "How many players were selected during the recent trials?",
-    "answer_label": "D",
-    "answer_text": "60",
-    "explanation": "60 players were selected during the recent two-day trials held in Amritsar.",
-    "due_at": "2026-05-15T10:39:49.608686+00:00"
-  },
-  {
-    "reveal_id": "cff54c62597d45d8836a4f8a9efbbfce",
-    "article_title": "Indian Dhow Attacked in Omani Waters",
-    "question": "Where was the Indian dhow Haji Ali attacked?",
+    "reveal_id": "fa154c7a32d34ac9b4b9d5f14fcf74f6",
+    "article_title": "Indian Cargo Vessel Sinks Off Oman",
+    "question": "What is the broader context of the maritime security threats in the region?",
     "answer_label": "B",
-    "answer_text": "In Omani waters",
-    "explanation": "The dhow was attacked in Omani waters while sailing from Somalia to Sharjah in the UAE.",
-    "due_at": "2026-05-15T10:39:56.318877+00:00"
+    "answer_text": "Iran conflict",
+    "explanation": "The incident highlights the escalating maritime security threats linked to the ongoing Iran conflict.",
+    "due_at": "2026-05-15T12:45:44.305649+00:00"
   },
   {
-    "reveal_id": "efc1f754a81940a696061fcb4803a24e",
-    "article_title": "Indian Dhow Attacked in Omani Waters",
-    "question": "What was the origin and destination of the Indian dhow Haji Ali?",
+    "reveal_id": "f62c799823e74023b5c50d4cc3b803eb",
+    "article_title": "India-Pakistan Dialogue",
+    "question": "Who supported the RSS leader's comments on dialogue with Pakistan?",
+    "answer_label": "A",
+    "answer_text": "Farooq Abdullah",
+    "explanation": "Farooq Abdullah, the National Conference president, backed the RSS leader's comments on dialogue with Pakistan.",
+    "due_at": "2026-05-15T12:45:48.796090+00:00"
+  },
+  {
+    "reveal_id": "648cd138f8ac44199ed635f4982fd51e",
+    "article_title": "India-Pakistan Dialogue",
+    "question": "What is the suggested way to resolve conflicts according to Farooq Abdullah?",
     "answer_label": "B",
-    "answer_text": "From Somalia to Sharjah in the UAE",
-    "explanation": "The dhow was sailing from Somalia to Sharjah in the UAE when it was attacked.",
-    "due_at": "2026-05-15T10:39:56.896385+00:00"
+    "answer_text": "Dialogue",
+    "explanation": "Farooq Abdullah believes that dialogue remains the only way to resolve conflicts across the world.",
+    "due_at": "2026-05-15T12:45:49.488519+00:00"
   },
   {
-    "reveal_id": "dd3b291b7a8d4be58de644e737c8112c",
-    "article_title": "Indian Dhow Attacked in Omani Waters",
-    "question": "What was the outcome for the crew of the Indian dhow Haji Ali after the attack?",
-    "answer_label": "C",
-    "answer_text": "The crew was rescued",
-    "explanation": "Despite the ship sinking, the crew of the dhow was rescued after the attack.",
-    "due_at": "2026-05-15T10:39:57.470682+00:00"
+    "reveal_id": "52fabcc317114ec0876ed89345eb09e3",
+    "article_title": "India-Pakistan Dialogue",
+    "question": "Who also welcomed the statement by RSS General Secretary Dattatreya Hosabale?",
+    "answer_label": "B",
+    "answer_text": "Mehbooba Mufti",
+    "explanation": "Mehbooba Mufti, the PDP Chief, welcomed the statement by RSS General Secretary Dattatreya Hosabale calling for dialogue with Pakistan.",
+    "due_at": "2026-05-15T12:45:50.183253+00:00"
   }
 ]
