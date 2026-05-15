@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "ba50f733109e4f9cb9dcb4fd8f12a26d",
-    "article_title": "Seniority-Based Appointment in TVVP",
-    "question": "What are Telangana government doctors urging the administration to consider for the appointment of a new commissioner of TVVP?",
-    "answer_label": "B",
-    "answer_text": "Seniority-based appointment",
-    "explanation": "The doctors are urging the administration to consider seniority as the basis for the appointment to ensure fairness and transparency.",
-    "due_at": "2026-05-15T17:00:09.356971+00:00"
-  },
-  {
-    "reveal_id": "7beb2cc22ed94a428457c24381135407",
-    "article_title": "Seniority-Based Appointment in TVVP",
-    "question": "What is the context of the demand for a new commissioner of TVVP?",
-    "answer_label": "B",
-    "answer_text": "Retirement of the current commissioner",
-    "explanation": "The current commissioner of TVVP is set to retire, prompting the need for a new appointment.",
-    "due_at": "2026-05-15T17:00:10.210944+00:00"
-  },
-  {
-    "reveal_id": "2e798338875d40c9a71733a0117592c2",
-    "article_title": "Seniority-Based Appointment in TVVP",
-    "question": "What is TVVP?",
-    "answer_label": "A",
-    "answer_text": "Telangana Vaidya Vidhana Parishad",
-    "explanation": "TVVP stands for Telangana Vaidya Vidhana Parishad, which is a healthcare services organization in Telangana.",
-    "due_at": "2026-05-15T17:00:10.921324+00:00"
-  },
-  {
-    "reveal_id": "d78da2448a994617a6bb32a702603bb5",
-    "article_title": "Petrol and Diesel Price Hike",
-    "question": "Which party criticized the Modi government over the petrol and diesel price hike?",
-    "answer_label": "B",
-    "answer_text": "Indian National Congress",
-    "explanation": "The Indian National Congress criticized the Modi government over the petrol and diesel price hike, as per the given article.",
-    "due_at": "2026-05-15T17:00:15.376607+00:00"
-  },
-  {
-    "reveal_id": "abe9c3589e4e414bb7427223580cf515",
-    "article_title": "Petrol and Diesel Price Hike",
-    "question": "What is the potential impact of the petrol and diesel price hike on India's economy?",
+    "reveal_id": "a1aacb1e1c0b4449a33ac1827b9f541b",
+    "article_title": "Super El Nin\u0303o 2026",
+    "question": "What is the expected intensity of the Super El Nin\u0303o event in 2026?",
     "answer_label": "C",
-    "answer_text": "Negative impact on economic growth",
-    "explanation": "The price hike may negatively impact India's economic growth outlook, as warned by the Indian National Congress.",
-    "due_at": "2026-05-15T17:00:16.071585+00:00"
+    "answer_text": "Most intense since the 1870s",
+    "explanation": "The Super El Nin\u0303o event of 2026 is expected to be one of the most intense since the 1870s, making it a significant concern globally.",
+    "due_at": "2026-05-15T18:41:28.554768+00:00"
   },
   {
-    "reveal_id": "ac9dad77304a43cfa865693fd4212c97",
-    "article_title": "Petrol and Diesel Price Hike",
-    "question": "What is the current state of international crude oil prices?",
+    "reveal_id": "ff7b17d4a3ce4f48b2811867e0225ab6",
+    "article_title": "Super El Nin\u0303o 2026",
+    "question": "Which of the following countries is particularly vulnerable to the effects of Super El Nin\u0303o?",
+    "answer_label": "B",
+    "answer_text": "India",
+    "explanation": "India, being a densely populated country, is particularly vulnerable to the effects of Super El Nin\u0303o due to its geographical location and climate.",
+    "due_at": "2026-05-15T18:41:29.219233+00:00"
+  },
+  {
+    "reveal_id": "34a4578264a241b4bd0d166f25a1e623",
+    "article_title": "Super El Nin\u0303o 2026",
+    "question": "What can be the potential effects of Super El Nin\u0303o on global food production?",
+    "answer_label": "D",
+    "answer_text": "Extreme weather conditions leading to crop failures",
+    "explanation": "Super El Nin\u0303o can lead to extreme weather conditions like droughts and floods, which can result in crop failures and decreased food production globally.",
+    "due_at": "2026-05-15T18:41:29.893920+00:00"
+  },
+  {
+    "reveal_id": "d4e89c84e5dd4e5e87c8006e4cdfa1ba",
+    "article_title": "Fuel Price Hike in India",
+    "question": "What was the recent change in petrol and diesel prices in India?",
     "answer_label": "C",
-    "answer_text": "Soft or declining",
-    "explanation": "Despite international crude oil prices remaining soft or declining, the petrol and diesel prices were hiked in India.",
-    "due_at": "2026-05-15T17:00:23.149792+00:00"
+    "answer_text": "Rs 3 per litre increase",
+    "explanation": "The recent fuel price hike was Rs 3 per litre for both petrol and diesel.",
+    "due_at": "2026-05-15T18:41:34.317201+00:00"
+  },
+  {
+    "reveal_id": "67988802729a4700bfce50ee004f6670",
+    "article_title": "Fuel Price Hike in India",
+    "question": "According to Mallikarjun Kharge, what is a major reason for India's economic crisis?",
+    "answer_label": "B",
+    "answer_text": "Modi government's leadership crisis",
+    "explanation": "Kharge alleged that the Modi government's leadership crisis is a major reason for India's economic crisis.",
+    "due_at": "2026-05-15T18:41:34.976054+00:00"
+  },
+  {
+    "reveal_id": "4301ef7de80c4e44adf1eccafea947c9",
+    "article_title": "Fuel Price Hike in India",
+    "question": "What measure has the Prime Minister suggested to conserve foreign exchange?",
+    "answer_label": "B",
+    "answer_text": "Using metro rail services and carpooling",
+    "explanation": "The Prime Minister suggested using metro rail services, carpooling, and working from home to conserve foreign exchange.",
+    "due_at": "2026-05-15T18:41:41.988801+00:00"
   }
 ]
