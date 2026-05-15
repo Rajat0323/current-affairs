@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "b96a6c2424a840789d8420cefd9219cb",
-    "article_title": "Kerala Government and BJP Allegations",
-    "question": "What is the BJP's claim about the Kerala government?",
+    "reveal_id": "2117c0ecfac0408d866fa957a627499d",
+    "article_title": "ECI Announces Phase 3 of Electoral Roll Revision",
+    "question": "What is the purpose of the Special Intensive Revision of electoral rolls?",
     "answer_label": "C",
-    "answer_text": "It is controlled from Delhi",
-    "explanation": "The BJP claims the Kerala government is being controlled from Delhi due to alliance pressure.",
-    "due_at": "2026-05-15T00:44:40.856920+00:00"
+    "answer_text": "To update voter lists",
+    "explanation": "The Special Intensive Revision aims to update voter lists to ensure accuracy and fairness in elections.",
+    "due_at": "2026-05-15T05:02:22.132378+00:00"
   },
   {
-    "reveal_id": "a98f4b4a1415444e95aea8f9b18e4a9a",
-    "article_title": "Kerala Government and BJP Allegations",
-    "question": "Which party is alleged to have pressured the selection of the Kerala CM?",
+    "reveal_id": "aeeff4df2d094f278b5d0095effbed0a",
+    "article_title": "ECI Announces Phase 3 of Electoral Roll Revision",
+    "question": "How many states are involved in Phase 3 of the Special Intensive Revision?",
+    "answer_label": "C",
+    "answer_text": "16 states",
+    "explanation": "The Election Commission of India announced the schedule for Phase 3 in 16 states and 3 union territories.",
+    "due_at": "2026-05-15T05:02:22.848737+00:00"
+  },
+  {
+    "reveal_id": "2bea3f31ea5b4133902a0fc6e6dad019",
+    "article_title": "ECI Announces Phase 3 of Electoral Roll Revision",
+    "question": "Which body announced the schedule for Phase 3 of the Special Intensive Revision?",
     "answer_label": "B",
-    "answer_text": "IUML",
-    "explanation": "The BJP claims the decision was taken under pressure from the IUML.",
-    "due_at": "2026-05-15T00:44:44.675351+00:00"
+    "answer_text": "Election Commission of India",
+    "explanation": "The Election Commission of India is responsible for conducting and supervising elections in India.",
+    "due_at": "2026-05-15T05:02:23.568990+00:00"
   },
   {
-    "reveal_id": "8a11376f4ac64032af47729e0246af81",
-    "article_title": "Kerala Government and BJP Allegations",
-    "question": "What is the implication of the BJP's claim on the Kerala government?",
-    "answer_label": "C",
-    "answer_text": "Questionable autonomy of state governments",
-    "explanation": "The claim raises questions about the autonomy of state governments in India.",
-    "due_at": "2026-05-15T00:44:45.282786+00:00"
-  },
-  {
-    "reveal_id": "0ec41f6a30cd49adbc97903ab71627f3",
-    "article_title": "Stock Market Gains on Thursday",
-    "question": "Which sectors led the gains in the Indian stock market on Thursday?",
+    "reveal_id": "e39087d735d341cc8fdb850c587a77f5",
+    "article_title": "Election Commission Independence",
+    "question": "What is necessary for free and fair elections according to the Supreme Court?",
     "answer_label": "B",
-    "answer_text": "Banks, metals, and pharma",
-    "explanation": "Banks, metals, and pharma sectors powered the gains in the Indian stock market on Thursday.",
-    "due_at": "2026-05-15T00:44:52.047568+00:00"
+    "answer_text": "An independent Election Commission",
+    "explanation": "The Supreme Court stated that an independent Election Commission is necessary for free and fair elections.",
+    "due_at": "2026-05-15T05:02:30.972077+00:00"
   },
   {
-    "reveal_id": "89cb311c9cb0418fbd8cd78ae2add6f9",
-    "article_title": "Stock Market Gains on Thursday",
-    "question": "What was the overall trend of the Indian stock market on Thursday?",
+    "reveal_id": "a33224ed5b0f4fa3b70702a73a8f9847",
+    "article_title": "Election Commission Independence",
+    "question": "Who appoints the Chief Election Commissioner and Election Commissioners according to the new law?",
     "answer_label": "C",
-    "answer_text": "It rose for the second day",
-    "explanation": "The Indian stock market rallied for the second day on Thursday.",
-    "due_at": "2026-05-15T00:44:52.647228+00:00"
+    "answer_text": "The President on the recommendation of a Selection Committee",
+    "explanation": "The new law mandates that the CEC and ECs are appointed by the President on the recommendation of a Selection Committee.",
+    "due_at": "2026-05-15T05:02:31.717478+00:00"
   },
   {
-    "reveal_id": "5967c0a36f55470696df794978be5a95",
-    "article_title": "Stock Market Gains on Thursday",
-    "question": "Which of the following stocks were among the big movers on Thursday?",
-    "answer_label": "A",
-    "answer_text": "NLC India, MCX, and Kaynes Technology",
-    "explanation": "NLC India, MCX, and Kaynes Technology were among the 6 big movers on Thursday.",
-    "due_at": "2026-05-15T00:44:53.255467+00:00"
+    "reveal_id": "56d9ab9d4c7545d5b043abff1b9f3671",
+    "article_title": "Election Commission Independence",
+    "question": "What is the composition of the Selection Committee for appointing the CEC and ECs?",
+    "answer_label": "B",
+    "answer_text": "The Prime Minister, a Union Cabinet Minister, and the Leader of Opposition",
+    "explanation": "The Selection Committee consists of the Prime Minister, a Union Cabinet Minister, and the Leader of Opposition in the Lok Sabha.",
+    "due_at": "2026-05-15T05:02:38.823027+00:00"
   }
 ]
