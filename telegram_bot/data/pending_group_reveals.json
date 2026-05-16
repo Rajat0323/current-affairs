@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "5c7ae9eac0064f1e91fb39da35427f64",
-    "article_title": "Dubai App Offers 15-Minute Sheep Delivery",
-    "question": "What is the unique delivery service offered by a Dubai app for Eid?",
+    "reveal_id": "5105539154ef44b387f5175b01518650",
+    "article_title": "Nifty Weekly Outlook",
+    "question": "What is the predicted trend for the Nifty index?",
     "answer_label": "B",
-    "answer_text": "15-minute sheep delivery",
-    "explanation": "The Dubai app is delivering sheep within 15 minutes for Eid, which is a unique and surprising service.",
-    "due_at": "2026-05-16T21:04:38.245338+00:00"
+    "answer_text": "Sideways to Mild Bullish",
+    "explanation": "The market is expected to see a sideways to mild bullish trend, with a 65% probability of continuation.",
+    "due_at": "2026-05-16T22:02:35.748211+00:00"
   },
   {
-    "reveal_id": "c99c98804ce34195816040b384080783",
-    "article_title": "Dubai App Offers 15-Minute Sheep Delivery",
-    "question": "Why is the 15-minute sheep delivery service significant?",
+    "reveal_id": "00941726c09e486b8d39e96f153ccae7",
+    "article_title": "Nifty Weekly Outlook",
+    "question": "What is the significance of the 23,450 level for the Nifty index?",
     "answer_label": "B",
-    "answer_text": "It reflects the growing demand for quick commerce",
-    "explanation": "The service reflects the growing demand for quick commerce and instant delivery, making it a significant development.",
-    "due_at": "2026-05-16T21:04:38.882387+00:00"
+    "answer_text": "It is a key support level",
+    "explanation": "The 23,450 level is a key support level, and a breakdown below this level may lead to a bearish trend.",
+    "due_at": "2026-05-16T22:02:39.518808+00:00"
   },
   {
-    "reveal_id": "a57461eb222d47ed884a35e961948822",
-    "article_title": "Dubai App Offers 15-Minute Sheep Delivery",
-    "question": "What is the reaction of the internet to the 15-minute sheep delivery service?",
+    "reveal_id": "3c8b83567e7e45c18d6953003e9ae13f",
+    "article_title": "Nifty Weekly Outlook",
+    "question": "What is the recommended approach for traders in the current market?",
     "answer_label": "B",
-    "answer_text": "Most people are surprised and questioning its reality",
-    "explanation": "The internet is reacting with surprise and questioning the reality of the 15-minute sheep delivery service, finding it hard to believe.",
-    "due_at": "2026-05-16T21:04:39.517483+00:00"
+    "answer_text": "Buy-on-dips strategy",
+    "explanation": "The recommended approach is to buy-on-dips, as smart money is buying dips but not chasing highs aggressively yet.",
+    "due_at": "2026-05-16T22:02:40.076551+00:00"
   },
   {
-    "reveal_id": "e6c8f968462741aabe62e1c0d6edd922",
-    "article_title": "NEET UG Exam Format Change",
-    "question": "What is the current format of the NEET UG exam?",
-    "answer_label": "B",
-    "answer_text": "Pen and Paper with OMR sheets",
-    "explanation": "The current format uses the traditional pen and paper method with OMR sheets.",
-    "due_at": "2026-05-16T21:04:46.920260+00:00"
+    "reveal_id": "0e8a0bb80ac0468b9d442b1eaad7123e",
+    "article_title": "Fuel Price Hike Impact",
+    "question": "Who stated that the fuel price hike will hurt the poor and middle class?",
+    "answer_label": "A",
+    "answer_text": "Mayawati",
+    "explanation": "Mayawati made this statement, emphasizing the need for government action to control inflation.",
+    "due_at": "2026-05-16T22:02:47.064043+00:00"
   },
   {
-    "reveal_id": "b177e776899e4f10bd5b928819d5922b",
-    "article_title": "NEET UG Exam Format Change",
-    "question": "Why is the NEET UG exam format being changed?",
+    "reveal_id": "08865aa071f64415ae72dbcb56820ea6",
+    "article_title": "Fuel Price Hike Impact",
+    "question": "What is the expected impact of the fuel price hike on the poor and middle class?",
+    "answer_label": "D",
+    "answer_text": "Increased costs of living",
+    "explanation": "The fuel price hike is expected to increase the costs of living for the poor and middle class.",
+    "due_at": "2026-05-16T22:02:47.635694+00:00"
+  },
+  {
+    "reveal_id": "504cc66a92ca4c439fcc27cfb763b9ce",
+    "article_title": "Fuel Price Hike Impact",
+    "question": "What action did Mayawati urge the government to take?",
     "answer_label": "C",
-    "answer_text": "To prevent paper leaks",
-    "explanation": "The change aims to prevent paper leaks and ensure a secure examination process.",
-    "due_at": "2026-05-16T21:04:47.573583+00:00"
-  },
-  {
-    "reveal_id": "f85b262398c14624b001df5c11e6e9dd",
-    "article_title": "NEET UG Exam Format Change",
-    "question": "Who announced the change in NEET UG exam format?",
-    "answer_label": "B",
-    "answer_text": "Union Education Minister",
-    "explanation": "Union Education Minister Dharmendra Pradhan announced the change in NEET UG exam format.",
-    "due_at": "2026-05-16T21:04:52.389200+00:00"
+    "answer_text": "Control inflation and provide relief",
+    "explanation": "Mayawati urged the government to control inflation and provide relief to the public.",
+    "due_at": "2026-05-16T22:02:48.219985+00:00"
   }
 ]
