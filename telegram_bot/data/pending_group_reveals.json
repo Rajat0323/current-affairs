@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "4770f12d439f47508dbb877c65e62c31",
-    "article_title": "Accident in Kakinada",
-    "question": "What happened in Kakinada?",
+    "reveal_id": "cffc69938fb54974ab65e2c8b2dba6bc",
+    "article_title": "Indian Navy Ship Visits Sri Lanka",
+    "question": "What is the name of the Indian Naval Ship that visited Sri Lanka?",
     "answer_label": "A",
-    "answer_text": "A lorry ran over women labourers",
-    "explanation": "A lorry struck women labourers in Kakinada, resulting in casualties.",
-    "due_at": "2026-05-16T19:07:21.854444+00:00"
+    "answer_text": "INS Sunayna",
+    "explanation": "The Indian Naval Ship Sunayna arrived in Colombo, Sri Lanka for a three-day visit.",
+    "due_at": "2026-05-16T20:17:36.737865+00:00"
   },
   {
-    "reveal_id": "a524072f178d45c0a5ce9428349172b9",
-    "article_title": "Accident in Kakinada",
-    "question": "How many women labourers died in the accident?",
+    "reveal_id": "3d58617179d843edbaed7b812c3c65ad",
+    "article_title": "Indian Navy Ship Visits Sri Lanka",
+    "question": "What is the purpose of the Indian Naval Ship's visit to Sri Lanka?",
     "answer_label": "B",
-    "answer_text": "Four",
-    "explanation": "Four women labourers died in the lorry accident in Kakinada.",
-    "due_at": "2026-05-16T19:07:25.623151+00:00"
+    "answer_text": "To strengthen maritime ties",
+    "explanation": "The visit aims to strengthen maritime ties between India and Sri Lanka.",
+    "due_at": "2026-05-16T20:17:37.422872+00:00"
   },
   {
-    "reveal_id": "5c37816c793f4b11900f6c232990e635",
-    "article_title": "Accident in Kakinada",
-    "question": "Where did the accident occur?",
-    "answer_label": "B",
-    "answer_text": "Kakinada",
-    "explanation": "The accident occurred in Kakinada, Andhra Pradesh.",
-    "due_at": "2026-05-16T19:07:26.209998+00:00"
-  },
-  {
-    "reveal_id": "66058f85cf81486abe7cad863771d203",
-    "article_title": "Army Chief's Warning to Pakistan",
-    "question": "What was the context of the Army Chief's warning to Pakistan?",
-    "answer_label": "B",
-    "answer_text": "Pakistan's harbouring of terrorists",
-    "explanation": "The Army Chief warned Pakistan to stop harbouring terrorists and operating against India, indicating that this is a major concern for India's national security.",
-    "due_at": "2026-05-16T19:07:33.106596+00:00"
-  },
-  {
-    "reveal_id": "36fd25288fac46598e0c74d666841e0e",
-    "article_title": "Army Chief's Warning to Pakistan",
-    "question": "What operation was referenced in the context of the Army Chief's warning?",
+    "reveal_id": "39b0c347ff3241f4aedf3498c8f90f70",
+    "article_title": "Indian Navy Ship Visits Sri Lanka",
+    "question": "What initiative is the Indian Naval Ship's visit to Sri Lanka part of?",
     "answer_label": "A",
-    "answer_text": "Operation Sindoor",
-    "explanation": "The Army Chief's warning was made in reference to circumstances that led to Operation Sindoor last year.",
-    "due_at": "2026-05-16T19:07:33.816368+00:00"
+    "answer_text": "IOS SAGAR",
+    "explanation": "The visit is part of the Indian Ocean Ship \u2013 Security and Growth for All in the Region (IOS SAGAR) initiative.",
+    "due_at": "2026-05-16T20:17:38.087415+00:00"
   },
   {
-    "reveal_id": "125fc74ba7fd407a8e61776b0df7e3bc",
-    "article_title": "Army Chief's Warning to Pakistan",
-    "question": "What is the implied consequence for Pakistan if they continue to harbour terrorists?",
-    "answer_label": "C",
-    "answer_text": "Loss of territory or reduction in geographical presence",
-    "explanation": "The Army Chief stated that if Pakistan continues to harbour terrorists, they will have to decide whether they want to be part of geography or history, implying a potential loss of territory.",
-    "due_at": "2026-05-16T19:07:34.404379+00:00"
+    "reveal_id": "9062ca3add0243828140a27bf8d56a3b",
+    "article_title": "India's SME Exporters Remain Optimistic",
+    "question": "Which institute released the Indian SME Family Business Trade Confidence and Internationalisation Report?",
+    "answer_label": "B",
+    "answer_text": "SPJIMR Mumbai",
+    "explanation": "The report was released by SPJIMR's Centre for Family Business & Entrepreneurship.",
+    "due_at": "2026-05-16T20:17:43.576330+00:00"
+  },
+  {
+    "reveal_id": "eae4684e3f224847b635f375d40d53bc",
+    "article_title": "India's SME Exporters Remain Optimistic",
+    "question": "What is the main focus of the Indian SME Family Business Trade Confidence and Internationalisation Report?",
+    "answer_label": "B",
+    "answer_text": "Export confidence among SME family businesses",
+    "explanation": "The report focuses on export confidence among India's SME family businesses.",
+    "due_at": "2026-05-16T20:17:44.242534+00:00"
+  },
+  {
+    "reveal_id": "43ab5407fe834c7e9a86c1d299e58870",
+    "article_title": "India's SME Exporters Remain Optimistic",
+    "question": "Which organization partnered with SPJIMR for the survey?",
+    "answer_label": "A",
+    "answer_text": "Hansa Research",
+    "explanation": "The survey was conducted in partnership with Hansa Research.",
+    "due_at": "2026-05-16T20:17:51.264756+00:00"
   }
 ]
