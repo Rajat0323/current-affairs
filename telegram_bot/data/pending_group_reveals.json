@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "055b2e633c7d404e831ea2996827d8db",
-    "article_title": "Supreme Court on Tenant and Landlord Rights",
-    "question": "According to the Supreme Court, what right does a tenant not have?",
+    "reveal_id": "4770f12d439f47508dbb877c65e62c31",
+    "article_title": "Accident in Kakinada",
+    "question": "What happened in Kakinada?",
     "answer_label": "A",
-    "answer_text": "To dictate which property the landlord should occupy",
-    "explanation": "The Supreme Court ruled that a tenant has no right to dictate which property a landlord should occupy.",
-    "due_at": "2026-05-16T17:58:39.386811+00:00"
+    "answer_text": "A lorry ran over women labourers",
+    "explanation": "A lorry struck women labourers in Kakinada, resulting in casualties.",
+    "due_at": "2026-05-16T19:07:21.854444+00:00"
   },
   {
-    "reveal_id": "5a60516b90b942378eb4a53a7036de80",
-    "article_title": "Supreme Court on Tenant and Landlord Rights",
-    "question": "What can be used to establish a landlord's genuine need for a property, according to the Supreme Court?",
-    "answer_label": "C",
-    "answer_text": "Oral family arrangements",
-    "explanation": "The Supreme Court said that oral family arrangements can be relied upon to prove a landlord's bona fide need for a property.",
-    "due_at": "2026-05-16T17:58:43.170068+00:00"
-  },
-  {
-    "reveal_id": "d393adda8ed84593b3c70dcb6e108010",
-    "article_title": "Supreme Court on Tenant and Landlord Rights",
-    "question": "Which court set aside the Bombay High Court judgment in this case?",
+    "reveal_id": "a524072f178d45c0a5ce9428349172b9",
+    "article_title": "Accident in Kakinada",
+    "question": "How many women labourers died in the accident?",
     "answer_label": "B",
-    "answer_text": "Supreme Court of India",
-    "explanation": "The Supreme Court of India set aside the Bombay High Court judgment and restored a 2007 eviction decree.",
-    "due_at": "2026-05-16T17:58:43.784577+00:00"
+    "answer_text": "Four",
+    "explanation": "Four women labourers died in the lorry accident in Kakinada.",
+    "due_at": "2026-05-16T19:07:25.623151+00:00"
   },
   {
-    "reveal_id": "eb3866738d70494e81d1a48a417955f4",
-    "article_title": "Yantra India Limited CMD Selection",
-    "question": "What was the outcome of the PESB interviews for Yantra India Limited CMD post?",
-    "answer_label": "C",
-    "answer_text": "No candidate was recommended",
-    "explanation": "The PESB did not recommend any of the three candidates interviewed for the post.",
-    "due_at": "2026-05-16T17:58:50.578416+00:00"
-  },
-  {
-    "reveal_id": "9a083522de844777a40b5b058a85bd3a",
-    "article_title": "Yantra India Limited CMD Selection",
-    "question": "What route has been advised by the PESB for the selection of Yantra India Limited CMD?",
+    "reveal_id": "5c37816c793f4b11900f6c232990e635",
+    "article_title": "Accident in Kakinada",
+    "question": "Where did the accident occur?",
     "answer_label": "B",
-    "answer_text": "Search-cum-Selection Committee",
-    "explanation": "The PESB has advised the administrative ministry to explore the Search-cum-Selection Committee route.",
-    "due_at": "2026-05-16T17:58:51.204687+00:00"
+    "answer_text": "Kakinada",
+    "explanation": "The accident occurred in Kakinada, Andhra Pradesh.",
+    "due_at": "2026-05-16T19:07:26.209998+00:00"
   },
   {
-    "reveal_id": "0d1bcf598bcc4e0ca269bf2620587044",
-    "article_title": "Yantra India Limited CMD Selection",
-    "question": "How many candidates were interviewed by the PESB for the Yantra India Limited CMD post?",
+    "reveal_id": "66058f85cf81486abe7cad863771d203",
+    "article_title": "Army Chief's Warning to Pakistan",
+    "question": "What was the context of the Army Chief's warning to Pakistan?",
+    "answer_label": "B",
+    "answer_text": "Pakistan's harbouring of terrorists",
+    "explanation": "The Army Chief warned Pakistan to stop harbouring terrorists and operating against India, indicating that this is a major concern for India's national security.",
+    "due_at": "2026-05-16T19:07:33.106596+00:00"
+  },
+  {
+    "reveal_id": "36fd25288fac46598e0c74d666841e0e",
+    "article_title": "Army Chief's Warning to Pakistan",
+    "question": "What operation was referenced in the context of the Army Chief's warning?",
+    "answer_label": "A",
+    "answer_text": "Operation Sindoor",
+    "explanation": "The Army Chief's warning was made in reference to circumstances that led to Operation Sindoor last year.",
+    "due_at": "2026-05-16T19:07:33.816368+00:00"
+  },
+  {
+    "reveal_id": "125fc74ba7fd407a8e61776b0df7e3bc",
+    "article_title": "Army Chief's Warning to Pakistan",
+    "question": "What is the implied consequence for Pakistan if they continue to harbour terrorists?",
     "answer_label": "C",
-    "answer_text": "Three",
-    "explanation": "The PESB interviewed three candidates for the Yantra India Limited CMD post.",
-    "due_at": "2026-05-16T17:58:51.824783+00:00"
+    "answer_text": "Loss of territory or reduction in geographical presence",
+    "explanation": "The Army Chief stated that if Pakistan continues to harbour terrorists, they will have to decide whether they want to be part of geography or history, implying a potential loss of territory.",
+    "due_at": "2026-05-16T19:07:34.404379+00:00"
   }
 ]
