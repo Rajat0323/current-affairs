@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "586f0724bcf44fc7b72ddd5816efc736",
-    "article_title": "Virat Kohli's Comments on Proving Worth",
-    "question": "Who did Virat Kohli seemingly take a dig at in the RCB podcast?",
-    "answer_label": "B",
-    "answer_text": "Gautam Gambhir and Ajit Agarkar",
-    "explanation": "Virat Kohli's comments were directed towards Gautam Gambhir and Ajit Agarkar, as per the article.",
-    "due_at": "2026-05-15T23:45:58.685052+00:00"
-  },
-  {
-    "reveal_id": "9d706ad6f62b41a38405a62eed73881c",
-    "article_title": "Virat Kohli's Comments on Proving Worth",
-    "question": "What upcoming event is Virat Kohli looking forward to?",
-    "answer_label": "B",
-    "answer_text": "2027 ODI World Cup",
-    "explanation": "The article mentions Virat Kohli gearing up for the 2027 World Cup.",
-    "due_at": "2026-05-15T23:45:59.353581+00:00"
-  },
-  {
-    "reveal_id": "4f9539a69faa495b850d2f5049607126",
-    "article_title": "Virat Kohli's Comments on Proving Worth",
-    "question": "What issue did Virat Kohli hint at during the podcast?",
+    "reveal_id": "9b4c6f68eee74d4681a10e3894aceb71",
+    "article_title": "Apple Seeks Relief from Amended Competition Act",
+    "question": "What is the main issue in the case between Apple and the Competition Commission of India?",
     "answer_label": "C",
-    "answer_text": "Up and down communication",
-    "explanation": "Virat Kohli hinted at 'up and down' communication, suggesting issues with team communication.",
-    "due_at": "2026-05-15T23:46:00.032739+00:00"
+    "answer_text": "Amended Competition Act",
+    "explanation": "The case revolves around Apple's challenge to the amendment to the Competition Act, 2002.",
+    "due_at": "2026-05-16T00:42:10.031615+00:00"
   },
   {
-    "reveal_id": "d75c1f60604d4e0e8360589349b4c3f4",
-    "article_title": "Attack on Indian Ship off Oman",
-    "question": "Where was the Indian ship attacked?",
+    "reveal_id": "6b907a1d6f984cee92d5409fea122cd9",
+    "article_title": "Apple Seeks Relief from Amended Competition Act",
+    "question": "Which court is hearing Apple's petition in this case?",
+    "answer_label": "B",
+    "answer_text": "Delhi High Court",
+    "explanation": "The Delhi High Court is hearing Apple's petition challenging the amendment to the Competition Act, 2002.",
+    "due_at": "2026-05-16T00:42:13.785178+00:00"
+  },
+  {
+    "reveal_id": "a4d93d165e5946eb9850bff51e0cd535",
+    "article_title": "Apple Seeks Relief from Amended Competition Act",
+    "question": "What is the significance of the amendment to the Competition Act, 2002, in this context?",
     "answer_label": "C",
-    "answer_text": "Off the coast of Oman",
-    "explanation": "The ship was attacked off the coast of Oman, as reported in the incident.",
-    "due_at": "2026-05-15T23:46:07.052553+00:00"
+    "answer_text": "It allows penalties based on global turnover",
+    "explanation": "The amendment allows the CCI to impose penalties based on a company's global turnover.",
+    "due_at": "2026-05-16T00:42:14.371701+00:00"
   },
   {
-    "reveal_id": "7c10fae7aec1401cbd95a59e1ee6eaef",
-    "article_title": "Attack on Indian Ship off Oman",
-    "question": "What was the outcome of the attack on the Indian ship?",
+    "reveal_id": "ea12269c8ea448eabd54377988068085",
+    "article_title": "NEET-UG 2026 Exam Cancelled",
+    "question": "What was the reason for the cancellation of the NEET-UG 2026 exam?",
     "answer_label": "B",
-    "answer_text": "Total loss of the vessel",
-    "explanation": "The attack led to a fire and eventually a total loss of the vessel.",
-    "due_at": "2026-05-15T23:46:07.768545+00:00"
+    "answer_text": "Paper leak",
+    "explanation": "The exam was cancelled due to a massive paper leak, which was traced to an insider in the National Testing Agency.",
+    "due_at": "2026-05-16T00:42:21.027025+00:00"
   },
   {
-    "reveal_id": "12b47939fafa4ff8a5b6e740c44ef3f6",
-    "article_title": "Attack on Indian Ship off Oman",
-    "question": "What has the owner of the Indian ship called for?",
+    "reveal_id": "cd9bbbbeab104a8eb710cfaf133369ad",
+    "article_title": "NEET-UG 2026 Exam Cancelled",
+    "question": "When will the new NEET-UG 2026 exam be conducted?",
     "answer_label": "B",
-    "answer_text": "A probe into the attack",
-    "explanation": "The owner has called for a probe into the attack on the Indian ship off Oman.",
-    "due_at": "2026-05-15T23:46:08.568127+00:00"
+    "answer_text": "June 21, 2026",
+    "explanation": "The new exam date has been announced for June 21, 2026.",
+    "due_at": "2026-05-16T00:42:21.619197+00:00"
+  },
+  {
+    "reveal_id": "0848c6ad0d7e482787add94025cf9772",
+    "article_title": "NEET-UG 2026 Exam Cancelled",
+    "question": "What change will be made to the NEET exam format starting next year?",
+    "answer_label": "B",
+    "answer_text": "Shift to a computer-based format",
+    "explanation": "The NEET exam will completely transition to a computer-based format starting next year to prevent future leaks.",
+    "due_at": "2026-05-16T00:42:22.206539+00:00"
   }
 ]
