@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "996bc9c1a2354d9bbda3ecc4ea6d5fae",
-    "article_title": "India's Current Account Deficit",
-    "question": "What is the expected average global oil price according to ICICI Bank?",
-    "answer_label": "C",
-    "answer_text": "$100/bbl",
-    "explanation": "The expected average global oil price is $100/bbl, which may widen India's current account deficit.",
-    "due_at": "2026-05-16T11:46:25.455165+00:00"
-  },
-  {
-    "reveal_id": "4a44aafc8f68437a9966a133c4b4592a",
-    "article_title": "India's Current Account Deficit",
-    "question": "What may be the impact of high oil prices on India's economy?",
-    "answer_label": "D",
-    "answer_text": "Widening of current account deficit",
-    "explanation": "High oil prices can lead to a widening of India's current account deficit, affecting the country's economic growth.",
-    "due_at": "2026-05-16T11:46:29.202638+00:00"
-  },
-  {
-    "reveal_id": "071adc9a947b498ebaf5e19dc43bb263",
-    "article_title": "India's Current Account Deficit",
-    "question": "What is the predicted current account deficit of India as a percentage of GDP?",
-    "answer_label": "C",
-    "answer_text": "2% of GDP",
-    "explanation": "According to ICICI Bank, India's current account deficit may rise to 2% of GDP due to high oil prices.",
-    "due_at": "2026-05-16T11:46:29.774806+00:00"
-  },
-  {
-    "reveal_id": "ad18b4736d344d5787b817f1ebe2415c",
-    "article_title": "Venus Williams Returns to French Open",
-    "question": "At what age is Venus Williams returning to the French Open?",
+    "reveal_id": "8063d2a2ef5d460cb3008718387aa89a",
+    "article_title": "Delhi-Jaipur Highway Flyovers",
+    "question": "What is the expected completion time for the four flyovers on the Delhi-Jaipur Highway?",
     "answer_label": "B",
-    "answer_text": "45",
-    "explanation": "Venus Williams is 45 years old when returning to the French Open.",
-    "due_at": "2026-05-16T11:46:36.807424+00:00"
+    "answer_text": "By December 2026",
+    "explanation": "The National Highways Authority of India announced that the flyovers will be completed by December 2026.",
+    "due_at": "2026-05-16T12:41:17.689997+00:00"
   },
   {
-    "reveal_id": "e4d76ec7fe6f4b5091c77d75067a8405",
-    "article_title": "Venus Williams Returns to French Open",
-    "question": "What is the concern about Venus Williams' participation?",
-    "answer_label": "C",
-    "answer_text": "Her wildcard opportunities",
-    "explanation": "The concern is about Venus Williams getting wildcard opportunities despite 10 straight losses.",
-    "due_at": "2026-05-16T11:46:37.390588+00:00"
-  },
-  {
-    "reveal_id": "35bbff953d654d209c44d43e1b6908aa",
-    "article_title": "Venus Williams Returns to French Open",
-    "question": "Who is Venus Williams' doubles partner at the French Open?",
+    "reveal_id": "1c0523e425dd47f6a4e62448d6d0d25c",
+    "article_title": "Delhi-Jaipur Highway Flyovers",
+    "question": "What is the primary goal of constructing flyovers on the Delhi-Jaipur Highway?",
     "answer_label": "B",
-    "answer_text": "Hailey Baptiste",
-    "explanation": "Venus Williams is playing women's doubles with Hailey Baptiste at the French Open.",
-    "due_at": "2026-05-16T11:46:37.972538+00:00"
+    "answer_text": "To reduce travel time and improve road safety",
+    "explanation": "The primary goal is to reduce traffic congestion, travel time, and improve road safety.",
+    "due_at": "2026-05-16T12:41:18.349316+00:00"
+  },
+  {
+    "reveal_id": "342b1f345e8d4105b0e8feb587a08024",
+    "article_title": "Delhi-Jaipur Highway Flyovers",
+    "question": "Which national highway will have four new flyovers by December 2026?",
+    "answer_label": "B",
+    "answer_text": "NH-48",
+    "explanation": "The four flyovers will be constructed on the Delhi-Jaipur Highway, which is part of NH-48.",
+    "due_at": "2026-05-16T12:41:19.004243+00:00"
+  },
+  {
+    "reveal_id": "9714527af65d4e039486e2092781bbb0",
+    "article_title": "Azim Premji University Report",
+    "question": "What was the subject of the fact-finding report?",
+    "answer_label": "B",
+    "answer_text": "University response to ABVP mob violence",
+    "explanation": "The report was about the university's response to ABVP mob violence, criticizing the targeting of students.",
+    "due_at": "2026-05-16T12:41:26.416595+00:00"
+  },
+  {
+    "reveal_id": "6569672251464e359eb3788a18560321",
+    "article_title": "Azim Premji University Report",
+    "question": "Which organization was involved in the mob violence?",
+    "answer_label": "B",
+    "answer_text": "ABVP",
+    "explanation": "The ABVP was the organization involved in the mob violence, according to the report.",
+    "due_at": "2026-05-16T12:41:27.069361+00:00"
+  },
+  {
+    "reveal_id": "75e94ae48a07440480fb5e1b4c960a97",
+    "article_title": "Azim Premji University Report",
+    "question": "Where is Azim Premji University located?",
+    "answer_label": "B",
+    "answer_text": "Karnataka",
+    "explanation": "The article mentions Karnataka, indicating that Azim Premji University is located in the state.",
+    "due_at": "2026-05-16T12:41:27.749797+00:00"
   }
 ]
