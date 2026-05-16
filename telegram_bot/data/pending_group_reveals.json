@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "cffc69938fb54974ab65e2c8b2dba6bc",
-    "article_title": "Indian Navy Ship Visits Sri Lanka",
-    "question": "What is the name of the Indian Naval Ship that visited Sri Lanka?",
-    "answer_label": "A",
-    "answer_text": "INS Sunayna",
-    "explanation": "The Indian Naval Ship Sunayna arrived in Colombo, Sri Lanka for a three-day visit.",
-    "due_at": "2026-05-16T20:17:36.737865+00:00"
-  },
-  {
-    "reveal_id": "3d58617179d843edbaed7b812c3c65ad",
-    "article_title": "Indian Navy Ship Visits Sri Lanka",
-    "question": "What is the purpose of the Indian Naval Ship's visit to Sri Lanka?",
+    "reveal_id": "5c7ae9eac0064f1e91fb39da35427f64",
+    "article_title": "Dubai App Offers 15-Minute Sheep Delivery",
+    "question": "What is the unique delivery service offered by a Dubai app for Eid?",
     "answer_label": "B",
-    "answer_text": "To strengthen maritime ties",
-    "explanation": "The visit aims to strengthen maritime ties between India and Sri Lanka.",
-    "due_at": "2026-05-16T20:17:37.422872+00:00"
+    "answer_text": "15-minute sheep delivery",
+    "explanation": "The Dubai app is delivering sheep within 15 minutes for Eid, which is a unique and surprising service.",
+    "due_at": "2026-05-16T21:04:38.245338+00:00"
   },
   {
-    "reveal_id": "39b0c347ff3241f4aedf3498c8f90f70",
-    "article_title": "Indian Navy Ship Visits Sri Lanka",
-    "question": "What initiative is the Indian Naval Ship's visit to Sri Lanka part of?",
-    "answer_label": "A",
-    "answer_text": "IOS SAGAR",
-    "explanation": "The visit is part of the Indian Ocean Ship \u2013 Security and Growth for All in the Region (IOS SAGAR) initiative.",
-    "due_at": "2026-05-16T20:17:38.087415+00:00"
-  },
-  {
-    "reveal_id": "9062ca3add0243828140a27bf8d56a3b",
-    "article_title": "India's SME Exporters Remain Optimistic",
-    "question": "Which institute released the Indian SME Family Business Trade Confidence and Internationalisation Report?",
+    "reveal_id": "c99c98804ce34195816040b384080783",
+    "article_title": "Dubai App Offers 15-Minute Sheep Delivery",
+    "question": "Why is the 15-minute sheep delivery service significant?",
     "answer_label": "B",
-    "answer_text": "SPJIMR Mumbai",
-    "explanation": "The report was released by SPJIMR's Centre for Family Business & Entrepreneurship.",
-    "due_at": "2026-05-16T20:17:43.576330+00:00"
+    "answer_text": "It reflects the growing demand for quick commerce",
+    "explanation": "The service reflects the growing demand for quick commerce and instant delivery, making it a significant development.",
+    "due_at": "2026-05-16T21:04:38.882387+00:00"
   },
   {
-    "reveal_id": "eae4684e3f224847b635f375d40d53bc",
-    "article_title": "India's SME Exporters Remain Optimistic",
-    "question": "What is the main focus of the Indian SME Family Business Trade Confidence and Internationalisation Report?",
+    "reveal_id": "a57461eb222d47ed884a35e961948822",
+    "article_title": "Dubai App Offers 15-Minute Sheep Delivery",
+    "question": "What is the reaction of the internet to the 15-minute sheep delivery service?",
     "answer_label": "B",
-    "answer_text": "Export confidence among SME family businesses",
-    "explanation": "The report focuses on export confidence among India's SME family businesses.",
-    "due_at": "2026-05-16T20:17:44.242534+00:00"
+    "answer_text": "Most people are surprised and questioning its reality",
+    "explanation": "The internet is reacting with surprise and questioning the reality of the 15-minute sheep delivery service, finding it hard to believe.",
+    "due_at": "2026-05-16T21:04:39.517483+00:00"
   },
   {
-    "reveal_id": "43ab5407fe834c7e9a86c1d299e58870",
-    "article_title": "India's SME Exporters Remain Optimistic",
-    "question": "Which organization partnered with SPJIMR for the survey?",
-    "answer_label": "A",
-    "answer_text": "Hansa Research",
-    "explanation": "The survey was conducted in partnership with Hansa Research.",
-    "due_at": "2026-05-16T20:17:51.264756+00:00"
+    "reveal_id": "e6c8f968462741aabe62e1c0d6edd922",
+    "article_title": "NEET UG Exam Format Change",
+    "question": "What is the current format of the NEET UG exam?",
+    "answer_label": "B",
+    "answer_text": "Pen and Paper with OMR sheets",
+    "explanation": "The current format uses the traditional pen and paper method with OMR sheets.",
+    "due_at": "2026-05-16T21:04:46.920260+00:00"
+  },
+  {
+    "reveal_id": "b177e776899e4f10bd5b928819d5922b",
+    "article_title": "NEET UG Exam Format Change",
+    "question": "Why is the NEET UG exam format being changed?",
+    "answer_label": "C",
+    "answer_text": "To prevent paper leaks",
+    "explanation": "The change aims to prevent paper leaks and ensure a secure examination process.",
+    "due_at": "2026-05-16T21:04:47.573583+00:00"
+  },
+  {
+    "reveal_id": "f85b262398c14624b001df5c11e6e9dd",
+    "article_title": "NEET UG Exam Format Change",
+    "question": "Who announced the change in NEET UG exam format?",
+    "answer_label": "B",
+    "answer_text": "Union Education Minister",
+    "explanation": "Union Education Minister Dharmendra Pradhan announced the change in NEET UG exam format.",
+    "due_at": "2026-05-16T21:04:52.389200+00:00"
   }
 ]
