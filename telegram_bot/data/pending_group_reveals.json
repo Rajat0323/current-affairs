@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "df6b8892e5254977aa34af79c9c7a189",
-    "article_title": "Windfall Tax on Petrol Exports",
-    "question": "What is the amount of windfall tax imposed on petrol exports?",
-    "answer_label": "C",
-    "answer_text": "Rs 3 per litre",
-    "explanation": "The Centre has imposed a windfall tax of Rs 3 per litre on petrol exports to balance the impact of crude oil price fluctuations.",
-    "due_at": "2026-05-16T14:32:57.180215+00:00"
-  },
-  {
-    "reveal_id": "f917d013640a49a59581574b46e42a8c",
-    "article_title": "Windfall Tax on Petrol Exports",
-    "question": "What was the recent change in petrol and diesel prices in the domestic market?",
-    "answer_label": "D",
-    "answer_text": "Increased by Rs 3 per litre",
-    "explanation": "Petrol and diesel prices were hiked by Rs 3 per litre in the domestic market amid the surge in crude oil prices.",
-    "due_at": "2026-05-16T14:33:00.955901+00:00"
-  },
-  {
-    "reveal_id": "e328140b38bd4faa86e605ff991cd514",
-    "article_title": "Windfall Tax on Petrol Exports",
-    "question": "Why was the windfall tax imposed on petrol exports?",
-    "answer_label": "C",
-    "answer_text": "To balance the impact of crude oil price fluctuations",
-    "explanation": "The windfall tax was imposed to balance the impact of crude oil price fluctuations on the Indian economy.",
-    "due_at": "2026-05-16T14:33:01.602050+00:00"
-  },
-  {
-    "reveal_id": "eddc23e723834dadbf075f131aeb048d",
-    "article_title": "Rural Innovation Ecosystems",
-    "question": "What is the main focus of Kakatiya Sandbox according to Phani Sama?",
-    "answer_label": "B",
-    "answer_text": "Rural innovation",
-    "explanation": "Kakatiya Sandbox focuses on building rural innovation ecosystems in India.",
-    "due_at": "2026-05-16T14:33:08.332190+00:00"
-  },
-  {
-    "reveal_id": "1033522630ca4c6f9187221569829df8",
-    "article_title": "Rural Innovation Ecosystems",
-    "question": "What is essential for building rural innovation ecosystems?",
-    "answer_label": "C",
-    "answer_text": "Culture",
-    "explanation": "Phani Sama emphasizes the importance of culture in building rural innovation ecosystems.",
-    "due_at": "2026-05-16T14:33:08.991612+00:00"
-  },
-  {
-    "reveal_id": "60bdf52e5818495c8ed5a729a8b5ca28",
-    "article_title": "Rural Innovation Ecosystems",
-    "question": "Where is Kakatiya Sandbox located?",
+    "reveal_id": "b3cbed68f0ee467bb6424fdd78ce5392",
+    "article_title": "India's Test Batting Lineup",
+    "question": "Who has suggested an RCB player for India's number three spot in Test cricket?",
     "answer_label": "A",
-    "answer_text": "Nizamabad",
-    "explanation": "Kakatiya Sandbox is located in Nizamabad, as mentioned in the article.",
-    "due_at": "2026-05-16T14:33:09.646487+00:00"
+    "answer_text": "R Ashwin",
+    "explanation": "R Ashwin has recommended an RCB player for the number three spot in Test cricket, emphasizing the need for a long-term chance.",
+    "due_at": "2026-05-16T15:43:49.023464+00:00"
+  },
+  {
+    "reveal_id": "df46bcc4f8fb4a869c8f2108c42d2ad8",
+    "article_title": "India's Test Batting Lineup",
+    "question": "What position in the batting lineup is being discussed for the RCB player?",
+    "answer_label": "B",
+    "answer_text": "Number three",
+    "explanation": "The RCB player is being considered for the number three spot in India's Test cricket batting lineup.",
+    "due_at": "2026-05-16T15:43:52.807625+00:00"
+  },
+  {
+    "reveal_id": "f56f663e7e73481cbf7530c876390d75",
+    "article_title": "India's Test Batting Lineup",
+    "question": "What is R Ashwin's recommendation for the RCB player in the Indian Test team?",
+    "answer_label": "B",
+    "answer_text": "Give them a long-term chance",
+    "explanation": "R Ashwin suggests that the RCB player should be given a long-term chance to establish themselves in the Indian Test team.",
+    "due_at": "2026-05-16T15:43:53.443589+00:00"
+  },
+  {
+    "reveal_id": "e1b7b15a90844e8a9273f6b6f30be0bd",
+    "article_title": "Karnataka CM Post Debate",
+    "question": "Who is being supported for the CM post by the banner in Belagavi?",
+    "answer_label": "A",
+    "answer_text": "Dy CM Shivakumar",
+    "explanation": "The banner was put up to back Dy CM Shivakumar for the CM post.",
+    "due_at": "2026-05-16T15:44:00.495697+00:00"
+  },
+  {
+    "reveal_id": "d606c7466b9d44d481e1ef7c517a86b4",
+    "article_title": "Karnataka CM Post Debate",
+    "question": "Where was the giant hoarding erected?",
+    "answer_label": "B",
+    "answer_text": "Chennamma Circle in Belagavi",
+    "explanation": "The banner was erected at the iconic Chennamma Circle in Belagavi.",
+    "due_at": "2026-05-16T15:44:01.099323+00:00"
+  },
+  {
+    "reveal_id": "e0126a6d289149d7be7c560b591eaa06",
+    "article_title": "Karnataka CM Post Debate",
+    "question": "Who put up the banner?",
+    "answer_label": "C",
+    "answer_text": "Minister Laxmi Hebbalkar's son",
+    "explanation": "The banner was put up by Minister Laxmi Hebbalkar's son.",
+    "due_at": "2026-05-16T15:44:01.705554+00:00"
   }
 ]
