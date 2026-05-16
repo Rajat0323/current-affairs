@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "9b4c6f68eee74d4681a10e3894aceb71",
-    "article_title": "Apple Seeks Relief from Amended Competition Act",
-    "question": "What is the main issue in the case between Apple and the Competition Commission of India?",
+    "reveal_id": "18077e93d69a460e9d3288560c2d0af5",
+    "article_title": "APU Fact-Finding Report",
+    "question": "What does the fact-finding report criticize APU for?",
+    "answer_label": "A",
+    "answer_text": "Not taking preventive measures",
+    "explanation": "The report criticizes APU for failing to take preventive measures despite knowing about a potential flare-up.",
+    "due_at": "2026-05-16T04:36:59.202504+00:00"
+  },
+  {
+    "reveal_id": "fbc922019890465cabb8c3d7c93a2af6",
+    "article_title": "APU Fact-Finding Report",
+    "question": "What does the report suggest should be done with student charges and suspensions?",
     "answer_label": "C",
-    "answer_text": "Amended Competition Act",
-    "explanation": "The case revolves around Apple's challenge to the amendment to the Competition Act, 2002.",
-    "due_at": "2026-05-16T00:42:10.031615+00:00"
+    "answer_text": "Revoke the charges and suspensions",
+    "explanation": "The report suggests that the student charges and suspensions should be revoked.",
+    "due_at": "2026-05-16T04:36:59.957617+00:00"
   },
   {
-    "reveal_id": "6b907a1d6f984cee92d5409fea122cd9",
-    "article_title": "Apple Seeks Relief from Amended Competition Act",
-    "question": "Which court is hearing Apple's petition in this case?",
+    "reveal_id": "390d6d4b7a5b4969ae7497d07048bd69",
+    "article_title": "APU Fact-Finding Report",
+    "question": "Why is the fact-finding report important for institutions in India?",
+    "answer_label": "D",
+    "answer_text": "Both A and B",
+    "explanation": "The report is important because it highlights the importance of both student welfare and institutional accountability.",
+    "due_at": "2026-05-16T04:37:00.951750+00:00"
+  },
+  {
+    "reveal_id": "a164c4d287064bcb971c74c157a1ff1a",
+    "article_title": "Shashi Tharoor to Miss Kerala CM Swearing-In",
+    "question": "Why will Shashi Tharoor miss the swearing-in ceremony of VD Satheesan?",
     "answer_label": "B",
-    "answer_text": "Delhi High Court",
-    "explanation": "The Delhi High Court is hearing Apple's petition challenging the amendment to the Competition Act, 2002.",
-    "due_at": "2026-05-16T00:42:13.785178+00:00"
+    "answer_text": "Due to prior commitments in the US",
+    "explanation": "Tharoor has prior commitments in the US, including delivering a commencement address at his alma mater.",
+    "due_at": "2026-05-16T04:37:05.216249+00:00"
   },
   {
-    "reveal_id": "a4d93d165e5946eb9850bff51e0cd535",
-    "article_title": "Apple Seeks Relief from Amended Competition Act",
-    "question": "What is the significance of the amendment to the Competition Act, 2002, in this context?",
+    "reveal_id": "42dd9f0766ac4e48bdb3f50fa74b5351",
+    "article_title": "Shashi Tharoor to Miss Kerala CM Swearing-In",
+    "question": "Who was chosen as Kerala's next Chief Minister?",
     "answer_label": "C",
-    "answer_text": "It allows penalties based on global turnover",
-    "explanation": "The amendment allows the CCI to impose penalties based on a company's global turnover.",
-    "due_at": "2026-05-16T00:42:14.371701+00:00"
+    "answer_text": "VD Satheesan",
+    "explanation": "VD Satheesan was chosen as Kerala's next Chief Minister after the Congress-led UDF returned to power.",
+    "due_at": "2026-05-16T04:37:05.908920+00:00"
   },
   {
-    "reveal_id": "ea12269c8ea448eabd54377988068085",
-    "article_title": "NEET-UG 2026 Exam Cancelled",
-    "question": "What was the reason for the cancellation of the NEET-UG 2026 exam?",
-    "answer_label": "B",
-    "answer_text": "Paper leak",
-    "explanation": "The exam was cancelled due to a massive paper leak, which was traced to an insider in the National Testing Agency.",
-    "due_at": "2026-05-16T00:42:21.027025+00:00"
-  },
-  {
-    "reveal_id": "cd9bbbbeab104a8eb710cfaf133369ad",
-    "article_title": "NEET-UG 2026 Exam Cancelled",
-    "question": "When will the new NEET-UG 2026 exam be conducted?",
-    "answer_label": "B",
-    "answer_text": "June 21, 2026",
-    "explanation": "The new exam date has been announced for June 21, 2026.",
-    "due_at": "2026-05-16T00:42:21.619197+00:00"
-  },
-  {
-    "reveal_id": "0848c6ad0d7e482787add94025cf9772",
-    "article_title": "NEET-UG 2026 Exam Cancelled",
-    "question": "What change will be made to the NEET exam format starting next year?",
-    "answer_label": "B",
-    "answer_text": "Shift to a computer-based format",
-    "explanation": "The NEET exam will completely transition to a computer-based format starting next year to prevent future leaks.",
-    "due_at": "2026-05-16T00:42:22.206539+00:00"
+    "reveal_id": "de733184a0b049b38ba29f73c4492dcd",
+    "article_title": "Shashi Tharoor to Miss Kerala CM Swearing-In",
+    "question": "What is the significance of VD Satheesan's win in the Paravur constituency?",
+    "answer_label": "D",
+    "answer_text": "It is his sixth consecutive term as MLA",
+    "explanation": "VD Satheesan won his sixth consecutive term as MLA with a margin of over 20,000 votes.",
+    "due_at": "2026-05-16T04:37:13.267153+00:00"
   }
 ]
