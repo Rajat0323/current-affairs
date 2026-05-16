@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "200336f208754c77b0a081291c33d80c",
-    "article_title": "Indian Women's Cricket Team Visits Mahakaleshwar Temple",
-    "question": "Which temple did the Indian women's cricket team visit?",
+    "reveal_id": "816c29034ffa43d8837447786a49d662",
+    "article_title": "India: A Land of Opportunities",
+    "question": "What did PM Modi describe India as during his address in The Hague?",
+    "answer_label": "B",
+    "answer_text": "A land of opportunities",
+    "explanation": "PM Modi described India as a land of opportunities driven by technology and humanity.",
+    "due_at": "2026-05-17T00:02:47.863385+00:00"
+  },
+  {
+    "reveal_id": "bd531985854a4196aabc169c6272846a",
+    "article_title": "India: A Land of Opportunities",
+    "question": "What is the proposed agreement that can further strengthen ties between India and Europe?",
     "answer_label": "A",
-    "answer_text": "Mahakaleshwar Jyotirlinga",
-    "explanation": "The team visited Mahakaleshwar Jyotirlinga in Ujjain to offer prayers.",
-    "due_at": "2026-05-16T22:57:34.928520+00:00"
+    "answer_text": "India-European Union Free Trade Agreement",
+    "explanation": "The proposed India-European Union Free Trade Agreement can further strengthen ties between India and Europe.",
+    "due_at": "2026-05-17T00:02:51.671533+00:00"
   },
   {
-    "reveal_id": "89a0613243b94a4e8d68225611cbe3f5",
-    "article_title": "Indian Women's Cricket Team Visits Mahakaleshwar Temple",
-    "question": "Where is the Mahakaleshwar Jyotirlinga temple located?",
+    "reveal_id": "d6013a4447984dea8d5569b92670cfed",
+    "article_title": "India: A Land of Opportunities",
+    "question": "What role does the Indian diaspora play in strengthening bilateral relations between India and the Netherlands?",
     "answer_label": "B",
-    "answer_text": "Ujjain",
-    "explanation": "The Mahakaleshwar Jyotirlinga temple is located in Ujjain.",
-    "due_at": "2026-05-16T22:57:38.691516+00:00"
+    "answer_text": "Acts as a bridge",
+    "explanation": "The Indian diaspora acts as a trusted bridge between India and the Netherlands, contributing to people-to-people ties and economic cooperation.",
+    "due_at": "2026-05-17T00:02:52.288853+00:00"
   },
   {
-    "reveal_id": "97f797848cc44af69bfa5ca3c250fdd2",
-    "article_title": "Indian Women's Cricket Team Visits Mahakaleshwar Temple",
-    "question": "What was the purpose of the Indian women's cricket team's visit to the temple?",
+    "reveal_id": "45d00e11d2e945b0b3d55767873b9594",
+    "article_title": "44th ASI Annual Meeting at IIT Guwahati",
+    "question": "Where is the 44th Astronomical Society of India Annual Meeting being held?",
     "answer_label": "B",
-    "answer_text": "To seek blessings",
-    "explanation": "The team visited the temple to seek blessings and offer prayers.",
-    "due_at": "2026-05-16T22:57:39.285264+00:00"
+    "answer_text": "IIT Guwahati",
+    "explanation": "The meeting is being held at IIT Guwahati, which is hosting the event after a gap of 30 years in the Northeast region.",
+    "due_at": "2026-05-17T00:02:59.343396+00:00"
   },
   {
-    "reveal_id": "5ac2545889334d7ea519839dc4736d97",
-    "article_title": "CJI Clarifies Remark on Unemployed Youth",
-    "question": "What was the context of CJI Surya Kant's controversial remark?",
-    "answer_label": "A",
-    "answer_text": "A court hearing on employment opportunities",
-    "explanation": "The remark was made during a court hearing, which led to controversy and subsequent clarification by the CJI.",
-    "due_at": "2026-05-16T22:57:46.423131+00:00"
-  },
-  {
-    "reveal_id": "5a9e14c7db894e9b84b4655fbb15f040",
-    "article_title": "CJI Clarifies Remark on Unemployed Youth",
-    "question": "What did CJI Surya Kant claim was the target of his misquoted remark?",
+    "reveal_id": "13df898cb7f84b1892793600caf224f6",
+    "article_title": "44th ASI Annual Meeting at IIT Guwahati",
+    "question": "How many participants are attending the 44th ASI Annual Meeting?",
     "answer_label": "B",
-    "answer_text": "Youth using fake degrees in professions",
-    "explanation": "The CJI clarified that his remark was targeted at individuals using fake degrees in professions, not unemployed youth in general.",
-    "due_at": "2026-05-16T22:57:46.993789+00:00"
+    "answer_text": "Over 600",
+    "explanation": "The meeting has brought together over 600 astronomers, researchers, students, and science communicators from across the world.",
+    "due_at": "2026-05-17T00:02:59.948301+00:00"
   },
   {
-    "reveal_id": "3dda0683bde048eab090418e9943cf4e",
-    "article_title": "CJI Clarifies Remark on Unemployed Youth",
-    "question": "How did CJI Surya Kant describe India's youth after the controversy?",
-    "answer_label": "B",
-    "answer_text": "Pillars of a developed nation",
-    "explanation": "The CJI expressed pride in India's youth, calling them pillars of a developed nation, to emphasize his respect for them.",
-    "due_at": "2026-05-16T22:57:47.570269+00:00"
+    "reveal_id": "faa9b01fbbef40a8a6aec4459aee3b8f",
+    "article_title": "44th ASI Annual Meeting at IIT Guwahati",
+    "question": "What is the significance of the 44th ASI Annual Meeting being held in the Northeast?",
+    "answer_label": "C",
+    "answer_text": "It is being held after a gap of 30 years",
+    "explanation": "The meeting marks the return of the ASI Annual Meeting to the Northeast after a gap of 30 years.",
+    "due_at": "2026-05-17T00:03:00.610484+00:00"
   }
 ]
