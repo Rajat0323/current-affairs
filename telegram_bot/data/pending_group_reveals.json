@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "1d4a0844b6244176abf31c85e1768a43",
-    "article_title": "AI-Driven Traffic Enforcement in Amritsar",
-    "question": "What technology will be used for traffic enforcement in Amritsar?",
+    "reveal_id": "173e43690ff643b2b06c731a6ec47343",
+    "article_title": "Eco Concerns and Urban Development",
+    "question": "What has sparked a debate on waste management in Bengaluru?",
     "answer_label": "A",
-    "answer_text": "Artificial Intelligence",
-    "explanation": "Amritsar will use AI-driven technology for traffic enforcement, making it more efficient and effective.",
-    "due_at": "2026-05-16T08:57:47.183143+00:00"
+    "answer_text": "Supreme Court remarks on environmental activists",
+    "explanation": "The Supreme Court's remarks on environmental activists have highlighted the need for effective waste management in Bengaluru.",
+    "due_at": "2026-05-16T10:33:12.296054+00:00"
   },
   {
-    "reveal_id": "cf648a61251e45428f7cdef6027b3bfb",
-    "article_title": "AI-Driven Traffic Enforcement in Amritsar",
-    "question": "What is the purpose of introducing automatic e-challaning in Amritsar?",
+    "reveal_id": "56f8959156f24b16abe3500616f80596",
+    "article_title": "Eco Concerns and Urban Development",
+    "question": "What is the outcome of court concerns on urban development discourse?",
+    "answer_label": "B",
+    "answer_text": "Policy shifts and changes in development plans",
+    "explanation": "Court concerns can lead to policy shifts and changes in development plans, as seen in the case of Bengaluru's waste management.",
+    "due_at": "2026-05-16T10:33:13.039800+00:00"
+  },
+  {
+    "reveal_id": "654773f2cf854f76baf414ad490f5328",
+    "article_title": "Eco Concerns and Urban Development",
+    "question": "What is a key aspect of urban development in India?",
     "answer_label": "C",
-    "answer_text": "To crack down on traffic offenders",
-    "explanation": "The introduction of automatic e-challaning aims to strictly enforce traffic rules and reduce traffic violations.",
-    "due_at": "2026-05-16T08:57:50.973870+00:00"
+    "answer_text": "Effective waste management",
+    "explanation": "Effective waste management is crucial for urban development and public health in India, making it a key aspect of development plans.",
+    "due_at": "2026-05-16T10:33:13.846687+00:00"
   },
   {
-    "reveal_id": "00fad58d0b6640d391d6e686629bd353",
-    "article_title": "AI-Driven Traffic Enforcement in Amritsar",
-    "question": "Where will the AI-driven traffic enforcement system be launched?",
+    "reveal_id": "d08e2374805e4496ba04853a0778d3cd",
+    "article_title": "SC Criticises Jobless Youths",
+    "question": "What did the Supreme Court compare jobless youngsters to?",
     "answer_label": "B",
-    "answer_text": "Amritsar",
-    "explanation": "The AI-driven traffic enforcement system will be launched in Amritsar, specifically at seven key locations.",
-    "due_at": "2026-05-16T08:57:51.560750+00:00"
+    "answer_text": "Cockroaches",
+    "explanation": "The Supreme Court compared jobless youngsters to cockroaches, emphasizing their disruptive nature.",
+    "due_at": "2026-05-16T10:33:21.082464+00:00"
   },
   {
-    "reveal_id": "0e2ccf43efbc41f6a9c11f67d66d17b5",
-    "article_title": "Presidency University Admissions",
-    "question": "What was the previous method of admission used by Presidency University?",
+    "reveal_id": "fc894e3abeb54ad0999fdf129b578c3b",
+    "article_title": "SC Criticises Jobless Youths",
+    "question": "What is the context of the Supreme Court's comment on jobless youths?",
     "answer_label": "B",
-    "answer_text": "State-level JEE board",
-    "explanation": "Presidency University used the West Bengal JEE board for admissions before switching to its own tests.",
-    "due_at": "2026-05-16T08:57:58.483227+00:00"
+    "answer_text": "A case on institutional reform",
+    "explanation": "The comment was made during a hearing where the court criticized elements weakening institutions.",
+    "due_at": "2026-05-16T10:33:21.792669+00:00"
   },
   {
-    "reveal_id": "d0ca42b3fc234c488f47881f29a06f64",
-    "article_title": "Presidency University Admissions",
-    "question": "How long did Presidency University use the West Bengal JEE board for admissions?",
+    "reveal_id": "d1b6c57ce1874171915b7e410d227b0c",
+    "article_title": "SC Criticises Jobless Youths",
+    "question": "Which institution made the comment on jobless youngsters?",
     "answer_label": "B",
-    "answer_text": "10 years",
-    "explanation": "The university used the West Bengal JEE board for a decade before returning to its own admission tests.",
-    "due_at": "2026-05-16T08:57:59.119198+00:00"
-  },
-  {
-    "reveal_id": "a770c9946d3840bcae2c513b05ef18e1",
-    "article_title": "Presidency University Admissions",
-    "question": "What is the current method of admission for six departments at Presidency University?",
-    "answer_label": "C",
-    "answer_text": "University-level exams",
-    "explanation": "Presidency University will now conduct its own admission tests for six departments.",
-    "due_at": "2026-05-16T08:57:59.751333+00:00"
+    "answer_text": "The Supreme Court",
+    "explanation": "The Supreme Court made the comment, reflecting its concern about the impact of joblessness on society.",
+    "due_at": "2026-05-16T10:33:26.690189+00:00"
   }
 ]
