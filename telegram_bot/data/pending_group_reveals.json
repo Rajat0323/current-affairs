@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "29fceed07a3f4ff7833e3f35887932f1",
-    "article_title": "PM Modi Denies Foreign Travel Tax",
-    "question": "What did PM Modi recently deny?",
-    "answer_label": "B",
-    "answer_text": "A tax on foreign travel",
-    "explanation": "PM Modi denied reports of a tax on foreign travel amid oil price hikes.",
-    "due_at": "2026-05-16T07:04:45.814069+00:00"
-  },
-  {
-    "reveal_id": "14e9df44b68543c2a06ba960552dff61",
-    "article_title": "PM Modi Denies Foreign Travel Tax",
-    "question": "What is the current context of PM Modi's denial?",
-    "answer_label": "C",
-    "answer_text": "Rising oil prices",
-    "explanation": "The denial comes amid rising oil prices, which affect India's economy.",
-    "due_at": "2026-05-16T07:04:49.611209+00:00"
-  },
-  {
-    "reveal_id": "5b9da852ca88436d983eff69232a1618",
-    "article_title": "PM Modi Denies Foreign Travel Tax",
-    "question": "How did PM Modi describe the reports of a tax on foreign travel?",
-    "answer_label": "C",
-    "answer_text": "Not an iota of truth",
-    "explanation": "PM Modi stated that there is 'not an iota of truth' to the reports of a tax on foreign travel.",
-    "due_at": "2026-05-16T07:04:50.218671+00:00"
-  },
-  {
-    "reveal_id": "9cad3bb1a99e40948fd3314d293d93a1",
-    "article_title": "Kerala CM-designate Meets Senior Congress Leader",
-    "question": "Who did Kerala CM-designate V D Satheesan meet recently?",
+    "reveal_id": "1d4a0844b6244176abf31c85e1768a43",
+    "article_title": "AI-Driven Traffic Enforcement in Amritsar",
+    "question": "What technology will be used for traffic enforcement in Amritsar?",
     "answer_label": "A",
-    "answer_text": "Ramesh Chennithala",
-    "explanation": "V D Satheesan met Ramesh Chennithala to seek his blessings and support for his new role as CM-designate.",
-    "due_at": "2026-05-16T07:04:57.366758+00:00"
+    "answer_text": "Artificial Intelligence",
+    "explanation": "Amritsar will use AI-driven technology for traffic enforcement, making it more efficient and effective.",
+    "due_at": "2026-05-16T08:57:47.183143+00:00"
   },
   {
-    "reveal_id": "5535a26027c742639ad08e63c20f3f2a",
-    "article_title": "Kerala CM-designate Meets Senior Congress Leader",
-    "question": "What was the purpose of V D Satheesan's meeting with Ramesh Chennithala?",
-    "answer_label": "B",
-    "answer_text": "To seek blessings and support",
-    "explanation": "V D Satheesan sought Ramesh Chennithala's blessings and support for his new role as CM-designate.",
-    "due_at": "2026-05-16T07:04:58.011282+00:00"
+    "reveal_id": "cf648a61251e45428f7cdef6027b3bfb",
+    "article_title": "AI-Driven Traffic Enforcement in Amritsar",
+    "question": "What is the purpose of introducing automatic e-challaning in Amritsar?",
+    "answer_label": "C",
+    "answer_text": "To crack down on traffic offenders",
+    "explanation": "The introduction of automatic e-challaning aims to strictly enforce traffic rules and reduce traffic violations.",
+    "due_at": "2026-05-16T08:57:50.973870+00:00"
   },
   {
-    "reveal_id": "c1eb456f88064f418f66ab000a10d0b7",
-    "article_title": "Kerala CM-designate Meets Senior Congress Leader",
-    "question": "What is the Congress party's goal in Kerala, as per the meeting?",
+    "reveal_id": "00fad58d0b6640d391d6e686629bd353",
+    "article_title": "AI-Driven Traffic Enforcement in Amritsar",
+    "question": "Where will the AI-driven traffic enforcement system be launched?",
     "answer_label": "B",
-    "answer_text": "To unseat the LDF government",
-    "explanation": "The Congress party aims to unseat the ruling LDF government in Kerala, as pledged by Ramesh Chennithala.",
-    "due_at": "2026-05-16T07:04:58.672853+00:00"
+    "answer_text": "Amritsar",
+    "explanation": "The AI-driven traffic enforcement system will be launched in Amritsar, specifically at seven key locations.",
+    "due_at": "2026-05-16T08:57:51.560750+00:00"
+  },
+  {
+    "reveal_id": "0e2ccf43efbc41f6a9c11f67d66d17b5",
+    "article_title": "Presidency University Admissions",
+    "question": "What was the previous method of admission used by Presidency University?",
+    "answer_label": "B",
+    "answer_text": "State-level JEE board",
+    "explanation": "Presidency University used the West Bengal JEE board for admissions before switching to its own tests.",
+    "due_at": "2026-05-16T08:57:58.483227+00:00"
+  },
+  {
+    "reveal_id": "d0ca42b3fc234c488f47881f29a06f64",
+    "article_title": "Presidency University Admissions",
+    "question": "How long did Presidency University use the West Bengal JEE board for admissions?",
+    "answer_label": "B",
+    "answer_text": "10 years",
+    "explanation": "The university used the West Bengal JEE board for a decade before returning to its own admission tests.",
+    "due_at": "2026-05-16T08:57:59.119198+00:00"
+  },
+  {
+    "reveal_id": "a770c9946d3840bcae2c513b05ef18e1",
+    "article_title": "Presidency University Admissions",
+    "question": "What is the current method of admission for six departments at Presidency University?",
+    "answer_label": "C",
+    "answer_text": "University-level exams",
+    "explanation": "Presidency University will now conduct its own admission tests for six departments.",
+    "due_at": "2026-05-16T08:57:59.751333+00:00"
   }
 ]
