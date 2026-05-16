@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "8063d2a2ef5d460cb3008718387aa89a",
-    "article_title": "Delhi-Jaipur Highway Flyovers",
-    "question": "What is the expected completion time for the four flyovers on the Delhi-Jaipur Highway?",
-    "answer_label": "B",
-    "answer_text": "By December 2026",
-    "explanation": "The National Highways Authority of India announced that the flyovers will be completed by December 2026.",
-    "due_at": "2026-05-16T12:41:17.689997+00:00"
+    "reveal_id": "df6b8892e5254977aa34af79c9c7a189",
+    "article_title": "Windfall Tax on Petrol Exports",
+    "question": "What is the amount of windfall tax imposed on petrol exports?",
+    "answer_label": "C",
+    "answer_text": "Rs 3 per litre",
+    "explanation": "The Centre has imposed a windfall tax of Rs 3 per litre on petrol exports to balance the impact of crude oil price fluctuations.",
+    "due_at": "2026-05-16T14:32:57.180215+00:00"
   },
   {
-    "reveal_id": "1c0523e425dd47f6a4e62448d6d0d25c",
-    "article_title": "Delhi-Jaipur Highway Flyovers",
-    "question": "What is the primary goal of constructing flyovers on the Delhi-Jaipur Highway?",
-    "answer_label": "B",
-    "answer_text": "To reduce travel time and improve road safety",
-    "explanation": "The primary goal is to reduce traffic congestion, travel time, and improve road safety.",
-    "due_at": "2026-05-16T12:41:18.349316+00:00"
+    "reveal_id": "f917d013640a49a59581574b46e42a8c",
+    "article_title": "Windfall Tax on Petrol Exports",
+    "question": "What was the recent change in petrol and diesel prices in the domestic market?",
+    "answer_label": "D",
+    "answer_text": "Increased by Rs 3 per litre",
+    "explanation": "Petrol and diesel prices were hiked by Rs 3 per litre in the domestic market amid the surge in crude oil prices.",
+    "due_at": "2026-05-16T14:33:00.955901+00:00"
   },
   {
-    "reveal_id": "342b1f345e8d4105b0e8feb587a08024",
-    "article_title": "Delhi-Jaipur Highway Flyovers",
-    "question": "Which national highway will have four new flyovers by December 2026?",
-    "answer_label": "B",
-    "answer_text": "NH-48",
-    "explanation": "The four flyovers will be constructed on the Delhi-Jaipur Highway, which is part of NH-48.",
-    "due_at": "2026-05-16T12:41:19.004243+00:00"
+    "reveal_id": "e328140b38bd4faa86e605ff991cd514",
+    "article_title": "Windfall Tax on Petrol Exports",
+    "question": "Why was the windfall tax imposed on petrol exports?",
+    "answer_label": "C",
+    "answer_text": "To balance the impact of crude oil price fluctuations",
+    "explanation": "The windfall tax was imposed to balance the impact of crude oil price fluctuations on the Indian economy.",
+    "due_at": "2026-05-16T14:33:01.602050+00:00"
   },
   {
-    "reveal_id": "9714527af65d4e039486e2092781bbb0",
-    "article_title": "Azim Premji University Report",
-    "question": "What was the subject of the fact-finding report?",
+    "reveal_id": "eddc23e723834dadbf075f131aeb048d",
+    "article_title": "Rural Innovation Ecosystems",
+    "question": "What is the main focus of Kakatiya Sandbox according to Phani Sama?",
     "answer_label": "B",
-    "answer_text": "University response to ABVP mob violence",
-    "explanation": "The report was about the university's response to ABVP mob violence, criticizing the targeting of students.",
-    "due_at": "2026-05-16T12:41:26.416595+00:00"
+    "answer_text": "Rural innovation",
+    "explanation": "Kakatiya Sandbox focuses on building rural innovation ecosystems in India.",
+    "due_at": "2026-05-16T14:33:08.332190+00:00"
   },
   {
-    "reveal_id": "6569672251464e359eb3788a18560321",
-    "article_title": "Azim Premji University Report",
-    "question": "Which organization was involved in the mob violence?",
-    "answer_label": "B",
-    "answer_text": "ABVP",
-    "explanation": "The ABVP was the organization involved in the mob violence, according to the report.",
-    "due_at": "2026-05-16T12:41:27.069361+00:00"
+    "reveal_id": "1033522630ca4c6f9187221569829df8",
+    "article_title": "Rural Innovation Ecosystems",
+    "question": "What is essential for building rural innovation ecosystems?",
+    "answer_label": "C",
+    "answer_text": "Culture",
+    "explanation": "Phani Sama emphasizes the importance of culture in building rural innovation ecosystems.",
+    "due_at": "2026-05-16T14:33:08.991612+00:00"
   },
   {
-    "reveal_id": "75e94ae48a07440480fb5e1b4c960a97",
-    "article_title": "Azim Premji University Report",
-    "question": "Where is Azim Premji University located?",
-    "answer_label": "B",
-    "answer_text": "Karnataka",
-    "explanation": "The article mentions Karnataka, indicating that Azim Premji University is located in the state.",
-    "due_at": "2026-05-16T12:41:27.749797+00:00"
+    "reveal_id": "60bdf52e5818495c8ed5a729a8b5ca28",
+    "article_title": "Rural Innovation Ecosystems",
+    "question": "Where is Kakatiya Sandbox located?",
+    "answer_label": "A",
+    "answer_text": "Nizamabad",
+    "explanation": "Kakatiya Sandbox is located in Nizamabad, as mentioned in the article.",
+    "due_at": "2026-05-16T14:33:09.646487+00:00"
   }
 ]
