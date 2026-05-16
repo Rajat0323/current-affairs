@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "18077e93d69a460e9d3288560c2d0af5",
-    "article_title": "APU Fact-Finding Report",
-    "question": "What does the fact-finding report criticize APU for?",
-    "answer_label": "A",
-    "answer_text": "Not taking preventive measures",
-    "explanation": "The report criticizes APU for failing to take preventive measures despite knowing about a potential flare-up.",
-    "due_at": "2026-05-16T04:36:59.202504+00:00"
-  },
-  {
-    "reveal_id": "fbc922019890465cabb8c3d7c93a2af6",
-    "article_title": "APU Fact-Finding Report",
-    "question": "What does the report suggest should be done with student charges and suspensions?",
-    "answer_label": "C",
-    "answer_text": "Revoke the charges and suspensions",
-    "explanation": "The report suggests that the student charges and suspensions should be revoked.",
-    "due_at": "2026-05-16T04:36:59.957617+00:00"
-  },
-  {
-    "reveal_id": "390d6d4b7a5b4969ae7497d07048bd69",
-    "article_title": "APU Fact-Finding Report",
-    "question": "Why is the fact-finding report important for institutions in India?",
-    "answer_label": "D",
-    "answer_text": "Both A and B",
-    "explanation": "The report is important because it highlights the importance of both student welfare and institutional accountability.",
-    "due_at": "2026-05-16T04:37:00.951750+00:00"
-  },
-  {
-    "reveal_id": "a164c4d287064bcb971c74c157a1ff1a",
-    "article_title": "Shashi Tharoor to Miss Kerala CM Swearing-In",
-    "question": "Why will Shashi Tharoor miss the swearing-in ceremony of VD Satheesan?",
+    "reveal_id": "29fceed07a3f4ff7833e3f35887932f1",
+    "article_title": "PM Modi Denies Foreign Travel Tax",
+    "question": "What did PM Modi recently deny?",
     "answer_label": "B",
-    "answer_text": "Due to prior commitments in the US",
-    "explanation": "Tharoor has prior commitments in the US, including delivering a commencement address at his alma mater.",
-    "due_at": "2026-05-16T04:37:05.216249+00:00"
+    "answer_text": "A tax on foreign travel",
+    "explanation": "PM Modi denied reports of a tax on foreign travel amid oil price hikes.",
+    "due_at": "2026-05-16T07:04:45.814069+00:00"
   },
   {
-    "reveal_id": "42dd9f0766ac4e48bdb3f50fa74b5351",
-    "article_title": "Shashi Tharoor to Miss Kerala CM Swearing-In",
-    "question": "Who was chosen as Kerala's next Chief Minister?",
+    "reveal_id": "14e9df44b68543c2a06ba960552dff61",
+    "article_title": "PM Modi Denies Foreign Travel Tax",
+    "question": "What is the current context of PM Modi's denial?",
     "answer_label": "C",
-    "answer_text": "VD Satheesan",
-    "explanation": "VD Satheesan was chosen as Kerala's next Chief Minister after the Congress-led UDF returned to power.",
-    "due_at": "2026-05-16T04:37:05.908920+00:00"
+    "answer_text": "Rising oil prices",
+    "explanation": "The denial comes amid rising oil prices, which affect India's economy.",
+    "due_at": "2026-05-16T07:04:49.611209+00:00"
   },
   {
-    "reveal_id": "de733184a0b049b38ba29f73c4492dcd",
-    "article_title": "Shashi Tharoor to Miss Kerala CM Swearing-In",
-    "question": "What is the significance of VD Satheesan's win in the Paravur constituency?",
-    "answer_label": "D",
-    "answer_text": "It is his sixth consecutive term as MLA",
-    "explanation": "VD Satheesan won his sixth consecutive term as MLA with a margin of over 20,000 votes.",
-    "due_at": "2026-05-16T04:37:13.267153+00:00"
+    "reveal_id": "5b9da852ca88436d983eff69232a1618",
+    "article_title": "PM Modi Denies Foreign Travel Tax",
+    "question": "How did PM Modi describe the reports of a tax on foreign travel?",
+    "answer_label": "C",
+    "answer_text": "Not an iota of truth",
+    "explanation": "PM Modi stated that there is 'not an iota of truth' to the reports of a tax on foreign travel.",
+    "due_at": "2026-05-16T07:04:50.218671+00:00"
+  },
+  {
+    "reveal_id": "9cad3bb1a99e40948fd3314d293d93a1",
+    "article_title": "Kerala CM-designate Meets Senior Congress Leader",
+    "question": "Who did Kerala CM-designate V D Satheesan meet recently?",
+    "answer_label": "A",
+    "answer_text": "Ramesh Chennithala",
+    "explanation": "V D Satheesan met Ramesh Chennithala to seek his blessings and support for his new role as CM-designate.",
+    "due_at": "2026-05-16T07:04:57.366758+00:00"
+  },
+  {
+    "reveal_id": "5535a26027c742639ad08e63c20f3f2a",
+    "article_title": "Kerala CM-designate Meets Senior Congress Leader",
+    "question": "What was the purpose of V D Satheesan's meeting with Ramesh Chennithala?",
+    "answer_label": "B",
+    "answer_text": "To seek blessings and support",
+    "explanation": "V D Satheesan sought Ramesh Chennithala's blessings and support for his new role as CM-designate.",
+    "due_at": "2026-05-16T07:04:58.011282+00:00"
+  },
+  {
+    "reveal_id": "c1eb456f88064f418f66ab000a10d0b7",
+    "article_title": "Kerala CM-designate Meets Senior Congress Leader",
+    "question": "What is the Congress party's goal in Kerala, as per the meeting?",
+    "answer_label": "B",
+    "answer_text": "To unseat the LDF government",
+    "explanation": "The Congress party aims to unseat the ruling LDF government in Kerala, as pledged by Ramesh Chennithala.",
+    "due_at": "2026-05-16T07:04:58.672853+00:00"
   }
 ]
