@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "1b0d5cea30514918b6857f1e52b24996",
-    "article_title": "Gold, Stocks, and Land Investment",
-    "question": "What is driving the interest in land investments in India?",
-    "answer_label": "B",
-    "answer_text": "Infrastructure expansion and urbanization",
-    "explanation": "Infrastructure expansion and urbanization are driving the interest in land investments in India, making it an attractive option for long-term wealth creation.",
-    "due_at": "2026-05-16T16:44:34.339101+00:00"
+    "reveal_id": "055b2e633c7d404e831ea2996827d8db",
+    "article_title": "Supreme Court on Tenant and Landlord Rights",
+    "question": "According to the Supreme Court, what right does a tenant not have?",
+    "answer_label": "A",
+    "answer_text": "To dictate which property the landlord should occupy",
+    "explanation": "The Supreme Court ruled that a tenant has no right to dictate which property a landlord should occupy.",
+    "due_at": "2026-05-16T17:58:39.386811+00:00"
   },
   {
-    "reveal_id": "6bdb9b0db1e64e8eada1cabb4f9aeace",
-    "article_title": "Gold, Stocks, and Land Investment",
-    "question": "What is the role of gold in investment portfolios, according to experts?",
-    "answer_label": "B",
-    "answer_text": "Stable investment during uncertain economic conditions",
-    "explanation": "Gold is considered a stable investment during uncertain economic conditions, offering protection and stability in investment portfolios.",
-    "due_at": "2026-05-16T16:44:35.057309+00:00"
-  },
-  {
-    "reveal_id": "176895d20a5a4c1d8b371bc18e467a1b",
-    "article_title": "Gold, Stocks, and Land Investment",
-    "question": "What is the advantage of land investments, according to industry experts?",
-    "answer_label": "B",
-    "answer_text": "Finite nature and growing demand, leading to long-term appreciation",
-    "explanation": "Land investments have a unique long-term advantage due to their finite nature and growing demand, leading to strong appreciation potential, especially in emerging growth corridors.",
-    "due_at": "2026-05-16T16:44:35.770860+00:00"
-  },
-  {
-    "reveal_id": "5e1ecf519cf3475198c6e75338e5ce69",
-    "article_title": "Tamil Nadu's New Government",
-    "question": "What are investors watching closely in Tamil Nadu?",
-    "answer_label": "B",
-    "answer_text": "Government policies",
-    "explanation": "Investors are watching the policy direction of the new government to make informed decisions.",
-    "due_at": "2026-05-16T16:44:40.146070+00:00"
-  },
-  {
-    "reveal_id": "069c1303ec7f4e478d72f674063f4581",
-    "article_title": "Tamil Nadu's New Government",
-    "question": "What could be impacted by the new government's policies?",
-    "answer_label": "B",
-    "answer_text": "Economic growth",
-    "explanation": "The new government's policies could impact the state's economic growth and development.",
-    "due_at": "2026-05-16T16:44:40.872822+00:00"
-  },
-  {
-    "reveal_id": "597925b38a194fbf96fa0362a75674c1",
-    "article_title": "Tamil Nadu's New Government",
-    "question": "Why is the new Tamil Nadu government significant?",
+    "reveal_id": "5a60516b90b942378eb4a53a7036de80",
+    "article_title": "Supreme Court on Tenant and Landlord Rights",
+    "question": "What can be used to establish a landlord's genuine need for a property, according to the Supreme Court?",
     "answer_label": "C",
-    "answer_text": "It will impact the state's economy",
-    "explanation": "The new government is significant because its policies will impact the state's economy and development.",
-    "due_at": "2026-05-16T16:44:47.933591+00:00"
+    "answer_text": "Oral family arrangements",
+    "explanation": "The Supreme Court said that oral family arrangements can be relied upon to prove a landlord's bona fide need for a property.",
+    "due_at": "2026-05-16T17:58:43.170068+00:00"
+  },
+  {
+    "reveal_id": "d393adda8ed84593b3c70dcb6e108010",
+    "article_title": "Supreme Court on Tenant and Landlord Rights",
+    "question": "Which court set aside the Bombay High Court judgment in this case?",
+    "answer_label": "B",
+    "answer_text": "Supreme Court of India",
+    "explanation": "The Supreme Court of India set aside the Bombay High Court judgment and restored a 2007 eviction decree.",
+    "due_at": "2026-05-16T17:58:43.784577+00:00"
+  },
+  {
+    "reveal_id": "eb3866738d70494e81d1a48a417955f4",
+    "article_title": "Yantra India Limited CMD Selection",
+    "question": "What was the outcome of the PESB interviews for Yantra India Limited CMD post?",
+    "answer_label": "C",
+    "answer_text": "No candidate was recommended",
+    "explanation": "The PESB did not recommend any of the three candidates interviewed for the post.",
+    "due_at": "2026-05-16T17:58:50.578416+00:00"
+  },
+  {
+    "reveal_id": "9a083522de844777a40b5b058a85bd3a",
+    "article_title": "Yantra India Limited CMD Selection",
+    "question": "What route has been advised by the PESB for the selection of Yantra India Limited CMD?",
+    "answer_label": "B",
+    "answer_text": "Search-cum-Selection Committee",
+    "explanation": "The PESB has advised the administrative ministry to explore the Search-cum-Selection Committee route.",
+    "due_at": "2026-05-16T17:58:51.204687+00:00"
+  },
+  {
+    "reveal_id": "0d1bcf598bcc4e0ca269bf2620587044",
+    "article_title": "Yantra India Limited CMD Selection",
+    "question": "How many candidates were interviewed by the PESB for the Yantra India Limited CMD post?",
+    "answer_label": "C",
+    "answer_text": "Three",
+    "explanation": "The PESB interviewed three candidates for the Yantra India Limited CMD post.",
+    "due_at": "2026-05-16T17:58:51.824783+00:00"
   }
 ]
