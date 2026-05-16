@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "5105539154ef44b387f5175b01518650",
-    "article_title": "Nifty Weekly Outlook",
-    "question": "What is the predicted trend for the Nifty index?",
-    "answer_label": "B",
-    "answer_text": "Sideways to Mild Bullish",
-    "explanation": "The market is expected to see a sideways to mild bullish trend, with a 65% probability of continuation.",
-    "due_at": "2026-05-16T22:02:35.748211+00:00"
-  },
-  {
-    "reveal_id": "00941726c09e486b8d39e96f153ccae7",
-    "article_title": "Nifty Weekly Outlook",
-    "question": "What is the significance of the 23,450 level for the Nifty index?",
-    "answer_label": "B",
-    "answer_text": "It is a key support level",
-    "explanation": "The 23,450 level is a key support level, and a breakdown below this level may lead to a bearish trend.",
-    "due_at": "2026-05-16T22:02:39.518808+00:00"
-  },
-  {
-    "reveal_id": "3c8b83567e7e45c18d6953003e9ae13f",
-    "article_title": "Nifty Weekly Outlook",
-    "question": "What is the recommended approach for traders in the current market?",
-    "answer_label": "B",
-    "answer_text": "Buy-on-dips strategy",
-    "explanation": "The recommended approach is to buy-on-dips, as smart money is buying dips but not chasing highs aggressively yet.",
-    "due_at": "2026-05-16T22:02:40.076551+00:00"
-  },
-  {
-    "reveal_id": "0e8a0bb80ac0468b9d442b1eaad7123e",
-    "article_title": "Fuel Price Hike Impact",
-    "question": "Who stated that the fuel price hike will hurt the poor and middle class?",
+    "reveal_id": "200336f208754c77b0a081291c33d80c",
+    "article_title": "Indian Women's Cricket Team Visits Mahakaleshwar Temple",
+    "question": "Which temple did the Indian women's cricket team visit?",
     "answer_label": "A",
-    "answer_text": "Mayawati",
-    "explanation": "Mayawati made this statement, emphasizing the need for government action to control inflation.",
-    "due_at": "2026-05-16T22:02:47.064043+00:00"
+    "answer_text": "Mahakaleshwar Jyotirlinga",
+    "explanation": "The team visited Mahakaleshwar Jyotirlinga in Ujjain to offer prayers.",
+    "due_at": "2026-05-16T22:57:34.928520+00:00"
   },
   {
-    "reveal_id": "08865aa071f64415ae72dbcb56820ea6",
-    "article_title": "Fuel Price Hike Impact",
-    "question": "What is the expected impact of the fuel price hike on the poor and middle class?",
-    "answer_label": "D",
-    "answer_text": "Increased costs of living",
-    "explanation": "The fuel price hike is expected to increase the costs of living for the poor and middle class.",
-    "due_at": "2026-05-16T22:02:47.635694+00:00"
+    "reveal_id": "89a0613243b94a4e8d68225611cbe3f5",
+    "article_title": "Indian Women's Cricket Team Visits Mahakaleshwar Temple",
+    "question": "Where is the Mahakaleshwar Jyotirlinga temple located?",
+    "answer_label": "B",
+    "answer_text": "Ujjain",
+    "explanation": "The Mahakaleshwar Jyotirlinga temple is located in Ujjain.",
+    "due_at": "2026-05-16T22:57:38.691516+00:00"
   },
   {
-    "reveal_id": "504cc66a92ca4c439fcc27cfb763b9ce",
-    "article_title": "Fuel Price Hike Impact",
-    "question": "What action did Mayawati urge the government to take?",
-    "answer_label": "C",
-    "answer_text": "Control inflation and provide relief",
-    "explanation": "Mayawati urged the government to control inflation and provide relief to the public.",
-    "due_at": "2026-05-16T22:02:48.219985+00:00"
+    "reveal_id": "97f797848cc44af69bfa5ca3c250fdd2",
+    "article_title": "Indian Women's Cricket Team Visits Mahakaleshwar Temple",
+    "question": "What was the purpose of the Indian women's cricket team's visit to the temple?",
+    "answer_label": "B",
+    "answer_text": "To seek blessings",
+    "explanation": "The team visited the temple to seek blessings and offer prayers.",
+    "due_at": "2026-05-16T22:57:39.285264+00:00"
+  },
+  {
+    "reveal_id": "5ac2545889334d7ea519839dc4736d97",
+    "article_title": "CJI Clarifies Remark on Unemployed Youth",
+    "question": "What was the context of CJI Surya Kant's controversial remark?",
+    "answer_label": "A",
+    "answer_text": "A court hearing on employment opportunities",
+    "explanation": "The remark was made during a court hearing, which led to controversy and subsequent clarification by the CJI.",
+    "due_at": "2026-05-16T22:57:46.423131+00:00"
+  },
+  {
+    "reveal_id": "5a9e14c7db894e9b84b4655fbb15f040",
+    "article_title": "CJI Clarifies Remark on Unemployed Youth",
+    "question": "What did CJI Surya Kant claim was the target of his misquoted remark?",
+    "answer_label": "B",
+    "answer_text": "Youth using fake degrees in professions",
+    "explanation": "The CJI clarified that his remark was targeted at individuals using fake degrees in professions, not unemployed youth in general.",
+    "due_at": "2026-05-16T22:57:46.993789+00:00"
+  },
+  {
+    "reveal_id": "3dda0683bde048eab090418e9943cf4e",
+    "article_title": "CJI Clarifies Remark on Unemployed Youth",
+    "question": "How did CJI Surya Kant describe India's youth after the controversy?",
+    "answer_label": "B",
+    "answer_text": "Pillars of a developed nation",
+    "explanation": "The CJI expressed pride in India's youth, calling them pillars of a developed nation, to emphasize his respect for them.",
+    "due_at": "2026-05-16T22:57:47.570269+00:00"
   }
 ]
