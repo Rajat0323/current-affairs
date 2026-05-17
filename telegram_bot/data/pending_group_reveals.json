@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "babeb7f3efce4ffbb600e8818c815bcd",
-    "article_title": "Subnautica 2 Adaptations",
-    "question": "What are Adaptations in Subnautica 2?",
+    "reveal_id": "74882fd2a55349789feee4189493ecbe",
+    "article_title": "HC Upholds Benefits for MLAs and Ex-MLAs",
+    "question": "What was the main contention of the petitioner in the Allahabad High Court?",
     "answer_label": "B",
-    "answer_text": "Biological upgrades",
-    "explanation": "Adaptations are biological upgrades that help players survive in the alien ocean.",
-    "due_at": "2026-05-17T20:27:24.293745+00:00"
+    "answer_text": "The petitioner challenged the constitutional validity of benefits for MLAs and ex-MLAs",
+    "explanation": "The petitioner sought a declaration of various provisions as unconstitutional, arguing that extending benefits to former MLAs and MLCs was contrary to the spirit of the Constitution.",
+    "due_at": "2026-05-17T21:36:41.128102+00:00"
   },
   {
-    "reveal_id": "8b346774bb2345e0802af8fe5cb6e8ee",
-    "article_title": "Subnautica 2 Adaptations",
-    "question": "How do players acquire Adaptations in Subnautica 2?",
-    "answer_label": "B",
-    "answer_text": "By interacting with Angel Combs",
-    "explanation": "Players acquire Adaptations by interacting with Angel Combs in the game.",
-    "due_at": "2026-05-17T20:27:28.109269+00:00"
-  },
-  {
-    "reveal_id": "fc2d90cdbb3e4f74a411a0483ee448be",
-    "article_title": "Subnautica 2 Adaptations",
-    "question": "What is the benefit of the Pressure Tolerance Adaptation?",
+    "reveal_id": "b27a05f990544e35877b6c2a565d231c",
+    "article_title": "HC Upholds Benefits for MLAs and Ex-MLAs",
+    "question": "What was the state government's argument regarding the pension granted to legislators?",
     "answer_label": "C",
-    "answer_text": "Breathing pressurized air",
-    "explanation": "The Pressure Tolerance Adaptation allows players to breathe pressurized air.",
-    "due_at": "2026-05-17T20:27:28.749284+00:00"
+    "answer_text": "The pension was a statutory facility provided in recognition of public service",
+    "explanation": "The state government argued that the pension granted to legislators was a statutory facility provided in recognition of public service rendered during their legislative tenure.",
+    "due_at": "2026-05-17T21:36:41.849322+00:00"
   },
   {
-    "reveal_id": "b75492c6082d4e91a986f9823163a310",
-    "article_title": "Kerala Cabinet Formation",
-    "question": "Who is the Chief Minister-designate of Kerala?",
-    "answer_label": "A",
-    "answer_text": "VD Satheesan",
-    "explanation": "VD Satheesan is the Chief Minister-designate of Kerala, as mentioned in the article.",
-    "due_at": "2026-05-17T20:27:35.790330+00:00"
-  },
-  {
-    "reveal_id": "fdf51a8e320d4f2fbd7d03609839913c",
-    "article_title": "Kerala Cabinet Formation",
-    "question": "Which party is expected to form the government in Kerala?",
+    "reveal_id": "cff9a77c7a4649f3ae677115feb69ccc",
+    "article_title": "HC Upholds Benefits for MLAs and Ex-MLAs",
+    "question": "Which article of the Constitution was cited in the court's judgment regarding the benefits for MLAs and ex-MLAs?",
     "answer_label": "B",
-    "answer_text": "UDF",
-    "explanation": "The UDF government is expected to form the government in Kerala, as mentioned in the article.",
-    "due_at": "2026-05-17T20:27:36.431196+00:00"
+    "answer_text": "Article 14",
+    "explanation": "The court observed that the nature and quantum of the benefits did not disclose any manifest arbitrariness to attract the prohibition under Article 14 of the Constitution.",
+    "due_at": "2026-05-17T21:36:42.588578+00:00"
   },
   {
-    "reveal_id": "4d5b60087bb44156a2eafdda711b5323",
-    "article_title": "Kerala Cabinet Formation",
-    "question": "When is the swearing-in ceremony of the new Kerala government expected to take place?",
+    "reveal_id": "83f8a19aa0fa466b9167223bc8573fc2",
+    "article_title": "Delhi Metro to Increase Trips",
+    "question": "What is the main goal of Delhi Metro running extra trips?",
+    "answer_label": "C",
+    "answer_text": "To promote public transport",
+    "explanation": "The main goal is to encourage commuters to shift from private vehicles to public transport, promoting sustainable urban mobility.",
+    "due_at": "2026-05-17T21:36:46.800801+00:00"
+  },
+  {
+    "reveal_id": "171616cd19554f9194dd6d448bd32a02",
+    "article_title": "Delhi Metro to Increase Trips",
+    "question": "What is a factor contributing to the push for sustainable urban mobility in Delhi?",
+    "answer_label": "C",
+    "answer_text": "Rising fuel prices",
+    "explanation": "Rising fuel prices are a key factor in the renewed push towards sustainable urban mobility in Delhi.",
+    "due_at": "2026-05-17T21:36:47.505223+00:00"
+  },
+  {
+    "reveal_id": "c89e2419ef654774a1e78aaba8736bea",
+    "article_title": "Delhi Metro to Increase Trips",
+    "question": "How will the Delhi Metro Rail Corporation initially operate the extra train trips?",
     "answer_label": "B",
-    "answer_text": "Monday",
-    "explanation": "The swearing-in ceremony is expected to take place on Monday, as mentioned in the article.",
-    "due_at": "2026-05-17T20:27:37.061732+00:00"
+    "answer_text": "Using 6 additional trains",
+    "explanation": "The DMRC will initially operate 24 extra train trips using six additional trains.",
+    "due_at": "2026-05-17T21:36:54.539285+00:00"
   }
 ]
