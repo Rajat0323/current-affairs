@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "b78de671740e4d888276887d0748cdb4",
-    "article_title": "Punjab Cracks Down on Polluting Brick Kilns",
-    "question": "What action was taken against brick kilns in Rahim Yar Khan?",
+    "reveal_id": "6593fab1058143dfb505849b628f2979",
+    "article_title": "NEET Exam Leak Controversy",
+    "question": "Which party has demanded the removal of Education Minister Dharmendra Pradhan?",
     "answer_label": "B",
-    "answer_text": "They were sealed",
-    "explanation": "The Environment Protection Department sealed the brick kilns for not complying with clean-air regulations.",
-    "due_at": "2026-05-17T16:02:43.724199+00:00"
+    "answer_text": "Congress",
+    "explanation": "The Congress party has demanded the removal of Education Minister Dharmendra Pradhan due to the NEET exam leak controversy.",
+    "due_at": "2026-05-17T17:05:22.107397+00:00"
   },
   {
-    "reveal_id": "48f066c797694e4687e0dd2e03585fab",
-    "article_title": "Punjab Cracks Down on Polluting Brick Kilns",
-    "question": "Why were the brick kilns sealed?",
-    "answer_label": "B",
-    "answer_text": "For not following clean-air rules",
-    "explanation": "The brick kilns were sealed because they failed to comply with clean-air regulations.",
-    "due_at": "2026-05-17T16:02:44.441552+00:00"
+    "reveal_id": "8497aebd051e49feb38a640e77a871ac",
+    "article_title": "NEET Exam Leak Controversy",
+    "question": "What is the main issue surrounding the NEET exam?",
+    "answer_label": "C",
+    "answer_text": "Exam leak",
+    "explanation": "The main issue surrounding the NEET exam is the leak of the exam paper.",
+    "due_at": "2026-05-17T17:05:22.798394+00:00"
   },
   {
-    "reveal_id": "991263ec4003445489da21b1821b17c8",
-    "article_title": "Punjab Cracks Down on Polluting Brick Kilns",
-    "question": "Which department is responsible for the crackdown on polluting industries?",
-    "answer_label": "A",
-    "answer_text": "Environment Protection Department",
-    "explanation": "The Environment Protection Department is responsible for ensuring industries comply with environmental regulations.",
-    "due_at": "2026-05-17T16:02:45.181282+00:00"
+    "reveal_id": "935e4794192240c68b0157cde91bc763",
+    "article_title": "NEET Exam Leak Controversy",
+    "question": "Who is the Education Minister accused of failing students?",
+    "answer_label": "B",
+    "answer_text": "Dharmendra Pradhan",
+    "explanation": "Dharmendra Pradhan is the Education Minister accused of failing students due to the NEET exam leak controversy.",
+    "due_at": "2026-05-17T17:05:23.505820+00:00"
   },
   {
-    "reveal_id": "4429ef3391cb44f0af0ea639fb9b179f",
-    "article_title": "B-Khata to A-Khata Conversion",
-    "question": "What is the proposed change in khata documents?",
-    "answer_label": "B",
-    "answer_text": "Adding property owner's photo",
-    "explanation": "Khata documents will now come with photos of property owners to ensure transparency.",
-    "due_at": "2026-05-17T16:02:52.531800+00:00"
+    "reveal_id": "1b7791c71a2c40f6845ebb52515503ca",
+    "article_title": "Ladakh Census 2027 Portal Launched",
+    "question": "What is the purpose of the self-enumeration portal launched in Ladakh?",
+    "answer_label": "C",
+    "answer_text": "To gather census data",
+    "explanation": "The self-enumeration portal is launched to gather data for Census 2027, which will help in policy making and resource allocation.",
+    "due_at": "2026-05-17T17:05:28.129423+00:00"
   },
   {
-    "reveal_id": "349a2a3c4a87408ab3eee29f02790dd9",
-    "article_title": "B-Khata to A-Khata Conversion",
-    "question": "What is the consequence of submitting fake documents for khata?",
-    "answer_label": "B",
-    "answer_text": "Cancellation of khata",
-    "explanation": "Submitting fake documents will lead to cancellation of khata.",
-    "due_at": "2026-05-17T16:02:53.248806+00:00"
+    "reveal_id": "f67ca1a79abe47dfb96df77539cc5053",
+    "article_title": "Ladakh Census 2027 Portal Launched",
+    "question": "Who launched the self-enumeration portal for Census 2027 in Ladakh?",
+    "answer_label": "C",
+    "answer_text": "Lieutenant Governor of Ladakh",
+    "explanation": "The Lieutenant Governor of Ladakh, Vinai Kumar Saxena, launched the self-enumeration portal for Census 2027.",
+    "due_at": "2026-05-17T17:05:28.823408+00:00"
   },
   {
-    "reveal_id": "5cd8c25a2fbe421ab20a9091b25c0ca7",
-    "article_title": "B-Khata to A-Khata Conversion",
-    "question": "What is the goal of the new khata conversion process?",
+    "reveal_id": "afb490a170da468ab7e0b4da15797d0f",
+    "article_title": "Ladakh Census 2027 Portal Launched",
+    "question": "What is the significance of the census data in India?",
     "answer_label": "B",
-    "answer_text": "Reducing corruption",
-    "explanation": "The goal is to reduce corruption in the khata conversion process by eliminating bribery.",
-    "due_at": "2026-05-17T16:02:57.185683+00:00"
+    "answer_text": "It helps in policy making and resource allocation",
+    "explanation": "The census data is significant as it helps in policy making and resource allocation, reflecting the unique identity and needs of different regions in national planning.",
+    "due_at": "2026-05-17T17:05:29.549704+00:00"
   }
 ]
