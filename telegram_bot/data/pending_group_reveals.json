@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "816c29034ffa43d8837447786a49d662",
-    "article_title": "India: A Land of Opportunities",
-    "question": "What did PM Modi describe India as during his address in The Hague?",
+    "reveal_id": "a72ef0ef63de44ebb0a6bffcde9bfcdd",
+    "article_title": "India vs Afghanistan Cricket Series",
+    "question": "Where will the one-off Test between India and Afghanistan be played?",
     "answer_label": "B",
-    "answer_text": "A land of opportunities",
-    "explanation": "PM Modi described India as a land of opportunities driven by technology and humanity.",
-    "due_at": "2026-05-17T00:02:47.863385+00:00"
+    "answer_text": "New Chandigarh",
+    "explanation": "The one-off Test will be played at New Chandigarh from June 6-10.",
+    "due_at": "2026-05-17T01:59:44.237968+00:00"
   },
   {
-    "reveal_id": "bd531985854a4196aabc169c6272846a",
-    "article_title": "India: A Land of Opportunities",
-    "question": "What is the proposed agreement that can further strengthen ties between India and Europe?",
-    "answer_label": "A",
-    "answer_text": "India-European Union Free Trade Agreement",
-    "explanation": "The proposed India-European Union Free Trade Agreement can further strengthen ties between India and Europe.",
-    "due_at": "2026-05-17T00:02:51.671533+00:00"
-  },
-  {
-    "reveal_id": "d6013a4447984dea8d5569b92670cfed",
-    "article_title": "India: A Land of Opportunities",
-    "question": "What role does the Indian diaspora play in strengthening bilateral relations between India and the Netherlands?",
-    "answer_label": "B",
-    "answer_text": "Acts as a bridge",
-    "explanation": "The Indian diaspora acts as a trusted bridge between India and the Netherlands, contributing to people-to-people ties and economic cooperation.",
-    "due_at": "2026-05-17T00:02:52.288853+00:00"
-  },
-  {
-    "reveal_id": "45d00e11d2e945b0b3d55767873b9594",
-    "article_title": "44th ASI Annual Meeting at IIT Guwahati",
-    "question": "Where is the 44th Astronomical Society of India Annual Meeting being held?",
-    "answer_label": "B",
-    "answer_text": "IIT Guwahati",
-    "explanation": "The meeting is being held at IIT Guwahati, which is hosting the event after a gap of 30 years in the Northeast region.",
-    "due_at": "2026-05-17T00:02:59.343396+00:00"
-  },
-  {
-    "reveal_id": "13df898cb7f84b1892793600caf224f6",
-    "article_title": "44th ASI Annual Meeting at IIT Guwahati",
-    "question": "How many participants are attending the 44th ASI Annual Meeting?",
-    "answer_label": "B",
-    "answer_text": "Over 600",
-    "explanation": "The meeting has brought together over 600 astronomers, researchers, students, and science communicators from across the world.",
-    "due_at": "2026-05-17T00:02:59.948301+00:00"
-  },
-  {
-    "reveal_id": "faa9b01fbbef40a8a6aec4459aee3b8f",
-    "article_title": "44th ASI Annual Meeting at IIT Guwahati",
-    "question": "What is the significance of the 44th ASI Annual Meeting being held in the Northeast?",
+    "reveal_id": "9eb620d675e646f1bb49ec2ee16dd3b1",
+    "article_title": "India vs Afghanistan Cricket Series",
+    "question": "What is a key concern for the Indian team in the upcoming series?",
     "answer_label": "C",
-    "answer_text": "It is being held after a gap of 30 years",
-    "explanation": "The meeting marks the return of the ASI Annual Meeting to the Northeast after a gap of 30 years.",
-    "due_at": "2026-05-17T00:03:00.610484+00:00"
+    "answer_text": "Managing Jasprit Bumrah's workload",
+    "explanation": "The focus will be on managing Jasprit Bumrah's workload to avoid injuries.",
+    "due_at": "2026-05-17T01:59:44.874895+00:00"
+  },
+  {
+    "reveal_id": "1c0d4355d63e4ae183d3a26b1f9806da",
+    "article_title": "India vs Afghanistan Cricket Series",
+    "question": "Who could be a 'dark horse' for India in ODIs according to the article?",
+    "answer_label": "B",
+    "answer_text": "Prince Yadav",
+    "explanation": "Prince Yadav could be a surprise performer for India in ODIs.",
+    "due_at": "2026-05-17T01:59:45.517945+00:00"
+  },
+  {
+    "reveal_id": "789bbf0ddb3846f68c102553b65236af",
+    "article_title": "India-Netherlands Sports Ties",
+    "question": "Who was namedropped by PM Narendra Modi in his Hague address?",
+    "answer_label": "A",
+    "answer_text": "Sjoerd Marijne",
+    "explanation": "Sjoerd Marijne is a Dutch hockey coach who has contributed to Indian hockey.",
+    "due_at": "2026-05-17T01:59:52.519771+00:00"
+  },
+  {
+    "reveal_id": "cb4be2dd72e744759f5f634ced2a94d5",
+    "article_title": "India-Netherlands Sports Ties",
+    "question": "What sports did PM Narendra Modi mention in his address?",
+    "answer_label": "C",
+    "answer_text": "Hockey and Cricket",
+    "explanation": "PM Narendra Modi mentioned hockey and cricket in his address, highlighting the sports ties between India and Netherlands.",
+    "due_at": "2026-05-17T01:59:53.167553+00:00"
+  },
+  {
+    "reveal_id": "44f815c80c9b47788368e1d74828764c",
+    "article_title": "India-Netherlands Sports Ties",
+    "question": "Where did PM Narendra Modi deliver his address?",
+    "answer_label": "B",
+    "answer_text": "The Hague",
+    "explanation": "PM Narendra Modi delivered his address in The Hague, Netherlands, as part of strengthening India-Netherlands ties.",
+    "due_at": "2026-05-17T01:59:54.080172+00:00"
   }
 ]
