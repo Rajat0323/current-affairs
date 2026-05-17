@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "3d7cb323655c4ca08c2844a0bab67d5d",
-    "article_title": "India Rejects Indus Waters Treaty Arbitration Ruling",
-    "question": "What is the main reason for India's rejection of the arbitration ruling on the Indus Waters Treaty?",
-    "answer_label": "B",
-    "answer_text": "Jurisdiction concerns",
-    "explanation": "India rejected the ruling due to concerns over the tribunal's jurisdiction, claiming it was constituted unlawfully.",
-    "due_at": "2026-05-17T08:29:31.840524+00:00"
-  },
-  {
-    "reveal_id": "3f122b29cdc149d98381bd723e379bc5",
-    "article_title": "India Rejects Indus Waters Treaty Arbitration Ruling",
-    "question": "Which country backed the arbitration ruling that India has rejected?",
-    "answer_label": "B",
-    "answer_text": "Pakistan",
-    "explanation": "Pakistan supported the Court of Arbitration's ruling on the Indus Waters Treaty.",
-    "due_at": "2026-05-17T08:29:35.734760+00:00"
-  },
-  {
-    "reveal_id": "59669325d2c64e77a9a28aa5c0bcad84",
-    "article_title": "India Rejects Indus Waters Treaty Arbitration Ruling",
-    "question": "What is the name of the treaty at the center of the dispute between India and Pakistan?",
-    "answer_label": "A",
-    "answer_text": "Indus Waters Treaty",
-    "explanation": "The Indus Waters Treaty is the agreement that governs water sharing between India and Pakistan.",
-    "due_at": "2026-05-17T08:29:36.391242+00:00"
-  },
-  {
-    "reveal_id": "79b5f0b07aad4d5db84fe68ab6f56de6",
-    "article_title": "Faith and Art Exhibition",
-    "question": "Where is the exhibition of faith and art being held?",
-    "answer_label": "B",
-    "answer_text": "New Delhi",
-    "explanation": "The exhibition is being held at Bikaner House in New Delhi.",
-    "due_at": "2026-05-17T08:29:43.778328+00:00"
-  },
-  {
-    "reveal_id": "ac7eeeac7a194abca7833d2db955e958",
-    "article_title": "Faith and Art Exhibition",
-    "question": "Who is the curator of the faith and art exhibition?",
-    "answer_label": "A",
-    "answer_text": "Raseel Gujral Ansal",
-    "explanation": "Raseel Gujral Ansal is the curator of the exhibition.",
-    "due_at": "2026-05-17T08:29:44.423275+00:00"
-  },
-  {
-    "reveal_id": "36655bf88911479685eea36d6b991199",
-    "article_title": "Faith and Art Exhibition",
-    "question": "What type of art forms are being showcased at the exhibition?",
+    "reveal_id": "167694b7af684bb68946b6f3aa547645",
+    "article_title": "Vodafone Idea Posts Surprise Profit",
+    "question": "What is the net profit reported by Vodafone Idea?",
     "answer_label": "C",
-    "answer_text": "Tanjore paintings and Mysuru glass art",
-    "explanation": "The exhibition showcases various art forms including Tanjore paintings and Mysuru glass art.",
-    "due_at": "2026-05-17T08:29:45.084694+00:00"
+    "answer_text": "Rs 51,986 crore",
+    "explanation": "Vodafone Idea reported a net profit of Rs 51,986 crore, which is a significant turnaround for the company.",
+    "due_at": "2026-05-17T10:28:35.929566+00:00"
+  },
+  {
+    "reveal_id": "52e79346914c47cbaa32da181387c483",
+    "article_title": "Vodafone Idea Posts Surprise Profit",
+    "question": "What contributed to Vodafone Idea's surprise profit?",
+    "answer_label": "B",
+    "answer_text": "Government relief",
+    "explanation": "The government relief was the main factor that contributed to Vodafone Idea's surprise profit.",
+    "due_at": "2026-05-17T10:28:39.729338+00:00"
+  },
+  {
+    "reveal_id": "d72e78f046bf41c2bc63e9c84fa2d50e",
+    "article_title": "Vodafone Idea Posts Surprise Profit",
+    "question": "What is Vodafone Idea's position in India's telecom sector?",
+    "answer_label": "C",
+    "answer_text": "Third largest telecom operator",
+    "explanation": "Vodafone Idea is India's third largest telecom operator, and its turnaround can have a positive impact on the sector.",
+    "due_at": "2026-05-17T10:28:40.357530+00:00"
+  },
+  {
+    "reveal_id": "ce565bad411541cda13b5e0da0438b76",
+    "article_title": "Heatwave Forecast for Northern India",
+    "question": "What is the predicted temperature during the heatwave in northern India?",
+    "answer_label": "C",
+    "answer_text": "44\u00b0C",
+    "explanation": "The IMD forecast mentions temperatures reaching 44\u00b0C during the heatwave.",
+    "due_at": "2026-05-17T10:28:47.005622+00:00"
+  },
+  {
+    "reveal_id": "e17e5849165647a28c789a4164dea116",
+    "article_title": "Heatwave Forecast for Northern India",
+    "question": "What is the advised precaution for residents during the heatwave?",
+    "answer_label": "B",
+    "answer_text": "Limit outdoor activities",
+    "explanation": "Residents are advised to limit outdoor activities to stay safe during the heatwave.",
+    "due_at": "2026-05-17T10:28:47.618344+00:00"
+  },
+  {
+    "reveal_id": "ab58ef4a3dd44f8189e1b6442feb46f7",
+    "article_title": "Heatwave Forecast for Northern India",
+    "question": "When is the heatwave predicted to occur in northern India?",
+    "answer_label": "B",
+    "answer_text": "May 18-22",
+    "explanation": "The IMD forecast mentions the heatwave will occur from May 18-22.",
+    "due_at": "2026-05-17T10:28:48.240650+00:00"
   }
 ]
