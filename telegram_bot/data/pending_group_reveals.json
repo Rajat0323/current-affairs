@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "053ec60de5d843118c52124fd03b3a3e",
-    "article_title": "NTA Appointments",
-    "question": "How many joint secretaries were appointed to the NTA?",
+    "reveal_id": "fbd2dcc7eafd4e14ba7ccb18dcd8f1d5",
+    "article_title": "India-Sweden Ties",
+    "question": "What is the significance of PM Modi's visit to Sweden?",
     "answer_label": "B",
-    "answer_text": "2",
-    "explanation": "According to the article, two joint secretaries were appointed to the NTA.",
-    "due_at": "2026-05-17T11:52:58.246111+00:00"
+    "answer_text": "To strengthen economic ties",
+    "explanation": "PM Modi's visit to Sweden aims to strengthen economic cooperation between the two countries.",
+    "due_at": "2026-05-17T13:08:23.831971+00:00"
   },
   {
-    "reveal_id": "3e2554bc21db4e06bbe80c97df5e68cb",
-    "article_title": "NTA Appointments",
-    "question": "What is the NTA responsible for?",
+    "reveal_id": "1bdc36d98dfa4aa4806be5c93570d66b",
+    "article_title": "India-Sweden Ties",
+    "question": "How long has Volvo Group been operating in India?",
+    "answer_label": "D",
+    "answer_text": "25 years",
+    "explanation": "Volvo Group has been operating in India for 25 years, employing nearly 5,000 people.",
+    "due_at": "2026-05-17T13:08:27.586306+00:00"
+  },
+  {
+    "reveal_id": "2c324646d985416183a145aa540726cc",
+    "article_title": "India-Sweden Ties",
+    "question": "What is the current employment figure of Volvo Group in India?",
+    "answer_label": "D",
+    "answer_text": "nearly 5,000 people",
+    "explanation": "Volvo Group currently employs nearly 5,000 people in India.",
+    "due_at": "2026-05-17T13:08:28.174921+00:00"
+  },
+  {
+    "reveal_id": "b9bbd61b4ec645dea3c00ed48d5fe9c1",
+    "article_title": "Japan Air Fares to Increase",
+    "question": "Which airlines are raising fuel surcharges on international tickets?",
     "answer_label": "C",
-    "answer_text": "Conducting exams",
-    "explanation": "The NTA is responsible for conducting exams, as mentioned in the context of the controversy over the NEE.",
-    "due_at": "2026-05-17T11:52:58.844985+00:00"
+    "answer_text": "Both Japan Airlines and All Nippon Airways",
+    "explanation": "Japan Airlines and All Nippon Airways are raising fuel surcharges due to increased jet fuel costs.",
+    "due_at": "2026-05-17T13:08:35.110864+00:00"
   },
   {
-    "reveal_id": "ec9522fac6f9419484a62767ecff94b9",
-    "article_title": "NTA Appointments",
-    "question": "How many joint directors were appointed to the NTA?",
+    "reveal_id": "41edb3857de84f8b962593ab5b3055db",
+    "article_title": "Japan Air Fares to Increase",
+    "question": "What is the reason for the increase in air fares from Japan?",
     "answer_label": "B",
-    "answer_text": "2",
-    "explanation": "According to the article, two joint directors were appointed to the NTA.",
-    "due_at": "2026-05-17T11:52:59.495811+00:00"
+    "answer_text": "Increase in jet fuel costs",
+    "explanation": "The increase in air fares is linked to increased jet fuel costs due to global oil supply disruptions.",
+    "due_at": "2026-05-17T13:08:35.710643+00:00"
   },
   {
-    "reveal_id": "685b031317f144c4addf2b76e594b71e",
-    "article_title": "Delhi University PG Admissions Open",
-    "question": "What is the last date to apply for Delhi University's 2-year postgraduate programmes?",
+    "reveal_id": "624e5892e94a4857969e2d63396cf406",
+    "article_title": "Japan Air Fares to Increase",
+    "question": "When will the change in air fares apply?",
     "answer_label": "B",
-    "answer_text": "June 7",
-    "explanation": "The admission schedule states that applications can be submitted till June 7.",
-    "due_at": "2026-05-17T11:53:06.069554+00:00"
-  },
-  {
-    "reveal_id": "56d9a58dfa2840879297b7512f7eb069",
-    "article_title": "Delhi University PG Admissions Open",
-    "question": "How can eligible candidates apply for Delhi University's postgraduate programmes?",
-    "answer_label": "B",
-    "answer_text": "Online through the PG-CSAS portal",
-    "explanation": "The process will be conducted online through the Postgraduate Common Seat Allocation System (PG-CSAS) portal.",
-    "due_at": "2026-05-17T11:53:06.662241+00:00"
-  },
-  {
-    "reveal_id": "8640b71d0d374b07841520b549919244",
-    "article_title": "Delhi University PG Admissions Open",
-    "question": "What is the duration of the postgraduate programmes offered by Delhi University?",
-    "answer_label": "B",
-    "answer_text": "2 years",
-    "explanation": "The University of Delhi has opened registrations for its two-year postgraduate programmes.",
-    "due_at": "2026-05-17T11:53:07.248246+00:00"
+    "answer_text": "Bookings made in May and June 2026",
+    "explanation": "The change in air fares applies to bookings made in May and June 2026.",
+    "due_at": "2026-05-17T13:08:36.336539+00:00"
   }
 ]
