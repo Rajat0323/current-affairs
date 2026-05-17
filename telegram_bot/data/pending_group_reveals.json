@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "b97d6f3bc1d540b8b874b339bfa38591",
-    "article_title": "Inauguration of Madhur Dairy Unit-2 in Gandhinagar",
-    "question": "Who will inaugurate the Madhur Dairy Unit-2 in Gandhinagar?",
+    "reveal_id": "3d7cb323655c4ca08c2844a0bab67d5d",
+    "article_title": "India Rejects Indus Waters Treaty Arbitration Ruling",
+    "question": "What is the main reason for India's rejection of the arbitration ruling on the Indus Waters Treaty?",
+    "answer_label": "B",
+    "answer_text": "Jurisdiction concerns",
+    "explanation": "India rejected the ruling due to concerns over the tribunal's jurisdiction, claiming it was constituted unlawfully.",
+    "due_at": "2026-05-17T08:29:31.840524+00:00"
+  },
+  {
+    "reveal_id": "3f122b29cdc149d98381bd723e379bc5",
+    "article_title": "India Rejects Indus Waters Treaty Arbitration Ruling",
+    "question": "Which country backed the arbitration ruling that India has rejected?",
+    "answer_label": "B",
+    "answer_text": "Pakistan",
+    "explanation": "Pakistan supported the Court of Arbitration's ruling on the Indus Waters Treaty.",
+    "due_at": "2026-05-17T08:29:35.734760+00:00"
+  },
+  {
+    "reveal_id": "59669325d2c64e77a9a28aa5c0bcad84",
+    "article_title": "India Rejects Indus Waters Treaty Arbitration Ruling",
+    "question": "What is the name of the treaty at the center of the dispute between India and Pakistan?",
     "answer_label": "A",
-    "answer_text": "Amit Shah",
-    "explanation": "Amit Shah is the Union Minister who will inaugurate the Madhur Dairy Unit-2.",
-    "due_at": "2026-05-17T06:03:29.337303+00:00"
+    "answer_text": "Indus Waters Treaty",
+    "explanation": "The Indus Waters Treaty is the agreement that governs water sharing between India and Pakistan.",
+    "due_at": "2026-05-17T08:29:36.391242+00:00"
   },
   {
-    "reveal_id": "5806792ff8404ab4866b7165ac97c34c",
-    "article_title": "Inauguration of Madhur Dairy Unit-2 in Gandhinagar",
-    "question": "Where is the Madhur Dairy Unit-2 located?",
+    "reveal_id": "79b5f0b07aad4d5db84fe68ab6f56de6",
+    "article_title": "Faith and Art Exhibition",
+    "question": "Where is the exhibition of faith and art being held?",
+    "answer_label": "B",
+    "answer_text": "New Delhi",
+    "explanation": "The exhibition is being held at Bikaner House in New Delhi.",
+    "due_at": "2026-05-17T08:29:43.778328+00:00"
+  },
+  {
+    "reveal_id": "ac7eeeac7a194abca7833d2db955e958",
+    "article_title": "Faith and Art Exhibition",
+    "question": "Who is the curator of the faith and art exhibition?",
     "answer_label": "A",
-    "answer_text": "Gandhinagar, Gujarat",
-    "explanation": "The Madhur Dairy Unit-2 is located in Gandhinagar, Gujarat.",
-    "due_at": "2026-05-17T06:03:30.067511+00:00"
+    "answer_text": "Raseel Gujral Ansal",
+    "explanation": "Raseel Gujral Ansal is the curator of the exhibition.",
+    "due_at": "2026-05-17T08:29:44.423275+00:00"
   },
   {
-    "reveal_id": "7432a068a554468b9fa5d4847f634e5b",
-    "article_title": "Inauguration of Madhur Dairy Unit-2 in Gandhinagar",
-    "question": "What is the main feature of the Madhur Dairy Unit-2?",
-    "answer_label": "B",
-    "answer_text": "Automatic milk processing and packaging",
-    "explanation": "The Madhur Dairy Unit-2 has an automatic milk processing and packaging plant.",
-    "due_at": "2026-05-17T06:03:31.333093+00:00"
-  },
-  {
-    "reveal_id": "30775757baa148548047985a2ad99f01",
-    "article_title": "Karnataka to Use AI in Power Grid by 2047",
-    "question": "By what year does Karnataka plan to use AI in power grid operations?",
-    "answer_label": "B",
-    "answer_text": "2047",
-    "explanation": "Karnataka aims to implement AI in power grid operations by 2047 for efficient energy management.",
-    "due_at": "2026-05-17T06:03:35.188571+00:00"
-  },
-  {
-    "reveal_id": "28025d4b6b574038b980ba0c63bc312d",
-    "article_title": "Karnataka to Use AI in Power Grid by 2047",
-    "question": "What technology will Karnataka use to manage power grid operations?",
-    "answer_label": "B",
-    "answer_text": "Artificial Intelligence",
-    "explanation": "Karnataka plans to use Artificial Intelligence to manage its power grid operations.",
-    "due_at": "2026-05-17T06:03:35.859628+00:00"
-  },
-  {
-    "reveal_id": "bb27c686a8f1465581053c191d8dc89b",
-    "article_title": "Karnataka to Use AI in Power Grid by 2047",
-    "question": "What is the expected benefit of using AI in power grid operations in Karnataka?",
+    "reveal_id": "36655bf88911479685eea36d6b991199",
+    "article_title": "Faith and Art Exhibition",
+    "question": "What type of art forms are being showcased at the exhibition?",
     "answer_label": "C",
-    "answer_text": "Improved energy efficiency",
-    "explanation": "The use of AI in power grid operations is expected to improve energy efficiency and distribution in Karnataka.",
-    "due_at": "2026-05-17T06:03:36.544444+00:00"
+    "answer_text": "Tanjore paintings and Mysuru glass art",
+    "explanation": "The exhibition showcases various art forms including Tanjore paintings and Mysuru glass art.",
+    "due_at": "2026-05-17T08:29:45.084694+00:00"
   }
 ]
