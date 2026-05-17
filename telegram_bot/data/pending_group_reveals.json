@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "6b431f7040764a249e22a6cdc5e4a62c",
-    "article_title": "Special Intensive Revision Programme",
-    "question": "When will the door-to-door survey for Special Intensive Revision programme start?",
+    "reveal_id": "b78de671740e4d888276887d0748cdb4",
+    "article_title": "Punjab Cracks Down on Polluting Brick Kilns",
+    "question": "What action was taken against brick kilns in Rahim Yar Khan?",
     "answer_label": "B",
-    "answer_text": "8 June to 7 July",
-    "explanation": "The survey will start on 8 June and end on 7 July, as announced by the Election Commission of India.",
-    "due_at": "2026-05-17T14:47:34.488850+00:00"
+    "answer_text": "They were sealed",
+    "explanation": "The Environment Protection Department sealed the brick kilns for not complying with clean-air regulations.",
+    "due_at": "2026-05-17T16:02:43.724199+00:00"
   },
   {
-    "reveal_id": "ab965e765b944482bf97cb774746dc13",
-    "article_title": "Special Intensive Revision Programme",
-    "question": "Who will conduct the door-to-door survey for the Special Intensive Revision programme?",
+    "reveal_id": "48f066c797694e4687e0dd2e03585fab",
+    "article_title": "Punjab Cracks Down on Polluting Brick Kilns",
+    "question": "Why were the brick kilns sealed?",
     "answer_label": "B",
-    "answer_text": "Booth Level Officers",
-    "explanation": "Booth Level Officers will conduct the door-to-door survey to update voter lists.",
-    "due_at": "2026-05-17T14:47:35.203275+00:00"
+    "answer_text": "For not following clean-air rules",
+    "explanation": "The brick kilns were sealed because they failed to comply with clean-air regulations.",
+    "due_at": "2026-05-17T16:02:44.441552+00:00"
   },
   {
-    "reveal_id": "10c598a81a91461f87ff640ed1586618",
-    "article_title": "Special Intensive Revision Programme",
-    "question": "In how many states will the Special Intensive Revision programme be conducted?",
-    "answer_label": "C",
-    "answer_text": "19 states",
-    "explanation": "The programme will be conducted in 19 states, including Uttarakhand, as announced by the Election Commission of India.",
-    "due_at": "2026-05-17T14:47:35.931745+00:00"
-  },
-  {
-    "reveal_id": "211f60044a0841d1b907c9bf93e7d3ca",
-    "article_title": "Ladakh Development Issues",
-    "question": "Who led the parliamentary delegation that visited Kargil, Ladakh?",
+    "reveal_id": "991263ec4003445489da21b1821b17c8",
+    "article_title": "Punjab Cracks Down on Polluting Brick Kilns",
+    "question": "Which department is responsible for the crackdown on polluting industries?",
     "answer_label": "A",
-    "answer_text": "Dr Radha Mohan Das Agarwal",
-    "explanation": "Dr Radha Mohan Das Agarwal is the Chairman of the Parliamentary Standing Committee and led the delegation to Kargil, Ladakh.",
-    "due_at": "2026-05-17T14:47:40.778612+00:00"
+    "answer_text": "Environment Protection Department",
+    "explanation": "The Environment Protection Department is responsible for ensuring industries comply with environmental regulations.",
+    "due_at": "2026-05-17T16:02:45.181282+00:00"
   },
   {
-    "reveal_id": "f9ef40af6d504966a090eecec23b740c",
-    "article_title": "Ladakh Development Issues",
-    "question": "What are some of the key development issues in Kargil, Ladakh?",
-    "answer_label": "A",
-    "answer_text": "Better connectivity, healthcare, and education",
-    "explanation": "The key development issues in Kargil, Ladakh include better connectivity, healthcare, education, and administrative empowerment.",
-    "due_at": "2026-05-17T14:47:41.495980+00:00"
+    "reveal_id": "4429ef3391cb44f0af0ea639fb9b179f",
+    "article_title": "B-Khata to A-Khata Conversion",
+    "question": "What is the proposed change in khata documents?",
+    "answer_label": "B",
+    "answer_text": "Adding property owner's photo",
+    "explanation": "Khata documents will now come with photos of property owners to ensure transparency.",
+    "due_at": "2026-05-17T16:02:52.531800+00:00"
   },
   {
-    "reveal_id": "9aa0828630f24424a4f0dc939174027b",
-    "article_title": "Ladakh Development Issues",
-    "question": "What is the demand of the people of Ladakh, as mentioned by social activist Sajad Kargili?",
-    "answer_label": "A",
-    "answer_text": "Statehood and constitutional safeguards under the Sixth Schedule",
-    "explanation": "The people of Ladakh are demanding Statehood and constitutional safeguards under the Sixth Schedule, as mentioned by social activist Sajad Kargili.",
-    "due_at": "2026-05-17T14:47:48.546796+00:00"
+    "reveal_id": "349a2a3c4a87408ab3eee29f02790dd9",
+    "article_title": "B-Khata to A-Khata Conversion",
+    "question": "What is the consequence of submitting fake documents for khata?",
+    "answer_label": "B",
+    "answer_text": "Cancellation of khata",
+    "explanation": "Submitting fake documents will lead to cancellation of khata.",
+    "due_at": "2026-05-17T16:02:53.248806+00:00"
+  },
+  {
+    "reveal_id": "5cd8c25a2fbe421ab20a9091b25c0ca7",
+    "article_title": "B-Khata to A-Khata Conversion",
+    "question": "What is the goal of the new khata conversion process?",
+    "answer_label": "B",
+    "answer_text": "Reducing corruption",
+    "explanation": "The goal is to reduce corruption in the khata conversion process by eliminating bribery.",
+    "due_at": "2026-05-17T16:02:57.185683+00:00"
   }
 ]
