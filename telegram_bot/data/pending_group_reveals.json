@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "cdcf299b98ef412aa7399ed8738ba8c3",
-    "article_title": "IPL 2026 Orange and Purple Cap Standings",
-    "question": "Who currently leads the Orange Cap standings in the Indian Premier League 2026?",
-    "answer_label": "A",
-    "answer_text": "Sai Sudharsan",
-    "explanation": "Sai Sudharsan of Gujarat Titans currently leads the Orange Cap standings with 554 runs.",
-    "due_at": "2026-05-17T18:10:08.588257+00:00"
+    "reveal_id": "8bc1c9fcafeb49cb9f9e2b33e9a9c9f9",
+    "article_title": "Rising Hypertension in Young Indians",
+    "question": "What is a major factor contributing to hypertension in young Indians?",
+    "answer_label": "B",
+    "answer_text": "Chronic stress and lack of physical activity",
+    "explanation": "Chronic stress and lack of physical activity are major contributors to hypertension in young Indians, as they cause frequent increases in blood pressure.",
+    "due_at": "2026-05-17T19:16:27.963395+00:00"
   },
   {
-    "reveal_id": "ade68af15eb44fbd9f83b18a6fdcb85a",
-    "article_title": "IPL 2026 Orange and Purple Cap Standings",
-    "question": "Who holds the Purple Cap in the Indian Premier League 2026?",
-    "answer_label": "A",
-    "answer_text": "Bhuvneshwar Kumar",
-    "explanation": "Bhuvneshwar Kumar of RCB currently holds the Purple Cap with 22 wickets.",
-    "due_at": "2026-05-17T18:10:12.352680+00:00"
-  },
-  {
-    "reveal_id": "d6446850eee24d208ff1aec71ba2ec6b",
-    "article_title": "IPL 2026 Orange and Purple Cap Standings",
-    "question": "How many wickets has Kagiso Rabada taken in the Indian Premier League 2026?",
+    "reveal_id": "89f3facfbfea440d9dcb66038efbc14e",
+    "article_title": "Rising Hypertension in Young Indians",
+    "question": "What is the potential result of frequent increases in blood pressure?",
     "answer_label": "C",
-    "answer_text": "21 wickets",
-    "explanation": "Kagiso Rabada has taken 21 wickets for Gujarat in the Indian Premier League 2026.",
-    "due_at": "2026-05-17T18:10:13.012316+00:00"
+    "answer_text": "Permanent high blood pressure",
+    "explanation": "Frequent increases in blood pressure can potentially result in permanent high blood pressure, damaging young hearts.",
+    "due_at": "2026-05-17T19:16:28.644872+00:00"
   },
   {
-    "reveal_id": "db43614f06d24c889c27367978a7d14c",
-    "article_title": "Iran's Strait of Hormuz Toll Plan",
-    "question": "What is Iran planning to introduce in the Strait of Hormuz?",
+    "reveal_id": "b3e832821fbf4b229551029b61738292",
+    "article_title": "Rising Hypertension in Young Indians",
+    "question": "Which of the following is a characteristic of the lifestyle of young Indians affected by hypertension?",
     "answer_label": "B",
-    "answer_text": "A toll system",
-    "explanation": "Iran plans to introduce a new mechanism to manage maritime traffic, which may include tolls.",
-    "due_at": "2026-05-17T18:10:20.188491+00:00"
+    "answer_text": "Competitive and insecure",
+    "explanation": "The lifestyle of young Indians affected by hypertension is often characterized as competitive, with factors like job insecurity contributing to chronic stress.",
+    "due_at": "2026-05-17T19:16:29.327324+00:00"
   },
   {
-    "reveal_id": "864efa62e6d04426822d15356954c143",
-    "article_title": "Iran's Strait of Hormuz Toll Plan",
-    "question": "Why has India spoken out against Iran's plan?",
+    "reveal_id": "34ba575a5fab4ff796fdb2619b13b1db",
+    "article_title": "India Rejects Court of Arbitration Ruling on Indus Waters Treaty",
+    "question": "What has India done with regards to the Indus Waters Treaty?",
     "answer_label": "B",
-    "answer_text": "India is concerned about the impact on commercial shipping",
-    "explanation": "India is concerned that the plan may target commercial shipping and increase costs.",
-    "due_at": "2026-05-17T18:10:20.791365+00:00"
+    "answer_text": "Rejected the Court of Arbitration's ruling",
+    "explanation": "India has rejected the Court of Arbitration's ruling, citing it as 'illegally constituted'.",
+    "due_at": "2026-05-17T19:16:33.970115+00:00"
   },
   {
-    "reveal_id": "f22645e955be4b6ab159db812b8ac5f9",
-    "article_title": "Iran's Strait of Hormuz Toll Plan",
-    "question": "What is the significance of the Strait of Hormuz for India?",
+    "reveal_id": "c2fa4dc142ec4bedbfb45461e2b0af2b",
+    "article_title": "India Rejects Court of Arbitration Ruling on Indus Waters Treaty",
+    "question": "Why has India rejected the Court of Arbitration's ruling?",
+    "answer_label": "C",
+    "answer_text": "It is illegally constituted",
+    "explanation": "India has rejected the Court of Arbitration's ruling, calling it 'illegally constituted' as India never recognized its establishment.",
+    "due_at": "2026-05-17T19:16:34.682922+00:00"
+  },
+  {
+    "reveal_id": "5b2b330583b444f8b74d7d79c2a19130",
+    "article_title": "India Rejects Court of Arbitration Ruling on Indus Waters Treaty",
+    "question": "What is the Indus Waters Treaty?",
     "answer_label": "B",
-    "answer_text": "It is a critical shipping route for India's oil imports",
-    "explanation": "The Strait of Hormuz is a critical shipping route for global trade, including India's oil imports.",
-    "due_at": "2026-05-17T18:10:21.372869+00:00"
+    "answer_text": "A treaty between India and Pakistan for sharing water resources",
+    "explanation": "The Indus Waters Treaty is a crucial agreement between India and Pakistan for sharing water resources.",
+    "due_at": "2026-05-17T19:16:41.704397+00:00"
   }
 ]
