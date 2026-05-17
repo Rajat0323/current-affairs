@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "8bc1c9fcafeb49cb9f9e2b33e9a9c9f9",
-    "article_title": "Rising Hypertension in Young Indians",
-    "question": "What is a major factor contributing to hypertension in young Indians?",
+    "reveal_id": "babeb7f3efce4ffbb600e8818c815bcd",
+    "article_title": "Subnautica 2 Adaptations",
+    "question": "What are Adaptations in Subnautica 2?",
     "answer_label": "B",
-    "answer_text": "Chronic stress and lack of physical activity",
-    "explanation": "Chronic stress and lack of physical activity are major contributors to hypertension in young Indians, as they cause frequent increases in blood pressure.",
-    "due_at": "2026-05-17T19:16:27.963395+00:00"
+    "answer_text": "Biological upgrades",
+    "explanation": "Adaptations are biological upgrades that help players survive in the alien ocean.",
+    "due_at": "2026-05-17T20:27:24.293745+00:00"
   },
   {
-    "reveal_id": "89f3facfbfea440d9dcb66038efbc14e",
-    "article_title": "Rising Hypertension in Young Indians",
-    "question": "What is the potential result of frequent increases in blood pressure?",
+    "reveal_id": "8b346774bb2345e0802af8fe5cb6e8ee",
+    "article_title": "Subnautica 2 Adaptations",
+    "question": "How do players acquire Adaptations in Subnautica 2?",
+    "answer_label": "B",
+    "answer_text": "By interacting with Angel Combs",
+    "explanation": "Players acquire Adaptations by interacting with Angel Combs in the game.",
+    "due_at": "2026-05-17T20:27:28.109269+00:00"
+  },
+  {
+    "reveal_id": "fc2d90cdbb3e4f74a411a0483ee448be",
+    "article_title": "Subnautica 2 Adaptations",
+    "question": "What is the benefit of the Pressure Tolerance Adaptation?",
     "answer_label": "C",
-    "answer_text": "Permanent high blood pressure",
-    "explanation": "Frequent increases in blood pressure can potentially result in permanent high blood pressure, damaging young hearts.",
-    "due_at": "2026-05-17T19:16:28.644872+00:00"
+    "answer_text": "Breathing pressurized air",
+    "explanation": "The Pressure Tolerance Adaptation allows players to breathe pressurized air.",
+    "due_at": "2026-05-17T20:27:28.749284+00:00"
   },
   {
-    "reveal_id": "b3e832821fbf4b229551029b61738292",
-    "article_title": "Rising Hypertension in Young Indians",
-    "question": "Which of the following is a characteristic of the lifestyle of young Indians affected by hypertension?",
+    "reveal_id": "b75492c6082d4e91a986f9823163a310",
+    "article_title": "Kerala Cabinet Formation",
+    "question": "Who is the Chief Minister-designate of Kerala?",
+    "answer_label": "A",
+    "answer_text": "VD Satheesan",
+    "explanation": "VD Satheesan is the Chief Minister-designate of Kerala, as mentioned in the article.",
+    "due_at": "2026-05-17T20:27:35.790330+00:00"
+  },
+  {
+    "reveal_id": "fdf51a8e320d4f2fbd7d03609839913c",
+    "article_title": "Kerala Cabinet Formation",
+    "question": "Which party is expected to form the government in Kerala?",
     "answer_label": "B",
-    "answer_text": "Competitive and insecure",
-    "explanation": "The lifestyle of young Indians affected by hypertension is often characterized as competitive, with factors like job insecurity contributing to chronic stress.",
-    "due_at": "2026-05-17T19:16:29.327324+00:00"
+    "answer_text": "UDF",
+    "explanation": "The UDF government is expected to form the government in Kerala, as mentioned in the article.",
+    "due_at": "2026-05-17T20:27:36.431196+00:00"
   },
   {
-    "reveal_id": "34ba575a5fab4ff796fdb2619b13b1db",
-    "article_title": "India Rejects Court of Arbitration Ruling on Indus Waters Treaty",
-    "question": "What has India done with regards to the Indus Waters Treaty?",
+    "reveal_id": "4d5b60087bb44156a2eafdda711b5323",
+    "article_title": "Kerala Cabinet Formation",
+    "question": "When is the swearing-in ceremony of the new Kerala government expected to take place?",
     "answer_label": "B",
-    "answer_text": "Rejected the Court of Arbitration's ruling",
-    "explanation": "India has rejected the Court of Arbitration's ruling, citing it as 'illegally constituted'.",
-    "due_at": "2026-05-17T19:16:33.970115+00:00"
-  },
-  {
-    "reveal_id": "c2fa4dc142ec4bedbfb45461e2b0af2b",
-    "article_title": "India Rejects Court of Arbitration Ruling on Indus Waters Treaty",
-    "question": "Why has India rejected the Court of Arbitration's ruling?",
-    "answer_label": "C",
-    "answer_text": "It is illegally constituted",
-    "explanation": "India has rejected the Court of Arbitration's ruling, calling it 'illegally constituted' as India never recognized its establishment.",
-    "due_at": "2026-05-17T19:16:34.682922+00:00"
-  },
-  {
-    "reveal_id": "5b2b330583b444f8b74d7d79c2a19130",
-    "article_title": "India Rejects Court of Arbitration Ruling on Indus Waters Treaty",
-    "question": "What is the Indus Waters Treaty?",
-    "answer_label": "B",
-    "answer_text": "A treaty between India and Pakistan for sharing water resources",
-    "explanation": "The Indus Waters Treaty is a crucial agreement between India and Pakistan for sharing water resources.",
-    "due_at": "2026-05-17T19:16:41.704397+00:00"
+    "answer_text": "Monday",
+    "explanation": "The swearing-in ceremony is expected to take place on Monday, as mentioned in the article.",
+    "due_at": "2026-05-17T20:27:37.061732+00:00"
   }
 ]
