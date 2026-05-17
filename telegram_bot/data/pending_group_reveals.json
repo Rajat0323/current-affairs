@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "4c67c7c5c5f8451ab6db26153c1c7592",
-    "article_title": "Rehabilitation Package for Kudremukh National Park Families",
-    "question": "What is the purpose of the rehabilitation package distributed to the families of Kudremukh National Park?",
-    "answer_label": "B",
-    "answer_text": "To support families who leave the forest area",
-    "explanation": "The rehabilitation package aims to support families who voluntarily relocate from the forest area.",
-    "due_at": "2026-05-17T22:37:53.246304+00:00"
+    "reveal_id": "a9659cdbb2fd463795f032df186507d1",
+    "article_title": "India Restricts Silver Imports",
+    "question": "What is the main reason for India's restriction on silver imports?",
+    "answer_label": "A",
+    "answer_text": "To reduce the trade deficit",
+    "explanation": "India restricted silver imports to reduce the trade deficit caused by a 150% surge in silver import value.",
+    "due_at": "2026-05-17T23:44:44.523548+00:00"
   },
   {
-    "reveal_id": "c607c82d8a7b44f998e3e246d2250679",
-    "article_title": "Rehabilitation Package for Kudremukh National Park Families",
-    "question": "How many families received the rehabilitation package in Kudremukh National Park?",
-    "answer_label": "B",
-    "answer_text": "5 families",
-    "explanation": "5 families received the rehabilitation package in Kudremukh National Park.",
-    "due_at": "2026-05-17T22:37:57.006202+00:00"
-  },
-  {
-    "reveal_id": "15a78e81f298400099e9813ed5769feb",
-    "article_title": "Rehabilitation Package for Kudremukh National Park Families",
-    "question": "Who distributed the cheques for the rehabilitation package in Kudremukh National Park?",
-    "answer_label": "B",
-    "answer_text": "Karnataka Minister Eshwar Khandre",
-    "explanation": "Karnataka Minister Eshwar Khandre distributed the cheques for the rehabilitation package.",
-    "due_at": "2026-05-17T22:37:57.587641+00:00"
-  },
-  {
-    "reveal_id": "981d5202f5204a82a100e37f911886ea",
-    "article_title": "Xabi Alonso Appointed Chelsea Manager",
-    "question": "Who has been appointed as the new manager of Chelsea?",
-    "answer_label": "B",
-    "answer_text": "Xabi Alonso",
-    "explanation": "Xabi Alonso has been appointed as the new manager of Chelsea on a four-year contract.",
-    "due_at": "2026-05-17T22:38:04.286820+00:00"
-  },
-  {
-    "reveal_id": "9d15cadb7b1140948fca12dbab16bd21",
-    "article_title": "Xabi Alonso Appointed Chelsea Manager",
-    "question": "What is the duration of Xabi Alonso's contract with Chelsea?",
+    "reveal_id": "0a234b1d6f2e4bc894eb971b375dc4d9",
+    "article_title": "India Restricts Silver Imports",
+    "question": "What is the expected impact of the restriction on domestic jewelers?",
     "answer_label": "C",
-    "answer_text": "Four years",
-    "explanation": "Xabi Alonso's contract with Chelsea is for four years, starting July 1, 2026.",
-    "due_at": "2026-05-17T22:38:04.855340+00:00"
+    "answer_text": "Reduced margins",
+    "explanation": "The restriction on silver imports may squeeze domestic jewelers' margins amid rising costs.",
+    "due_at": "2026-05-17T23:44:45.208538+00:00"
   },
   {
-    "reveal_id": "53976ad538464509afddcad5c6f3f1b9",
-    "article_title": "Xabi Alonso Appointed Chelsea Manager",
-    "question": "What was Xabi Alonso's previous managerial achievement?",
+    "reveal_id": "d0d8676fa0704bd79f2d59b2bc6426e5",
+    "article_title": "India Restricts Silver Imports",
+    "question": "What is required for silver imports in India after the restriction?",
     "answer_label": "B",
-    "answer_text": "Leading Bayer Leverkusen to an unbeaten Bundesliga and German Cup double",
-    "explanation": "Xabi Alonso previously led Bayer Leverkusen to an unbeaten Bundesliga and German Cup double.",
-    "due_at": "2026-05-17T22:38:05.428409+00:00"
+    "answer_text": "Government license required",
+    "explanation": "India has shifted most silver imports to 'restricted' status, requiring government licenses.",
+    "due_at": "2026-05-17T23:44:45.869800+00:00"
+  },
+  {
+    "reveal_id": "baa75c7ca9ca4881b767c07bcaa2d2d9",
+    "article_title": "Bihar Schools to Follow NCERT Bag Weight Guidelines",
+    "question": "Which organization's guidelines is Bihar following for school bag weights?",
+    "answer_label": "B",
+    "answer_text": "NCERT",
+    "explanation": "NCERT provides guidelines for school bag weights to reduce the burden on students.",
+    "due_at": "2026-05-17T23:44:53.058116+00:00"
+  },
+  {
+    "reveal_id": "9efc669388804e449a58992f6be3a92d",
+    "article_title": "Bihar Schools to Follow NCERT Bag Weight Guidelines",
+    "question": "What is the main purpose of reducing school bag weights?",
+    "answer_label": "B",
+    "answer_text": "To promote healthy learning",
+    "explanation": "Reducing school bag weights promotes healthy learning by reducing physical burden on students.",
+    "due_at": "2026-05-17T23:44:53.723923+00:00"
+  },
+  {
+    "reveal_id": "fd9dfb9cdca249fa8756d5bc432261c8",
+    "article_title": "Bihar Schools to Follow NCERT Bag Weight Guidelines",
+    "question": "Which state's education department has asked schools to follow NCERT's school bag weight guidelines?",
+    "answer_label": "B",
+    "answer_text": "Bihar",
+    "explanation": "Bihar's education department has taken this initiative to promote student health and well-being.",
+    "due_at": "2026-05-17T23:44:54.354554+00:00"
   }
 ]
