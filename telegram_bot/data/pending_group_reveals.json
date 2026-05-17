@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "6593fab1058143dfb505849b628f2979",
-    "article_title": "NEET Exam Leak Controversy",
-    "question": "Which party has demanded the removal of Education Minister Dharmendra Pradhan?",
-    "answer_label": "B",
-    "answer_text": "Congress",
-    "explanation": "The Congress party has demanded the removal of Education Minister Dharmendra Pradhan due to the NEET exam leak controversy.",
-    "due_at": "2026-05-17T17:05:22.107397+00:00"
+    "reveal_id": "cdcf299b98ef412aa7399ed8738ba8c3",
+    "article_title": "IPL 2026 Orange and Purple Cap Standings",
+    "question": "Who currently leads the Orange Cap standings in the Indian Premier League 2026?",
+    "answer_label": "A",
+    "answer_text": "Sai Sudharsan",
+    "explanation": "Sai Sudharsan of Gujarat Titans currently leads the Orange Cap standings with 554 runs.",
+    "due_at": "2026-05-17T18:10:08.588257+00:00"
   },
   {
-    "reveal_id": "8497aebd051e49feb38a640e77a871ac",
-    "article_title": "NEET Exam Leak Controversy",
-    "question": "What is the main issue surrounding the NEET exam?",
+    "reveal_id": "ade68af15eb44fbd9f83b18a6fdcb85a",
+    "article_title": "IPL 2026 Orange and Purple Cap Standings",
+    "question": "Who holds the Purple Cap in the Indian Premier League 2026?",
+    "answer_label": "A",
+    "answer_text": "Bhuvneshwar Kumar",
+    "explanation": "Bhuvneshwar Kumar of RCB currently holds the Purple Cap with 22 wickets.",
+    "due_at": "2026-05-17T18:10:12.352680+00:00"
+  },
+  {
+    "reveal_id": "d6446850eee24d208ff1aec71ba2ec6b",
+    "article_title": "IPL 2026 Orange and Purple Cap Standings",
+    "question": "How many wickets has Kagiso Rabada taken in the Indian Premier League 2026?",
     "answer_label": "C",
-    "answer_text": "Exam leak",
-    "explanation": "The main issue surrounding the NEET exam is the leak of the exam paper.",
-    "due_at": "2026-05-17T17:05:22.798394+00:00"
+    "answer_text": "21 wickets",
+    "explanation": "Kagiso Rabada has taken 21 wickets for Gujarat in the Indian Premier League 2026.",
+    "due_at": "2026-05-17T18:10:13.012316+00:00"
   },
   {
-    "reveal_id": "935e4794192240c68b0157cde91bc763",
-    "article_title": "NEET Exam Leak Controversy",
-    "question": "Who is the Education Minister accused of failing students?",
+    "reveal_id": "db43614f06d24c889c27367978a7d14c",
+    "article_title": "Iran's Strait of Hormuz Toll Plan",
+    "question": "What is Iran planning to introduce in the Strait of Hormuz?",
     "answer_label": "B",
-    "answer_text": "Dharmendra Pradhan",
-    "explanation": "Dharmendra Pradhan is the Education Minister accused of failing students due to the NEET exam leak controversy.",
-    "due_at": "2026-05-17T17:05:23.505820+00:00"
+    "answer_text": "A toll system",
+    "explanation": "Iran plans to introduce a new mechanism to manage maritime traffic, which may include tolls.",
+    "due_at": "2026-05-17T18:10:20.188491+00:00"
   },
   {
-    "reveal_id": "1b7791c71a2c40f6845ebb52515503ca",
-    "article_title": "Ladakh Census 2027 Portal Launched",
-    "question": "What is the purpose of the self-enumeration portal launched in Ladakh?",
-    "answer_label": "C",
-    "answer_text": "To gather census data",
-    "explanation": "The self-enumeration portal is launched to gather data for Census 2027, which will help in policy making and resource allocation.",
-    "due_at": "2026-05-17T17:05:28.129423+00:00"
-  },
-  {
-    "reveal_id": "f67ca1a79abe47dfb96df77539cc5053",
-    "article_title": "Ladakh Census 2027 Portal Launched",
-    "question": "Who launched the self-enumeration portal for Census 2027 in Ladakh?",
-    "answer_label": "C",
-    "answer_text": "Lieutenant Governor of Ladakh",
-    "explanation": "The Lieutenant Governor of Ladakh, Vinai Kumar Saxena, launched the self-enumeration portal for Census 2027.",
-    "due_at": "2026-05-17T17:05:28.823408+00:00"
-  },
-  {
-    "reveal_id": "afb490a170da468ab7e0b4da15797d0f",
-    "article_title": "Ladakh Census 2027 Portal Launched",
-    "question": "What is the significance of the census data in India?",
+    "reveal_id": "864efa62e6d04426822d15356954c143",
+    "article_title": "Iran's Strait of Hormuz Toll Plan",
+    "question": "Why has India spoken out against Iran's plan?",
     "answer_label": "B",
-    "answer_text": "It helps in policy making and resource allocation",
-    "explanation": "The census data is significant as it helps in policy making and resource allocation, reflecting the unique identity and needs of different regions in national planning.",
-    "due_at": "2026-05-17T17:05:29.549704+00:00"
+    "answer_text": "India is concerned about the impact on commercial shipping",
+    "explanation": "India is concerned that the plan may target commercial shipping and increase costs.",
+    "due_at": "2026-05-17T18:10:20.791365+00:00"
+  },
+  {
+    "reveal_id": "f22645e955be4b6ab159db812b8ac5f9",
+    "article_title": "Iran's Strait of Hormuz Toll Plan",
+    "question": "What is the significance of the Strait of Hormuz for India?",
+    "answer_label": "B",
+    "answer_text": "It is a critical shipping route for India's oil imports",
+    "explanation": "The Strait of Hormuz is a critical shipping route for global trade, including India's oil imports.",
+    "due_at": "2026-05-17T18:10:21.372869+00:00"
   }
 ]
