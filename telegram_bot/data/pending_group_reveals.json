@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "a72ef0ef63de44ebb0a6bffcde9bfcdd",
-    "article_title": "India vs Afghanistan Cricket Series",
-    "question": "Where will the one-off Test between India and Afghanistan be played?",
-    "answer_label": "B",
-    "answer_text": "New Chandigarh",
-    "explanation": "The one-off Test will be played at New Chandigarh from June 6-10.",
-    "due_at": "2026-05-17T01:59:44.237968+00:00"
-  },
-  {
-    "reveal_id": "9eb620d675e646f1bb49ec2ee16dd3b1",
-    "article_title": "India vs Afghanistan Cricket Series",
-    "question": "What is a key concern for the Indian team in the upcoming series?",
-    "answer_label": "C",
-    "answer_text": "Managing Jasprit Bumrah's workload",
-    "explanation": "The focus will be on managing Jasprit Bumrah's workload to avoid injuries.",
-    "due_at": "2026-05-17T01:59:44.874895+00:00"
-  },
-  {
-    "reveal_id": "1c0d4355d63e4ae183d3a26b1f9806da",
-    "article_title": "India vs Afghanistan Cricket Series",
-    "question": "Who could be a 'dark horse' for India in ODIs according to the article?",
-    "answer_label": "B",
-    "answer_text": "Prince Yadav",
-    "explanation": "Prince Yadav could be a surprise performer for India in ODIs.",
-    "due_at": "2026-05-17T01:59:45.517945+00:00"
-  },
-  {
-    "reveal_id": "789bbf0ddb3846f68c102553b65236af",
-    "article_title": "India-Netherlands Sports Ties",
-    "question": "Who was namedropped by PM Narendra Modi in his Hague address?",
+    "reveal_id": "b97d6f3bc1d540b8b874b339bfa38591",
+    "article_title": "Inauguration of Madhur Dairy Unit-2 in Gandhinagar",
+    "question": "Who will inaugurate the Madhur Dairy Unit-2 in Gandhinagar?",
     "answer_label": "A",
-    "answer_text": "Sjoerd Marijne",
-    "explanation": "Sjoerd Marijne is a Dutch hockey coach who has contributed to Indian hockey.",
-    "due_at": "2026-05-17T01:59:52.519771+00:00"
+    "answer_text": "Amit Shah",
+    "explanation": "Amit Shah is the Union Minister who will inaugurate the Madhur Dairy Unit-2.",
+    "due_at": "2026-05-17T06:03:29.337303+00:00"
   },
   {
-    "reveal_id": "cb4be2dd72e744759f5f634ced2a94d5",
-    "article_title": "India-Netherlands Sports Ties",
-    "question": "What sports did PM Narendra Modi mention in his address?",
-    "answer_label": "C",
-    "answer_text": "Hockey and Cricket",
-    "explanation": "PM Narendra Modi mentioned hockey and cricket in his address, highlighting the sports ties between India and Netherlands.",
-    "due_at": "2026-05-17T01:59:53.167553+00:00"
+    "reveal_id": "5806792ff8404ab4866b7165ac97c34c",
+    "article_title": "Inauguration of Madhur Dairy Unit-2 in Gandhinagar",
+    "question": "Where is the Madhur Dairy Unit-2 located?",
+    "answer_label": "A",
+    "answer_text": "Gandhinagar, Gujarat",
+    "explanation": "The Madhur Dairy Unit-2 is located in Gandhinagar, Gujarat.",
+    "due_at": "2026-05-17T06:03:30.067511+00:00"
   },
   {
-    "reveal_id": "44f815c80c9b47788368e1d74828764c",
-    "article_title": "India-Netherlands Sports Ties",
-    "question": "Where did PM Narendra Modi deliver his address?",
+    "reveal_id": "7432a068a554468b9fa5d4847f634e5b",
+    "article_title": "Inauguration of Madhur Dairy Unit-2 in Gandhinagar",
+    "question": "What is the main feature of the Madhur Dairy Unit-2?",
     "answer_label": "B",
-    "answer_text": "The Hague",
-    "explanation": "PM Narendra Modi delivered his address in The Hague, Netherlands, as part of strengthening India-Netherlands ties.",
-    "due_at": "2026-05-17T01:59:54.080172+00:00"
+    "answer_text": "Automatic milk processing and packaging",
+    "explanation": "The Madhur Dairy Unit-2 has an automatic milk processing and packaging plant.",
+    "due_at": "2026-05-17T06:03:31.333093+00:00"
+  },
+  {
+    "reveal_id": "30775757baa148548047985a2ad99f01",
+    "article_title": "Karnataka to Use AI in Power Grid by 2047",
+    "question": "By what year does Karnataka plan to use AI in power grid operations?",
+    "answer_label": "B",
+    "answer_text": "2047",
+    "explanation": "Karnataka aims to implement AI in power grid operations by 2047 for efficient energy management.",
+    "due_at": "2026-05-17T06:03:35.188571+00:00"
+  },
+  {
+    "reveal_id": "28025d4b6b574038b980ba0c63bc312d",
+    "article_title": "Karnataka to Use AI in Power Grid by 2047",
+    "question": "What technology will Karnataka use to manage power grid operations?",
+    "answer_label": "B",
+    "answer_text": "Artificial Intelligence",
+    "explanation": "Karnataka plans to use Artificial Intelligence to manage its power grid operations.",
+    "due_at": "2026-05-17T06:03:35.859628+00:00"
+  },
+  {
+    "reveal_id": "bb27c686a8f1465581053c191d8dc89b",
+    "article_title": "Karnataka to Use AI in Power Grid by 2047",
+    "question": "What is the expected benefit of using AI in power grid operations in Karnataka?",
+    "answer_label": "C",
+    "answer_text": "Improved energy efficiency",
+    "explanation": "The use of AI in power grid operations is expected to improve energy efficiency and distribution in Karnataka.",
+    "due_at": "2026-05-17T06:03:36.544444+00:00"
   }
 ]
