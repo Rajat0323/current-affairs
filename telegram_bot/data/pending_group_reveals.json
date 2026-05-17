@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "74882fd2a55349789feee4189493ecbe",
-    "article_title": "HC Upholds Benefits for MLAs and Ex-MLAs",
-    "question": "What was the main contention of the petitioner in the Allahabad High Court?",
+    "reveal_id": "4c67c7c5c5f8451ab6db26153c1c7592",
+    "article_title": "Rehabilitation Package for Kudremukh National Park Families",
+    "question": "What is the purpose of the rehabilitation package distributed to the families of Kudremukh National Park?",
     "answer_label": "B",
-    "answer_text": "The petitioner challenged the constitutional validity of benefits for MLAs and ex-MLAs",
-    "explanation": "The petitioner sought a declaration of various provisions as unconstitutional, arguing that extending benefits to former MLAs and MLCs was contrary to the spirit of the Constitution.",
-    "due_at": "2026-05-17T21:36:41.128102+00:00"
+    "answer_text": "To support families who leave the forest area",
+    "explanation": "The rehabilitation package aims to support families who voluntarily relocate from the forest area.",
+    "due_at": "2026-05-17T22:37:53.246304+00:00"
   },
   {
-    "reveal_id": "b27a05f990544e35877b6c2a565d231c",
-    "article_title": "HC Upholds Benefits for MLAs and Ex-MLAs",
-    "question": "What was the state government's argument regarding the pension granted to legislators?",
-    "answer_label": "C",
-    "answer_text": "The pension was a statutory facility provided in recognition of public service",
-    "explanation": "The state government argued that the pension granted to legislators was a statutory facility provided in recognition of public service rendered during their legislative tenure.",
-    "due_at": "2026-05-17T21:36:41.849322+00:00"
-  },
-  {
-    "reveal_id": "cff9a77c7a4649f3ae677115feb69ccc",
-    "article_title": "HC Upholds Benefits for MLAs and Ex-MLAs",
-    "question": "Which article of the Constitution was cited in the court's judgment regarding the benefits for MLAs and ex-MLAs?",
+    "reveal_id": "c607c82d8a7b44f998e3e246d2250679",
+    "article_title": "Rehabilitation Package for Kudremukh National Park Families",
+    "question": "How many families received the rehabilitation package in Kudremukh National Park?",
     "answer_label": "B",
-    "answer_text": "Article 14",
-    "explanation": "The court observed that the nature and quantum of the benefits did not disclose any manifest arbitrariness to attract the prohibition under Article 14 of the Constitution.",
-    "due_at": "2026-05-17T21:36:42.588578+00:00"
+    "answer_text": "5 families",
+    "explanation": "5 families received the rehabilitation package in Kudremukh National Park.",
+    "due_at": "2026-05-17T22:37:57.006202+00:00"
   },
   {
-    "reveal_id": "83f8a19aa0fa466b9167223bc8573fc2",
-    "article_title": "Delhi Metro to Increase Trips",
-    "question": "What is the main goal of Delhi Metro running extra trips?",
-    "answer_label": "C",
-    "answer_text": "To promote public transport",
-    "explanation": "The main goal is to encourage commuters to shift from private vehicles to public transport, promoting sustainable urban mobility.",
-    "due_at": "2026-05-17T21:36:46.800801+00:00"
-  },
-  {
-    "reveal_id": "171616cd19554f9194dd6d448bd32a02",
-    "article_title": "Delhi Metro to Increase Trips",
-    "question": "What is a factor contributing to the push for sustainable urban mobility in Delhi?",
-    "answer_label": "C",
-    "answer_text": "Rising fuel prices",
-    "explanation": "Rising fuel prices are a key factor in the renewed push towards sustainable urban mobility in Delhi.",
-    "due_at": "2026-05-17T21:36:47.505223+00:00"
-  },
-  {
-    "reveal_id": "c89e2419ef654774a1e78aaba8736bea",
-    "article_title": "Delhi Metro to Increase Trips",
-    "question": "How will the Delhi Metro Rail Corporation initially operate the extra train trips?",
+    "reveal_id": "15a78e81f298400099e9813ed5769feb",
+    "article_title": "Rehabilitation Package for Kudremukh National Park Families",
+    "question": "Who distributed the cheques for the rehabilitation package in Kudremukh National Park?",
     "answer_label": "B",
-    "answer_text": "Using 6 additional trains",
-    "explanation": "The DMRC will initially operate 24 extra train trips using six additional trains.",
-    "due_at": "2026-05-17T21:36:54.539285+00:00"
+    "answer_text": "Karnataka Minister Eshwar Khandre",
+    "explanation": "Karnataka Minister Eshwar Khandre distributed the cheques for the rehabilitation package.",
+    "due_at": "2026-05-17T22:37:57.587641+00:00"
+  },
+  {
+    "reveal_id": "981d5202f5204a82a100e37f911886ea",
+    "article_title": "Xabi Alonso Appointed Chelsea Manager",
+    "question": "Who has been appointed as the new manager of Chelsea?",
+    "answer_label": "B",
+    "answer_text": "Xabi Alonso",
+    "explanation": "Xabi Alonso has been appointed as the new manager of Chelsea on a four-year contract.",
+    "due_at": "2026-05-17T22:38:04.286820+00:00"
+  },
+  {
+    "reveal_id": "9d15cadb7b1140948fca12dbab16bd21",
+    "article_title": "Xabi Alonso Appointed Chelsea Manager",
+    "question": "What is the duration of Xabi Alonso's contract with Chelsea?",
+    "answer_label": "C",
+    "answer_text": "Four years",
+    "explanation": "Xabi Alonso's contract with Chelsea is for four years, starting July 1, 2026.",
+    "due_at": "2026-05-17T22:38:04.855340+00:00"
+  },
+  {
+    "reveal_id": "53976ad538464509afddcad5c6f3f1b9",
+    "article_title": "Xabi Alonso Appointed Chelsea Manager",
+    "question": "What was Xabi Alonso's previous managerial achievement?",
+    "answer_label": "B",
+    "answer_text": "Leading Bayer Leverkusen to an unbeaten Bundesliga and German Cup double",
+    "explanation": "Xabi Alonso previously led Bayer Leverkusen to an unbeaten Bundesliga and German Cup double.",
+    "due_at": "2026-05-17T22:38:05.428409+00:00"
   }
 ]
