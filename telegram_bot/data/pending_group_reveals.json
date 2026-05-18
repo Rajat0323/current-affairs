@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "ef9ecc32b0c4496ebd15c9e59e13dea3",
-    "article_title": "IPL 2026: CSK vs SRH Match Preview",
-    "question": "Which team is hosting Sunrisers Hyderabad in the IPL 2026 match?",
+    "reveal_id": "4c0e7ff7963b4c09bb1e058da790d6c4",
+    "article_title": "Dowry Harassment Case in Greater Noida",
+    "question": "What was the alleged reason for the woman's death in Greater Noida?",
+    "answer_label": "A",
+    "answer_text": "Dowry harassment",
+    "explanation": "The woman's family alleged that she died due to dowry harassment by her husband and in-laws.",
+    "due_at": "2026-05-18T20:38:07.452242+00:00"
+  },
+  {
+    "reveal_id": "35816b65da444816bfa8841a92fa0376",
+    "article_title": "Dowry Harassment Case in Greater Noida",
+    "question": "How long was the woman married before her death?",
+    "answer_label": "C",
+    "answer_text": "1.5 years",
+    "explanation": "The woman was married for a year and a half before her death.",
+    "due_at": "2026-05-18T20:38:08.031855+00:00"
+  },
+  {
+    "reveal_id": "4fe8fd5db72749cb9eeecd5ab6200353",
+    "article_title": "Dowry Harassment Case in Greater Noida",
+    "question": "What action was taken against the husband and father-in-law?",
+    "answer_label": "C",
+    "answer_text": "They were arrested",
+    "explanation": "The husband and father-in-law were arrested after the woman's death.",
+    "due_at": "2026-05-18T20:38:08.616317+00:00"
+  },
+  {
+    "reveal_id": "3534a2762e5540caa84413b4a4e57f59",
+    "article_title": "Trump's Post on Truth Social",
+    "question": "What was the badge on the robotic force in Trump's photo?",
     "answer_label": "B",
-    "answer_text": "Chennai Super Kings",
-    "explanation": "Chennai Super Kings is hosting Sunrisers Hyderabad at Chepauk.",
-    "due_at": "2026-05-18T18:38:40.440045+00:00"
+    "answer_text": "United States Space Force",
+    "explanation": "The badge on the robotic force read 'United States Space Force', indicating Trump's focus on space exploration.",
+    "due_at": "2026-05-18T20:38:15.399308+00:00"
   },
   {
-    "reveal_id": "55c326e7f9c84050a9acc9234583790d",
-    "article_title": "IPL 2026: CSK vs SRH Match Preview",
-    "question": "What is expected from the pitch in the CSK vs SRH match?",
-    "answer_label": "C",
-    "answer_text": "It will favor batsmen",
-    "explanation": "The pitch is expected to favor batsmen with a high total anticipated.",
-    "due_at": "2026-05-18T18:38:41.149234+00:00"
-  },
-  {
-    "reveal_id": "4d660a18efed4845bb3a56c99ccdfaa6",
-    "article_title": "IPL 2026: CSK vs SRH Match Preview",
-    "question": "Why is the CSK vs SRH match significant for Chennai Super Kings?",
-    "answer_label": "C",
-    "answer_text": "It is a crucial match for playoff hopes",
-    "explanation": "The match is crucial for CSK's playoff hopes in IPL 2026.",
-    "due_at": "2026-05-18T18:38:41.852646+00:00"
-  },
-  {
-    "reveal_id": "67debf91bc08441380e7138edc58df3d",
-    "article_title": "Kamal Haasan and Rajinikanth",
-    "question": "Who are the two prominent Indian cinema figures mentioned?",
+    "reveal_id": "be21d500d53e4405a988ffcca5bda73e",
+    "article_title": "Trump's Post on Truth Social",
+    "question": "What was depicted in the image shared by Trump regarding Iran?",
     "answer_label": "B",
-    "answer_text": "Kamal Haasan and Rajinikanth",
-    "explanation": "The article directly mentions Kamal Haasan and Rajinikanth as the two prominent figures.",
-    "due_at": "2026-05-18T18:38:46.254471+00:00"
+    "answer_text": "Iran covered in the US flag",
+    "explanation": "The image showed Iran covered in the US flag, which may symbolize Trump's stance on US-Iran relations.",
+    "due_at": "2026-05-18T20:38:16.006600+00:00"
   },
   {
-    "reveal_id": "3032f16a5d76490cb39a7c49a1359172",
-    "article_title": "Kamal Haasan and Rajinikanth",
-    "question": "What did Kamal Haasan say about his relationship with Rajinikanth?",
-    "answer_label": "D",
-    "answer_text": "There is no jealousy between them",
-    "explanation": "Kamal Haasan stated that there is no jealousy between him and Rajinikanth.",
-    "due_at": "2026-05-18T18:38:46.971050+00:00"
-  },
-  {
-    "reveal_id": "6b0cdde2ebf749a186dee30ee398cf74",
-    "article_title": "Kamal Haasan and Rajinikanth",
-    "question": "What is the context of the competition between Kamal Haasan and Rajinikanth?",
-    "answer_label": "C",
-    "answer_text": "Indian cinema",
-    "explanation": "The competition is mentioned in the context of Indian cinema, where both are prominent figures.",
-    "due_at": "2026-05-18T18:38:54.034359+00:00"
+    "reveal_id": "806a3366fecf4e7a967430ac86f25447",
+    "article_title": "Trump's Post on Truth Social",
+    "question": "Which of the following was mentioned in Trump's post on Truth Social?",
+    "answer_label": "B",
+    "answer_text": "Aliens",
+    "explanation": "Trump's post included a mention of aliens, which may indicate his interest in space exploration and the possibility of extraterrestrial life.",
+    "due_at": "2026-05-18T20:38:16.594729+00:00"
   }
 ]
