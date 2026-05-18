@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "0549875593e44129a3af4af3fde0f64e",
-    "article_title": "Delhi Govt Employees to Get Special Bus Service",
-    "question": "What is the purpose of the special bus service introduced by the Delhi Transport Corporation?",
-    "answer_label": "C",
-    "answer_text": "To facilitate office commute for Delhi government employees",
-    "explanation": "The special bus service aims to provide a convenient mode of transport for Delhi government employees to commute to work.",
-    "due_at": "2026-05-18T22:12:28.877776+00:00"
+    "reveal_id": "aa87e535d4e1407a92f303901c166e55",
+    "article_title": "India's Fintech Challenges",
+    "question": "What is hindering the growth of India's fintech sector?",
+    "answer_label": "B",
+    "answer_text": "Regulatory hurdles",
+    "explanation": "Regulatory hurdles are preventing innovation and limiting the growth of India's fintech sector.",
+    "due_at": "2026-05-18T23:14:35.615294+00:00"
   },
   {
-    "reveal_id": "2b845b21ac42429f802a9e02b6cf778e",
-    "article_title": "Delhi Govt Employees to Get Special Bus Service",
-    "question": "What is the expected outcome of the special bus service initiative?",
+    "reveal_id": "3b2dacfe3baf44358c3ebc6df44cf006",
+    "article_title": "India's Fintech Challenges",
+    "question": "What type of licensing approach can help India's fintech sector?",
+    "answer_label": "B",
+    "answer_text": "Graduated licenses",
+    "explanation": "A graduated licenses approach can provide flexibility and promote innovation in India's fintech sector.",
+    "due_at": "2026-05-18T23:14:39.357492+00:00"
+  },
+  {
+    "reveal_id": "1dd4aa97e2a143bda0503be87a74aa9e",
+    "article_title": "India's Fintech Challenges",
+    "question": "What can be achieved by unlocking India's fintech potential?",
+    "answer_label": "C",
+    "answer_text": "Improved cross-border money movement",
+    "explanation": "Unlocking India's fintech potential can lead to improved cross-border money movement and other benefits.",
+    "due_at": "2026-05-18T23:14:39.937486+00:00"
+  },
+  {
+    "reveal_id": "ad88167b5985460aa3ba1ab0a8814579",
+    "article_title": "Ganges Water Treaty",
+    "question": "What is the significance of the 1996 Ganges Water Sharing Treaty?",
     "answer_label": "D",
-    "answer_text": "Increased public transport usage",
-    "explanation": "The initiative aims to encourage Delhi government employees to use public transport, thereby increasing its usage.",
-    "due_at": "2026-05-18T22:12:32.615060+00:00"
+    "answer_text": "It regulates water sharing between India and Bangladesh",
+    "explanation": "The treaty is crucial for managing the Ganges river water supply between India and Bangladesh.",
+    "due_at": "2026-05-18T23:14:47.010999+00:00"
   },
   {
-    "reveal_id": "0f69b514e81a447188f5743c565bbbe9",
-    "article_title": "Delhi Govt Employees to Get Special Bus Service",
-    "question": "When will the special bus services operate?",
-    "answer_label": "C",
-    "answer_text": "During morning and evening office hours",
-    "explanation": "The buses will operate during morning and evening office hours to facilitate the commute of Delhi government employees.",
-    "due_at": "2026-05-18T22:12:33.188166+00:00"
+    "reveal_id": "acf43cdefa104c50a8d316c32dd6b7eb",
+    "article_title": "Ganges Water Treaty",
+    "question": "Why does Bangladesh want early negotiations on a new pact?",
+    "answer_label": "D",
+    "answer_text": "To secure its future water needs as the 1996 treaty nears expiry",
+    "explanation": "Bangladesh wants to ensure its water needs are met as the existing treaty is set to expire.",
+    "due_at": "2026-05-18T23:14:47.589827+00:00"
   },
   {
-    "reveal_id": "f33f1a26fa75497b968bd2fe9246ee58",
-    "article_title": "Delhi Govt Employees to Get Special Bus Service",
-    "question": "What is the purpose of the special bus service introduced by the Delhi Transport Corporation?",
-    "answer_label": "C",
-    "answer_text": "To facilitate office commute for Delhi government employees",
-    "explanation": "The special bus service aims to provide a convenient mode of transport for Delhi government employees to commute to work.",
-    "due_at": "2026-05-18T22:12:39.726841+00:00"
-  },
-  {
-    "reveal_id": "fcf4a1a9da5341febd551bc6cb337898",
-    "article_title": "Delhi Govt Employees to Get Special Bus Service",
-    "question": "What is one of the expected outcomes of the special bus service?",
-    "answer_label": "C",
-    "answer_text": "Boost in public transport usage",
-    "explanation": "The special bus service is expected to encourage more people to use public transport, thereby reducing the number of private vehicles on the road.",
-    "due_at": "2026-05-18T22:12:40.297021+00:00"
-  },
-  {
-    "reveal_id": "bc12a26f854246b2965fa9172aa3449d",
-    "article_title": "Delhi Govt Employees to Get Special Bus Service",
-    "question": "When will the special bus services operate?",
-    "answer_label": "C",
-    "answer_text": "During morning and evening office hours",
-    "explanation": "The special bus services will operate during morning and evening office hours to facilitate the commute of Delhi government employees.",
-    "due_at": "2026-05-18T22:12:40.862433+00:00"
+    "reveal_id": "7400ab1773164f5ab9cae4f35a9220f3",
+    "article_title": "Ganges Water Treaty",
+    "question": "What does Bangladesh link to the outcome of the new Ganges water pact negotiations?",
+    "answer_label": "B",
+    "answer_text": "Its future ties with India",
+    "explanation": "Bangladesh has stated that its future relations with India depend on the agreement reached in the new pact negotiations.",
+    "due_at": "2026-05-18T23:14:48.162394+00:00"
   }
 ]
