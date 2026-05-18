@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "4f03dee71b1c4cb3b0e430d20d600524",
-    "article_title": "HOPS FC Wins IWL 2 Championship",
-    "question": "Which team won the Indian Women's League 2 2025-26 season?",
+    "reveal_id": "cd74e1d662544586937fd33afe031470",
+    "article_title": "PM Modi Discusses Port Infrastructure with Maersk",
+    "question": "Who did PM Modi meet to discuss port infrastructure investment opportunities?",
     "answer_label": "A",
-    "answer_text": "HOPS FC",
-    "explanation": "HOPS FC achieved a perfect record with five wins in the Final Round and nine wins overall.",
-    "due_at": "2026-05-18T00:44:59.188705+00:00"
+    "answer_text": "Robert Maersk Uggla",
+    "explanation": "PM Modi met Robert Maersk Uggla, the chairman of Maersk, to discuss investment opportunities in India's port infrastructure.",
+    "due_at": "2026-05-18T05:18:15.994665+00:00"
   },
   {
-    "reveal_id": "26269dcd3bb0419e989342d8bb36c695",
-    "article_title": "HOPS FC Wins IWL 2 Championship",
-    "question": "How many goals did HOPS FC score in the final round?",
-    "answer_label": "B",
-    "answer_text": "8 goals",
-    "explanation": "HOPS FC scored 8 goals and remained defensively solid, conceding none during the final round.",
-    "due_at": "2026-05-18T00:45:02.935470+00:00"
-  },
-  {
-    "reveal_id": "b26d4a513b374db78799cc1f2a14a789",
-    "article_title": "HOPS FC Wins IWL 2 Championship",
-    "question": "Which team finished second in the Indian Women's League 2 2025-26 season?",
-    "answer_label": "A",
-    "answer_text": "Juba Sangha FC",
-    "explanation": "Juba Sangha FC finished second with 12 points after winning four of their five matches.",
-    "due_at": "2026-05-18T00:45:03.503900+00:00"
-  },
-  {
-    "reveal_id": "5ed50031ea0946a0996acb27e2c7640d",
-    "article_title": "Market Trends for Monday",
-    "question": "What happened to Nifty according to the analysts?",
-    "answer_label": "B",
-    "answer_text": "It broke below its consolidation range",
-    "explanation": "Nifty broke below its 23,800\u201324,500 consolidation range, signalling near-term weakness.",
-    "due_at": "2026-05-18T00:45:10.371916+00:00"
-  },
-  {
-    "reveal_id": "01ac970c74da42c6bc3e6be747232138",
-    "article_title": "Market Trends for Monday",
-    "question": "Which companies dragged the Sensex down?",
-    "answer_label": "B",
-    "answer_text": "RIL, SBI, and M&M",
-    "explanation": "Sensex fell sharply, dragged by RIL, SBI and M&M.",
-    "due_at": "2026-05-18T00:45:10.946050+00:00"
-  },
-  {
-    "reveal_id": "6da5cc08ca004804acb903db3bdf56b7",
-    "article_title": "Market Trends for Monday",
-    "question": "What was the overall sentiment in the market?",
+    "reveal_id": "11edd19066764cd59282285d173f41de",
+    "article_title": "PM Modi Discusses Port Infrastructure with Maersk",
+    "question": "Where did PM Modi meet the Maersk chairman?",
     "answer_label": "C",
-    "answer_text": "Bearish with high volatility",
-    "explanation": "Overall sentiment tilted towards bears amid volatility.",
-    "due_at": "2026-05-18T00:45:11.517586+00:00"
+    "answer_text": "Gothenburg",
+    "explanation": "The meeting between PM Modi and Robert Maersk Uggla took place in Gothenburg.",
+    "due_at": "2026-05-18T05:18:19.851915+00:00"
+  },
+  {
+    "reveal_id": "a8ffd4386b7c4dafbf4afa0b5ef58098",
+    "article_title": "PM Modi Discusses Port Infrastructure with Maersk",
+    "question": "What is the expected outcome of investing in port infrastructure and logistics in India?",
+    "answer_label": "C",
+    "answer_text": "Increased job creation and economic growth",
+    "explanation": "Investing in port infrastructure and logistics can create jobs and boost economic growth in India.",
+    "due_at": "2026-05-18T05:18:20.525490+00:00"
+  },
+  {
+    "reveal_id": "8cee3849773248d89cf3df0ca3a32864",
+    "article_title": "Pune Agri Hackathon to Go Statewide",
+    "question": "Where will the new Agri Innovation and Incubation Centre be built?",
+    "answer_label": "B",
+    "answer_text": "Pune",
+    "explanation": "The centre will be built on the campus of Pune's College of Agriculture.",
+    "due_at": "2026-05-18T05:18:27.585868+00:00"
+  },
+  {
+    "reveal_id": "0179f53a37374441ab06e84f966abd39",
+    "article_title": "Pune Agri Hackathon to Go Statewide",
+    "question": "Who announced that the Agri Hackathon will go statewide?",
+    "answer_label": "B",
+    "answer_text": "Devendra Fadnavis",
+    "explanation": "Chief Minister Devendra Fadnavis made the announcement.",
+    "due_at": "2026-05-18T05:18:28.488425+00:00"
+  },
+  {
+    "reveal_id": "0e06bf5b7685474b955c7d25eabc3273",
+    "article_title": "Pune Agri Hackathon to Go Statewide",
+    "question": "What is the significance of the top prize in the Agri Hackathon?",
+    "answer_label": "B",
+    "answer_text": "It will be named after Ajit Pawar",
+    "explanation": "The top prize will be named after Ajit Pawar, as announced by the Chief Minister.",
+    "due_at": "2026-05-18T05:18:29.154116+00:00"
   }
 ]
