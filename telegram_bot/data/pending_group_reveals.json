@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "09416c30dcab425f9e69a0ef71685c8f",
-    "article_title": "US and Israel Tensions with Iran",
-    "question": "Which two countries have increased tensions with Iran?",
+    "reveal_id": "ef9ecc32b0c4496ebd15c9e59e13dea3",
+    "article_title": "IPL 2026: CSK vs SRH Match Preview",
+    "question": "Which team is hosting Sunrisers Hyderabad in the IPL 2026 match?",
     "answer_label": "B",
-    "answer_text": "US and Israel",
-    "explanation": "The US and Israel have warned Iran of potential military escalation if it does not meet US conditions.",
-    "due_at": "2026-05-18T16:30:12.474249+00:00"
+    "answer_text": "Chennai Super Kings",
+    "explanation": "Chennai Super Kings is hosting Sunrisers Hyderabad at Chepauk.",
+    "due_at": "2026-05-18T18:38:40.440045+00:00"
   },
   {
-    "reveal_id": "d9fb9c010bb14c5092f271839ef8e6cd",
-    "article_title": "US and Israel Tensions with Iran",
-    "question": "What is one of the US conditions for Iran?",
+    "reveal_id": "55c326e7f9c84050a9acc9234583790d",
+    "article_title": "IPL 2026: CSK vs SRH Match Preview",
+    "question": "What is expected from the pitch in the CSK vs SRH match?",
     "answer_label": "C",
-    "answer_text": "Freeze uranium enrichment for an extended period",
-    "explanation": "The US has demanded that Iran freeze uranium enrichment for an extended period as one of its conditions.",
-    "due_at": "2026-05-18T16:30:13.133500+00:00"
+    "answer_text": "It will favor batsmen",
+    "explanation": "The pitch is expected to favor batsmen with a high total anticipated.",
+    "due_at": "2026-05-18T18:38:41.149234+00:00"
   },
   {
-    "reveal_id": "6facccb20c014911b354ac5de8b32b7f",
-    "article_title": "US and Israel Tensions with Iran",
-    "question": "Why is the situation important for India?",
+    "reveal_id": "4d660a18efed4845bb3a56c99ccdfaa6",
+    "article_title": "IPL 2026: CSK vs SRH Match Preview",
+    "question": "Why is the CSK vs SRH match significant for Chennai Super Kings?",
     "answer_label": "C",
-    "answer_text": "India imports energy from the region and needs to navigate the situation carefully",
-    "explanation": "India imports energy from the region and has diplomatic relations with both the US and Iran, making it crucial to monitor the situation.",
-    "due_at": "2026-05-18T16:30:20.186313+00:00"
+    "answer_text": "It is a crucial match for playoff hopes",
+    "explanation": "The match is crucial for CSK's playoff hopes in IPL 2026.",
+    "due_at": "2026-05-18T18:38:41.852646+00:00"
   },
   {
-    "reveal_id": "44341b22a8654d59b035a239086afcf0",
-    "article_title": "Canada-Alberta Economic Agreement",
-    "question": "What is the main goal of the Canada-Alberta agreement?",
+    "reveal_id": "67debf91bc08441380e7138edc58df3d",
+    "article_title": "Kamal Haasan and Rajinikanth",
+    "question": "Who are the two prominent Indian cinema figures mentioned?",
     "answer_label": "B",
-    "answer_text": "To reduce emissions and diversify exports",
-    "explanation": "The agreement aims to create a competitive and sustainable economy by reducing emissions and diversifying exports.",
-    "due_at": "2026-05-18T16:30:26.055393+00:00"
+    "answer_text": "Kamal Haasan and Rajinikanth",
+    "explanation": "The article directly mentions Kamal Haasan and Rajinikanth as the two prominent figures.",
+    "due_at": "2026-05-18T18:38:46.254471+00:00"
   },
   {
-    "reveal_id": "64676f83868f4534911521eda896e869",
-    "article_title": "Canada-Alberta Economic Agreement",
-    "question": "Why is reducing emissions important for Canada?",
-    "answer_label": "B",
-    "answer_text": "To meet climate change commitments",
-    "explanation": "Reducing emissions can help Canada meet its climate change commitments and contribute to a sustainable environment.",
-    "due_at": "2026-05-18T16:30:26.994612+00:00"
-  },
-  {
-    "reveal_id": "3f29e93f9d57436c9bebdeba6fe3a209",
-    "article_title": "Canada-Alberta Economic Agreement",
-    "question": "What can be a potential benefit of diversifying exports for Canada?",
+    "reveal_id": "3032f16a5d76490cb39a7c49a1359172",
+    "article_title": "Kamal Haasan and Rajinikanth",
+    "question": "What did Kamal Haasan say about his relationship with Rajinikanth?",
     "answer_label": "D",
-    "answer_text": "Increased economic stability",
-    "explanation": "Diversifying exports can reduce dependence on a single market and increase economic stability for Canada.",
-    "due_at": "2026-05-18T16:30:30.872545+00:00"
+    "answer_text": "There is no jealousy between them",
+    "explanation": "Kamal Haasan stated that there is no jealousy between him and Rajinikanth.",
+    "due_at": "2026-05-18T18:38:46.971050+00:00"
+  },
+  {
+    "reveal_id": "6b0cdde2ebf749a186dee30ee398cf74",
+    "article_title": "Kamal Haasan and Rajinikanth",
+    "question": "What is the context of the competition between Kamal Haasan and Rajinikanth?",
+    "answer_label": "C",
+    "answer_text": "Indian cinema",
+    "explanation": "The competition is mentioned in the context of Indian cinema, where both are prominent figures.",
+    "due_at": "2026-05-18T18:38:54.034359+00:00"
   }
 ]
