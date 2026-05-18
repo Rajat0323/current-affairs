@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "7d206706e57148e680102aac48583cfb",
-    "article_title": "Dowry Crimes in India",
-    "question": "What is the largest category of crimes against women in India, according to the NCRB's 2024 report?",
+    "reveal_id": "09416c30dcab425f9e69a0ef71685c8f",
+    "article_title": "US and Israel Tensions with Iran",
+    "question": "Which two countries have increased tensions with Iran?",
     "answer_label": "B",
-    "answer_text": "Cruelty by husband or his relatives",
-    "explanation": "The NCRB's 2024 report identifies cruelty by husband or his relatives as the single largest category of crimes against women nationally.",
-    "due_at": "2026-05-18T12:47:44.818164+00:00"
+    "answer_text": "US and Israel",
+    "explanation": "The US and Israel have warned Iran of potential military escalation if it does not meet US conditions.",
+    "due_at": "2026-05-18T16:30:12.474249+00:00"
   },
   {
-    "reveal_id": "08510ceefb67454da8dca5989ae5bc19",
-    "article_title": "Dowry Crimes in India",
-    "question": "How many cases of cruelty by husband or his relatives were reported in the NCRB's 2024 report?",
+    "reveal_id": "d9fb9c010bb14c5092f271839ef8e6cd",
+    "article_title": "US and Israel Tensions with Iran",
+    "question": "What is one of the US conditions for Iran?",
     "answer_label": "C",
-    "answer_text": "Over 1.2 lakh",
-    "explanation": "The NCRB's 2024 report shows over 1.2 lakh cases of cruelty by husband or his relatives.",
-    "due_at": "2026-05-18T12:47:48.585171+00:00"
+    "answer_text": "Freeze uranium enrichment for an extended period",
+    "explanation": "The US has demanded that Iran freeze uranium enrichment for an extended period as one of its conditions.",
+    "due_at": "2026-05-18T16:30:13.133500+00:00"
   },
   {
-    "reveal_id": "9d0f5055c40f48428f0ad5f596414aba",
-    "article_title": "Dowry Crimes in India",
-    "question": "What is a significant issue related to crimes against women in India, as per the given article?",
+    "reveal_id": "6facccb20c014911b354ac5de8b32b7f",
+    "article_title": "US and Israel Tensions with Iran",
+    "question": "Why is the situation important for India?",
     "answer_label": "C",
-    "answer_text": "Dowry",
-    "explanation": "The article highlights that dowry remains a significant issue in India, contributing to crimes against women.",
-    "due_at": "2026-05-18T12:47:49.194351+00:00"
+    "answer_text": "India imports energy from the region and needs to navigate the situation carefully",
+    "explanation": "India imports energy from the region and has diplomatic relations with both the US and Iran, making it crucial to monitor the situation.",
+    "due_at": "2026-05-18T16:30:20.186313+00:00"
   },
   {
-    "reveal_id": "94808734667d438cb04b3fba6d8a5c99",
-    "article_title": "Russia's Elites Turning Against Putin",
-    "question": "What is happening to Russians' perception of their leader according to a former Kremlin official?",
+    "reveal_id": "44341b22a8654d59b035a239086afcf0",
+    "article_title": "Canada-Alberta Economic Agreement",
+    "question": "What is the main goal of the Canada-Alberta agreement?",
     "answer_label": "B",
-    "answer_text": "They are imagining a future without Putin",
-    "explanation": "Russians are beginning to imagine a future without Putin as they face economic challenges and the state seizes private assets.",
-    "due_at": "2026-05-18T12:47:56.533504+00:00"
+    "answer_text": "To reduce emissions and diversify exports",
+    "explanation": "The agreement aims to create a competitive and sustainable economy by reducing emissions and diversifying exports.",
+    "due_at": "2026-05-18T16:30:26.055393+00:00"
   },
   {
-    "reveal_id": "b5be060d36b244459c4e56cfec46c04c",
-    "article_title": "Russia's Elites Turning Against Putin",
-    "question": "What is one reason for the Russian elites' distance from Putin?",
-    "answer_label": "A",
-    "answer_text": "Rising inflation",
-    "explanation": "Inflation is one factor contributing to the Russian elites' distance from Putin, as it affects the economy and people's lives.",
-    "due_at": "2026-05-18T12:47:57.111477+00:00"
-  },
-  {
-    "reveal_id": "06c77b170b764132a3492341583dd81d",
-    "article_title": "Russia's Elites Turning Against Putin",
-    "question": "Why is this news relevant to India?",
+    "reveal_id": "64676f83868f4534911521eda896e869",
+    "article_title": "Canada-Alberta Economic Agreement",
+    "question": "Why is reducing emissions important for Canada?",
     "answer_label": "B",
-    "answer_text": "Russia's internal politics can impact global relations, including with India",
-    "explanation": "Russia's internal politics and economic changes can impact global relations and international trade, which can affect India as well.",
-    "due_at": "2026-05-18T12:47:57.818630+00:00"
+    "answer_text": "To meet climate change commitments",
+    "explanation": "Reducing emissions can help Canada meet its climate change commitments and contribute to a sustainable environment.",
+    "due_at": "2026-05-18T16:30:26.994612+00:00"
+  },
+  {
+    "reveal_id": "3f29e93f9d57436c9bebdeba6fe3a209",
+    "article_title": "Canada-Alberta Economic Agreement",
+    "question": "What can be a potential benefit of diversifying exports for Canada?",
+    "answer_label": "D",
+    "answer_text": "Increased economic stability",
+    "explanation": "Diversifying exports can reduce dependence on a single market and increase economic stability for Canada.",
+    "due_at": "2026-05-18T16:30:30.872545+00:00"
   }
 ]
