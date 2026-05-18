@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "4c0e7ff7963b4c09bb1e058da790d6c4",
-    "article_title": "Dowry Harassment Case in Greater Noida",
-    "question": "What was the alleged reason for the woman's death in Greater Noida?",
-    "answer_label": "A",
-    "answer_text": "Dowry harassment",
-    "explanation": "The woman's family alleged that she died due to dowry harassment by her husband and in-laws.",
-    "due_at": "2026-05-18T20:38:07.452242+00:00"
-  },
-  {
-    "reveal_id": "35816b65da444816bfa8841a92fa0376",
-    "article_title": "Dowry Harassment Case in Greater Noida",
-    "question": "How long was the woman married before her death?",
+    "reveal_id": "0549875593e44129a3af4af3fde0f64e",
+    "article_title": "Delhi Govt Employees to Get Special Bus Service",
+    "question": "What is the purpose of the special bus service introduced by the Delhi Transport Corporation?",
     "answer_label": "C",
-    "answer_text": "1.5 years",
-    "explanation": "The woman was married for a year and a half before her death.",
-    "due_at": "2026-05-18T20:38:08.031855+00:00"
+    "answer_text": "To facilitate office commute for Delhi government employees",
+    "explanation": "The special bus service aims to provide a convenient mode of transport for Delhi government employees to commute to work.",
+    "due_at": "2026-05-18T22:12:28.877776+00:00"
   },
   {
-    "reveal_id": "4fe8fd5db72749cb9eeecd5ab6200353",
-    "article_title": "Dowry Harassment Case in Greater Noida",
-    "question": "What action was taken against the husband and father-in-law?",
+    "reveal_id": "2b845b21ac42429f802a9e02b6cf778e",
+    "article_title": "Delhi Govt Employees to Get Special Bus Service",
+    "question": "What is the expected outcome of the special bus service initiative?",
+    "answer_label": "D",
+    "answer_text": "Increased public transport usage",
+    "explanation": "The initiative aims to encourage Delhi government employees to use public transport, thereby increasing its usage.",
+    "due_at": "2026-05-18T22:12:32.615060+00:00"
+  },
+  {
+    "reveal_id": "0f69b514e81a447188f5743c565bbbe9",
+    "article_title": "Delhi Govt Employees to Get Special Bus Service",
+    "question": "When will the special bus services operate?",
     "answer_label": "C",
-    "answer_text": "They were arrested",
-    "explanation": "The husband and father-in-law were arrested after the woman's death.",
-    "due_at": "2026-05-18T20:38:08.616317+00:00"
+    "answer_text": "During morning and evening office hours",
+    "explanation": "The buses will operate during morning and evening office hours to facilitate the commute of Delhi government employees.",
+    "due_at": "2026-05-18T22:12:33.188166+00:00"
   },
   {
-    "reveal_id": "3534a2762e5540caa84413b4a4e57f59",
-    "article_title": "Trump's Post on Truth Social",
-    "question": "What was the badge on the robotic force in Trump's photo?",
-    "answer_label": "B",
-    "answer_text": "United States Space Force",
-    "explanation": "The badge on the robotic force read 'United States Space Force', indicating Trump's focus on space exploration.",
-    "due_at": "2026-05-18T20:38:15.399308+00:00"
+    "reveal_id": "f33f1a26fa75497b968bd2fe9246ee58",
+    "article_title": "Delhi Govt Employees to Get Special Bus Service",
+    "question": "What is the purpose of the special bus service introduced by the Delhi Transport Corporation?",
+    "answer_label": "C",
+    "answer_text": "To facilitate office commute for Delhi government employees",
+    "explanation": "The special bus service aims to provide a convenient mode of transport for Delhi government employees to commute to work.",
+    "due_at": "2026-05-18T22:12:39.726841+00:00"
   },
   {
-    "reveal_id": "be21d500d53e4405a988ffcca5bda73e",
-    "article_title": "Trump's Post on Truth Social",
-    "question": "What was depicted in the image shared by Trump regarding Iran?",
-    "answer_label": "B",
-    "answer_text": "Iran covered in the US flag",
-    "explanation": "The image showed Iran covered in the US flag, which may symbolize Trump's stance on US-Iran relations.",
-    "due_at": "2026-05-18T20:38:16.006600+00:00"
+    "reveal_id": "fcf4a1a9da5341febd551bc6cb337898",
+    "article_title": "Delhi Govt Employees to Get Special Bus Service",
+    "question": "What is one of the expected outcomes of the special bus service?",
+    "answer_label": "C",
+    "answer_text": "Boost in public transport usage",
+    "explanation": "The special bus service is expected to encourage more people to use public transport, thereby reducing the number of private vehicles on the road.",
+    "due_at": "2026-05-18T22:12:40.297021+00:00"
   },
   {
-    "reveal_id": "806a3366fecf4e7a967430ac86f25447",
-    "article_title": "Trump's Post on Truth Social",
-    "question": "Which of the following was mentioned in Trump's post on Truth Social?",
-    "answer_label": "B",
-    "answer_text": "Aliens",
-    "explanation": "Trump's post included a mention of aliens, which may indicate his interest in space exploration and the possibility of extraterrestrial life.",
-    "due_at": "2026-05-18T20:38:16.594729+00:00"
+    "reveal_id": "bc12a26f854246b2965fa9172aa3449d",
+    "article_title": "Delhi Govt Employees to Get Special Bus Service",
+    "question": "When will the special bus services operate?",
+    "answer_label": "C",
+    "answer_text": "During morning and evening office hours",
+    "explanation": "The special bus services will operate during morning and evening office hours to facilitate the commute of Delhi government employees.",
+    "due_at": "2026-05-18T22:12:40.862433+00:00"
   }
 ]
