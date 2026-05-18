@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "cd74e1d662544586937fd33afe031470",
-    "article_title": "PM Modi Discusses Port Infrastructure with Maersk",
-    "question": "Who did PM Modi meet to discuss port infrastructure investment opportunities?",
+    "reveal_id": "86cd9725ef9143c7aac6b5418dea3078",
+    "article_title": "ED Raid Rumours",
+    "question": "What is the main reason for the ED raid rumours?",
+    "answer_label": "B",
+    "answer_text": "Money laundering and cheating",
+    "explanation": "The ED raid rumours are linked to alleged fraudulent Change of Land Use approvals, cheating of homebuyers and landowners, and money laundering.",
+    "due_at": "2026-05-18T09:09:33.472524+00:00"
+  },
+  {
+    "reveal_id": "a5e68d11a0dd4b389b40cc6d85ff13c6",
+    "article_title": "ED Raid Rumours",
+    "question": "Where were the ED raids reportedly planned?",
+    "answer_label": "B",
+    "answer_text": "Sector 39, Chandigarh",
+    "explanation": "The ED raids were reportedly planned in Sector 39, Chandigarh, which is home to several senior IAS officers.",
+    "due_at": "2026-05-18T09:09:34.193881+00:00"
+  },
+  {
+    "reveal_id": "968663223e2545688056f0e623025b09",
+    "article_title": "ED Raid Rumours",
+    "question": "Which agency is conducting the raids?",
+    "answer_label": "B",
+    "answer_text": "ED",
+    "explanation": "The Enforcement Directorate (ED) is the agency conducting the raids.",
+    "due_at": "2026-05-18T09:09:34.912616+00:00"
+  },
+  {
+    "reveal_id": "e29f11444dba443bb6abdf3e9f6e4522",
+    "article_title": "EU Concerns Over US-China Relations",
+    "question": "Who expressed concerns over the growing closeness between the US and China?",
     "answer_label": "A",
-    "answer_text": "Robert Maersk Uggla",
-    "explanation": "PM Modi met Robert Maersk Uggla, the chairman of Maersk, to discuss investment opportunities in India's port infrastructure.",
-    "due_at": "2026-05-18T05:18:15.994665+00:00"
+    "answer_text": "Kaja Kallas",
+    "explanation": "Kaja Kallas, the EU foreign policy chief, warned about the potential negative impact on smaller nations.",
+    "due_at": "2026-05-18T09:09:39.491580+00:00"
   },
   {
-    "reveal_id": "11edd19066764cd59282285d173f41de",
-    "article_title": "PM Modi Discusses Port Infrastructure with Maersk",
-    "question": "Where did PM Modi meet the Maersk chairman?",
+    "reveal_id": "11195b8cf5fb4b16aa9f41ef63dd8fea",
+    "article_title": "EU Concerns Over US-China Relations",
+    "question": "What is the potential impact on smaller nations when major powers move closer together?",
     "answer_label": "C",
-    "answer_text": "Gothenburg",
-    "explanation": "The meeting between PM Modi and Robert Maersk Uggla took place in Gothenburg.",
-    "due_at": "2026-05-18T05:18:19.851915+00:00"
+    "answer_text": "They may suffer from reduced attention",
+    "explanation": "Kaja Kallas warned that smaller nations could suffer when major powers move closer together, potentially reducing attention to their needs.",
+    "due_at": "2026-05-18T09:09:40.211538+00:00"
   },
   {
-    "reveal_id": "a8ffd4386b7c4dafbf4afa0b5ef58098",
-    "article_title": "PM Modi Discusses Port Infrastructure with Maersk",
-    "question": "What is the expected outcome of investing in port infrastructure and logistics in India?",
+    "reveal_id": "fc5470836c7a4993801493e1c965e515",
+    "article_title": "EU Concerns Over US-China Relations",
+    "question": "Why are the US, China, and Russia uncomfortable with a united European Union?",
     "answer_label": "C",
-    "answer_text": "Increased job creation and economic growth",
-    "explanation": "Investing in port infrastructure and logistics can create jobs and boost economic growth in India.",
-    "due_at": "2026-05-18T05:18:20.525490+00:00"
-  },
-  {
-    "reveal_id": "8cee3849773248d89cf3df0ca3a32864",
-    "article_title": "Pune Agri Hackathon to Go Statewide",
-    "question": "Where will the new Agri Innovation and Incubation Centre be built?",
-    "answer_label": "B",
-    "answer_text": "Pune",
-    "explanation": "The centre will be built on the campus of Pune's College of Agriculture.",
-    "due_at": "2026-05-18T05:18:27.585868+00:00"
-  },
-  {
-    "reveal_id": "0179f53a37374441ab06e84f966abd39",
-    "article_title": "Pune Agri Hackathon to Go Statewide",
-    "question": "Who announced that the Agri Hackathon will go statewide?",
-    "answer_label": "B",
-    "answer_text": "Devendra Fadnavis",
-    "explanation": "Chief Minister Devendra Fadnavis made the announcement.",
-    "due_at": "2026-05-18T05:18:28.488425+00:00"
-  },
-  {
-    "reveal_id": "0e06bf5b7685474b955c7d25eabc3273",
-    "article_title": "Pune Agri Hackathon to Go Statewide",
-    "question": "What is the significance of the top prize in the Agri Hackathon?",
-    "answer_label": "B",
-    "answer_text": "It will be named after Ajit Pawar",
-    "explanation": "The top prize will be named after Ajit Pawar, as announced by the Chief Minister.",
-    "due_at": "2026-05-18T05:18:29.154116+00:00"
+    "answer_text": "Because a strong EU acts as an equal global power",
+    "explanation": "Kaja Kallas stated that a strong EU acts as an equal global power, making the US, China, and Russia uncomfortable.",
+    "due_at": "2026-05-18T09:09:40.942352+00:00"
   }
 ]
