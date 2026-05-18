@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "86cd9725ef9143c7aac6b5418dea3078",
-    "article_title": "ED Raid Rumours",
-    "question": "What is the main reason for the ED raid rumours?",
+    "reveal_id": "7d206706e57148e680102aac48583cfb",
+    "article_title": "Dowry Crimes in India",
+    "question": "What is the largest category of crimes against women in India, according to the NCRB's 2024 report?",
     "answer_label": "B",
-    "answer_text": "Money laundering and cheating",
-    "explanation": "The ED raid rumours are linked to alleged fraudulent Change of Land Use approvals, cheating of homebuyers and landowners, and money laundering.",
-    "due_at": "2026-05-18T09:09:33.472524+00:00"
+    "answer_text": "Cruelty by husband or his relatives",
+    "explanation": "The NCRB's 2024 report identifies cruelty by husband or his relatives as the single largest category of crimes against women nationally.",
+    "due_at": "2026-05-18T12:47:44.818164+00:00"
   },
   {
-    "reveal_id": "a5e68d11a0dd4b389b40cc6d85ff13c6",
-    "article_title": "ED Raid Rumours",
-    "question": "Where were the ED raids reportedly planned?",
-    "answer_label": "B",
-    "answer_text": "Sector 39, Chandigarh",
-    "explanation": "The ED raids were reportedly planned in Sector 39, Chandigarh, which is home to several senior IAS officers.",
-    "due_at": "2026-05-18T09:09:34.193881+00:00"
+    "reveal_id": "08510ceefb67454da8dca5989ae5bc19",
+    "article_title": "Dowry Crimes in India",
+    "question": "How many cases of cruelty by husband or his relatives were reported in the NCRB's 2024 report?",
+    "answer_label": "C",
+    "answer_text": "Over 1.2 lakh",
+    "explanation": "The NCRB's 2024 report shows over 1.2 lakh cases of cruelty by husband or his relatives.",
+    "due_at": "2026-05-18T12:47:48.585171+00:00"
   },
   {
-    "reveal_id": "968663223e2545688056f0e623025b09",
-    "article_title": "ED Raid Rumours",
-    "question": "Which agency is conducting the raids?",
-    "answer_label": "B",
-    "answer_text": "ED",
-    "explanation": "The Enforcement Directorate (ED) is the agency conducting the raids.",
-    "due_at": "2026-05-18T09:09:34.912616+00:00"
+    "reveal_id": "9d0f5055c40f48428f0ad5f596414aba",
+    "article_title": "Dowry Crimes in India",
+    "question": "What is a significant issue related to crimes against women in India, as per the given article?",
+    "answer_label": "C",
+    "answer_text": "Dowry",
+    "explanation": "The article highlights that dowry remains a significant issue in India, contributing to crimes against women.",
+    "due_at": "2026-05-18T12:47:49.194351+00:00"
   },
   {
-    "reveal_id": "e29f11444dba443bb6abdf3e9f6e4522",
-    "article_title": "EU Concerns Over US-China Relations",
-    "question": "Who expressed concerns over the growing closeness between the US and China?",
+    "reveal_id": "94808734667d438cb04b3fba6d8a5c99",
+    "article_title": "Russia's Elites Turning Against Putin",
+    "question": "What is happening to Russians' perception of their leader according to a former Kremlin official?",
+    "answer_label": "B",
+    "answer_text": "They are imagining a future without Putin",
+    "explanation": "Russians are beginning to imagine a future without Putin as they face economic challenges and the state seizes private assets.",
+    "due_at": "2026-05-18T12:47:56.533504+00:00"
+  },
+  {
+    "reveal_id": "b5be060d36b244459c4e56cfec46c04c",
+    "article_title": "Russia's Elites Turning Against Putin",
+    "question": "What is one reason for the Russian elites' distance from Putin?",
     "answer_label": "A",
-    "answer_text": "Kaja Kallas",
-    "explanation": "Kaja Kallas, the EU foreign policy chief, warned about the potential negative impact on smaller nations.",
-    "due_at": "2026-05-18T09:09:39.491580+00:00"
+    "answer_text": "Rising inflation",
+    "explanation": "Inflation is one factor contributing to the Russian elites' distance from Putin, as it affects the economy and people's lives.",
+    "due_at": "2026-05-18T12:47:57.111477+00:00"
   },
   {
-    "reveal_id": "11195b8cf5fb4b16aa9f41ef63dd8fea",
-    "article_title": "EU Concerns Over US-China Relations",
-    "question": "What is the potential impact on smaller nations when major powers move closer together?",
-    "answer_label": "C",
-    "answer_text": "They may suffer from reduced attention",
-    "explanation": "Kaja Kallas warned that smaller nations could suffer when major powers move closer together, potentially reducing attention to their needs.",
-    "due_at": "2026-05-18T09:09:40.211538+00:00"
-  },
-  {
-    "reveal_id": "fc5470836c7a4993801493e1c965e515",
-    "article_title": "EU Concerns Over US-China Relations",
-    "question": "Why are the US, China, and Russia uncomfortable with a united European Union?",
-    "answer_label": "C",
-    "answer_text": "Because a strong EU acts as an equal global power",
-    "explanation": "Kaja Kallas stated that a strong EU acts as an equal global power, making the US, China, and Russia uncomfortable.",
-    "due_at": "2026-05-18T09:09:40.942352+00:00"
+    "reveal_id": "06c77b170b764132a3492341583dd81d",
+    "article_title": "Russia's Elites Turning Against Putin",
+    "question": "Why is this news relevant to India?",
+    "answer_label": "B",
+    "answer_text": "Russia's internal politics can impact global relations, including with India",
+    "explanation": "Russia's internal politics and economic changes can impact global relations and international trade, which can affect India as well.",
+    "due_at": "2026-05-18T12:47:57.818630+00:00"
   }
 ]
