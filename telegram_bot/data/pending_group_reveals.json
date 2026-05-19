@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "ba8fcdf087184ef7896bf4c68e8dd79e",
-    "article_title": "West Bengal's New Government",
-    "question": "Who is the Chief Minister of West Bengal's new BJP government?",
+    "reveal_id": "f798af6b91094fef9dab2d5ac5998f5a",
+    "article_title": "IMF Warns UK on Debt",
+    "question": "What has the IMF warned the UK about?",
     "answer_label": "B",
-    "answer_text": "Suvendu Adhikari",
-    "explanation": "Suvendu Adhikari is the Chief Minister of West Bengal's new BJP government, as mentioned in the article.",
-    "due_at": "2026-05-19T08:31:55.678211+00:00"
+    "answer_text": "Abandoning deficit reduction plans",
+    "explanation": "The IMF warned the UK against abandoning deficit reduction plans due to political instability and rising borrowing costs.",
+    "due_at": "2026-05-19T12:00:46.093449+00:00"
   },
   {
-    "reveal_id": "6387b323a49c473da2a5e57eb50937ff",
-    "article_title": "West Bengal's New Government",
-    "question": "What is one of the central initiatives introduced by the new government in West Bengal?",
-    "answer_label": "B",
-    "answer_text": "Ayushman Bharat",
-    "explanation": "The article mentions that the new government has introduced Ayushman Bharat, a central health initiative.",
-    "due_at": "2026-05-19T08:31:56.388240+00:00"
-  },
-  {
-    "reveal_id": "a3b544bf9078483babb5cae46c077f90",
-    "article_title": "West Bengal's New Government",
-    "question": "What action has the new government taken against illegal structures in West Bengal?",
-    "answer_label": "B",
-    "answer_text": "Bulldozer action",
-    "explanation": "The article states that the new government has taken bulldozer action against illegal structures and encroachments.",
-    "due_at": "2026-05-19T08:31:57.100739+00:00"
-  },
-  {
-    "reveal_id": "203bcda3687e44cc949f0a00e8615a2e",
-    "article_title": "India's Inadequate Petroleum Reserves",
-    "question": "What is the main concern regarding India's petroleum reserves?",
-    "answer_label": "B",
-    "answer_text": "Inadequate strategic reserves",
-    "explanation": "India's inadequate strategic petroleum reserves make it vulnerable to global price fluctuations and supply disruptions.",
-    "due_at": "2026-05-19T08:32:04.461340+00:00"
-  },
-  {
-    "reveal_id": "64cdee9d0a0045809da04b5fca40cccb",
-    "article_title": "India's Inadequate Petroleum Reserves",
-    "question": "What is a significant risk posed by India's inadequate petroleum reserves?",
+    "reveal_id": "2d27662ec49044fb909c7227c1aec106",
+    "article_title": "IMF Warns UK on Debt",
+    "question": "What is the potential consequence of the UK abandoning deficit reduction plans?",
     "answer_label": "C",
-    "answer_text": "Economic instability",
-    "explanation": "Inadequate petroleum reserves pose a significant risk to India's energy security and economy.",
-    "due_at": "2026-05-19T08:32:05.159418+00:00"
+    "answer_text": "Credibility crisis",
+    "explanation": "The UK abandoning deficit reduction plans could lead to a credibility crisis and impact the UK economy.",
+    "due_at": "2026-05-19T12:00:49.857440+00:00"
   },
   {
-    "reveal_id": "d227ea3445054bb28cd928ead37ebfb3",
-    "article_title": "India's Inadequate Petroleum Reserves",
-    "question": "Why is it important for India to have adequate strategic petroleum reserves?",
+    "reveal_id": "8f866c355ac246b2b99567aaa2463fe1",
+    "article_title": "IMF Warns UK on Debt",
+    "question": "Why is the UK's economic stability important for India?",
+    "answer_label": "B",
+    "answer_text": "It affects India's trade and investment",
+    "explanation": "The UK's economic stability is important for international market confidence, which can impact India's trade and investment.",
+    "due_at": "2026-05-19T12:00:50.461292+00:00"
+  },
+  {
+    "reveal_id": "d66afbf6ecc24d96817e43cc0d2d9166",
+    "article_title": "Middle East Conflict Impact on Agriculture",
+    "question": "What is the potential economic loss due to the Middle East conflict?",
+    "answer_label": "B",
+    "answer_text": "USD 300 billion",
+    "explanation": "According to recent assessments, severe escalation scenarios in the Middle East could impose economic losses ranging from nearly USD 300 billion.",
+    "due_at": "2026-05-19T12:00:55.578944+00:00"
+  },
+  {
+    "reveal_id": "69560c85e4ab4c9b9f032596e7813020",
+    "article_title": "Middle East Conflict Impact on Agriculture",
+    "question": "Which organizations have assessed the potential economic impact of the Middle East conflict?",
     "answer_label": "A",
-    "answer_text": "To reduce dependence on imports",
-    "explanation": "Adequate strategic petroleum reserves can reduce India's dependence on imports and mitigate the impact of global price fluctuations.",
-    "due_at": "2026-05-19T08:32:12.222766+00:00"
+    "answer_text": "International Monetary Fund and World Bank",
+    "explanation": "The International Monetary Fund, World Bank, and the United Nations Development Programme have assessed the potential economic impact of the conflict.",
+    "due_at": "2026-05-19T12:00:56.176393+00:00"
+  },
+  {
+    "reveal_id": "a347a3ccf51c4a69b519b315da86db6a",
+    "article_title": "Middle East Conflict Impact on Agriculture",
+    "question": "How is the Middle East conflict affecting India?",
+    "answer_label": "C",
+    "answer_text": "Through fertilizer markets and potential economic losses",
+    "explanation": "The Middle East conflict is affecting India's farms through potential economic losses and disruptions in fertilizer markets.",
+    "due_at": "2026-05-19T12:01:03.108291+00:00"
   }
 ]
