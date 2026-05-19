@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "f798af6b91094fef9dab2d5ac5998f5a",
-    "article_title": "IMF Warns UK on Debt",
-    "question": "What has the IMF warned the UK about?",
+    "reveal_id": "fde1bb0d3cec4d70b345aae2420f4cf5",
+    "article_title": "US Initiative for Affordable Medicines",
+    "question": "What is the primary goal of the TrumpRx.gov initiative?",
     "answer_label": "B",
-    "answer_text": "Abandoning deficit reduction plans",
-    "explanation": "The IMF warned the UK against abandoning deficit reduction plans due to political instability and rising borrowing costs.",
-    "due_at": "2026-05-19T12:00:46.093449+00:00"
+    "answer_text": "To lower prescription drug costs",
+    "explanation": "The initiative aims to lower prescription drug costs for Americans by listing affordable generic drugs.",
+    "due_at": "2026-05-19T14:44:20.125386+00:00"
   },
   {
-    "reveal_id": "2d27662ec49044fb909c7227c1aec106",
-    "article_title": "IMF Warns UK on Debt",
-    "question": "What is the potential consequence of the UK abandoning deficit reduction plans?",
+    "reveal_id": "1b765139b6c7488180201b180b9d0ba5",
+    "article_title": "US Initiative for Affordable Medicines",
+    "question": "How many generic drugs will be listed on TrumpRx.gov?",
+    "answer_label": "B",
+    "answer_text": "Over 600",
+    "explanation": "The website will list over 600 generic drugs, including common treatments for cholesterol and diabetes.",
+    "due_at": "2026-05-19T14:44:23.907426+00:00"
+  },
+  {
+    "reveal_id": "c153e2d6f4004f6d8cecde450cb0f66b",
+    "article_title": "US Initiative for Affordable Medicines",
+    "question": "What type of treatments will be included in the listed generic drugs?",
     "answer_label": "C",
-    "answer_text": "Credibility crisis",
-    "explanation": "The UK abandoning deficit reduction plans could lead to a credibility crisis and impact the UK economy.",
-    "due_at": "2026-05-19T12:00:49.857440+00:00"
+    "answer_text": "Common treatments for cholesterol and diabetes",
+    "explanation": "The listed generic drugs will include common treatments for cholesterol and diabetes, among others.",
+    "due_at": "2026-05-19T14:44:24.498012+00:00"
   },
   {
-    "reveal_id": "8f866c355ac246b2b99567aaa2463fe1",
-    "article_title": "IMF Warns UK on Debt",
-    "question": "Why is the UK's economic stability important for India?",
+    "reveal_id": "409f5bfce08a46309e535385d6928e7b",
+    "article_title": "PM Modi Invites Norway Investors",
+    "question": "Where did PM Modi attend a business conclave to invite investors?",
     "answer_label": "B",
-    "answer_text": "It affects India's trade and investment",
-    "explanation": "The UK's economic stability is important for international market confidence, which can impact India's trade and investment.",
-    "due_at": "2026-05-19T12:00:50.461292+00:00"
+    "answer_text": "Norway",
+    "explanation": "PM Modi attended the conclave in Norway to promote India's reform agenda.",
+    "due_at": "2026-05-19T14:44:31.489099+00:00"
   },
   {
-    "reveal_id": "d66afbf6ecc24d96817e43cc0d2d9166",
-    "article_title": "Middle East Conflict Impact on Agriculture",
-    "question": "What is the potential economic loss due to the Middle East conflict?",
+    "reveal_id": "3033fdeea81d42668c521e57ef668c43",
+    "article_title": "PM Modi Invites Norway Investors",
+    "question": "What sectors did PM Modi highlight for investment opportunities?",
     "answer_label": "B",
-    "answer_text": "USD 300 billion",
-    "explanation": "According to recent assessments, severe escalation scenarios in the Middle East could impose economic losses ranging from nearly USD 300 billion.",
-    "due_at": "2026-05-19T12:00:55.578944+00:00"
+    "answer_text": "Food security, fertilisers, fisheries, and energy",
+    "explanation": "PM Modi pitched India's opportunities in food security, fertilisers, fisheries, and energy to Norwegian investors.",
+    "due_at": "2026-05-19T14:44:32.098009+00:00"
   },
   {
-    "reveal_id": "69560c85e4ab4c9b9f032596e7813020",
-    "article_title": "Middle East Conflict Impact on Agriculture",
-    "question": "Which organizations have assessed the potential economic impact of the Middle East conflict?",
-    "answer_label": "A",
-    "answer_text": "International Monetary Fund and World Bank",
-    "explanation": "The International Monetary Fund, World Bank, and the United Nations Development Programme have assessed the potential economic impact of the conflict.",
-    "due_at": "2026-05-19T12:00:56.176393+00:00"
-  },
-  {
-    "reveal_id": "a347a3ccf51c4a69b519b315da86db6a",
-    "article_title": "Middle East Conflict Impact on Agriculture",
-    "question": "How is the Middle East conflict affecting India?",
+    "reveal_id": "32cbaa1d88b0433da827d7806fbb458f",
+    "article_title": "PM Modi Invites Norway Investors",
+    "question": "What is the expected outcome of PM Modi's invitation to Norwegian investors?",
     "answer_label": "C",
-    "answer_text": "Through fertilizer markets and potential economic losses",
-    "explanation": "The Middle East conflict is affecting India's farms through potential economic losses and disruptions in fertilizer markets.",
-    "due_at": "2026-05-19T12:01:03.108291+00:00"
+    "answer_text": "Boost in India's foreign investment",
+    "explanation": "PM Modi's invitation is expected to boost India's foreign investment and strengthen economic ties with Norway.",
+    "due_at": "2026-05-19T14:44:32.697726+00:00"
   }
 ]
