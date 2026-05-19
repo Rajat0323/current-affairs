@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "b4a57acd5a764af180d05245909b7632",
-    "article_title": "Narmada River Pollution",
-    "question": "What is the approximate amount of milk poured into the Narmada River?",
+    "reveal_id": "effdc15211dd4e9bab28e2f017ad7344",
+    "article_title": "Indian Economy Overview",
+    "question": "What is the primary driver of the Indian economy?",
     "answer_label": "C",
-    "answer_text": "11,000 litres",
-    "explanation": "The incident involved 11,000 litres of milk being poured into the river, as reported.",
-    "due_at": "2026-05-19T21:36:44.044091+00:00"
+    "answer_text": "Services",
+    "explanation": "The services sector is the largest contributor to India's GDP, driving the country's economic growth.",
+    "due_at": "2026-05-19T23:08:18.316582+00:00"
   },
   {
-    "reveal_id": "be689ab961634f86ad15e0c7a295ee42",
-    "article_title": "Narmada River Pollution",
-    "question": "In which state did the incident of milk and sarees being offered to the Narmada River occur?",
-    "answer_label": "B",
-    "answer_text": "Madhya Pradesh",
-    "explanation": "The incident occurred in Madhya Pradesh's Sehore district.",
-    "due_at": "2026-05-19T21:36:44.738665+00:00"
+    "reveal_id": "b4e9562e65c04536bf0e7b4f562c8270",
+    "article_title": "Indian Economy Overview",
+    "question": "Which of the following is a key aspect of the Indian economy?",
+    "answer_label": "C",
+    "answer_text": "Diversified sectors",
+    "explanation": "The Indian economy has a diverse range of sectors, including services, manufacturing, and agriculture, contributing to its growth.",
+    "due_at": "2026-05-19T23:08:18.971467+00:00"
   },
   {
-    "reveal_id": "3a36fb24bfd341e381a11079c85f5880",
-    "article_title": "Narmada River Pollution",
-    "question": "Which body has sought responses from pollution control boards regarding the Narmada River pollution?",
+    "reveal_id": "a829bf7248704698b15d10b5f1b223d9",
+    "article_title": "Indian Economy Overview",
+    "question": "Why is the Indian economy important globally?",
     "answer_label": "B",
-    "answer_text": "National Green Tribunal",
-    "explanation": "The National Green Tribunal has sought responses from the Central and state pollution control boards.",
-    "due_at": "2026-05-19T21:36:45.432777+00:00"
+    "answer_text": "It has a significant impact on global trade",
+    "explanation": "The Indian economy plays a significant role in global trade, with its large consumer market and growing industrial base.",
+    "due_at": "2026-05-19T23:08:19.628617+00:00"
   },
   {
-    "reveal_id": "46a6c32716be4aeca8c91f81081c7759",
-    "article_title": "Central Bank of India's GIFT City IFSC Unit",
-    "question": "Where will Central Bank of India launch its IFSC banking unit?",
-    "answer_label": "B",
-    "answer_text": "GIFT City",
-    "explanation": "The unit will be launched at GIFT City to expand international banking operations.",
-    "due_at": "2026-05-19T21:36:52.697724+00:00"
+    "reveal_id": "90ceb63d9b9646cfb31b4c799b1be56f",
+    "article_title": "Zydus Lifesciences Q4 Profit Rises",
+    "question": "What was the percentage increase in Zydus Lifesciences' Q4 net profit?",
+    "answer_label": "C",
+    "answer_text": "9%",
+    "explanation": "The company's Q4 net profit increased by 9% to Rs 1272.5 crore.",
+    "due_at": "2026-05-19T23:08:26.729028+00:00"
   },
   {
-    "reveal_id": "ec1566002031491f82a31e6e707f08e5",
-    "article_title": "Central Bank of India's GIFT City IFSC Unit",
-    "question": "What is the main purpose of Central Bank of India's GIFT City IFSC unit?",
-    "answer_label": "B",
-    "answer_text": "To expand international banking",
-    "explanation": "The unit aims to expand international banking and foreign currency business operations.",
-    "due_at": "2026-05-19T21:36:53.396361+00:00"
+    "reveal_id": "90bf9c5e0bf9483a9bb9199817dc05b1",
+    "article_title": "Zydus Lifesciences Q4 Profit Rises",
+    "question": "What is the approved buyback amount by Zydus Lifesciences' board?",
+    "answer_label": "C",
+    "answer_text": "Rs 1100 crore",
+    "explanation": "The company's board approved a buyback of up to Rs 1100 crore.",
+    "due_at": "2026-05-19T23:08:27.378076+00:00"
   },
   {
-    "reveal_id": "6593f148d1a64bc0a2154df1bedcfaf6",
-    "article_title": "Central Bank of India's GIFT City IFSC Unit",
-    "question": "When will Central Bank of India launch its GIFT City IFSC banking unit?",
-    "answer_label": "B",
-    "answer_text": "Next month",
-    "explanation": "The launch is scheduled for next month.",
-    "due_at": "2026-05-19T21:36:54.086237+00:00"
+    "reveal_id": "fa5a9045a94840539da8f85eecd17776",
+    "article_title": "Zydus Lifesciences Q4 Profit Rises",
+    "question": "What dividend percentage was announced by Zydus Lifesciences for FY26?",
+    "answer_label": "D",
+    "answer_text": "100%",
+    "explanation": "The company announced a 100% dividend for FY26.",
+    "due_at": "2026-05-19T23:08:28.042528+00:00"
   }
 ]
