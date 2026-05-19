@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "effdc15211dd4e9bab28e2f017ad7344",
-    "article_title": "Indian Economy Overview",
-    "question": "What is the primary driver of the Indian economy?",
-    "answer_label": "C",
-    "answer_text": "Services",
-    "explanation": "The services sector is the largest contributor to India's GDP, driving the country's economic growth.",
-    "due_at": "2026-05-19T23:08:18.316582+00:00"
-  },
-  {
-    "reveal_id": "b4e9562e65c04536bf0e7b4f562c8270",
-    "article_title": "Indian Economy Overview",
-    "question": "Which of the following is a key aspect of the Indian economy?",
-    "answer_label": "C",
-    "answer_text": "Diversified sectors",
-    "explanation": "The Indian economy has a diverse range of sectors, including services, manufacturing, and agriculture, contributing to its growth.",
-    "due_at": "2026-05-19T23:08:18.971467+00:00"
-  },
-  {
-    "reveal_id": "a829bf7248704698b15d10b5f1b223d9",
-    "article_title": "Indian Economy Overview",
-    "question": "Why is the Indian economy important globally?",
+    "reveal_id": "c1ab0782f04947499338d6584608674d",
+    "article_title": "Delhi Summer Shelters",
+    "question": "What has the Delhi government converted into summer shelters?",
     "answer_label": "B",
-    "answer_text": "It has a significant impact on global trade",
-    "explanation": "The Indian economy plays a significant role in global trade, with its large consumer market and growing industrial base.",
-    "due_at": "2026-05-19T23:08:19.628617+00:00"
+    "answer_text": "Schools and community halls",
+    "explanation": "The Delhi government has converted schools and community halls into summer shelters to provide relief to attendants near major hospitals.",
+    "due_at": "2026-05-20T00:20:02.734068+00:00"
   },
   {
-    "reveal_id": "90ceb63d9b9646cfb31b4c799b1be56f",
-    "article_title": "Zydus Lifesciences Q4 Profit Rises",
-    "question": "What was the percentage increase in Zydus Lifesciences' Q4 net profit?",
-    "answer_label": "C",
-    "answer_text": "9%",
-    "explanation": "The company's Q4 net profit increased by 9% to Rs 1272.5 crore.",
-    "due_at": "2026-05-19T23:08:26.729028+00:00"
+    "reveal_id": "e85c4484f73847b7aa5e75a673e138e7",
+    "article_title": "Delhi Summer Shelters",
+    "question": "Where are the summer shelters primarily located?",
+    "answer_label": "B",
+    "answer_text": "Near major hospitals",
+    "explanation": "The summer shelters are located near major hospitals to support patients' families and caregivers.",
+    "due_at": "2026-05-20T00:20:03.450939+00:00"
   },
   {
-    "reveal_id": "90bf9c5e0bf9483a9bb9199817dc05b1",
-    "article_title": "Zydus Lifesciences Q4 Profit Rises",
-    "question": "What is the approved buyback amount by Zydus Lifesciences' board?",
-    "answer_label": "C",
-    "answer_text": "Rs 1100 crore",
-    "explanation": "The company's board approved a buyback of up to Rs 1100 crore.",
-    "due_at": "2026-05-19T23:08:27.378076+00:00"
+    "reveal_id": "fa34120cb8e542d8968b7f9f1ab469ec",
+    "article_title": "Delhi Summer Shelters",
+    "question": "What is the primary purpose of the summer shelters?",
+    "answer_label": "B",
+    "answer_text": "To provide relief from the heat",
+    "explanation": "The primary purpose of the summer shelters is to provide relief from the heat to attendants and caregivers near major hospitals.",
+    "due_at": "2026-05-20T00:20:04.151547+00:00"
   },
   {
-    "reveal_id": "fa5a9045a94840539da8f85eecd17776",
-    "article_title": "Zydus Lifesciences Q4 Profit Rises",
-    "question": "What dividend percentage was announced by Zydus Lifesciences for FY26?",
-    "answer_label": "D",
-    "answer_text": "100%",
-    "explanation": "The company announced a 100% dividend for FY26.",
-    "due_at": "2026-05-19T23:08:28.042528+00:00"
+    "reveal_id": "1d124ab84e754ec990986d31a4d5f108",
+    "article_title": "Agniveer and JCO/OR Recruitment Exam",
+    "question": "When will the Common Entrance Examination for Agniveer and JCO/OR recruitment be conducted?",
+    "answer_label": "B",
+    "answer_text": "June 1-12, 2026",
+    "explanation": "The exam will be conducted from June 1 to June 12, 2026, as announced by the Army Recruiting Office.",
+    "due_at": "2026-05-20T00:20:11.566372+00:00"
+  },
+  {
+    "reveal_id": "0da8eb7d4ed54a3e925ab93eb411fd0c",
+    "article_title": "Agniveer and JCO/OR Recruitment Exam",
+    "question": "How can candidates download their admit cards for the exam?",
+    "answer_label": "B",
+    "answer_text": "From the official Indian Army website",
+    "explanation": "Candidates can download their admit cards from the official Indian Army recruitment website, www.joinindianarmy.nic.in.",
+    "due_at": "2026-05-20T00:20:12.281405+00:00"
+  },
+  {
+    "reveal_id": "d85d7d18f77b40919d56e362eee20fde",
+    "article_title": "Agniveer and JCO/OR Recruitment Exam",
+    "question": "What is the last date to take a printout of the admit card?",
+    "answer_label": "B",
+    "answer_text": "May 31, 2026",
+    "explanation": "The Army Recruiting Office has advised candidates to take a printout of their admit cards on or before May 31, 2026.",
+    "due_at": "2026-05-20T00:20:19.314003+00:00"
   }
 ]
