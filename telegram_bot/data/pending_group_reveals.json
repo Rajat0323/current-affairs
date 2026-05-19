@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "e38b59344602496bb8148c631764aa76",
-    "article_title": "Sri Lanka Sugar Tax Case",
-    "question": "When will the Sri Lanka Supreme Court hear the sugar tax loss case?",
-    "answer_label": "B",
-    "answer_text": "June 27",
-    "explanation": "The Supreme Court of Sri Lanka will hear the case on June 27, as per the given information.",
-    "due_at": "2026-05-19T00:22:32.354614+00:00"
+    "reveal_id": "037605295f194d1ca71d7b227ee78904",
+    "article_title": "Jal Jeevan Mission 2.0 Agreements Signed",
+    "question": "Which union territory has achieved 100% rural household tap water coverage?",
+    "answer_label": "A",
+    "answer_text": "Andaman-Nicobar Islands",
+    "explanation": "Andaman-Nicobar Islands achieved 100% rural household tap water coverage in 2021.",
+    "due_at": "2026-05-19T04:52:04.556364+00:00"
   },
   {
-    "reveal_id": "50fe682c0efd43d69dcde9cfb5d74dce",
-    "article_title": "Sri Lanka Sugar Tax Case",
-    "question": "What is the alleged loss to the government in the sugar tax case?",
+    "reveal_id": "0c19b0f78734438da0541eec0fde254d",
+    "article_title": "Jal Jeevan Mission 2.0 Agreements Signed",
+    "question": "What is the main objective of Jal Jeevan Mission 2.0?",
+    "answer_label": "B",
+    "answer_text": "To provide safe and sustainable drinking water to every household",
+    "explanation": "Jal Jeevan Mission 2.0 aims to provide safe and sustainable drinking water to every household.",
+    "due_at": "2026-05-19T04:52:08.299692+00:00"
+  },
+  {
+    "reveal_id": "c7f30ced2f074279840dc68bdf1d868e",
+    "article_title": "Jal Jeevan Mission 2.0 Agreements Signed",
+    "question": "Which state was urged to speed up implementation of Jal Jeevan Mission 2.0?",
+    "answer_label": "A",
+    "answer_text": "West Bengal",
+    "explanation": "West Bengal was urged to speed up implementation of Jal Jeevan Mission 2.0, especially in historically lagging districts.",
+    "due_at": "2026-05-19T04:52:08.877616+00:00"
+  },
+  {
+    "reveal_id": "c725ca59c1de43ca805babab8eb8f2d0",
+    "article_title": "Puri Jagannath Temple Opposes Untimely Rath Yatra",
+    "question": "What is the scheduled date for the traditional Rath Yatra at Puri?",
     "answer_label": "C",
-    "answer_text": "Rs. 15.9 billion",
-    "explanation": "The alleged loss to the government is Rs. 15.9 billion, as mentioned in the article.",
-    "due_at": "2026-05-19T00:22:36.119270+00:00"
+    "answer_text": "July 16",
+    "explanation": "The traditional Rath Yatra is scheduled for July 16 at Puri, as per the established religious traditions and scriptural prescriptions.",
+    "due_at": "2026-05-19T04:52:16.286433+00:00"
   },
   {
-    "reveal_id": "287f06f98db042b4a2484641c8d70614",
-    "article_title": "Sri Lanka Sugar Tax Case",
-    "question": "Who was the President of Sri Lanka during the reduction in taxes on imported sugar?",
-    "answer_label": "B",
-    "answer_text": "Gotabaya Rajapaksa",
-    "explanation": "The reduction in taxes on imported sugar occurred during the tenure of former President Gotabaya Rajapaksa.",
-    "due_at": "2026-05-19T00:22:36.726118+00:00"
+    "reveal_id": "0eedafa9ce634efa8562477db07d291f",
+    "article_title": "Puri Jagannath Temple Opposes Untimely Rath Yatra",
+    "question": "Why has the Puri Jagannath temple administration opposed the Rath Yatra in Hapur?",
+    "answer_label": "A",
+    "answer_text": "It is not following traditional dates",
+    "explanation": "The Puri Jagannath temple administration has opposed the Rath Yatra in Hapur because it does not follow the traditional dates prescribed by scripture and tradition.",
+    "due_at": "2026-05-19T04:52:16.870121+00:00"
   },
   {
-    "reveal_id": "8435dbe23e5047a881a0f030196dfcfa",
-    "article_title": "Punjab Sewage Issue",
-    "question": "Who took immediate action to address the sewage issue in Patiala?",
+    "reveal_id": "e343021691a54dd6875f73b50b53a692",
+    "article_title": "Puri Jagannath Temple Opposes Untimely Rath Yatra",
+    "question": "Who has the Puri Jagannath temple administration written to, to prevent the untimely Rath Yatra?",
     "answer_label": "B",
-    "answer_text": "Punjab Health Minister Balbir Singh",
-    "explanation": "Punjab Health Minister Balbir Singh directed the Municipal Corporation to take immediate action to resolve the civic sanitation issue.",
-    "due_at": "2026-05-19T00:22:43.804538+00:00"
-  },
-  {
-    "reveal_id": "4fdafdb6f1f74f9b88ed06a97e8d0989",
-    "article_title": "Punjab Sewage Issue",
-    "question": "What was the issue reported at Tripuri Chowk in Patiala?",
-    "answer_label": "B",
-    "answer_text": "Stagnant sewage water",
-    "explanation": "The issue reported was stagnant sewage water, which affects public health and sanitation.",
-    "due_at": "2026-05-19T00:22:44.406969+00:00"
-  },
-  {
-    "reveal_id": "3b8382c50d0945cfb9b90ce400944e70",
-    "article_title": "Punjab Sewage Issue",
-    "question": "Which organization was directed to take action by the Health Minister?",
-    "answer_label": "B",
-    "answer_text": "Municipal Corporation",
-    "explanation": "The Municipal Corporation was directed to take immediate action to resolve the civic sanitation issue.",
-    "due_at": "2026-05-19T00:22:45.009590+00:00"
+    "answer_text": "The Collector of Hapur",
+    "explanation": "The Puri Jagannath temple administration has written to the Collector of Hapur, Kavita Meena, to prevent the untimely Rath Yatra.",
+    "due_at": "2026-05-19T04:52:17.441871+00:00"
   }
 ]
