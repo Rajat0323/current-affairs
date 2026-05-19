@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "2022252f7caa4164ae04c13f423ab57b",
-    "article_title": "India's Path to Global Industrial Superpower",
-    "question": "What is India's current challenge in becoming a global industrial superpower?",
-    "answer_label": "B",
-    "answer_text": "Insufficient technological capability and industrial maturity",
-    "explanation": "India needs to enhance its ability to manufacture precision and high-end industrial machinery and develop dense, vertically integrated manufacturing ecosystems.",
-    "due_at": "2026-05-19T19:58:22.497145+00:00"
-  },
-  {
-    "reveal_id": "d9588a7cb3744018b75cdd4bcea502f5",
-    "article_title": "India's Path to Global Industrial Superpower",
-    "question": "What initiative is helping India advance in semiconductor manufacturing?",
-    "answer_label": "B",
-    "answer_text": "Make in India and Production-Linked Incentives",
-    "explanation": "The 'Make in India' push and Production-Linked Incentives are supporting the development of semiconductor clusters in Gujarat, Tamil Nadu, and Karnataka.",
-    "due_at": "2026-05-19T19:58:26.399630+00:00"
-  },
-  {
-    "reveal_id": "9aabec1c9efd449bad873c4c215d4dec",
-    "article_title": "India's Path to Global Industrial Superpower",
-    "question": "What is a significant challenge for India's food security?",
+    "reveal_id": "b4a57acd5a764af180d05245909b7632",
+    "article_title": "Narmada River Pollution",
+    "question": "What is the approximate amount of milk poured into the Narmada River?",
     "answer_label": "C",
-    "answer_text": "Importing over 70% of fertiliser products",
-    "explanation": "India's reliance on imports for fertiliser products like potash, phosphates, and others can induce food inflation and farmer distress during supply shocks.",
-    "due_at": "2026-05-19T19:58:27.018571+00:00"
+    "answer_text": "11,000 litres",
+    "explanation": "The incident involved 11,000 litres of milk being poured into the river, as reported.",
+    "due_at": "2026-05-19T21:36:44.044091+00:00"
   },
   {
-    "reveal_id": "3f88d4d5efe74204bb37449492d42078",
-    "article_title": "India-Vietnam Strategic Ties",
-    "question": "Who met Vietnam President To Lam during a two-day visit to Hanoi?",
+    "reveal_id": "be689ab961634f86ad15e0c7a295ee42",
+    "article_title": "Narmada River Pollution",
+    "question": "In which state did the incident of milk and sarees being offered to the Narmada River occur?",
     "answer_label": "B",
-    "answer_text": "Indian Defence Minister Rajnath Singh",
-    "explanation": "Rajnath Singh, the Indian Defence Minister, met Vietnam President To Lam to reaffirm strategic ties.",
-    "due_at": "2026-05-19T19:58:34.278578+00:00"
+    "answer_text": "Madhya Pradesh",
+    "explanation": "The incident occurred in Madhya Pradesh's Sehore district.",
+    "due_at": "2026-05-19T21:36:44.738665+00:00"
   },
   {
-    "reveal_id": "a22dc35ec0024b98be384784c9354514",
-    "article_title": "India-Vietnam Strategic Ties",
-    "question": "What is the primary focus of the India-Vietnam Enhanced Comprehensive Strategic Partnership?",
+    "reveal_id": "3a36fb24bfd341e381a11079c85f5880",
+    "article_title": "Narmada River Pollution",
+    "question": "Which body has sought responses from pollution control boards regarding the Narmada River pollution?",
     "answer_label": "B",
-    "answer_text": "Defence cooperation and maritime security",
-    "explanation": "The partnership focuses on defence cooperation, maritime security, and regional stability in the Indo-Pacific region.",
-    "due_at": "2026-05-19T19:58:34.848536+00:00"
+    "answer_text": "National Green Tribunal",
+    "explanation": "The National Green Tribunal has sought responses from the Central and state pollution control boards.",
+    "due_at": "2026-05-19T21:36:45.432777+00:00"
   },
   {
-    "reveal_id": "9bade151f7704132aa3d990a368e70cf",
-    "article_title": "India-Vietnam Strategic Ties",
-    "question": "In which region do India and Vietnam aim to promote regional stability through their strategic partnership?",
-    "answer_label": "C",
-    "answer_text": "Indo-Pacific region",
-    "explanation": "India and Vietnam aim to promote regional stability in the Indo-Pacific region through their strategic partnership.",
-    "due_at": "2026-05-19T19:58:35.433498+00:00"
+    "reveal_id": "46a6c32716be4aeca8c91f81081c7759",
+    "article_title": "Central Bank of India's GIFT City IFSC Unit",
+    "question": "Where will Central Bank of India launch its IFSC banking unit?",
+    "answer_label": "B",
+    "answer_text": "GIFT City",
+    "explanation": "The unit will be launched at GIFT City to expand international banking operations.",
+    "due_at": "2026-05-19T21:36:52.697724+00:00"
+  },
+  {
+    "reveal_id": "ec1566002031491f82a31e6e707f08e5",
+    "article_title": "Central Bank of India's GIFT City IFSC Unit",
+    "question": "What is the main purpose of Central Bank of India's GIFT City IFSC unit?",
+    "answer_label": "B",
+    "answer_text": "To expand international banking",
+    "explanation": "The unit aims to expand international banking and foreign currency business operations.",
+    "due_at": "2026-05-19T21:36:53.396361+00:00"
+  },
+  {
+    "reveal_id": "6593f148d1a64bc0a2154df1bedcfaf6",
+    "article_title": "Central Bank of India's GIFT City IFSC Unit",
+    "question": "When will Central Bank of India launch its GIFT City IFSC banking unit?",
+    "answer_label": "B",
+    "answer_text": "Next month",
+    "explanation": "The launch is scheduled for next month.",
+    "due_at": "2026-05-19T21:36:54.086237+00:00"
   }
 ]
