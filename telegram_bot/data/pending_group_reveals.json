@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "fde1bb0d3cec4d70b345aae2420f4cf5",
-    "article_title": "US Initiative for Affordable Medicines",
-    "question": "What is the primary goal of the TrumpRx.gov initiative?",
-    "answer_label": "B",
-    "answer_text": "To lower prescription drug costs",
-    "explanation": "The initiative aims to lower prescription drug costs for Americans by listing affordable generic drugs.",
-    "due_at": "2026-05-19T14:44:20.125386+00:00"
+    "reveal_id": "a7b9da40f78742c9a7153f0a1fb24085",
+    "article_title": "NRIs Sending Money to India",
+    "question": "What is the primary law governing money transfers from NRIs to India?",
+    "answer_label": "A",
+    "answer_text": "FEMA",
+    "explanation": "FEMA, or the Foreign Exchange Management Act, regulates foreign exchange transactions in India.",
+    "due_at": "2026-05-19T17:52:53.717108+00:00"
   },
   {
-    "reveal_id": "1b765139b6c7488180201b180b9d0ba5",
-    "article_title": "US Initiative for Affordable Medicines",
-    "question": "How many generic drugs will be listed on TrumpRx.gov?",
-    "answer_label": "B",
-    "answer_text": "Over 600",
-    "explanation": "The website will list over 600 generic drugs, including common treatments for cholesterol and diabetes.",
-    "due_at": "2026-05-19T14:44:23.907426+00:00"
-  },
-  {
-    "reveal_id": "c153e2d6f4004f6d8cecde450cb0f66b",
-    "article_title": "US Initiative for Affordable Medicines",
-    "question": "What type of treatments will be included in the listed generic drugs?",
+    "reveal_id": "4ea93b113d6046d0bb95987dc85c00b9",
+    "article_title": "NRIs Sending Money to India",
+    "question": "Why is it important for NRIs to follow FEMA rules when sending money to India?",
     "answer_label": "C",
-    "answer_text": "Common treatments for cholesterol and diabetes",
-    "explanation": "The listed generic drugs will include common treatments for cholesterol and diabetes, among others.",
-    "due_at": "2026-05-19T14:44:24.498012+00:00"
+    "answer_text": "To avoid legal consequences",
+    "explanation": "NRIs must follow FEMA rules to avoid legal consequences and ensure their transactions are legitimate.",
+    "due_at": "2026-05-19T17:52:54.433239+00:00"
   },
   {
-    "reveal_id": "409f5bfce08a46309e535385d6928e7b",
-    "article_title": "PM Modi Invites Norway Investors",
-    "question": "Where did PM Modi attend a business conclave to invite investors?",
+    "reveal_id": "0ac66448be22478784281492057ecd9a",
+    "article_title": "NRIs Sending Money to India",
+    "question": "What is a common legal channel for NRIs to send money to India?",
     "answer_label": "B",
-    "answer_text": "Norway",
-    "explanation": "PM Modi attended the conclave in Norway to promote India's reform agenda.",
-    "due_at": "2026-05-19T14:44:31.489099+00:00"
+    "answer_text": "Banking transfers",
+    "explanation": "Banking transfers and remittance services are common and legal channels for NRIs to send money to India.",
+    "due_at": "2026-05-19T17:52:55.140064+00:00"
   },
   {
-    "reveal_id": "3033fdeea81d42668c521e57ef668c43",
-    "article_title": "PM Modi Invites Norway Investors",
-    "question": "What sectors did PM Modi highlight for investment opportunities?",
-    "answer_label": "B",
-    "answer_text": "Food security, fertilisers, fisheries, and energy",
-    "explanation": "PM Modi pitched India's opportunities in food security, fertilisers, fisheries, and energy to Norwegian investors.",
-    "due_at": "2026-05-19T14:44:32.098009+00:00"
-  },
-  {
-    "reveal_id": "32cbaa1d88b0433da827d7806fbb458f",
-    "article_title": "PM Modi Invites Norway Investors",
-    "question": "What is the expected outcome of PM Modi's invitation to Norwegian investors?",
+    "reveal_id": "2784409fb854466091edccd1df9dc71d",
+    "article_title": "Timken India Q4 Profit Declines",
+    "question": "What was the percentage decline in Timken India's Q4 PAT?",
     "answer_label": "C",
-    "answer_text": "Boost in India's foreign investment",
-    "explanation": "PM Modi's invitation is expected to boost India's foreign investment and strengthen economic ties with Norway.",
-    "due_at": "2026-05-19T14:44:32.697726+00:00"
+    "answer_text": "17%",
+    "explanation": "The decline in Q4 PAT was nearly 17% as per the given data.",
+    "due_at": "2026-05-19T17:52:59.494475+00:00"
+  },
+  {
+    "reveal_id": "95da5a177f0841769b46c082849b5d55",
+    "article_title": "Timken India Q4 Profit Declines",
+    "question": "Why is Timken India's Q4 performance significant?",
+    "answer_label": "C",
+    "answer_text": "For India's industrial sector",
+    "explanation": "Timken India's performance is significant for India's industrial sector as it may impact the sector's growth.",
+    "due_at": "2026-05-19T17:53:00.215347+00:00"
+  },
+  {
+    "reveal_id": "51504b8f0bf04991b1290f9b580b6491",
+    "article_title": "Timken India Q4 Profit Declines",
+    "question": "What may be affected by the decline in Timken India's Q4 PAT?",
+    "answer_label": "C",
+    "answer_text": "Company's growth and investments",
+    "explanation": "The decline in Q4 PAT may impact the company's growth and investments in India.",
+    "due_at": "2026-05-19T17:53:07.287233+00:00"
   }
 ]
