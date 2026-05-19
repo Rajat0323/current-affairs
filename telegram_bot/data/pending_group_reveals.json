@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "037605295f194d1ca71d7b227ee78904",
-    "article_title": "Jal Jeevan Mission 2.0 Agreements Signed",
-    "question": "Which union territory has achieved 100% rural household tap water coverage?",
-    "answer_label": "A",
-    "answer_text": "Andaman-Nicobar Islands",
-    "explanation": "Andaman-Nicobar Islands achieved 100% rural household tap water coverage in 2021.",
-    "due_at": "2026-05-19T04:52:04.556364+00:00"
-  },
-  {
-    "reveal_id": "0c19b0f78734438da0541eec0fde254d",
-    "article_title": "Jal Jeevan Mission 2.0 Agreements Signed",
-    "question": "What is the main objective of Jal Jeevan Mission 2.0?",
+    "reveal_id": "ba8fcdf087184ef7896bf4c68e8dd79e",
+    "article_title": "West Bengal's New Government",
+    "question": "Who is the Chief Minister of West Bengal's new BJP government?",
     "answer_label": "B",
-    "answer_text": "To provide safe and sustainable drinking water to every household",
-    "explanation": "Jal Jeevan Mission 2.0 aims to provide safe and sustainable drinking water to every household.",
-    "due_at": "2026-05-19T04:52:08.299692+00:00"
+    "answer_text": "Suvendu Adhikari",
+    "explanation": "Suvendu Adhikari is the Chief Minister of West Bengal's new BJP government, as mentioned in the article.",
+    "due_at": "2026-05-19T08:31:55.678211+00:00"
   },
   {
-    "reveal_id": "c7f30ced2f074279840dc68bdf1d868e",
-    "article_title": "Jal Jeevan Mission 2.0 Agreements Signed",
-    "question": "Which state was urged to speed up implementation of Jal Jeevan Mission 2.0?",
-    "answer_label": "A",
-    "answer_text": "West Bengal",
-    "explanation": "West Bengal was urged to speed up implementation of Jal Jeevan Mission 2.0, especially in historically lagging districts.",
-    "due_at": "2026-05-19T04:52:08.877616+00:00"
+    "reveal_id": "6387b323a49c473da2a5e57eb50937ff",
+    "article_title": "West Bengal's New Government",
+    "question": "What is one of the central initiatives introduced by the new government in West Bengal?",
+    "answer_label": "B",
+    "answer_text": "Ayushman Bharat",
+    "explanation": "The article mentions that the new government has introduced Ayushman Bharat, a central health initiative.",
+    "due_at": "2026-05-19T08:31:56.388240+00:00"
   },
   {
-    "reveal_id": "c725ca59c1de43ca805babab8eb8f2d0",
-    "article_title": "Puri Jagannath Temple Opposes Untimely Rath Yatra",
-    "question": "What is the scheduled date for the traditional Rath Yatra at Puri?",
+    "reveal_id": "a3b544bf9078483babb5cae46c077f90",
+    "article_title": "West Bengal's New Government",
+    "question": "What action has the new government taken against illegal structures in West Bengal?",
+    "answer_label": "B",
+    "answer_text": "Bulldozer action",
+    "explanation": "The article states that the new government has taken bulldozer action against illegal structures and encroachments.",
+    "due_at": "2026-05-19T08:31:57.100739+00:00"
+  },
+  {
+    "reveal_id": "203bcda3687e44cc949f0a00e8615a2e",
+    "article_title": "India's Inadequate Petroleum Reserves",
+    "question": "What is the main concern regarding India's petroleum reserves?",
+    "answer_label": "B",
+    "answer_text": "Inadequate strategic reserves",
+    "explanation": "India's inadequate strategic petroleum reserves make it vulnerable to global price fluctuations and supply disruptions.",
+    "due_at": "2026-05-19T08:32:04.461340+00:00"
+  },
+  {
+    "reveal_id": "64cdee9d0a0045809da04b5fca40cccb",
+    "article_title": "India's Inadequate Petroleum Reserves",
+    "question": "What is a significant risk posed by India's inadequate petroleum reserves?",
     "answer_label": "C",
-    "answer_text": "July 16",
-    "explanation": "The traditional Rath Yatra is scheduled for July 16 at Puri, as per the established religious traditions and scriptural prescriptions.",
-    "due_at": "2026-05-19T04:52:16.286433+00:00"
+    "answer_text": "Economic instability",
+    "explanation": "Inadequate petroleum reserves pose a significant risk to India's energy security and economy.",
+    "due_at": "2026-05-19T08:32:05.159418+00:00"
   },
   {
-    "reveal_id": "0eedafa9ce634efa8562477db07d291f",
-    "article_title": "Puri Jagannath Temple Opposes Untimely Rath Yatra",
-    "question": "Why has the Puri Jagannath temple administration opposed the Rath Yatra in Hapur?",
+    "reveal_id": "d227ea3445054bb28cd928ead37ebfb3",
+    "article_title": "India's Inadequate Petroleum Reserves",
+    "question": "Why is it important for India to have adequate strategic petroleum reserves?",
     "answer_label": "A",
-    "answer_text": "It is not following traditional dates",
-    "explanation": "The Puri Jagannath temple administration has opposed the Rath Yatra in Hapur because it does not follow the traditional dates prescribed by scripture and tradition.",
-    "due_at": "2026-05-19T04:52:16.870121+00:00"
-  },
-  {
-    "reveal_id": "e343021691a54dd6875f73b50b53a692",
-    "article_title": "Puri Jagannath Temple Opposes Untimely Rath Yatra",
-    "question": "Who has the Puri Jagannath temple administration written to, to prevent the untimely Rath Yatra?",
-    "answer_label": "B",
-    "answer_text": "The Collector of Hapur",
-    "explanation": "The Puri Jagannath temple administration has written to the Collector of Hapur, Kavita Meena, to prevent the untimely Rath Yatra.",
-    "due_at": "2026-05-19T04:52:17.441871+00:00"
+    "answer_text": "To reduce dependence on imports",
+    "explanation": "Adequate strategic petroleum reserves can reduce India's dependence on imports and mitigate the impact of global price fluctuations.",
+    "due_at": "2026-05-19T08:32:12.222766+00:00"
   }
 ]
