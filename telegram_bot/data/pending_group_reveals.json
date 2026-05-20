@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "b11a1ed25c934816af38cca17a409c7e",
-    "article_title": "Loop Industries Sets Up Recycling Facility in Gujarat",
-    "question": "Where will Loop Industries set up its recycling facility?",
+    "reveal_id": "0fa5718ad83e4d84a3a37f74dceabf0a",
+    "article_title": "States' Borrowing Costs Rise",
+    "question": "What was the total amount raised by six states in the latest loan auction?",
+    "answer_label": "C",
+    "answer_text": "Rs 20,100 crore",
+    "explanation": "The total amount raised was Rs 20,100 crore, as per the RBI auction.",
+    "due_at": "2026-05-20T13:07:38.214734+00:00"
+  },
+  {
+    "reveal_id": "702cfe6509214ed5bdfbcec5874cd0cf",
+    "article_title": "States' Borrowing Costs Rise",
+    "question": "Which institution conducted the state development loan auction?",
     "answer_label": "B",
-    "answer_text": "Gujarat",
-    "explanation": "The facility will be set up in Gujarat, as per the agreement.",
-    "due_at": "2026-05-20T10:33:30.170451+00:00"
+    "answer_text": "RBI",
+    "explanation": "The Reserve Bank of India (RBI) conducted the auction.",
+    "due_at": "2026-05-20T13:07:38.892028+00:00"
   },
   {
-    "reveal_id": "e5a88b8de4064cce95d570ebf5dfb9e9",
-    "article_title": "Loop Industries Sets Up Recycling Facility in Gujarat",
-    "question": "What will the Loop Industries facility convert into recycled PET resin?",
+    "reveal_id": "72f31990fdd645388e39c75dae802ff5",
+    "article_title": "States' Borrowing Costs Rise",
+    "question": "What is the impact of rising yields on states' borrowing costs?",
+    "answer_label": "C",
+    "answer_text": "Increased costs",
+    "explanation": "Rising yields can increase the cost of borrowing for states, making it more expensive for them to raise funds.",
+    "due_at": "2026-05-20T13:07:39.549607+00:00"
+  },
+  {
+    "reveal_id": "0e250c4be56d4e91b5dfce36221e06c7",
+    "article_title": "India-Italy Strategic Partnership",
+    "question": "What is the primary focus of the India-Italy strategic partnership?",
     "answer_label": "B",
-    "answer_text": "Textile waste",
-    "explanation": "The facility will convert textile waste into virgin-quality recycled PET resin.",
-    "due_at": "2026-05-20T10:33:34.037281+00:00"
+    "answer_text": "Innovation and energy transitions",
+    "explanation": "The partnership focuses on innovation, energy transitions, and strategic sovereignty to shape prosperity and security.",
+    "due_at": "2026-05-20T13:07:46.758812+00:00"
   },
   {
-    "reveal_id": "bd92d46b6d77425290bfa13f94913032",
-    "article_title": "Loop Industries Sets Up Recycling Facility in Gujarat",
-    "question": "What is the expected outcome of the Loop Industries project in India?",
+    "reveal_id": "13ac3efe7b0241b898ffd8e481ca15c7",
+    "article_title": "India-Italy Strategic Partnership",
+    "question": "Which of the following is a key aspect of the India-Italy partnership?",
+    "answer_label": "D",
+    "answer_text": "Strengthening strategic sovereignty",
+    "explanation": "The partnership aims to strengthen strategic sovereignty, among other goals.",
+    "due_at": "2026-05-20T13:07:47.563952+00:00"
+  },
+  {
+    "reveal_id": "e9fc6c735dc144faa55a12b13fac5f2a",
+    "article_title": "India-Italy Strategic Partnership",
+    "question": "What is the expected outcome of the India-Italy partnership in the 21st century?",
     "answer_label": "B",
-    "answer_text": "Decrease in textile waste",
-    "explanation": "The project is expected to support India's growing circular economy and sustainable manufacturing sector by reducing textile waste.",
-    "due_at": "2026-05-20T10:33:34.747766+00:00"
-  },
-  {
-    "reveal_id": "eac7c2628cc64cf289d2e6d57e685375",
-    "article_title": "Maharashtra Reviews Quota Rule",
-    "question": "Which state is reviewing its quota rule for reserved category candidates?",
-    "answer_label": "A",
-    "answer_text": "Maharashtra",
-    "explanation": "The article states that Maharashtra is reviewing its quota rule.",
-    "due_at": "2026-05-20T10:33:42.091467+00:00"
-  },
-  {
-    "reveal_id": "22edf061b96b443aa7a6a213477c3958",
-    "article_title": "Maharashtra Reviews Quota Rule",
-    "question": "What prompted the review of the quota rule in Maharashtra?",
-    "answer_label": "A",
-    "answer_text": "Supreme Court rulings",
-    "explanation": "The review was prompted by Supreme Court rulings that may conflict with the state's decision.",
-    "due_at": "2026-05-20T10:33:42.858033+00:00"
-  },
-  {
-    "reveal_id": "ae48b750d2554da697e4feac6caeb324",
-    "article_title": "Maharashtra Reviews Quota Rule",
-    "question": "What is the current rule being reviewed in Maharashtra?",
-    "answer_label": "B",
-    "answer_text": "Reserved category candidates are barred from applying for open category posts",
-    "explanation": "The article states that the current rule bars reserved category candidates from applying for open category posts.",
-    "due_at": "2026-05-20T10:33:43.531878+00:00"
+    "answer_text": "Improved prosperity and security",
+    "explanation": "The partnership aims to shape prosperity and security in the 21st century.",
+    "due_at": "2026-05-20T13:07:48.227232+00:00"
   }
 ]
