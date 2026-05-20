@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "a38b2bb7ea3b450e84d920022efe28dd",
-    "article_title": "India's Honey Exports and Native Bee Decline",
-    "question": "What is a major factor contributing to the decline of native bee populations in India?",
+    "reveal_id": "63a52fb7cbd8402285a226efae4cf427",
+    "article_title": "Gullak Season 5 Release",
+    "question": "When will Gullak season 5 debut on Sony LIV?",
     "answer_label": "B",
-    "answer_text": "Pesticide-heavy farming",
-    "explanation": "Pesticide-heavy farming is a significant threat to native bee populations in India, as it can harm or kill bees and contaminate their habitats.",
-    "due_at": "2026-05-20T21:25:35.827574+00:00"
+    "answer_text": "June 5",
+    "explanation": "The debut date is mentioned as June 5 in the article.",
+    "due_at": "2026-05-20T23:12:23.222704+00:00"
   },
   {
-    "reveal_id": "3c5c3249ca194d1294dbc9f2f85b8c4d",
-    "article_title": "India's Honey Exports and Native Bee Decline",
-    "question": "What is the potential consequence of native bee decline on India's food security?",
-    "answer_label": "C",
-    "answer_text": "Reduced food production",
-    "explanation": "Native bee decline can lead to reduced pollination, which can result in lower crop yields and decreased food production, ultimately affecting India's food security.",
-    "due_at": "2026-05-20T21:25:36.493792+00:00"
-  },
-  {
-    "reveal_id": "1c0586b6cbf34d73a8fc37b87643f45f",
-    "article_title": "India's Honey Exports and Native Bee Decline",
-    "question": "Why are sustainable policies important for India's honey industry?",
-    "answer_label": "C",
-    "answer_text": "To protect pollinators and the environment",
-    "explanation": "Sustainable policies are necessary to protect pollinators, such as native bees, and the environment, which are essential for the long-term health and success of India's honey industry.",
-    "due_at": "2026-05-20T21:25:37.161434+00:00"
-  },
-  {
-    "reveal_id": "ff928e1d816a4444826c8753f117378d",
-    "article_title": "India's Clean Energy Expansion",
-    "question": "What is the estimated investment in land by 2030 due to India's renewable energy expansion?",
+    "reveal_id": "cb23c473ee424d6a83d9b98dfc74b02e",
+    "article_title": "Gullak Season 5 Release",
+    "question": "What is the name of the family in the series Gullak?",
     "answer_label": "B",
-    "answer_text": "$10-15 billion",
-    "explanation": "The estimated investment is driven by the growth of the renewable energy sector, which will require more land for development.",
-    "due_at": "2026-05-20T21:25:44.262620+00:00"
+    "answer_text": "Mishra family",
+    "explanation": "The series follows the Mishra family.",
+    "due_at": "2026-05-20T23:12:27.001321+00:00"
   },
   {
-    "reveal_id": "6beb310e5edc45058ff56a3879a7bd25",
-    "article_title": "India's Clean Energy Expansion",
-    "question": "What type of properties are likely to see increased demand due to India's clean energy expansion?",
-    "answer_label": "B",
-    "answer_text": "Warehouses and industrial parks",
-    "explanation": "The growth of the renewable energy sector will require more space for warehouses, industrial parks, and worker housing.",
-    "due_at": "2026-05-20T21:25:44.926674+00:00"
-  },
-  {
-    "reveal_id": "bf1a9c6fffb84b77b45540775967e04d",
-    "article_title": "India's Clean Energy Expansion",
-    "question": "What is the expected impact of India's clean energy expansion on the real estate sector?",
+    "reveal_id": "54fdf24f064d421b9b8697499fd59527",
+    "article_title": "Gullak Season 5 Release",
+    "question": "Which OTT platform will release Gullak season 5?",
     "answer_label": "C",
-    "answer_text": "Positive impact",
-    "explanation": "The expansion of the renewable energy sector is expected to drive growth and create new opportunities in the real estate sector.",
-    "due_at": "2026-05-20T21:25:51.942546+00:00"
+    "answer_text": "Sony LIV",
+    "explanation": "The series will debut on Sony LIV.",
+    "due_at": "2026-05-20T23:12:27.590950+00:00"
+  },
+  {
+    "reveal_id": "2d2f8d0f91dc40d2928327c30e48e0ad",
+    "article_title": "Parle Industries Shares Rise",
+    "question": "What was the reason for the rise in Parle Industries' shares?",
+    "answer_label": "B",
+    "answer_text": "Mistaken identity with Parle Products",
+    "explanation": "The rise in shares was due to mistaken identity with Parle Products after a gift exchange event.",
+    "due_at": "2026-05-20T23:12:34.344361+00:00"
+  },
+  {
+    "reveal_id": "f77cec73c1234444b07031c3dcc63b3a",
+    "article_title": "Parle Industries Shares Rise",
+    "question": "Which company is not listed in the stock market?",
+    "answer_label": "B",
+    "answer_text": "Parle Products",
+    "explanation": "Parle Products is not a listed company.",
+    "due_at": "2026-05-20T23:12:34.937759+00:00"
+  },
+  {
+    "reveal_id": "c09bdd51f8f041c6b34e381da84a5fcb",
+    "article_title": "Parle Industries Shares Rise",
+    "question": "What percentage of rise was seen in Parle Industries' shares?",
+    "answer_label": "B",
+    "answer_text": "5%",
+    "explanation": "Parle Industries' shares rose by 5%.",
+    "due_at": "2026-05-20T23:12:35.528840+00:00"
   }
 ]
