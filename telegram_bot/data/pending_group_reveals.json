@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "a275a5f0664b4418a502941485dcaaf3",
-    "article_title": "India Chemist Strike",
-    "question": "What is the reason for the chemist strike in India on May 20?",
+    "reveal_id": "d1bffd1515494a35b7bdd2ee6cfc1c99",
+    "article_title": "Pakistani Claim on Indian Airbases",
+    "question": "What type of rocket was used by the Pakistani military according to the report?",
+    "answer_label": "A",
+    "answer_text": "Fatah-1 guided artillery rocket",
+    "explanation": "The Fatah-1 guided artillery rocket was used by the Pakistani military during the offensive.",
+    "due_at": "2026-05-20T07:04:41.536548+00:00"
+  },
+  {
+    "reveal_id": "41a3d54f293b4753be1e844f2d60dad4",
+    "article_title": "Pakistani Claim on Indian Airbases",
+    "question": "What was the claim made by the Pakistani officer about Indian airbases?",
+    "answer_label": "A",
+    "answer_text": "Two Indian airbases were hit",
+    "explanation": "The Pakistani officer claimed that two Indian airbases were hit.",
+    "due_at": "2026-05-20T07:04:45.351410+00:00"
+  },
+  {
+    "reveal_id": "9264fb34add649ee83bcdccc6feec93a",
+    "article_title": "Pakistani Claim on Indian Airbases",
+    "question": "What is notable about the two Indian airbases claimed to be hit by the Pakistani officer?",
+    "answer_label": "D",
+    "answer_text": "They do not exist",
+    "explanation": "The two Indian airbases claimed to be hit by the Pakistani officer do not exist.",
+    "due_at": "2026-05-20T07:04:46.019657+00:00"
+  },
+  {
+    "reveal_id": "23506804c44c48debc78ac7cea1a8d0b",
+    "article_title": "SC Order on Stray Dogs",
+    "question": "What did the Supreme Court recently uphold?",
     "answer_label": "B",
-    "answer_text": "Weak regulation of e-pharmacies",
-    "explanation": "The chemists are protesting against e-pharmacies, which they claim operate under weak regulation and hurt small chemists.",
-    "due_at": "2026-05-20T03:02:16.330673+00:00"
+    "answer_text": "An order to not release vaccinated stray dogs in public areas",
+    "explanation": "The Supreme Court upheld its earlier order to prevent the release of vaccinated stray dogs back into public areas.",
+    "due_at": "2026-05-20T07:04:53.063771+00:00"
   },
   {
-    "reveal_id": "1c41229661b14360b0c440340d24f654",
-    "article_title": "India Chemist Strike",
-    "question": "How many chemists are expected to participate in the strike?",
-    "answer_label": "C",
-    "answer_text": "Over 12 lakh",
-    "explanation": "More than 12 lakh chemists and druggists in India will keep their medical stores shut on May 20.",
-    "due_at": "2026-05-20T03:02:17.028300+00:00"
-  },
-  {
-    "reveal_id": "b0e47a5929c949d38c37604a37146d05",
-    "article_title": "India Chemist Strike",
-    "question": "What is the potential impact of the strike on patients in India?",
+    "reveal_id": "1f54a96405f745c59fd1da53667cac0d",
+    "article_title": "SC Order on Stray Dogs",
+    "question": "Why did the Supreme Court criticize state authorities?",
     "answer_label": "B",
-    "answer_text": "Reduced availability of medicines",
-    "explanation": "The strike may affect the supply of medicines, but its impact is uncertain.",
-    "due_at": "2026-05-20T03:02:17.736590+00:00"
+    "answer_text": "For failing to curb dog attacks",
+    "explanation": "The Supreme Court criticized state authorities for failing to curb dog attacks, emphasizing citizens' right to safety.",
+    "due_at": "2026-05-20T07:04:53.711788+00:00"
   },
   {
-    "reveal_id": "05f6ff2e69bc40a6af5b28a4fe107fd4",
-    "article_title": "Kerala Cabinet Swearing-in Ceremony Row",
-    "question": "What was the cause of the controversy at the Kerala Cabinet swearing-in ceremony?",
-    "answer_label": "B",
-    "answer_text": "Singing of 'Vande Mataram'",
-    "explanation": "The controversy arose due to the singing of 'Vande Mataram', which is a national song of India.",
-    "due_at": "2026-05-20T03:02:22.238419+00:00"
-  },
-  {
-    "reveal_id": "e3399deffbe04e8baee275179796d26a",
-    "article_title": "Kerala Cabinet Swearing-in Ceremony Row",
-    "question": "Which two parties are involved in the controversy?",
-    "answer_label": "C",
-    "answer_text": "CPI(M) and BJP",
-    "explanation": "The CPI(M) and BJP are the two parties involved in the controversy over the singing of 'Vande Mataram'.",
-    "due_at": "2026-05-20T03:02:22.983464+00:00"
-  },
-  {
-    "reveal_id": "d4688b5353eb441781f882151ac2e87c",
-    "article_title": "Kerala Cabinet Swearing-in Ceremony Row",
-    "question": "What was the response of the new government to the controversy?",
-    "answer_label": "C",
-    "answer_text": "It distanced itself from the row",
-    "explanation": "The new government distanced itself from the controversy, stating it had no role in the programme as it was fully organised by the Lok Bhavan.",
-    "due_at": "2026-05-20T03:02:23.682536+00:00"
+    "reveal_id": "33585fb7aa584af09382268b67669afe",
+    "article_title": "SC Order on Stray Dogs",
+    "question": "What may happen to officials who do not comply with the Supreme Court's order?",
+    "answer_label": "D",
+    "answer_text": "They risk contempt and disciplinary action",
+    "explanation": "Non-compliance by officials may result in contempt and disciplinary action, as per the Supreme Court's directive.",
+    "due_at": "2026-05-20T07:04:54.337185+00:00"
   }
 ]
