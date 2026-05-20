@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "d1bffd1515494a35b7bdd2ee6cfc1c99",
-    "article_title": "Pakistani Claim on Indian Airbases",
-    "question": "What type of rocket was used by the Pakistani military according to the report?",
-    "answer_label": "A",
-    "answer_text": "Fatah-1 guided artillery rocket",
-    "explanation": "The Fatah-1 guided artillery rocket was used by the Pakistani military during the offensive.",
-    "due_at": "2026-05-20T07:04:41.536548+00:00"
-  },
-  {
-    "reveal_id": "41a3d54f293b4753be1e844f2d60dad4",
-    "article_title": "Pakistani Claim on Indian Airbases",
-    "question": "What was the claim made by the Pakistani officer about Indian airbases?",
-    "answer_label": "A",
-    "answer_text": "Two Indian airbases were hit",
-    "explanation": "The Pakistani officer claimed that two Indian airbases were hit.",
-    "due_at": "2026-05-20T07:04:45.351410+00:00"
-  },
-  {
-    "reveal_id": "9264fb34add649ee83bcdccc6feec93a",
-    "article_title": "Pakistani Claim on Indian Airbases",
-    "question": "What is notable about the two Indian airbases claimed to be hit by the Pakistani officer?",
-    "answer_label": "D",
-    "answer_text": "They do not exist",
-    "explanation": "The two Indian airbases claimed to be hit by the Pakistani officer do not exist.",
-    "due_at": "2026-05-20T07:04:46.019657+00:00"
-  },
-  {
-    "reveal_id": "23506804c44c48debc78ac7cea1a8d0b",
-    "article_title": "SC Order on Stray Dogs",
-    "question": "What did the Supreme Court recently uphold?",
+    "reveal_id": "b11a1ed25c934816af38cca17a409c7e",
+    "article_title": "Loop Industries Sets Up Recycling Facility in Gujarat",
+    "question": "Where will Loop Industries set up its recycling facility?",
     "answer_label": "B",
-    "answer_text": "An order to not release vaccinated stray dogs in public areas",
-    "explanation": "The Supreme Court upheld its earlier order to prevent the release of vaccinated stray dogs back into public areas.",
-    "due_at": "2026-05-20T07:04:53.063771+00:00"
+    "answer_text": "Gujarat",
+    "explanation": "The facility will be set up in Gujarat, as per the agreement.",
+    "due_at": "2026-05-20T10:33:30.170451+00:00"
   },
   {
-    "reveal_id": "1f54a96405f745c59fd1da53667cac0d",
-    "article_title": "SC Order on Stray Dogs",
-    "question": "Why did the Supreme Court criticize state authorities?",
+    "reveal_id": "e5a88b8de4064cce95d570ebf5dfb9e9",
+    "article_title": "Loop Industries Sets Up Recycling Facility in Gujarat",
+    "question": "What will the Loop Industries facility convert into recycled PET resin?",
     "answer_label": "B",
-    "answer_text": "For failing to curb dog attacks",
-    "explanation": "The Supreme Court criticized state authorities for failing to curb dog attacks, emphasizing citizens' right to safety.",
-    "due_at": "2026-05-20T07:04:53.711788+00:00"
+    "answer_text": "Textile waste",
+    "explanation": "The facility will convert textile waste into virgin-quality recycled PET resin.",
+    "due_at": "2026-05-20T10:33:34.037281+00:00"
   },
   {
-    "reveal_id": "33585fb7aa584af09382268b67669afe",
-    "article_title": "SC Order on Stray Dogs",
-    "question": "What may happen to officials who do not comply with the Supreme Court's order?",
-    "answer_label": "D",
-    "answer_text": "They risk contempt and disciplinary action",
-    "explanation": "Non-compliance by officials may result in contempt and disciplinary action, as per the Supreme Court's directive.",
-    "due_at": "2026-05-20T07:04:54.337185+00:00"
+    "reveal_id": "bd92d46b6d77425290bfa13f94913032",
+    "article_title": "Loop Industries Sets Up Recycling Facility in Gujarat",
+    "question": "What is the expected outcome of the Loop Industries project in India?",
+    "answer_label": "B",
+    "answer_text": "Decrease in textile waste",
+    "explanation": "The project is expected to support India's growing circular economy and sustainable manufacturing sector by reducing textile waste.",
+    "due_at": "2026-05-20T10:33:34.747766+00:00"
+  },
+  {
+    "reveal_id": "eac7c2628cc64cf289d2e6d57e685375",
+    "article_title": "Maharashtra Reviews Quota Rule",
+    "question": "Which state is reviewing its quota rule for reserved category candidates?",
+    "answer_label": "A",
+    "answer_text": "Maharashtra",
+    "explanation": "The article states that Maharashtra is reviewing its quota rule.",
+    "due_at": "2026-05-20T10:33:42.091467+00:00"
+  },
+  {
+    "reveal_id": "22edf061b96b443aa7a6a213477c3958",
+    "article_title": "Maharashtra Reviews Quota Rule",
+    "question": "What prompted the review of the quota rule in Maharashtra?",
+    "answer_label": "A",
+    "answer_text": "Supreme Court rulings",
+    "explanation": "The review was prompted by Supreme Court rulings that may conflict with the state's decision.",
+    "due_at": "2026-05-20T10:33:42.858033+00:00"
+  },
+  {
+    "reveal_id": "ae48b750d2554da697e4feac6caeb324",
+    "article_title": "Maharashtra Reviews Quota Rule",
+    "question": "What is the current rule being reviewed in Maharashtra?",
+    "answer_label": "B",
+    "answer_text": "Reserved category candidates are barred from applying for open category posts",
+    "explanation": "The article states that the current rule bars reserved category candidates from applying for open category posts.",
+    "due_at": "2026-05-20T10:33:43.531878+00:00"
   }
 ]
