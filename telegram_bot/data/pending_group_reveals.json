@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "0fa5718ad83e4d84a3a37f74dceabf0a",
-    "article_title": "States' Borrowing Costs Rise",
-    "question": "What was the total amount raised by six states in the latest loan auction?",
-    "answer_label": "C",
-    "answer_text": "Rs 20,100 crore",
-    "explanation": "The total amount raised was Rs 20,100 crore, as per the RBI auction.",
-    "due_at": "2026-05-20T13:07:38.214734+00:00"
-  },
-  {
-    "reveal_id": "702cfe6509214ed5bdfbcec5874cd0cf",
-    "article_title": "States' Borrowing Costs Rise",
-    "question": "Which institution conducted the state development loan auction?",
+    "reveal_id": "ebee82494e2e40ecb1c42c5dbc4ad685",
+    "article_title": "PM Modi Visits Italy",
+    "question": "Where did PM Modi visit with Italian PM Giorgia Meloni?",
     "answer_label": "B",
-    "answer_text": "RBI",
-    "explanation": "The Reserve Bank of India (RBI) conducted the auction.",
-    "due_at": "2026-05-20T13:07:38.892028+00:00"
+    "answer_text": "The Colosseum",
+    "explanation": "PM Modi visited the Colosseum, the largest ancient amphitheatre, with Italian PM Giorgia Meloni.",
+    "due_at": "2026-05-20T16:51:46.527861+00:00"
   },
   {
-    "reveal_id": "72f31990fdd645388e39c75dae802ff5",
-    "article_title": "States' Borrowing Costs Rise",
-    "question": "What is the impact of rising yields on states' borrowing costs?",
-    "answer_label": "C",
-    "answer_text": "Increased costs",
-    "explanation": "Rising yields can increase the cost of borrowing for states, making it more expensive for them to raise funds.",
-    "due_at": "2026-05-20T13:07:39.549607+00:00"
-  },
-  {
-    "reveal_id": "0e250c4be56d4e91b5dfce36221e06c7",
-    "article_title": "India-Italy Strategic Partnership",
-    "question": "What is the primary focus of the India-Italy strategic partnership?",
+    "reveal_id": "47c4331d1dcd41a184d77f7f3134a849",
+    "article_title": "PM Modi Visits Italy",
+    "question": "What is the main purpose of PM Modi's visit to Italy?",
     "answer_label": "B",
-    "answer_text": "Innovation and energy transitions",
-    "explanation": "The partnership focuses on innovation, energy transitions, and strategic sovereignty to shape prosperity and security.",
-    "due_at": "2026-05-20T13:07:46.758812+00:00"
+    "answer_text": "To strengthen India-Italy friendship",
+    "explanation": "The main purpose of PM Modi's visit is to strengthen India-Italy friendship and deepen the strategic partnership.",
+    "due_at": "2026-05-20T16:51:47.208370+00:00"
   },
   {
-    "reveal_id": "13ac3efe7b0241b898ffd8e481ca15c7",
-    "article_title": "India-Italy Strategic Partnership",
-    "question": "Which of the following is a key aspect of the India-Italy partnership?",
-    "answer_label": "D",
-    "answer_text": "Strengthening strategic sovereignty",
-    "explanation": "The partnership aims to strengthen strategic sovereignty, among other goals.",
-    "due_at": "2026-05-20T13:07:47.563952+00:00"
-  },
-  {
-    "reveal_id": "e9fc6c735dc144faa55a12b13fac5f2a",
-    "article_title": "India-Italy Strategic Partnership",
-    "question": "What is the expected outcome of the India-Italy partnership in the 21st century?",
+    "reveal_id": "21c8e0a1874046e398b0e6e0bec391a9",
+    "article_title": "PM Modi Visits Italy",
+    "question": "What is the expected outcome of the bilateral talks between PM Modi and PM Meloni?",
     "answer_label": "B",
-    "answer_text": "Improved prosperity and security",
-    "explanation": "The partnership aims to shape prosperity and security in the 21st century.",
-    "due_at": "2026-05-20T13:07:48.227232+00:00"
+    "answer_text": "A joint declaration to deepen the India-Italy strategic partnership",
+    "explanation": "The expected outcome is a joint declaration to deepen the India-Italy strategic partnership, covering cooperation in various sectors.",
+    "due_at": "2026-05-20T16:51:47.953127+00:00"
+  },
+  {
+    "reveal_id": "2f3d3ad577ae4d13996c487decccb649",
+    "article_title": "Tamil Nadu Class 10 Results 2026",
+    "question": "What is the overall pass percentage in Tamil Nadu Class 10 results 2026?",
+    "answer_label": "B",
+    "answer_text": "94.31%",
+    "explanation": "The overall pass percentage is 94.31%, as per the Tamil Nadu Directorate of Government Examinations.",
+    "due_at": "2026-05-20T16:51:54.991411+00:00"
+  },
+  {
+    "reveal_id": "5d232c110c7641589032b26ed6a476c4",
+    "article_title": "Tamil Nadu Class 10 Results 2026",
+    "question": "Which district emerged as the top performer in Tamil Nadu Class 10 results 2026?",
+    "answer_label": "B",
+    "answer_text": "Pudukkottai",
+    "explanation": "Pudukkottai emerged as the top district with a pass percentage of 97.5%.",
+    "due_at": "2026-05-20T16:51:55.578511+00:00"
+  },
+  {
+    "reveal_id": "c9886aca780b41e88b9a463bf8b093ab",
+    "article_title": "Tamil Nadu Class 10 Results 2026",
+    "question": "How many students appeared for the Tamil Nadu Class 10 exams in 2026?",
+    "answer_label": "B",
+    "answer_text": "8.71 lakh",
+    "explanation": "Around 8.71 lakh students appeared for the exams held from March 11 to April 6.",
+    "due_at": "2026-05-20T16:51:56.175961+00:00"
   }
 ]
