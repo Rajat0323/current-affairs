@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "63a52fb7cbd8402285a226efae4cf427",
-    "article_title": "Gullak Season 5 Release",
-    "question": "When will Gullak season 5 debut on Sony LIV?",
+    "reveal_id": "5f07affe4f514ff6ae6ee4d88cb2cdac",
+    "article_title": "Heatwave in Northern India",
+    "question": "Which organization has issued a red alert for warm night conditions over Uttar Pradesh, Madhya Pradesh, and the Vidarbha region of Maharashtra?",
     "answer_label": "B",
-    "answer_text": "June 5",
-    "explanation": "The debut date is mentioned as June 5 in the article.",
-    "due_at": "2026-05-20T23:12:23.222704+00:00"
+    "answer_text": "India Meteorological Department",
+    "explanation": "The India Meteorological Department (IMD) is responsible for issuing weather alerts and warnings in India.",
+    "due_at": "2026-05-21T00:28:16.092192+00:00"
   },
   {
-    "reveal_id": "cb23c473ee424d6a83d9b98dfc74b02e",
-    "article_title": "Gullak Season 5 Release",
-    "question": "What is the name of the family in the series Gullak?",
-    "answer_label": "B",
-    "answer_text": "Mishra family",
-    "explanation": "The series follows the Mishra family.",
-    "due_at": "2026-05-20T23:12:27.001321+00:00"
-  },
-  {
-    "reveal_id": "54fdf24f064d421b9b8697499fd59527",
-    "article_title": "Gullak Season 5 Release",
-    "question": "Which OTT platform will release Gullak season 5?",
+    "reveal_id": "0d39697bc5e8475d8ada665b4b458a59",
+    "article_title": "Heatwave in Northern India",
+    "question": "What is the predicted temperature in some areas of Uttar Pradesh and Madhya Pradesh?",
     "answer_label": "C",
-    "answer_text": "Sony LIV",
-    "explanation": "The series will debut on Sony LIV.",
-    "due_at": "2026-05-20T23:12:27.590950+00:00"
+    "answer_text": "Around 48 degrees Celsius",
+    "explanation": "Banda in Uttar Pradesh recorded around 48 degrees Celsius, indicating extremely high temperatures in the region.",
+    "due_at": "2026-05-21T00:28:19.827696+00:00"
   },
   {
-    "reveal_id": "2d2f8d0f91dc40d2928327c30e48e0ad",
-    "article_title": "Parle Industries Shares Rise",
-    "question": "What was the reason for the rise in Parle Industries' shares?",
-    "answer_label": "B",
-    "answer_text": "Mistaken identity with Parle Products",
-    "explanation": "The rise in shares was due to mistaken identity with Parle Products after a gift exchange event.",
-    "due_at": "2026-05-20T23:12:34.344361+00:00"
+    "reveal_id": "ac9e5c7e06d44d3f9cf6035388d4a826",
+    "article_title": "Heatwave in Northern India",
+    "question": "Which of the following states is likely to witness thunderstorms accompanied by lightning and gusty winds?",
+    "answer_label": "C",
+    "answer_text": "Jammu and Kashmir",
+    "explanation": "Jammu and Kashmir is one of the regions predicted to experience thunderstorms with lightning and gusty winds.",
+    "due_at": "2026-05-21T00:28:20.382356+00:00"
   },
   {
-    "reveal_id": "f77cec73c1234444b07031c3dcc63b3a",
-    "article_title": "Parle Industries Shares Rise",
-    "question": "Which company is not listed in the stock market?",
+    "reveal_id": "dec4d1ad936c4fb5aa45b343930fe40a",
+    "article_title": "Indian-Origin Scientists Receive South Africa Honour",
+    "question": "What honour did the two Indian-origin public health scientists receive?",
     "answer_label": "B",
-    "answer_text": "Parle Products",
-    "explanation": "Parle Products is not a listed company.",
-    "due_at": "2026-05-20T23:12:34.937759+00:00"
+    "answer_text": "South Africa's highest civilian honour",
+    "explanation": "The two Indian-origin public health scientists received South Africa's highest civilian honour for their contributions to public health.",
+    "due_at": "2026-05-21T00:28:26.870445+00:00"
   },
   {
-    "reveal_id": "c09bdd51f8f041c6b34e381da84a5fcb",
-    "article_title": "Parle Industries Shares Rise",
-    "question": "What percentage of rise was seen in Parle Industries' shares?",
+    "reveal_id": "c8c17cc2ad364a5f9d0746e2ca932c5a",
+    "article_title": "Indian-Origin Scientists Receive South Africa Honour",
+    "question": "What is the field of work of the two Indian-origin scientists who received the honour?",
     "answer_label": "B",
-    "answer_text": "5%",
-    "explanation": "Parle Industries' shares rose by 5%.",
-    "due_at": "2026-05-20T23:12:35.528840+00:00"
+    "answer_text": "Public Health",
+    "explanation": "The two Indian-origin scientists who received the honour work in the field of public health.",
+    "due_at": "2026-05-21T00:28:27.427221+00:00"
+  },
+  {
+    "reveal_id": "2187b926b01a41f7a430aff2ad45b08a",
+    "article_title": "Indian-Origin Scientists Receive South Africa Honour",
+    "question": "Which country's highest civilian honour was awarded to the two Indian-origin scientists?",
+    "answer_label": "B",
+    "answer_text": "South Africa",
+    "explanation": "The two Indian-origin scientists were awarded South Africa's highest civilian honour.",
+    "due_at": "2026-05-21T00:28:27.988270+00:00"
   }
 ]
