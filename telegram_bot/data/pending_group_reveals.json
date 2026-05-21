@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "cd32b30048f6443f926f4b5b4b49200d",
-    "article_title": "SpaceX Going Public",
-    "question": "Which stock exchange will SpaceX list on?",
+    "reveal_id": "4c95a7aea6284846afee8d1938e1185b",
+    "article_title": "Karnataka Cabinet Expansion",
+    "question": "Who will decide on the Karnataka cabinet expansion?",
     "answer_label": "B",
-    "answer_text": "Nasdaq",
-    "explanation": "SpaceX will list on the Nasdaq stock exchange with the ticker 'SPCX'.",
-    "due_at": "2026-05-21T12:21:24.880983+00:00"
+    "answer_text": "Congress High Command and CM",
+    "explanation": "According to Minister Khandre, the decision will be made by the Congress high command and the Chief Minister.",
+    "due_at": "2026-05-21T15:26:41.501995+00:00"
   },
   {
-    "reveal_id": "f71cff2c06d6424394e05d42797c7485",
-    "article_title": "SpaceX Going Public",
-    "question": "What is the ticker symbol for SpaceX?",
+    "reveal_id": "01042db68a5d471b9783d1a443bb7c61",
+    "article_title": "Karnataka Cabinet Expansion",
+    "question": "What is currently pending in Karnataka?",
     "answer_label": "B",
-    "answer_text": "SPCX",
-    "explanation": "The ticker symbol for SpaceX is 'SPCX'.",
-    "due_at": "2026-05-21T12:21:25.546386+00:00"
+    "answer_text": "Cabinet Expansion",
+    "explanation": "The cabinet expansion and reshuffle are pending and will be decided by the top leaders.",
+    "due_at": "2026-05-21T15:26:45.295378+00:00"
   },
   {
-    "reveal_id": "5f5c624f92874fabbd52eda2c785371a",
-    "article_title": "SpaceX Going Public",
-    "question": "Who is the founder of SpaceX?",
-    "answer_label": "B",
-    "answer_text": "Elon Musk",
-    "explanation": "Elon Musk is the founder of SpaceX.",
-    "due_at": "2026-05-21T12:21:26.191051+00:00"
-  },
-  {
-    "reveal_id": "3c2a8e59384d46ad91bca37444823e9c",
-    "article_title": "Landslide Blocks Kedarnath Road",
-    "question": "What was the cause of the blockage on the Kedarnath yatra route?",
-    "answer_label": "B",
-    "answer_text": "Landslide",
-    "explanation": "A landslide blocked the Sonprayag-Gaurikund highway, stranding pilgrims.",
-    "due_at": "2026-05-21T12:21:33.212183+00:00"
-  },
-  {
-    "reveal_id": "ee1eb41b3d07434cb06d79a3bced1581",
-    "article_title": "Landslide Blocks Kedarnath Road",
-    "question": "How many pilgrims were stranded on the Kedarnath yatra route?",
+    "reveal_id": "e316fe92cf6949269a1bc42607cbaff5",
+    "article_title": "Karnataka Cabinet Expansion",
+    "question": "What will be affected by the cabinet expansion in Karnataka?",
     "answer_label": "C",
-    "answer_text": "10,000",
-    "explanation": "More than 10,000 pilgrims were stranded due to the landslide.",
-    "due_at": "2026-05-21T12:21:33.878171+00:00"
+    "answer_text": "State Governance",
+    "explanation": "The cabinet expansion will impact the governance of Karnataka, as it will bring changes to the state's leadership and administration.",
+    "due_at": "2026-05-21T15:26:45.897588+00:00"
   },
   {
-    "reveal_id": "d29c773a47e84bc68fbc3481b372a9cf",
-    "article_title": "Landslide Blocks Kedarnath Road",
-    "question": "Where did the landslide occur?",
+    "reveal_id": "fb7a7dd2ebc24cf2a72ed13bd7f36518",
+    "article_title": "Odisha Minister Pushes for Data-Driven Investor Targeting",
+    "question": "What is the main focus of Minister Sampad Chandra Swain's initiative?",
     "answer_label": "B",
-    "answer_text": "Uttarakhand",
-    "explanation": "The landslide occurred in Uttarakhand, blocking the Sonprayag-Gaurikund highway.",
-    "due_at": "2026-05-21T12:21:34.542846+00:00"
+    "answer_text": "Data-driven investor targeting",
+    "explanation": "The minister is pushing IPICOL for data-driven investor targeting to boost industrial growth.",
+    "due_at": "2026-05-21T15:26:50.978050+00:00"
+  },
+  {
+    "reveal_id": "8e183acf32fc4cf9a06edf6b691cbb42",
+    "article_title": "Odisha Minister Pushes for Data-Driven Investor Targeting",
+    "question": "Which organization is involved in the minister's initiative?",
+    "answer_label": "A",
+    "answer_text": "IPICOL",
+    "explanation": "IPICOL is the organization involved in the minister's initiative for data-driven investor targeting.",
+    "due_at": "2026-05-21T15:26:51.626356+00:00"
+  },
+  {
+    "reveal_id": "bbb1d623737f42b29b206c9b9cf157de",
+    "article_title": "Odisha Minister Pushes for Data-Driven Investor Targeting",
+    "question": "What is the expected outcome of the minister's initiative?",
+    "answer_label": "C",
+    "answer_text": "Boosted industrial growth",
+    "explanation": "The minister's initiative is expected to boost industrial growth in Odisha and enhance India's investment attractiveness.",
+    "due_at": "2026-05-21T15:26:56.446290+00:00"
   }
 ]
