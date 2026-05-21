@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "5f07affe4f514ff6ae6ee4d88cb2cdac",
-    "article_title": "Heatwave in Northern India",
-    "question": "Which organization has issued a red alert for warm night conditions over Uttar Pradesh, Madhya Pradesh, and the Vidarbha region of Maharashtra?",
-    "answer_label": "B",
-    "answer_text": "India Meteorological Department",
-    "explanation": "The India Meteorological Department (IMD) is responsible for issuing weather alerts and warnings in India.",
-    "due_at": "2026-05-21T00:28:16.092192+00:00"
+    "reveal_id": "72621bd38d61476ab503354b4df9baad",
+    "article_title": "Israeli Official's Controversial Video",
+    "question": "Who is the Israeli official in the controversial video?",
+    "answer_label": "A",
+    "answer_text": "Itamar Ben-Gvir",
+    "explanation": "Itamar Ben-Gvir is the Israeli National Security Minister who appeared in the video taunting detained Gaza activists.",
+    "due_at": "2026-05-21T05:10:49.628392+00:00"
   },
   {
-    "reveal_id": "0d39697bc5e8475d8ada665b4b458a59",
-    "article_title": "Heatwave in Northern India",
-    "question": "What is the predicted temperature in some areas of Uttar Pradesh and Madhya Pradesh?",
+    "reveal_id": "c899fa387e204d32b59769357852e1ed",
+    "article_title": "Israeli Official's Controversial Video",
+    "question": "What was the Israeli official doing in the video?",
+    "answer_label": "B",
+    "answer_text": "Taunting detained Gaza activists",
+    "explanation": "The Israeli official, Itamar Ben-Gvir, was taunting detained Gaza activists in the video.",
+    "due_at": "2026-05-21T05:10:50.202939+00:00"
+  },
+  {
+    "reveal_id": "933795ac99e64d8f84807a02ef4397a2",
+    "article_title": "Israeli Official's Controversial Video",
+    "question": "How did foreign leaders react to the video?",
     "answer_label": "C",
-    "answer_text": "Around 48 degrees Celsius",
-    "explanation": "Banda in Uttar Pradesh recorded around 48 degrees Celsius, indicating extremely high temperatures in the region.",
-    "due_at": "2026-05-21T00:28:19.827696+00:00"
+    "answer_text": "They criticized the Israeli official's actions",
+    "explanation": "Foreign leaders, as well as members of the Israeli government, criticized the Israeli official's actions in the video.",
+    "due_at": "2026-05-21T05:10:50.823190+00:00"
   },
   {
-    "reveal_id": "ac9e5c7e06d44d3f9cf6035388d4a826",
-    "article_title": "Heatwave in Northern India",
-    "question": "Which of the following states is likely to witness thunderstorms accompanied by lightning and gusty winds?",
+    "reveal_id": "c4abda80c38e4279bc7f85cd87531baa",
+    "article_title": "Ex-Punjab Minister Booked for Assault and Blackmail",
+    "question": "What is the main allegation against the former Punjab minister?",
     "answer_label": "C",
-    "answer_text": "Jammu and Kashmir",
-    "explanation": "Jammu and Kashmir is one of the regions predicted to experience thunderstorms with lightning and gusty winds.",
-    "due_at": "2026-05-21T00:28:20.382356+00:00"
+    "answer_text": "Assault and blackmail",
+    "explanation": "The former minister is accused of assaulting and blackmailing a person, as detailed in the 500-page challan.",
+    "due_at": "2026-05-21T05:10:57.751873+00:00"
   },
   {
-    "reveal_id": "dec4d1ad936c4fb5aa45b343930fe40a",
-    "article_title": "Indian-Origin Scientists Receive South Africa Honour",
-    "question": "What honour did the two Indian-origin public health scientists receive?",
-    "answer_label": "B",
-    "answer_text": "South Africa's highest civilian honour",
-    "explanation": "The two Indian-origin public health scientists received South Africa's highest civilian honour for their contributions to public health.",
-    "due_at": "2026-05-21T00:28:26.870445+00:00"
+    "reveal_id": "0b8f45328ed84e78ac28af80396f46e7",
+    "article_title": "Ex-Punjab Minister Booked for Assault and Blackmail",
+    "question": "What is the significance of the FCI tender in this case?",
+    "answer_label": "C",
+    "answer_text": "The victim was coerced to cancel it",
+    "explanation": "The victim was allegedly coerced to cancel the FCI tender, which is a key part of the allegations against the former minister.",
+    "due_at": "2026-05-21T05:10:58.368907+00:00"
   },
   {
-    "reveal_id": "c8c17cc2ad364a5f9d0746e2ca932c5a",
-    "article_title": "Indian-Origin Scientists Receive South Africa Honour",
-    "question": "What is the field of work of the two Indian-origin scientists who received the honour?",
+    "reveal_id": "02df53eb31c84530ad7a55d583eb5c15",
+    "article_title": "Ex-Punjab Minister Booked for Assault and Blackmail",
+    "question": "What may be filed in addition to the 500-page challan?",
     "answer_label": "B",
-    "answer_text": "Public Health",
-    "explanation": "The two Indian-origin scientists who received the honour work in the field of public health.",
-    "due_at": "2026-05-21T00:28:27.427221+00:00"
-  },
-  {
-    "reveal_id": "2187b926b01a41f7a430aff2ad45b08a",
-    "article_title": "Indian-Origin Scientists Receive South Africa Honour",
-    "question": "Which country's highest civilian honour was awarded to the two Indian-origin scientists?",
-    "answer_label": "B",
-    "answer_text": "South Africa",
-    "explanation": "The two Indian-origin scientists were awarded South Africa's highest civilian honour.",
-    "due_at": "2026-05-21T00:28:27.988270+00:00"
+    "answer_text": "A supplementary challan",
+    "explanation": "A supplementary challan may be filed over a missing DVR and weapon, which are relevant to the case against the former minister.",
+    "due_at": "2026-05-21T05:11:03.179138+00:00"
   }
 ]
