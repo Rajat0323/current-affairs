@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "9bdac32201ab4c5a85e2355b05960aaa",
-    "article_title": "PM Modi's Five-Nation Tour",
-    "question": "How many countries did Prime Minister Narendra Modi visit on his recent tour?",
-    "answer_label": "C",
-    "answer_text": "5",
-    "explanation": "According to the article, PM Modi visited 5 countries on his tour.",
-    "due_at": "2026-05-21T08:55:12.735049+00:00"
-  },
-  {
-    "reveal_id": "1e993addc9d74043896316790ba0d8e3",
-    "article_title": "PM Modi's Five-Nation Tour",
-    "question": "Who was the last foreign leader to meet PM Modi on his tour?",
-    "answer_label": "A",
-    "answer_text": "Giorgia Meloni",
-    "explanation": "The article states that PM Modi met Italian Prime Minister Giorgia Meloni in Italy, the final stop on his tour.",
-    "due_at": "2026-05-21T08:55:13.601253+00:00"
-  },
-  {
-    "reveal_id": "19832d1e9c554f31b0a3babb37014ca9",
-    "article_title": "PM Modi's Five-Nation Tour",
-    "question": "What was the outcome of PM Modi's tour, according to his statement?",
-    "answer_label": "C",
-    "answer_text": "Productive",
-    "explanation": "PM Modi described the visit as productive, highlighting discussions that spanned various topics.",
-    "due_at": "2026-05-21T08:55:14.334146+00:00"
-  },
-  {
-    "reveal_id": "a8ad14aa01724bfc89a0bd452ade4c02",
-    "article_title": "Mahesh Bhatt on Public Scrutiny",
-    "question": "What was Mahesh Bhatt's view on public scrutiny?",
-    "answer_label": "C",
-    "answer_text": "It can make people stronger",
-    "explanation": "Mahesh Bhatt believed that public scrutiny can make people more rooted and humbled over time.",
-    "due_at": "2026-05-21T08:55:19.125363+00:00"
-  },
-  {
-    "reveal_id": "c9ee51822d11423497db917dcf749828",
-    "article_title": "Mahesh Bhatt on Public Scrutiny",
-    "question": "What was the context of Mahesh Bhatt's statement?",
-    "answer_label": "C",
-    "answer_text": "A past controversy with his daughter",
-    "explanation": "Mahesh Bhatt was revisiting the infamous lip-lock controversy with his daughter Pooja Bhatt.",
-    "due_at": "2026-05-21T08:55:19.846911+00:00"
-  },
-  {
-    "reveal_id": "287701a909df46e19bdbc990613447c3",
-    "article_title": "Mahesh Bhatt on Public Scrutiny",
-    "question": "How can public scrutiny affect individuals?",
+    "reveal_id": "cd32b30048f6443f926f4b5b4b49200d",
+    "article_title": "SpaceX Going Public",
+    "question": "Which stock exchange will SpaceX list on?",
     "answer_label": "B",
-    "answer_text": "It can lead to personal growth and humility",
-    "explanation": "Mahesh Bhatt reflected that public scrutiny can lead to personal growth and humility over time.",
-    "due_at": "2026-05-21T08:55:26.963722+00:00"
+    "answer_text": "Nasdaq",
+    "explanation": "SpaceX will list on the Nasdaq stock exchange with the ticker 'SPCX'.",
+    "due_at": "2026-05-21T12:21:24.880983+00:00"
+  },
+  {
+    "reveal_id": "f71cff2c06d6424394e05d42797c7485",
+    "article_title": "SpaceX Going Public",
+    "question": "What is the ticker symbol for SpaceX?",
+    "answer_label": "B",
+    "answer_text": "SPCX",
+    "explanation": "The ticker symbol for SpaceX is 'SPCX'.",
+    "due_at": "2026-05-21T12:21:25.546386+00:00"
+  },
+  {
+    "reveal_id": "5f5c624f92874fabbd52eda2c785371a",
+    "article_title": "SpaceX Going Public",
+    "question": "Who is the founder of SpaceX?",
+    "answer_label": "B",
+    "answer_text": "Elon Musk",
+    "explanation": "Elon Musk is the founder of SpaceX.",
+    "due_at": "2026-05-21T12:21:26.191051+00:00"
+  },
+  {
+    "reveal_id": "3c2a8e59384d46ad91bca37444823e9c",
+    "article_title": "Landslide Blocks Kedarnath Road",
+    "question": "What was the cause of the blockage on the Kedarnath yatra route?",
+    "answer_label": "B",
+    "answer_text": "Landslide",
+    "explanation": "A landslide blocked the Sonprayag-Gaurikund highway, stranding pilgrims.",
+    "due_at": "2026-05-21T12:21:33.212183+00:00"
+  },
+  {
+    "reveal_id": "ee1eb41b3d07434cb06d79a3bced1581",
+    "article_title": "Landslide Blocks Kedarnath Road",
+    "question": "How many pilgrims were stranded on the Kedarnath yatra route?",
+    "answer_label": "C",
+    "answer_text": "10,000",
+    "explanation": "More than 10,000 pilgrims were stranded due to the landslide.",
+    "due_at": "2026-05-21T12:21:33.878171+00:00"
+  },
+  {
+    "reveal_id": "d29c773a47e84bc68fbc3481b372a9cf",
+    "article_title": "Landslide Blocks Kedarnath Road",
+    "question": "Where did the landslide occur?",
+    "answer_label": "B",
+    "answer_text": "Uttarakhand",
+    "explanation": "The landslide occurred in Uttarakhand, blocking the Sonprayag-Gaurikund highway.",
+    "due_at": "2026-05-21T12:21:34.542846+00:00"
   }
 ]
