@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "4b8e305b902a48858a3ef33f94849c51",
-    "article_title": "Delhi Ration Card Eligibility",
-    "question": "What is the new income limit for ration card eligibility in Delhi?",
-    "answer_label": "D",
-    "answer_text": "\u20b92.5 lakh per annum",
-    "explanation": "The Delhi government has raised the income limit to \u20b92.5 lakh per annum for fresh ration card issue.",
-    "due_at": "2026-05-21T21:46:10.794818+00:00"
-  },
-  {
-    "reveal_id": "79cf8363927d4e35bf4270e349cdbcba",
-    "article_title": "Delhi Ration Card Eligibility",
-    "question": "How many ration cards were cancelled by the Delhi government?",
-    "answer_label": "C",
-    "answer_text": "7 lakh",
-    "explanation": "The government cancelled over 7.72 lakh invalid ration cards.",
-    "due_at": "2026-05-21T21:46:14.543450+00:00"
-  },
-  {
-    "reveal_id": "25c22bcc36fe4b50a129be5f312a7c35",
-    "article_title": "Delhi Ration Card Eligibility",
-    "question": "Why was the income limit for ration card eligibility raised?",
+    "reveal_id": "b242f34e3a384db687fa4cd2b37bb073",
+    "article_title": "Odisha Govt Allows Re-engagement of Guest Faculties",
+    "question": "What is the primary reason for the Odisha government's decision to allow re-engagement of guest faculties?",
     "answer_label": "B",
-    "answer_text": "To increase the number of beneficiaries",
-    "explanation": "The hike is aimed at benefiting the maximum number of needy people.",
-    "due_at": "2026-05-21T21:46:15.124046+00:00"
+    "answer_text": "To address the shortage of teaching staff",
+    "explanation": "The decision aims to ensure smooth academic activities by addressing the shortage of teaching staff.",
+    "due_at": "2026-05-21T23:16:10.305171+00:00"
   },
   {
-    "reveal_id": "d727dc2666b24602a8c9449cd1cc7aca",
-    "article_title": "Birdman of India",
-    "question": "What is Shashak Dalvi known as?",
+    "reveal_id": "0873ec83645843fda842b32296639c81",
+    "article_title": "Odisha Govt Allows Re-engagement of Guest Faculties",
+    "question": "How long can guest faculties be appointed under the new guidelines?",
     "answer_label": "B",
-    "answer_text": "Birdman of India",
-    "explanation": "Shashak Dalvi is known as the 'Birdman of India' due to his extensive work on bird species in the country.",
-    "due_at": "2026-05-21T21:46:21.963543+00:00"
+    "answer_text": "Six months",
+    "explanation": "Guest faculties can be appointed for a period of six months or till the recruitment of regular faculties.",
+    "due_at": "2026-05-21T23:16:14.035129+00:00"
   },
   {
-    "reveal_id": "b59e6af3ce224c4da56542e91cf19728",
-    "article_title": "Birdman of India",
-    "question": "How many bird species has Shashak Dalvi spotted?",
-    "answer_label": "C",
-    "answer_text": "1,128",
-    "explanation": "Shashak Dalvi has spotted 1,128 bird species during his travels across India.",
-    "due_at": "2026-05-21T21:46:22.539432+00:00"
+    "reveal_id": "f9b7a2e9863741548ae023b1abd60d36",
+    "article_title": "Odisha Govt Allows Re-engagement of Guest Faculties",
+    "question": "What is the teaching assignment requirement for candidates selected under the Mukhyamantri Research Fellowship scheme?",
+    "answer_label": "B",
+    "answer_text": "Five hours per week",
+    "explanation": "Such candidates are required to undertake teaching assignments for five hours per week for UG/PG students.",
+    "due_at": "2026-05-21T23:16:14.589027+00:00"
   },
   {
-    "reveal_id": "bf0cbb98747f412e97f8c585c7d9677d",
-    "article_title": "Birdman of India",
-    "question": "What distance has Shashak Dalvi traveled to spot bird species?",
+    "reveal_id": "9ba85074bdc5497aa0973103baf5f05f",
+    "article_title": "Calcutta High Court Orders Fresh Probe",
+    "question": "Which court ordered a fresh SIT probe into the RG Kar Medical College case?",
+    "answer_label": "B",
+    "answer_text": "Calcutta High Court",
+    "explanation": "The Calcutta High Court ordered the fresh probe to ensure a thorough investigation.",
+    "due_at": "2026-05-21T23:16:21.121036+00:00"
+  },
+  {
+    "reveal_id": "e905886cfa164fa39f55fc9bd3987ed8",
+    "article_title": "Calcutta High Court Orders Fresh Probe",
+    "question": "What is the deadline for the CBI-led team to submit its report?",
     "answer_label": "C",
-    "answer_text": "80,000 km",
-    "explanation": "Shashak Dalvi has traveled 80,000 km to spot 1,128 bird species in India.",
-    "due_at": "2026-05-21T21:46:23.120461+00:00"
+    "answer_text": "June 25",
+    "explanation": "The report must be submitted by June 25 as directed by the Calcutta High Court.",
+    "due_at": "2026-05-21T23:16:21.681946+00:00"
+  },
+  {
+    "reveal_id": "aa03806f8b6c416daeedf5a49b639f65",
+    "article_title": "Calcutta High Court Orders Fresh Probe",
+    "question": "Which agency is leading the fresh SIT probe?",
+    "answer_label": "A",
+    "answer_text": "CBI",
+    "explanation": "The CBI is leading the fresh SIT probe into the alleged evidence tampering.",
+    "due_at": "2026-05-21T23:16:22.237458+00:00"
   }
 ]
