@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "4ad95fcdf501407dbca32dadd1c21b48",
-    "article_title": "Heatwaves in India",
-    "question": "What is the current temperature in many Indian cities?",
-    "answer_label": "B",
-    "answer_text": "Over 46 degrees",
-    "explanation": "The temperature in many Indian cities has risen above 46 degrees, according to the India Meteorological Department.",
-    "due_at": "2026-05-21T19:58:36.946284+00:00"
+    "reveal_id": "4b8e305b902a48858a3ef33f94849c51",
+    "article_title": "Delhi Ration Card Eligibility",
+    "question": "What is the new income limit for ration card eligibility in Delhi?",
+    "answer_label": "D",
+    "answer_text": "\u20b92.5 lakh per annum",
+    "explanation": "The Delhi government has raised the income limit to \u20b92.5 lakh per annum for fresh ration card issue.",
+    "due_at": "2026-05-21T21:46:10.794818+00:00"
   },
   {
-    "reveal_id": "5414a201581946fca83a59186eaf62e3",
-    "article_title": "Heatwaves in India",
-    "question": "Which department is responsible for tracking heatwaves in India?",
-    "answer_label": "B",
-    "answer_text": "India Meteorological Department",
-    "explanation": "The India Meteorological Department is responsible for tracking weather conditions, including heatwaves, in India.",
-    "due_at": "2026-05-21T19:58:40.688445+00:00"
-  },
-  {
-    "reveal_id": "986e4378c5814e6cbf6896df70b0b0b4",
-    "article_title": "Heatwaves in India",
-    "question": "What can be a potential impact of heatwaves on India?",
-    "answer_label": "B",
-    "answer_text": "Decrease in economic growth",
-    "explanation": "Heatwaves can have negative impacts on India's economy, including losses in agriculture and other sectors.",
-    "due_at": "2026-05-21T19:58:41.273106+00:00"
-  },
-  {
-    "reveal_id": "5b37b1af6389439d9e43c05d567b8a09",
-    "article_title": "New Film on Global Warming",
-    "question": "What is the main theme of the new film?",
+    "reveal_id": "79cf8363927d4e35bf4270e349cdbcba",
+    "article_title": "Delhi Ration Card Eligibility",
+    "question": "How many ration cards were cancelled by the Delhi government?",
     "answer_label": "C",
-    "answer_text": "Both time travel and global warming",
-    "explanation": "The film explores global warming and time travel across two timelines.",
-    "due_at": "2026-05-21T19:58:48.178116+00:00"
+    "answer_text": "7 lakh",
+    "explanation": "The government cancelled over 7.72 lakh invalid ration cards.",
+    "due_at": "2026-05-21T21:46:14.543450+00:00"
   },
   {
-    "reveal_id": "19119c8b460c4209b59fde64fde7ef20",
-    "article_title": "New Film on Global Warming",
-    "question": "Which company is backing the new film?",
-    "answer_label": "A",
-    "answer_text": "Universal",
-    "explanation": "The film is backed by Universal.",
-    "due_at": "2026-05-21T19:58:48.779439+00:00"
+    "reveal_id": "25c22bcc36fe4b50a129be5f312a7c35",
+    "article_title": "Delhi Ration Card Eligibility",
+    "question": "Why was the income limit for ration card eligibility raised?",
+    "answer_label": "B",
+    "answer_text": "To increase the number of beneficiaries",
+    "explanation": "The hike is aimed at benefiting the maximum number of needy people.",
+    "due_at": "2026-05-21T21:46:15.124046+00:00"
   },
   {
-    "reveal_id": "a89d7840394c4485ae521d553e7e7799",
-    "article_title": "New Film on Global Warming",
-    "question": "In which decades will the film's two timelines be set?",
+    "reveal_id": "d727dc2666b24602a8c9449cd1cc7aca",
+    "article_title": "Birdman of India",
+    "question": "What is Shashak Dalvi known as?",
+    "answer_label": "B",
+    "answer_text": "Birdman of India",
+    "explanation": "Shashak Dalvi is known as the 'Birdman of India' due to his extensive work on bird species in the country.",
+    "due_at": "2026-05-21T21:46:21.963543+00:00"
+  },
+  {
+    "reveal_id": "b59e6af3ce224c4da56542e91cf19728",
+    "article_title": "Birdman of India",
+    "question": "How many bird species has Shashak Dalvi spotted?",
     "answer_label": "C",
-    "answer_text": "1980s and present day",
-    "explanation": "The film will show two timelines, the 1980s and present day.",
-    "due_at": "2026-05-21T19:58:49.359949+00:00"
+    "answer_text": "1,128",
+    "explanation": "Shashak Dalvi has spotted 1,128 bird species during his travels across India.",
+    "due_at": "2026-05-21T21:46:22.539432+00:00"
+  },
+  {
+    "reveal_id": "bf0cbb98747f412e97f8c585c7d9677d",
+    "article_title": "Birdman of India",
+    "question": "What distance has Shashak Dalvi traveled to spot bird species?",
+    "answer_label": "C",
+    "answer_text": "80,000 km",
+    "explanation": "Shashak Dalvi has traveled 80,000 km to spot 1,128 bird species in India.",
+    "due_at": "2026-05-21T21:46:23.120461+00:00"
   }
 ]
