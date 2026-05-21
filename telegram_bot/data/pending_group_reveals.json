@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "047ca2a688564209ad8805e5d6e8bc81",
-    "article_title": "Solar Eclipse 2026",
-    "question": "When will the annular solar eclipse take place in 2026?",
+    "reveal_id": "4ad95fcdf501407dbca32dadd1c21b48",
+    "article_title": "Heatwaves in India",
+    "question": "What is the current temperature in many Indian cities?",
     "answer_label": "B",
-    "answer_text": "August 12, 2026",
-    "explanation": "The annular solar eclipse is scheduled to occur on August 12, 2026.",
-    "due_at": "2026-05-21T18:03:47.530146+00:00"
+    "answer_text": "Over 46 degrees",
+    "explanation": "The temperature in many Indian cities has risen above 46 degrees, according to the India Meteorological Department.",
+    "due_at": "2026-05-21T19:58:36.946284+00:00"
   },
   {
-    "reveal_id": "c07f60017138414cb77ba6cf0aeb3add",
-    "article_title": "Solar Eclipse 2026",
-    "question": "Will the solar eclipse be visible in India?",
+    "reveal_id": "5414a201581946fca83a59186eaf62e3",
+    "article_title": "Heatwaves in India",
+    "question": "Which department is responsible for tracking heatwaves in India?",
     "answer_label": "B",
-    "answer_text": "No, it will not be visible in India",
-    "explanation": "The solar eclipse will not be visible in India.",
-    "due_at": "2026-05-21T18:03:48.193217+00:00"
+    "answer_text": "India Meteorological Department",
+    "explanation": "The India Meteorological Department is responsible for tracking weather conditions, including heatwaves, in India.",
+    "due_at": "2026-05-21T19:58:40.688445+00:00"
   },
   {
-    "reveal_id": "b0dd388d8f764a11aa1410c1ebfd822f",
-    "article_title": "Solar Eclipse 2026",
-    "question": "What is the relevance of Sutak timings for Indian observers during the solar eclipse?",
+    "reveal_id": "986e4378c5814e6cbf6896df70b0b0b4",
+    "article_title": "Heatwaves in India",
+    "question": "What can be a potential impact of heatwaves on India?",
+    "answer_label": "B",
+    "answer_text": "Decrease in economic growth",
+    "explanation": "Heatwaves can have negative impacts on India's economy, including losses in agriculture and other sectors.",
+    "due_at": "2026-05-21T19:58:41.273106+00:00"
+  },
+  {
+    "reveal_id": "5b37b1af6389439d9e43c05d567b8a09",
+    "article_title": "New Film on Global Warming",
+    "question": "What is the main theme of the new film?",
     "answer_label": "C",
-    "answer_text": "Sutak timings are not applicable for Indian observers",
-    "explanation": "Sutak timings are not relevant for Indian observers as the eclipse is not visible in India.",
-    "due_at": "2026-05-21T18:03:48.861302+00:00"
+    "answer_text": "Both time travel and global warming",
+    "explanation": "The film explores global warming and time travel across two timelines.",
+    "due_at": "2026-05-21T19:58:48.178116+00:00"
   },
   {
-    "reveal_id": "6a15299be95f4a6a9c7472b5fc47b10b",
-    "article_title": "Revisiting Mughal History in India",
-    "question": "What is the current trend in India regarding the Mughal era?",
+    "reveal_id": "19119c8b460c4209b59fde64fde7ef20",
+    "article_title": "New Film on Global Warming",
+    "question": "Which company is backing the new film?",
+    "answer_label": "A",
+    "answer_text": "Universal",
+    "explanation": "The film is backed by Universal.",
+    "due_at": "2026-05-21T19:58:48.779439+00:00"
+  },
+  {
+    "reveal_id": "a89d7840394c4485ae521d553e7e7799",
+    "article_title": "New Film on Global Warming",
+    "question": "In which decades will the film's two timelines be set?",
     "answer_label": "C",
-    "answer_text": "India is reevaluating its perspective on the Mughal era",
-    "explanation": "The article mentions that Indians are being pulled in two directions on the Mughals, indicating a reevaluation of their perspective.",
-    "due_at": "2026-05-21T18:03:56.237398+00:00"
-  },
-  {
-    "reveal_id": "c39268e3449841fa8ac666448063498d",
-    "article_title": "Revisiting Mughal History in India",
-    "question": "How are historians involved in the debate about the Mughals?",
-    "answer_label": "B",
-    "answer_text": "They are actively debating the issue",
-    "explanation": "The article states that historians are in battle, indicating their active involvement in the debate.",
-    "due_at": "2026-05-21T18:03:56.875829+00:00"
-  },
-  {
-    "reveal_id": "e76ebc5293b0487f993e5cc0ab9cdd13",
-    "article_title": "Revisiting Mughal History in India",
-    "question": "What are the two differing views on the Mughals in India?",
-    "answer_label": "B",
-    "answer_text": "They were pluralist unifiers or Islamic bigots",
-    "explanation": "The article mentions the Nehruvian consensus that the Mughals were pluralist unifiers, and the opposing view that they were Islamic bigots who razed temples.",
-    "due_at": "2026-05-21T18:03:57.528906+00:00"
+    "answer_text": "1980s and present day",
+    "explanation": "The film will show two timelines, the 1980s and present day.",
+    "due_at": "2026-05-21T19:58:49.359949+00:00"
   }
 ]
