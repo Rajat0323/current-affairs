@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "b242f34e3a384db687fa4cd2b37bb073",
-    "article_title": "Odisha Govt Allows Re-engagement of Guest Faculties",
-    "question": "What is the primary reason for the Odisha government's decision to allow re-engagement of guest faculties?",
+    "reveal_id": "e85c095fd5b7438c86b744abc0216d92",
+    "article_title": "US Firms Invest in India",
+    "question": "What is the estimated amount of investment by American firms in India?",
     "answer_label": "B",
-    "answer_text": "To address the shortage of teaching staff",
-    "explanation": "The decision aims to ensure smooth academic activities by addressing the shortage of teaching staff.",
-    "due_at": "2026-05-21T23:16:10.305171+00:00"
+    "answer_text": "$60 billion",
+    "explanation": "The commitments from American industry in the last six months are estimated to be upwards of $60 billion.",
+    "due_at": "2026-05-22T00:15:15.194048+00:00"
   },
   {
-    "reveal_id": "0873ec83645843fda842b32296639c81",
-    "article_title": "Odisha Govt Allows Re-engagement of Guest Faculties",
-    "question": "How long can guest faculties be appointed under the new guidelines?",
+    "reveal_id": "8c21a3aaf12b47659539eac4a4d950be",
+    "article_title": "US Firms Invest in India",
+    "question": "Which companies are making major data centre investments in India?",
     "answer_label": "B",
-    "answer_text": "Six months",
-    "explanation": "Guest faculties can be appointed for a period of six months or till the recruitment of regular faculties.",
-    "due_at": "2026-05-21T23:16:14.035129+00:00"
+    "answer_text": "Amazon and Google",
+    "explanation": "Companies such as Amazon and Google are making major data centre investments in India.",
+    "due_at": "2026-05-22T00:15:15.896458+00:00"
   },
   {
-    "reveal_id": "f9b7a2e9863741548ae023b1abd60d36",
-    "article_title": "Odisha Govt Allows Re-engagement of Guest Faculties",
-    "question": "What is the teaching assignment requirement for candidates selected under the Mukhyamantri Research Fellowship scheme?",
-    "answer_label": "B",
-    "answer_text": "Five hours per week",
-    "explanation": "Such candidates are required to undertake teaching assignments for five hours per week for UG/PG students.",
-    "due_at": "2026-05-21T23:16:14.589027+00:00"
-  },
-  {
-    "reveal_id": "9ba85074bdc5497aa0973103baf5f05f",
-    "article_title": "Calcutta High Court Orders Fresh Probe",
-    "question": "Which court ordered a fresh SIT probe into the RG Kar Medical College case?",
-    "answer_label": "B",
-    "answer_text": "Calcutta High Court",
-    "explanation": "The Calcutta High Court ordered the fresh probe to ensure a thorough investigation.",
-    "due_at": "2026-05-21T23:16:21.121036+00:00"
-  },
-  {
-    "reveal_id": "e905886cfa164fa39f55fc9bd3987ed8",
-    "article_title": "Calcutta High Court Orders Fresh Probe",
-    "question": "What is the deadline for the CBI-led team to submit its report?",
+    "reveal_id": "41661cf531eb4ddfa4578e875d406f97",
+    "article_title": "US Firms Invest in India",
+    "question": "What is India's growth forecast according to the minister?",
     "answer_label": "C",
-    "answer_text": "June 25",
-    "explanation": "The report must be submitted by June 25 as directed by the Calcutta High Court.",
-    "due_at": "2026-05-21T23:16:21.681946+00:00"
+    "answer_text": "6.5 per cent",
+    "explanation": "India's growth forecast has been upgraded from 6.4 per cent to 6.5 per cent.",
+    "due_at": "2026-05-22T00:15:16.588916+00:00"
   },
   {
-    "reveal_id": "aa03806f8b6c416daeedf5a49b639f65",
-    "article_title": "Calcutta High Court Orders Fresh Probe",
-    "question": "Which agency is leading the fresh SIT probe?",
+    "reveal_id": "47da1738ee5b46bfb18b14528d1250e1",
+    "article_title": "Tamil Nadu Cabinet Expansion",
+    "question": "Who is the Chief Minister of Tamil Nadu who expanded his cabinet?",
     "answer_label": "A",
-    "answer_text": "CBI",
-    "explanation": "The CBI is leading the fresh SIT probe into the alleged evidence tampering.",
-    "due_at": "2026-05-21T23:16:22.237458+00:00"
+    "answer_text": "C. Joseph Vijay",
+    "explanation": "C. Joseph Vijay is the Chief Minister who expanded his cabinet with new members.",
+    "due_at": "2026-05-22T00:15:23.722674+00:00"
+  },
+  {
+    "reveal_id": "5cf5e30c87b24cd6bc7c59066b9abf2e",
+    "article_title": "Tamil Nadu Cabinet Expansion",
+    "question": "How many new members were inducted into the Tamil Nadu cabinet?",
+    "answer_label": "B",
+    "answer_text": "23",
+    "explanation": "23 new members were inducted into the Tamil Nadu cabinet.",
+    "due_at": "2026-05-22T00:15:24.609122+00:00"
+  },
+  {
+    "reveal_id": "a3cdd23ed2e345dfaac27b969a239cd2",
+    "article_title": "Tamil Nadu Cabinet Expansion",
+    "question": "After how many years is the Congress joining the government in Tamil Nadu?",
+    "answer_label": "B",
+    "answer_text": "59 years",
+    "explanation": "The Congress is joining the government in Tamil Nadu after a gap of 59 years.",
+    "due_at": "2026-05-22T00:15:28.503889+00:00"
   }
 ]
