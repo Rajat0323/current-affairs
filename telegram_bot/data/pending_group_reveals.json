@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "4c95a7aea6284846afee8d1938e1185b",
-    "article_title": "Karnataka Cabinet Expansion",
-    "question": "Who will decide on the Karnataka cabinet expansion?",
+    "reveal_id": "047ca2a688564209ad8805e5d6e8bc81",
+    "article_title": "Solar Eclipse 2026",
+    "question": "When will the annular solar eclipse take place in 2026?",
     "answer_label": "B",
-    "answer_text": "Congress High Command and CM",
-    "explanation": "According to Minister Khandre, the decision will be made by the Congress high command and the Chief Minister.",
-    "due_at": "2026-05-21T15:26:41.501995+00:00"
+    "answer_text": "August 12, 2026",
+    "explanation": "The annular solar eclipse is scheduled to occur on August 12, 2026.",
+    "due_at": "2026-05-21T18:03:47.530146+00:00"
   },
   {
-    "reveal_id": "01042db68a5d471b9783d1a443bb7c61",
-    "article_title": "Karnataka Cabinet Expansion",
-    "question": "What is currently pending in Karnataka?",
+    "reveal_id": "c07f60017138414cb77ba6cf0aeb3add",
+    "article_title": "Solar Eclipse 2026",
+    "question": "Will the solar eclipse be visible in India?",
     "answer_label": "B",
-    "answer_text": "Cabinet Expansion",
-    "explanation": "The cabinet expansion and reshuffle are pending and will be decided by the top leaders.",
-    "due_at": "2026-05-21T15:26:45.295378+00:00"
+    "answer_text": "No, it will not be visible in India",
+    "explanation": "The solar eclipse will not be visible in India.",
+    "due_at": "2026-05-21T18:03:48.193217+00:00"
   },
   {
-    "reveal_id": "e316fe92cf6949269a1bc42607cbaff5",
-    "article_title": "Karnataka Cabinet Expansion",
-    "question": "What will be affected by the cabinet expansion in Karnataka?",
+    "reveal_id": "b0dd388d8f764a11aa1410c1ebfd822f",
+    "article_title": "Solar Eclipse 2026",
+    "question": "What is the relevance of Sutak timings for Indian observers during the solar eclipse?",
     "answer_label": "C",
-    "answer_text": "State Governance",
-    "explanation": "The cabinet expansion will impact the governance of Karnataka, as it will bring changes to the state's leadership and administration.",
-    "due_at": "2026-05-21T15:26:45.897588+00:00"
+    "answer_text": "Sutak timings are not applicable for Indian observers",
+    "explanation": "Sutak timings are not relevant for Indian observers as the eclipse is not visible in India.",
+    "due_at": "2026-05-21T18:03:48.861302+00:00"
   },
   {
-    "reveal_id": "fb7a7dd2ebc24cf2a72ed13bd7f36518",
-    "article_title": "Odisha Minister Pushes for Data-Driven Investor Targeting",
-    "question": "What is the main focus of Minister Sampad Chandra Swain's initiative?",
-    "answer_label": "B",
-    "answer_text": "Data-driven investor targeting",
-    "explanation": "The minister is pushing IPICOL for data-driven investor targeting to boost industrial growth.",
-    "due_at": "2026-05-21T15:26:50.978050+00:00"
-  },
-  {
-    "reveal_id": "8e183acf32fc4cf9a06edf6b691cbb42",
-    "article_title": "Odisha Minister Pushes for Data-Driven Investor Targeting",
-    "question": "Which organization is involved in the minister's initiative?",
-    "answer_label": "A",
-    "answer_text": "IPICOL",
-    "explanation": "IPICOL is the organization involved in the minister's initiative for data-driven investor targeting.",
-    "due_at": "2026-05-21T15:26:51.626356+00:00"
-  },
-  {
-    "reveal_id": "bbb1d623737f42b29b206c9b9cf157de",
-    "article_title": "Odisha Minister Pushes for Data-Driven Investor Targeting",
-    "question": "What is the expected outcome of the minister's initiative?",
+    "reveal_id": "6a15299be95f4a6a9c7472b5fc47b10b",
+    "article_title": "Revisiting Mughal History in India",
+    "question": "What is the current trend in India regarding the Mughal era?",
     "answer_label": "C",
-    "answer_text": "Boosted industrial growth",
-    "explanation": "The minister's initiative is expected to boost industrial growth in Odisha and enhance India's investment attractiveness.",
-    "due_at": "2026-05-21T15:26:56.446290+00:00"
+    "answer_text": "India is reevaluating its perspective on the Mughal era",
+    "explanation": "The article mentions that Indians are being pulled in two directions on the Mughals, indicating a reevaluation of their perspective.",
+    "due_at": "2026-05-21T18:03:56.237398+00:00"
+  },
+  {
+    "reveal_id": "c39268e3449841fa8ac666448063498d",
+    "article_title": "Revisiting Mughal History in India",
+    "question": "How are historians involved in the debate about the Mughals?",
+    "answer_label": "B",
+    "answer_text": "They are actively debating the issue",
+    "explanation": "The article states that historians are in battle, indicating their active involvement in the debate.",
+    "due_at": "2026-05-21T18:03:56.875829+00:00"
+  },
+  {
+    "reveal_id": "e76ebc5293b0487f993e5cc0ab9cdd13",
+    "article_title": "Revisiting Mughal History in India",
+    "question": "What are the two differing views on the Mughals in India?",
+    "answer_label": "B",
+    "answer_text": "They were pluralist unifiers or Islamic bigots",
+    "explanation": "The article mentions the Nehruvian consensus that the Mughals were pluralist unifiers, and the opposing view that they were Islamic bigots who razed temples.",
+    "due_at": "2026-05-21T18:03:57.528906+00:00"
   }
 ]
