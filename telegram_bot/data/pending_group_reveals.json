@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "89d78a39259347bfb2691dcfbf85e4cd",
-    "article_title": "Indian Market Trends",
-    "question": "What happened to the Indian markets on Thursday?",
+    "reveal_id": "75e7f74fdb1247beb480c7ca9b881949",
+    "article_title": "Vayu Astra Loitering Munition Test",
+    "question": "What is the range of the Vayu Astra loitering munition?",
     "answer_label": "B",
-    "answer_text": "They opened higher and closed lower",
-    "explanation": "The markets experienced a volatile session, opening higher but closing lower due to profit booking.",
-    "due_at": "2026-05-22T13:03:13.388557+00:00"
+    "answer_text": "100 km",
+    "explanation": "The Vayu Astra loitering munition has a range of 100 km, as successfully tested in Rajasthan and Uttarakhand.",
+    "due_at": "2026-05-22T16:09:32.898609+00:00"
   },
   {
-    "reveal_id": "667098aeb26941ce971861ad3685d07e",
-    "article_title": "Indian Market Trends",
-    "question": "Who were net sellers in the Indian markets?",
-    "answer_label": "B",
-    "answer_text": "Foreign investors",
-    "explanation": "Foreign investors were net sellers in the Indian markets.",
-    "due_at": "2026-05-22T13:03:14.097457+00:00"
-  },
-  {
-    "reveal_id": "1cc716e015c4466082d5a0a4abfa21e5",
-    "article_title": "Indian Market Trends",
-    "question": "What do analysts emphasize for market recovery?",
-    "answer_label": "B",
-    "answer_text": "Sustained movement above resistance zones",
-    "explanation": "Analysts stress the need for sustained movement above resistance zones for recovery.",
-    "due_at": "2026-05-22T13:03:14.829702+00:00"
-  },
-  {
-    "reveal_id": "edf8da58df6749c1ac262b5b5fce4ed2",
-    "article_title": "Indian Bonds Fall on Rate Hike Speculation",
-    "question": "Why are Indian bonds experiencing a downturn?",
+    "reveal_id": "065f41e29f4247f1bf30759f6c95d6fe",
+    "article_title": "Vayu Astra Loitering Munition Test",
+    "question": "Where were the trials of the Vayu Astra loitering munition conducted?",
     "answer_label": "C",
-    "answer_text": "Due to speculation of interest rate hikes",
-    "explanation": "The potential interest rate hikes by the Reserve Bank of India have led to a downturn in Indian bonds.",
-    "due_at": "2026-05-22T13:03:19.572178+00:00"
+    "answer_text": "Rajasthan and Uttarakhand",
+    "explanation": "The trials of the Vayu Astra loitering munition were conducted in both Rajasthan and Uttarakhand.",
+    "due_at": "2026-05-22T16:09:33.598872+00:00"
   },
   {
-    "reveal_id": "1838d44a28194631b3b48d9d9bf6d720",
-    "article_title": "Indian Bonds Fall on Rate Hike Speculation",
-    "question": "What is the main reason for the Reserve Bank of India to consider interest rate hikes?",
+    "reveal_id": "e6dc9f2131964cf2a6551cf17fe14722",
+    "article_title": "Vayu Astra Loitering Munition Test",
+    "question": "What is the significance of the Vayu Astra loitering munition's abort-attack and re-attack capability?",
     "answer_label": "A",
-    "answer_text": "To control inflation",
-    "explanation": "The Reserve Bank of India is considering interest rate hikes to control inflation and strengthen the rupee.",
-    "due_at": "2026-05-22T13:03:20.334797+00:00"
+    "answer_text": "It allows the system to change targets",
+    "explanation": "The Vayu Astra loitering munition's abort-attack and re-attack capability allows the system to change targets or adjust its mission in real-time.",
+    "due_at": "2026-05-22T16:09:34.284485+00:00"
   },
   {
-    "reveal_id": "d8944f62b3464f909a20c55cb5a3ab12",
-    "article_title": "Indian Bonds Fall on Rate Hike Speculation",
-    "question": "When are economists anticipating the interest rate increases to happen?",
+    "reveal_id": "961ee48034ed40b48c4b76eb3dbd405a",
+    "article_title": "AksharChem's Net Profit Rises 248.20%",
+    "question": "By what percentage did AksharChem India's standalone net profit rise in the March 2026 quarter?",
+    "answer_label": "C",
+    "answer_text": "248.20%",
+    "explanation": "The net profit rise is given as 248.20% in the March 2026 quarter, indicating a significant increase.",
+    "due_at": "2026-05-22T16:09:38.656818+00:00"
+  },
+  {
+    "reveal_id": "af0e29719a7e4e07b2653302b529b997",
+    "article_title": "AksharChem's Net Profit Rises 248.20%",
+    "question": "In which quarter did AksharChem India's standalone net profit rise by 248.20%?",
     "answer_label": "B",
-    "answer_text": "As early as June",
-    "explanation": "Economists are anticipating the interest rate increases to happen as early as June due to inflation concerns.",
-    "due_at": "2026-05-22T13:03:24.242818+00:00"
+    "answer_text": "March 2026",
+    "explanation": "The rise in net profit occurred in the March 2026 quarter, as per the given information.",
+    "due_at": "2026-05-22T16:09:39.338365+00:00"
+  },
+  {
+    "reveal_id": "b716e5ff932845cf8e73f92f24fc7c88",
+    "article_title": "AksharChem's Net Profit Rises 248.20%",
+    "question": "What sector does the growth of AksharChem India's net profit primarily relate to?",
+    "answer_label": "B",
+    "answer_text": "Chemical",
+    "explanation": "AksharChem's growth is related to the chemical sector, as indicated by the company's name and the context.",
+    "due_at": "2026-05-22T16:09:44.192935+00:00"
   }
 ]
