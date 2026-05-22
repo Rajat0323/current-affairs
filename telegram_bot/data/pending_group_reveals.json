@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "49d9e946b7bf473bba1e90e29b34865f",
-    "article_title": "Ladakh Talks with Centre",
-    "question": "Who will be joining the talks with the Centre on Ladakh?",
+    "reveal_id": "1c336c38a4104dc8979ec98931a5fda4",
+    "article_title": "India Appoints Compound Chief Coach",
+    "question": "Who has been appointed as India's compound chief coach?",
     "answer_label": "A",
-    "answer_text": "Sonam Wangchuk",
-    "explanation": "Sonam Wangchuk is a climate activist and member of the Leh Apex Body, and he will be joining the talks.",
-    "due_at": "2026-05-22T06:48:15.713350+00:00"
+    "answer_text": "Dave Cousins",
+    "explanation": "Dave Cousins is a former world champion and has been appointed as India's compound chief coach.",
+    "due_at": "2026-05-22T10:23:09.139881+00:00"
   },
   {
-    "reveal_id": "e3e4b96dbad8453582a6cdab16ec39b9",
-    "article_title": "Ladakh Talks with Centre",
-    "question": "What is the significance of Sonam Wangchuk's participation in the talks?",
+    "reveal_id": "1921c31ad0714563b25a79d34ce38b49",
+    "article_title": "India Appoints Compound Chief Coach",
+    "question": "What is the significance of Dave Cousins' appointment as India's compound chief coach?",
     "answer_label": "B",
-    "answer_text": "He is a climate activist and local representative",
-    "explanation": "Sonam Wangchuk's participation is significant because he is a climate activist and a local representative of the Leh Apex Body.",
-    "due_at": "2026-05-22T06:48:16.422326+00:00"
+    "answer_text": "It marks his first international coaching role",
+    "explanation": "Dave Cousins' appointment marks his first international coaching role.",
+    "due_at": "2026-05-22T10:23:13.072762+00:00"
   },
   {
-    "reveal_id": "099b99ae0ebf4c9c9b471a4b1fe4318e",
-    "article_title": "Ladakh Talks with Centre",
-    "question": "Where will the talks between Sonam Wangchuk and the Centre take place?",
-    "answer_label": "D",
-    "answer_text": "Not specified",
-    "explanation": "The article does not specify the location of the talks.",
-    "due_at": "2026-05-22T06:48:17.412561+00:00"
-  },
-  {
-    "reveal_id": "88be1fb8092b40ea938db494c9999038",
-    "article_title": "Odisha Cracks Down on Irregular University Appointments",
-    "question": "What law does the Odisha government cite for regulating university appointments?",
-    "answer_label": "A",
-    "answer_text": "Orissa Universities Act, 1989",
-    "explanation": "The Orissa Universities Act, 1989, is the law governing university appointments in Odisha.",
-    "due_at": "2026-05-22T06:48:21.853175+00:00"
-  },
-  {
-    "reveal_id": "74b7ca8f285a4c8a92943c4cfb48604c",
-    "article_title": "Odisha Cracks Down on Irregular University Appointments",
-    "question": "What is the consequence of unauthorized university appointments in Odisha?",
+    "reveal_id": "ab9966267c25427aa13d2ec5b18beb25",
+    "article_title": "India Appoints Compound Chief Coach",
+    "question": "What major tournament is India preparing for with the appointment of a new compound chief coach?",
     "answer_label": "B",
-    "answer_text": "They will not be regularized and may lead to disciplinary action",
-    "explanation": "Unauthorized appointments will not be regularized and responsible officials may face disciplinary action.",
-    "due_at": "2026-05-22T06:48:22.633070+00:00"
+    "answer_text": "LA Olympics",
+    "explanation": "India is preparing for the LA Olympics with the appointment of Dave Cousins as the compound chief coach.",
+    "due_at": "2026-05-22T10:23:13.662705+00:00"
   },
   {
-    "reveal_id": "0f9ca42e381d4a7a809958016f912639",
-    "article_title": "Odisha Cracks Down on Irregular University Appointments",
-    "question": "Who will bear the financial liabilities for irregular university appointments in Odisha?",
+    "reveal_id": "70ed25218f2a44409d758fca80383f6a",
+    "article_title": "Air India Flight Makes Emergency Landing",
+    "question": "What was the reason for the Air India flight's emergency landing?",
     "answer_label": "B",
-    "answer_text": "The university concerned",
-    "explanation": "The universities will bear the financial liabilities for irregular appointments made without government approval.",
-    "due_at": "2026-05-22T06:48:26.573950+00:00"
+    "answer_text": "Suspected engine fire",
+    "explanation": "The flight made an emergency landing due to a suspected engine fire alert.",
+    "due_at": "2026-05-22T10:23:20.380807+00:00"
+  },
+  {
+    "reveal_id": "c992c954cfb441f1a796387ca184ce36",
+    "article_title": "Air India Flight Makes Emergency Landing",
+    "question": "How many people were on board the Air India flight?",
+    "answer_label": "C",
+    "answer_text": "160",
+    "explanation": "There were 160 people on the flight from Bengaluru to Delhi.",
+    "due_at": "2026-05-22T10:23:20.954363+00:00"
+  },
+  {
+    "reveal_id": "fd79cadb2752408eb2ce64ce5587285c",
+    "article_title": "Air India Flight Makes Emergency Landing",
+    "question": "What was the outcome for the passengers on the Air India flight?",
+    "answer_label": "C",
+    "answer_text": "No injuries reported",
+    "explanation": "Fortunately, no injuries were reported after the emergency landing.",
+    "due_at": "2026-05-22T10:23:21.531980+00:00"
   }
 ]
