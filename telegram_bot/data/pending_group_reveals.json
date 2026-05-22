@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "1c336c38a4104dc8979ec98931a5fda4",
-    "article_title": "India Appoints Compound Chief Coach",
-    "question": "Who has been appointed as India's compound chief coach?",
+    "reveal_id": "89d78a39259347bfb2691dcfbf85e4cd",
+    "article_title": "Indian Market Trends",
+    "question": "What happened to the Indian markets on Thursday?",
+    "answer_label": "B",
+    "answer_text": "They opened higher and closed lower",
+    "explanation": "The markets experienced a volatile session, opening higher but closing lower due to profit booking.",
+    "due_at": "2026-05-22T13:03:13.388557+00:00"
+  },
+  {
+    "reveal_id": "667098aeb26941ce971861ad3685d07e",
+    "article_title": "Indian Market Trends",
+    "question": "Who were net sellers in the Indian markets?",
+    "answer_label": "B",
+    "answer_text": "Foreign investors",
+    "explanation": "Foreign investors were net sellers in the Indian markets.",
+    "due_at": "2026-05-22T13:03:14.097457+00:00"
+  },
+  {
+    "reveal_id": "1cc716e015c4466082d5a0a4abfa21e5",
+    "article_title": "Indian Market Trends",
+    "question": "What do analysts emphasize for market recovery?",
+    "answer_label": "B",
+    "answer_text": "Sustained movement above resistance zones",
+    "explanation": "Analysts stress the need for sustained movement above resistance zones for recovery.",
+    "due_at": "2026-05-22T13:03:14.829702+00:00"
+  },
+  {
+    "reveal_id": "edf8da58df6749c1ac262b5b5fce4ed2",
+    "article_title": "Indian Bonds Fall on Rate Hike Speculation",
+    "question": "Why are Indian bonds experiencing a downturn?",
+    "answer_label": "C",
+    "answer_text": "Due to speculation of interest rate hikes",
+    "explanation": "The potential interest rate hikes by the Reserve Bank of India have led to a downturn in Indian bonds.",
+    "due_at": "2026-05-22T13:03:19.572178+00:00"
+  },
+  {
+    "reveal_id": "1838d44a28194631b3b48d9d9bf6d720",
+    "article_title": "Indian Bonds Fall on Rate Hike Speculation",
+    "question": "What is the main reason for the Reserve Bank of India to consider interest rate hikes?",
     "answer_label": "A",
-    "answer_text": "Dave Cousins",
-    "explanation": "Dave Cousins is a former world champion and has been appointed as India's compound chief coach.",
-    "due_at": "2026-05-22T10:23:09.139881+00:00"
+    "answer_text": "To control inflation",
+    "explanation": "The Reserve Bank of India is considering interest rate hikes to control inflation and strengthen the rupee.",
+    "due_at": "2026-05-22T13:03:20.334797+00:00"
   },
   {
-    "reveal_id": "1921c31ad0714563b25a79d34ce38b49",
-    "article_title": "India Appoints Compound Chief Coach",
-    "question": "What is the significance of Dave Cousins' appointment as India's compound chief coach?",
+    "reveal_id": "d8944f62b3464f909a20c55cb5a3ab12",
+    "article_title": "Indian Bonds Fall on Rate Hike Speculation",
+    "question": "When are economists anticipating the interest rate increases to happen?",
     "answer_label": "B",
-    "answer_text": "It marks his first international coaching role",
-    "explanation": "Dave Cousins' appointment marks his first international coaching role.",
-    "due_at": "2026-05-22T10:23:13.072762+00:00"
-  },
-  {
-    "reveal_id": "ab9966267c25427aa13d2ec5b18beb25",
-    "article_title": "India Appoints Compound Chief Coach",
-    "question": "What major tournament is India preparing for with the appointment of a new compound chief coach?",
-    "answer_label": "B",
-    "answer_text": "LA Olympics",
-    "explanation": "India is preparing for the LA Olympics with the appointment of Dave Cousins as the compound chief coach.",
-    "due_at": "2026-05-22T10:23:13.662705+00:00"
-  },
-  {
-    "reveal_id": "70ed25218f2a44409d758fca80383f6a",
-    "article_title": "Air India Flight Makes Emergency Landing",
-    "question": "What was the reason for the Air India flight's emergency landing?",
-    "answer_label": "B",
-    "answer_text": "Suspected engine fire",
-    "explanation": "The flight made an emergency landing due to a suspected engine fire alert.",
-    "due_at": "2026-05-22T10:23:20.380807+00:00"
-  },
-  {
-    "reveal_id": "c992c954cfb441f1a796387ca184ce36",
-    "article_title": "Air India Flight Makes Emergency Landing",
-    "question": "How many people were on board the Air India flight?",
-    "answer_label": "C",
-    "answer_text": "160",
-    "explanation": "There were 160 people on the flight from Bengaluru to Delhi.",
-    "due_at": "2026-05-22T10:23:20.954363+00:00"
-  },
-  {
-    "reveal_id": "fd79cadb2752408eb2ce64ce5587285c",
-    "article_title": "Air India Flight Makes Emergency Landing",
-    "question": "What was the outcome for the passengers on the Air India flight?",
-    "answer_label": "C",
-    "answer_text": "No injuries reported",
-    "explanation": "Fortunately, no injuries were reported after the emergency landing.",
-    "due_at": "2026-05-22T10:23:21.531980+00:00"
+    "answer_text": "As early as June",
+    "explanation": "Economists are anticipating the interest rate increases to happen as early as June due to inflation concerns.",
+    "due_at": "2026-05-22T13:03:24.242818+00:00"
   }
 ]
