@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "79be31a70ff547c28ca960ff62a8e864",
-    "article_title": "Capital India Finance FY26 Results",
-    "question": "What was the standalone profit of Capital India Finance for FY26?",
+    "reveal_id": "e8a8703705f2442e9a7d41bcc4006b3a",
+    "article_title": "Honda ZR-V Hybrid SUV Launch",
+    "question": "What is the significance of the Honda ZR-V in India?",
     "answer_label": "B",
-    "answer_text": "\u20b9 40.36 crore",
-    "explanation": "The standalone profit of Capital India Finance for FY26 was \u20b9 40.36 crore, as reported in the financial results.",
-    "due_at": "2026-05-22T19:46:13.525706+00:00"
+    "answer_text": "It is Honda's first hybrid SUV",
+    "explanation": "The Honda ZR-V is Honda's first hybrid SUV in India, marking a significant step towards increasing hybrid vehicle adoption in the country.",
+    "due_at": "2026-05-22T21:22:00.510006+00:00"
   },
   {
-    "reveal_id": "892171c0017b4a3387f917a7ad5c00d4",
-    "article_title": "Capital India Finance FY26 Results",
-    "question": "What was the growth rate of disbursements for Capital India Finance in FY26?",
-    "answer_label": "D",
-    "answer_text": "62% YoY",
-    "explanation": "The disbursements for Capital India Finance grew by 62% YoY in FY26, driven by customer acquisition and market penetration.",
-    "due_at": "2026-05-22T19:46:14.206968+00:00"
-  },
-  {
-    "reveal_id": "38c5acdf0a5f41a0809602f4557cb7bb",
-    "article_title": "Capital India Finance FY26 Results",
-    "question": "What is the focus of Capital India Finance for FY27?",
+    "reveal_id": "8d66e2c1c4064ce39f928c08844a571f",
+    "article_title": "Honda ZR-V Hybrid SUV Launch",
+    "question": "When are customer deliveries of the Honda ZR-V scheduled to begin?",
     "answer_label": "B",
-    "answer_text": "Scalable MSME lending",
-    "explanation": "The company aims to focus on scalable MSME lending in FY27, as stated in the financial results.",
-    "due_at": "2026-05-22T19:46:14.887905+00:00"
+    "answer_text": "Second half of July",
+    "explanation": "Customer deliveries of the Honda ZR-V are scheduled to begin in the second half of July.",
+    "due_at": "2026-05-22T21:22:01.197247+00:00"
   },
   {
-    "reveal_id": "f018cc3100a245d8b9f0b99baa39dc37",
-    "article_title": "Bangladesh Measles Outbreak",
-    "question": "What is the approximate number of suspected measles cases in Bangladesh?",
+    "reveal_id": "a8de8c1d72144d7c894335bf4bff18dd",
+    "article_title": "Honda ZR-V Hybrid SUV Launch",
+    "question": "Where is the Honda ZR-V positioned in Honda's SUV lineup?",
+    "answer_label": "B",
+    "answer_text": "Above the Elevate",
+    "explanation": "The Honda ZR-V is positioned above the Elevate in Honda's SUV lineup.",
+    "due_at": "2026-05-22T21:22:01.906197+00:00"
+  },
+  {
+    "reveal_id": "482fb6a93ab34cabb8c39b4ed66a8a1c",
+    "article_title": "New US Fed Chief Faces Policy Challenges",
+    "question": "Who has taken over as the new US Fed chief?",
+    "answer_label": "A",
+    "answer_text": "Kevin Warsh",
+    "explanation": "Kevin Warsh has taken over as the new US Fed chief, succeeding the previous chair.",
+    "due_at": "2026-05-22T21:22:09.341556+00:00"
+  },
+  {
+    "reveal_id": "233365c01b884c5f8185ff2f786aa20c",
+    "article_title": "New US Fed Chief Faces Policy Challenges",
+    "question": "What is driving the current economic boom in the US?",
+    "answer_label": "A",
+    "answer_text": "Artificial intelligence technology",
+    "explanation": "The current economic boom in the US is driven by artificial intelligence technology.",
+    "due_at": "2026-05-22T21:22:10.134956+00:00"
+  },
+  {
+    "reveal_id": "acc885717f35408fa75ac2b37fe24358",
+    "article_title": "New US Fed Chief Faces Policy Challenges",
+    "question": "What is a major challenge faced by the new US Fed chief?",
     "answer_label": "C",
-    "answer_text": "59,000",
-    "explanation": "The suspected measles cases in Bangladesh have crossed 59,000.",
-    "due_at": "2026-05-22T19:46:22.024946+00:00"
-  },
-  {
-    "reveal_id": "3b3d6a187d964b2ea55d73384ac7f87f",
-    "article_title": "Bangladesh Measles Outbreak",
-    "question": "What is the reported number of deaths due to the measles outbreak in Bangladesh?",
-    "answer_label": "D",
-    "answer_text": "488",
-    "explanation": "The measles outbreak in Bangladesh has claimed over 488 lives.",
-    "due_at": "2026-05-22T19:46:22.708106+00:00"
-  },
-  {
-    "reveal_id": "d466804683584b029d43b5e8472cef35",
-    "article_title": "Bangladesh Measles Outbreak",
-    "question": "Why is the measles outbreak in Bangladesh a concern for India?",
-    "answer_label": "B",
-    "answer_text": "Due to geographical proximity and potential cross-border transmission",
-    "explanation": "The measles outbreak in Bangladesh poses a risk to regional health security, including India, due to potential cross-border transmission.",
-    "due_at": "2026-05-22T19:46:29.723531+00:00"
+    "answer_text": "High inflation",
+    "explanation": "The new US Fed chief faces the challenge of high inflation, which is already high and potentially heading higher.",
+    "due_at": "2026-05-22T21:22:17.197867+00:00"
   }
 ]
