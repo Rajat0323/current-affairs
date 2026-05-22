@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "75e7f74fdb1247beb480c7ca9b881949",
-    "article_title": "Vayu Astra Loitering Munition Test",
-    "question": "What is the range of the Vayu Astra loitering munition?",
+    "reveal_id": "3650edf28d4c4611bcacac716e57a3cc",
+    "article_title": "AIBE Admit Card 2026",
+    "question": "What is the expected release date of the AIBE XXI admit cards?",
     "answer_label": "B",
-    "answer_text": "100 km",
-    "explanation": "The Vayu Astra loitering munition has a range of 100 km, as successfully tested in Rajasthan and Uttarakhand.",
-    "due_at": "2026-05-22T16:09:32.898609+00:00"
+    "answer_text": "May 22, 2026",
+    "explanation": "The Bar Council of India is expected to release the AIBE XXI admit cards on May 22, 2026.",
+    "due_at": "2026-05-22T18:00:11.804050+00:00"
   },
   {
-    "reveal_id": "065f41e29f4247f1bf30759f6c95d6fe",
-    "article_title": "Vayu Astra Loitering Munition Test",
-    "question": "Where were the trials of the Vayu Astra loitering munition conducted?",
+    "reveal_id": "6d219bc329e84c76aa88db8544d4143f",
+    "article_title": "AIBE Admit Card 2026",
+    "question": "What is the mode of the AIBE examination?",
+    "answer_label": "B",
+    "answer_text": "Offline",
+    "explanation": "The AIBE is conducted as a certification examination in offline mode using pen and paper.",
+    "due_at": "2026-05-22T18:00:15.572957+00:00"
+  },
+  {
+    "reveal_id": "959f61e1f07a4997b263cd5e2ff360d0",
+    "article_title": "AIBE Admit Card 2026",
+    "question": "What is the duration of the AIBE examination?",
     "answer_label": "C",
-    "answer_text": "Rajasthan and Uttarakhand",
-    "explanation": "The trials of the Vayu Astra loitering munition were conducted in both Rajasthan and Uttarakhand.",
-    "due_at": "2026-05-22T16:09:33.598872+00:00"
+    "answer_text": "3 hours and 30 minutes",
+    "explanation": "The examination duration will be 3 hours and 30 minutes.",
+    "due_at": "2026-05-22T18:00:16.190221+00:00"
   },
   {
-    "reveal_id": "e6dc9f2131964cf2a6551cf17fe14722",
-    "article_title": "Vayu Astra Loitering Munition Test",
-    "question": "What is the significance of the Vayu Astra loitering munition's abort-attack and re-attack capability?",
-    "answer_label": "A",
-    "answer_text": "It allows the system to change targets",
-    "explanation": "The Vayu Astra loitering munition's abort-attack and re-attack capability allows the system to change targets or adjust its mission in real-time.",
-    "due_at": "2026-05-22T16:09:34.284485+00:00"
-  },
-  {
-    "reveal_id": "961ee48034ed40b48c4b76eb3dbd405a",
-    "article_title": "AksharChem's Net Profit Rises 248.20%",
-    "question": "By what percentage did AksharChem India's standalone net profit rise in the March 2026 quarter?",
-    "answer_label": "C",
-    "answer_text": "248.20%",
-    "explanation": "The net profit rise is given as 248.20% in the March 2026 quarter, indicating a significant increase.",
-    "due_at": "2026-05-22T16:09:38.656818+00:00"
-  },
-  {
-    "reveal_id": "af0e29719a7e4e07b2653302b529b997",
-    "article_title": "AksharChem's Net Profit Rises 248.20%",
-    "question": "In which quarter did AksharChem India's standalone net profit rise by 248.20%?",
+    "reveal_id": "b573ed7739dd46dfb46ce1d6db3c9360",
+    "article_title": "Q4 Earnings of Key Indian Companies",
+    "question": "Which of the following companies will report their Q4 earnings today?",
     "answer_label": "B",
-    "answer_text": "March 2026",
-    "explanation": "The rise in net profit occurred in the March 2026 quarter, as per the given information.",
-    "due_at": "2026-05-22T16:09:39.338365+00:00"
+    "answer_text": "Eicher Motors",
+    "explanation": "Eicher Motors is one of the key companies reporting their Q4 earnings today, as per the given article.",
+    "due_at": "2026-05-22T18:00:23.338461+00:00"
   },
   {
-    "reveal_id": "b716e5ff932845cf8e73f92f24fc7c88",
-    "article_title": "AksharChem's Net Profit Rises 248.20%",
-    "question": "What sector does the growth of AksharChem India's net profit primarily relate to?",
+    "reveal_id": "17e7757e0fe64b0da3106e5a08dc87f7",
+    "article_title": "Q4 Earnings of Key Indian Companies",
+    "question": "What will the Q4 earnings report provide insights into?",
     "answer_label": "B",
-    "answer_text": "Chemical",
-    "explanation": "AksharChem's growth is related to the chemical sector, as indicated by the company's name and the context.",
-    "due_at": "2026-05-22T16:09:44.192935+00:00"
+    "answer_text": "Company's financial performance",
+    "explanation": "The Q4 earnings report will provide insights into the company's financial performance.",
+    "due_at": "2026-05-22T18:00:23.959587+00:00"
+  },
+  {
+    "reveal_id": "f30b200ddd1644eaaff678b9ca2e88c1",
+    "article_title": "Q4 Earnings of Key Indian Companies",
+    "question": "Why are the Q4 earnings of these companies significant for India?",
+    "answer_label": "B",
+    "answer_text": "They will influence the Indian stock market",
+    "explanation": "The Q4 earnings of these companies will influence the Indian stock market and reflect the overall health of the Indian economy.",
+    "due_at": "2026-05-22T18:00:24.556084+00:00"
   }
 ]
