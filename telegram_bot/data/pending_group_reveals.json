@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "e8a8703705f2442e9a7d41bcc4006b3a",
-    "article_title": "Honda ZR-V Hybrid SUV Launch",
-    "question": "What is the significance of the Honda ZR-V in India?",
+    "reveal_id": "fc3c66122aa84a95b431e1d7814926e4",
+    "article_title": "CBI to Investigate Twisha's Death",
+    "question": "What is the main reason for the Madhya Pradesh government recommending a CBI investigation into Twisha's death?",
     "answer_label": "B",
-    "answer_text": "It is Honda's first hybrid SUV",
-    "explanation": "The Honda ZR-V is Honda's first hybrid SUV in India, marking a significant step towards increasing hybrid vehicle adoption in the country.",
-    "due_at": "2026-05-22T21:22:00.510006+00:00"
+    "answer_text": "Allegations of dowry harassment",
+    "explanation": "The main reason for the CBI investigation is the allegations of dowry harassment, which is a serious social issue in India.",
+    "due_at": "2026-05-22T22:35:26.484711+00:00"
   },
   {
-    "reveal_id": "8d66e2c1c4064ce39f928c08844a571f",
-    "article_title": "Honda ZR-V Hybrid SUV Launch",
-    "question": "When are customer deliveries of the Honda ZR-V scheduled to begin?",
+    "reveal_id": "406024fca65d4b588a9bb348b0d16a4d",
+    "article_title": "CBI to Investigate Twisha's Death",
+    "question": "Which act grants the CBI the power to investigate cases in Madhya Pradesh?",
     "answer_label": "B",
-    "answer_text": "Second half of July",
-    "explanation": "Customer deliveries of the Honda ZR-V are scheduled to begin in the second half of July.",
-    "due_at": "2026-05-22T21:22:01.197247+00:00"
+    "answer_text": "Delhi Special Police Establishment Act, 1946",
+    "explanation": "The Delhi Special Police Establishment Act, 1946, grants the CBI the power to investigate cases in Madhya Pradesh.",
+    "due_at": "2026-05-22T22:35:27.142089+00:00"
   },
   {
-    "reveal_id": "a8de8c1d72144d7c894335bf4bff18dd",
-    "article_title": "Honda ZR-V Hybrid SUV Launch",
-    "question": "Where is the Honda ZR-V positioned in Honda's SUV lineup?",
-    "answer_label": "B",
-    "answer_text": "Above the Elevate",
-    "explanation": "The Honda ZR-V is positioned above the Elevate in Honda's SUV lineup.",
-    "due_at": "2026-05-22T21:22:01.906197+00:00"
-  },
-  {
-    "reveal_id": "482fb6a93ab34cabb8c39b4ed66a8a1c",
-    "article_title": "New US Fed Chief Faces Policy Challenges",
-    "question": "Who has taken over as the new US Fed chief?",
-    "answer_label": "A",
-    "answer_text": "Kevin Warsh",
-    "explanation": "Kevin Warsh has taken over as the new US Fed chief, succeeding the previous chair.",
-    "due_at": "2026-05-22T21:22:09.341556+00:00"
-  },
-  {
-    "reveal_id": "233365c01b884c5f8185ff2f786aa20c",
-    "article_title": "New US Fed Chief Faces Policy Challenges",
-    "question": "What is driving the current economic boom in the US?",
-    "answer_label": "A",
-    "answer_text": "Artificial intelligence technology",
-    "explanation": "The current economic boom in the US is driven by artificial intelligence technology.",
-    "due_at": "2026-05-22T21:22:10.134956+00:00"
-  },
-  {
-    "reveal_id": "acc885717f35408fa75ac2b37fe24358",
-    "article_title": "New US Fed Chief Faces Policy Challenges",
-    "question": "What is a major challenge faced by the new US Fed chief?",
+    "reveal_id": "bf4a1c40cfa24008a106c0587477a3d7",
+    "article_title": "CBI to Investigate Twisha's Death",
+    "question": "What is the significance of the Madhya Pradesh government granting consent under Section 6 of the Delhi Special Police Establishment Act, 1946?",
     "answer_label": "C",
-    "answer_text": "High inflation",
-    "explanation": "The new US Fed chief faces the challenge of high inflation, which is already high and potentially heading higher.",
-    "due_at": "2026-05-22T21:22:17.197867+00:00"
+    "answer_text": "It allows the CBI to exercise powers and jurisdiction across the state of Madhya Pradesh",
+    "explanation": "The consent allows the CBI to exercise powers and jurisdiction across the state of Madhya Pradesh, ensuring a thorough investigation.",
+    "due_at": "2026-05-22T22:35:27.886312+00:00"
+  },
+  {
+    "reveal_id": "37789d6b415e46a29784db9c9b7d4b78",
+    "article_title": "Kerala Fishermen Relief",
+    "question": "Which organization has urged the Kerala government to provide relief to fishermen?",
+    "answer_label": "A",
+    "answer_text": "Latin Catholic Church",
+    "explanation": "The Latin Catholic Church has demanded urgent government relief packages for traditional fishermen.",
+    "due_at": "2026-05-22T22:35:35.017385+00:00"
+  },
+  {
+    "reveal_id": "e41f9046c48f47d79c7f545ab08242d4",
+    "article_title": "Kerala Fishermen Relief",
+    "question": "What is the main reason for the demand for relief packages for fishermen in Kerala?",
+    "answer_label": "C",
+    "answer_text": "Rough sea conditions during monsoon",
+    "explanation": "The rough sea conditions during the monsoon season can disrupt the livelihoods of traditional fishermen.",
+    "due_at": "2026-05-22T22:35:35.682012+00:00"
+  },
+  {
+    "reveal_id": "2d4e0f16636643c19f11a7efd6b4b218",
+    "article_title": "Kerala Fishermen Relief",
+    "question": "What is the expected impact of the monsoon season on fishermen in Kerala?",
+    "answer_label": "C",
+    "answer_text": "Disruption of livelihoods",
+    "explanation": "The monsoon season can be hazardous for fishermen, affecting their income and well-being.",
+    "due_at": "2026-05-22T22:35:42.677724+00:00"
   }
 ]
