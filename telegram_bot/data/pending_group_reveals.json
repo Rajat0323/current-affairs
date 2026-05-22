@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "e85c095fd5b7438c86b744abc0216d92",
-    "article_title": "US Firms Invest in India",
-    "question": "What is the estimated amount of investment by American firms in India?",
+    "reveal_id": "0afba63b3e2f4b739c45bd21b055b9b9",
+    "article_title": "Karnataka High Court Notice on Gruha Lakshmi Scheme",
+    "question": "What is the amount delayed by the Karnataka government for the Gruha Lakshmi scheme?",
     "answer_label": "B",
-    "answer_text": "$60 billion",
-    "explanation": "The commitments from American industry in the last six months are estimated to be upwards of $60 billion.",
-    "due_at": "2026-05-22T00:15:15.194048+00:00"
+    "answer_text": "\u20b95,000 crore",
+    "explanation": "The Karnataka government delayed the release of \u20b95,000 crore for the Gruha Lakshmi scheme.",
+    "due_at": "2026-05-22T02:22:47.358903+00:00"
   },
   {
-    "reveal_id": "8c21a3aaf12b47659539eac4a4d950be",
-    "article_title": "US Firms Invest in India",
-    "question": "Which companies are making major data centre investments in India?",
+    "reveal_id": "8cde943c29a647f392dbb7d2ca8d3c8d",
+    "article_title": "Karnataka High Court Notice on Gruha Lakshmi Scheme",
+    "question": "Which court issued a notice to the Karnataka government over the delay in Gruha Lakshmi scheme payments?",
     "answer_label": "B",
-    "answer_text": "Amazon and Google",
-    "explanation": "Companies such as Amazon and Google are making major data centre investments in India.",
-    "due_at": "2026-05-22T00:15:15.896458+00:00"
+    "answer_text": "Karnataka High Court",
+    "explanation": "The Karnataka High Court issued a notice to the state government for delaying the release of funds.",
+    "due_at": "2026-05-22T02:22:48.026894+00:00"
   },
   {
-    "reveal_id": "41661cf531eb4ddfa4578e875d406f97",
-    "article_title": "US Firms Invest in India",
-    "question": "What is India's growth forecast according to the minister?",
+    "reveal_id": "1da9ad5db6c54cf29947d04693de8c2d",
+    "article_title": "Karnataka High Court Notice on Gruha Lakshmi Scheme",
+    "question": "What is the primary objective of the Gruha Lakshmi scheme?",
+    "answer_label": "B",
+    "answer_text": "To support women's economic empowerment",
+    "explanation": "The Gruha Lakshmi scheme aims to provide financial assistance to eligible women, supporting their economic empowerment.",
+    "due_at": "2026-05-22T02:22:48.693725+00:00"
+  },
+  {
+    "reveal_id": "60ddca5ed84f4a4ba6eff6431be60fcf",
+    "article_title": "CPCL Launches CoCo Fuel Station",
+    "question": "What is the significance of CPCL launching a CoCo fuel station near Manali refinery?",
+    "answer_label": "B",
+    "answer_text": "It marks CPCL's return to fuel retailing",
+    "explanation": "CPCL's launch of a CoCo fuel station near Manali refinery marks its renewed entry into fuel retailing after nearly two decades.",
+    "due_at": "2026-05-22T02:22:55.833948+00:00"
+  },
+  {
+    "reveal_id": "2162751e13644eb4a29a0cc0b1fd25a8",
+    "article_title": "CPCL Launches CoCo Fuel Station",
+    "question": "What are CPCL's plans for fuel retailing in India?",
     "answer_label": "C",
-    "answer_text": "6.5 per cent",
-    "explanation": "India's growth forecast has been upgraded from 6.4 per cent to 6.5 per cent.",
-    "due_at": "2026-05-22T00:15:16.588916+00:00"
+    "answer_text": "To open retail outlets across India in phases",
+    "explanation": "CPCL plans to open more retail outlets across India in phases.",
+    "due_at": "2026-05-22T02:22:56.511828+00:00"
   },
   {
-    "reveal_id": "47da1738ee5b46bfb18b14528d1250e1",
-    "article_title": "Tamil Nadu Cabinet Expansion",
-    "question": "Who is the Chief Minister of Tamil Nadu who expanded his cabinet?",
-    "answer_label": "A",
-    "answer_text": "C. Joseph Vijay",
-    "explanation": "C. Joseph Vijay is the Chief Minister who expanded his cabinet with new members.",
-    "due_at": "2026-05-22T00:15:23.722674+00:00"
-  },
-  {
-    "reveal_id": "5cf5e30c87b24cd6bc7c59066b9abf2e",
-    "article_title": "Tamil Nadu Cabinet Expansion",
-    "question": "How many new members were inducted into the Tamil Nadu cabinet?",
+    "reveal_id": "16e2bf1cab974c2f9f5e13370d053411",
+    "article_title": "CPCL Launches CoCo Fuel Station",
+    "question": "Where is CPCL's first CoCo fuel station located?",
     "answer_label": "B",
-    "answer_text": "23",
-    "explanation": "23 new members were inducted into the Tamil Nadu cabinet.",
-    "due_at": "2026-05-22T00:15:24.609122+00:00"
-  },
-  {
-    "reveal_id": "a3cdd23ed2e345dfaac27b969a239cd2",
-    "article_title": "Tamil Nadu Cabinet Expansion",
-    "question": "After how many years is the Congress joining the government in Tamil Nadu?",
-    "answer_label": "B",
-    "answer_text": "59 years",
-    "explanation": "The Congress is joining the government in Tamil Nadu after a gap of 59 years.",
-    "due_at": "2026-05-22T00:15:28.503889+00:00"
+    "answer_text": "Near Manali refinery",
+    "explanation": "CPCL's first CoCo fuel station is located near Manali refinery.",
+    "due_at": "2026-05-22T02:23:01.340667+00:00"
   }
 ]
