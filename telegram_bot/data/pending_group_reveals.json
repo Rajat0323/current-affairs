@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "fc3c66122aa84a95b431e1d7814926e4",
-    "article_title": "CBI to Investigate Twisha's Death",
-    "question": "What is the main reason for the Madhya Pradesh government recommending a CBI investigation into Twisha's death?",
+    "reveal_id": "97695c4c148247b5b0b7770ef8e73d93",
+    "article_title": "Private Hospitals in Delhi-NCR Face Pricing Issues",
+    "question": "What issue was flagged by the Competition Commission of India in private hospitals in Delhi-NCR?",
     "answer_label": "B",
-    "answer_text": "Allegations of dowry harassment",
-    "explanation": "The main reason for the CBI investigation is the allegations of dowry harassment, which is a serious social issue in India.",
-    "due_at": "2026-05-22T22:35:26.484711+00:00"
+    "answer_text": "Pricing issues",
+    "explanation": "The Competition Commission of India observed pricing issues in private hospitals in Delhi-NCR, including costly diagnostic tests.",
+    "due_at": "2026-05-22T23:48:20.906989+00:00"
   },
   {
-    "reveal_id": "406024fca65d4b588a9bb348b0d16a4d",
-    "article_title": "CBI to Investigate Twisha's Death",
-    "question": "Which act grants the CBI the power to investigate cases in Madhya Pradesh?",
+    "reveal_id": "5cdea8447b564648b292e223c89786cd",
+    "article_title": "Private Hospitals in Delhi-NCR Face Pricing Issues",
+    "question": "What effect do patients experience when relying on in-house services in private hospitals?",
     "answer_label": "B",
-    "answer_text": "Delhi Special Police Establishment Act, 1946",
-    "explanation": "The Delhi Special Police Establishment Act, 1946, grants the CBI the power to investigate cases in Madhya Pradesh.",
-    "due_at": "2026-05-22T22:35:27.142089+00:00"
+    "answer_text": "Locked-in effect",
+    "explanation": "Patients often depend on in-house services, creating a 'locked-in' effect, making them reliant on the hospital's services.",
+    "due_at": "2026-05-22T23:48:24.647748+00:00"
   },
   {
-    "reveal_id": "bf4a1c40cfa24008a106c0587477a3d7",
-    "article_title": "CBI to Investigate Twisha's Death",
-    "question": "What is the significance of the Madhya Pradesh government granting consent under Section 6 of the Delhi Special Police Establishment Act, 1946?",
+    "reveal_id": "b6eed9f081a945ea94e43f6bd9d76998",
+    "article_title": "Private Hospitals in Delhi-NCR Face Pricing Issues",
+    "question": "What was the outcome of the proceedings against Sir Ganga Ram Hospital?",
+    "answer_label": "B",
+    "answer_text": "Closed due to insufficient evidence",
+    "explanation": "The proceedings against Sir Ganga Ram Hospital were closed due to insufficient evidence of abusing a dominant position.",
+    "due_at": "2026-05-22T23:48:25.238172+00:00"
+  },
+  {
+    "reveal_id": "ebb42364ddbe41e894e98c2615a17dbb",
+    "article_title": "Allahabad HC Seeks Arms Licence Details",
+    "question": "Which court ordered the UP government to provide arms licence details?",
+    "answer_label": "B",
+    "answer_text": "Allahabad High Court",
+    "explanation": "The Allahabad High Court ordered the UP government to provide arms licence details of 19 individuals.",
+    "due_at": "2026-05-22T23:48:32.143602+00:00"
+  },
+  {
+    "reveal_id": "5ef0c7c4b3644cda9f2b77a9a6788e82",
+    "article_title": "Allahabad HC Seeks Arms Licence Details",
+    "question": "Why did the court order the UP government to provide arms licence details?",
+    "answer_label": "B",
+    "answer_text": "To maintain social harmony",
+    "explanation": "The court ordered to prevent public display of weapons and maintain social harmony.",
+    "due_at": "2026-05-22T23:48:32.728932+00:00"
+  },
+  {
+    "reveal_id": "7147dd1f33214449ac394ee4e73e218d",
+    "article_title": "Allahabad HC Seeks Arms Licence Details",
+    "question": "How many individuals' arms licence details were ordered to be provided by the court?",
     "answer_label": "C",
-    "answer_text": "It allows the CBI to exercise powers and jurisdiction across the state of Madhya Pradesh",
-    "explanation": "The consent allows the CBI to exercise powers and jurisdiction across the state of Madhya Pradesh, ensuring a thorough investigation.",
-    "due_at": "2026-05-22T22:35:27.886312+00:00"
-  },
-  {
-    "reveal_id": "37789d6b415e46a29784db9c9b7d4b78",
-    "article_title": "Kerala Fishermen Relief",
-    "question": "Which organization has urged the Kerala government to provide relief to fishermen?",
-    "answer_label": "A",
-    "answer_text": "Latin Catholic Church",
-    "explanation": "The Latin Catholic Church has demanded urgent government relief packages for traditional fishermen.",
-    "due_at": "2026-05-22T22:35:35.017385+00:00"
-  },
-  {
-    "reveal_id": "e41f9046c48f47d79c7f545ab08242d4",
-    "article_title": "Kerala Fishermen Relief",
-    "question": "What is the main reason for the demand for relief packages for fishermen in Kerala?",
-    "answer_label": "C",
-    "answer_text": "Rough sea conditions during monsoon",
-    "explanation": "The rough sea conditions during the monsoon season can disrupt the livelihoods of traditional fishermen.",
-    "due_at": "2026-05-22T22:35:35.682012+00:00"
-  },
-  {
-    "reveal_id": "2d4e0f16636643c19f11a7efd6b4b218",
-    "article_title": "Kerala Fishermen Relief",
-    "question": "What is the expected impact of the monsoon season on fishermen in Kerala?",
-    "answer_label": "C",
-    "answer_text": "Disruption of livelihoods",
-    "explanation": "The monsoon season can be hazardous for fishermen, affecting their income and well-being.",
-    "due_at": "2026-05-22T22:35:42.677724+00:00"
+    "answer_text": "19",
+    "explanation": "The court ordered the UP government to provide arms licence details of 19 individuals.",
+    "due_at": "2026-05-22T23:48:33.295281+00:00"
   }
 ]
