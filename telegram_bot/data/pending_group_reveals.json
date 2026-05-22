@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "3650edf28d4c4611bcacac716e57a3cc",
-    "article_title": "AIBE Admit Card 2026",
-    "question": "What is the expected release date of the AIBE XXI admit cards?",
+    "reveal_id": "79be31a70ff547c28ca960ff62a8e864",
+    "article_title": "Capital India Finance FY26 Results",
+    "question": "What was the standalone profit of Capital India Finance for FY26?",
     "answer_label": "B",
-    "answer_text": "May 22, 2026",
-    "explanation": "The Bar Council of India is expected to release the AIBE XXI admit cards on May 22, 2026.",
-    "due_at": "2026-05-22T18:00:11.804050+00:00"
+    "answer_text": "\u20b9 40.36 crore",
+    "explanation": "The standalone profit of Capital India Finance for FY26 was \u20b9 40.36 crore, as reported in the financial results.",
+    "due_at": "2026-05-22T19:46:13.525706+00:00"
   },
   {
-    "reveal_id": "6d219bc329e84c76aa88db8544d4143f",
-    "article_title": "AIBE Admit Card 2026",
-    "question": "What is the mode of the AIBE examination?",
-    "answer_label": "B",
-    "answer_text": "Offline",
-    "explanation": "The AIBE is conducted as a certification examination in offline mode using pen and paper.",
-    "due_at": "2026-05-22T18:00:15.572957+00:00"
+    "reveal_id": "892171c0017b4a3387f917a7ad5c00d4",
+    "article_title": "Capital India Finance FY26 Results",
+    "question": "What was the growth rate of disbursements for Capital India Finance in FY26?",
+    "answer_label": "D",
+    "answer_text": "62% YoY",
+    "explanation": "The disbursements for Capital India Finance grew by 62% YoY in FY26, driven by customer acquisition and market penetration.",
+    "due_at": "2026-05-22T19:46:14.206968+00:00"
   },
   {
-    "reveal_id": "959f61e1f07a4997b263cd5e2ff360d0",
-    "article_title": "AIBE Admit Card 2026",
-    "question": "What is the duration of the AIBE examination?",
+    "reveal_id": "38c5acdf0a5f41a0809602f4557cb7bb",
+    "article_title": "Capital India Finance FY26 Results",
+    "question": "What is the focus of Capital India Finance for FY27?",
+    "answer_label": "B",
+    "answer_text": "Scalable MSME lending",
+    "explanation": "The company aims to focus on scalable MSME lending in FY27, as stated in the financial results.",
+    "due_at": "2026-05-22T19:46:14.887905+00:00"
+  },
+  {
+    "reveal_id": "f018cc3100a245d8b9f0b99baa39dc37",
+    "article_title": "Bangladesh Measles Outbreak",
+    "question": "What is the approximate number of suspected measles cases in Bangladesh?",
     "answer_label": "C",
-    "answer_text": "3 hours and 30 minutes",
-    "explanation": "The examination duration will be 3 hours and 30 minutes.",
-    "due_at": "2026-05-22T18:00:16.190221+00:00"
+    "answer_text": "59,000",
+    "explanation": "The suspected measles cases in Bangladesh have crossed 59,000.",
+    "due_at": "2026-05-22T19:46:22.024946+00:00"
   },
   {
-    "reveal_id": "b573ed7739dd46dfb46ce1d6db3c9360",
-    "article_title": "Q4 Earnings of Key Indian Companies",
-    "question": "Which of the following companies will report their Q4 earnings today?",
-    "answer_label": "B",
-    "answer_text": "Eicher Motors",
-    "explanation": "Eicher Motors is one of the key companies reporting their Q4 earnings today, as per the given article.",
-    "due_at": "2026-05-22T18:00:23.338461+00:00"
+    "reveal_id": "3b3d6a187d964b2ea55d73384ac7f87f",
+    "article_title": "Bangladesh Measles Outbreak",
+    "question": "What is the reported number of deaths due to the measles outbreak in Bangladesh?",
+    "answer_label": "D",
+    "answer_text": "488",
+    "explanation": "The measles outbreak in Bangladesh has claimed over 488 lives.",
+    "due_at": "2026-05-22T19:46:22.708106+00:00"
   },
   {
-    "reveal_id": "17e7757e0fe64b0da3106e5a08dc87f7",
-    "article_title": "Q4 Earnings of Key Indian Companies",
-    "question": "What will the Q4 earnings report provide insights into?",
+    "reveal_id": "d466804683584b029d43b5e8472cef35",
+    "article_title": "Bangladesh Measles Outbreak",
+    "question": "Why is the measles outbreak in Bangladesh a concern for India?",
     "answer_label": "B",
-    "answer_text": "Company's financial performance",
-    "explanation": "The Q4 earnings report will provide insights into the company's financial performance.",
-    "due_at": "2026-05-22T18:00:23.959587+00:00"
-  },
-  {
-    "reveal_id": "f30b200ddd1644eaaff678b9ca2e88c1",
-    "article_title": "Q4 Earnings of Key Indian Companies",
-    "question": "Why are the Q4 earnings of these companies significant for India?",
-    "answer_label": "B",
-    "answer_text": "They will influence the Indian stock market",
-    "explanation": "The Q4 earnings of these companies will influence the Indian stock market and reflect the overall health of the Indian economy.",
-    "due_at": "2026-05-22T18:00:24.556084+00:00"
+    "answer_text": "Due to geographical proximity and potential cross-border transmission",
+    "explanation": "The measles outbreak in Bangladesh poses a risk to regional health security, including India, due to potential cross-border transmission.",
+    "due_at": "2026-05-22T19:46:29.723531+00:00"
   }
 ]
