@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "0970eb81f9884ecf930fd0339fdea36c",
-    "article_title": "India's Economic Resilience",
-    "question": "What is the current state of India's economic activity?",
-    "answer_label": "C",
-    "answer_text": "Growing",
-    "explanation": "India's economic activity showed continued resilience in April, with both industrial and services sectors maintaining steady momentum.",
-    "due_at": "2026-05-23T18:10:34.020483+00:00"
-  },
-  {
-    "reveal_id": "19d2ffdf6895474a8166041e8fb3c75c",
-    "article_title": "India's Economic Resilience",
-    "question": "What is a major factor affecting global economic uncertainty?",
+    "reveal_id": "20ce5f585f824332a27a96ae1086ccfd",
+    "article_title": "Puri Jagannath Temple Inventory Process",
+    "question": "Why has the inventory process of Puri Jagannath Temple's Ratna Bhandar been temporarily suspended?",
     "answer_label": "B",
-    "answer_text": "Ongoing uncertainty in West Asia",
-    "explanation": "The article mentions ongoing uncertainty in West Asia as a factor affecting global economic uncertainty.",
-    "due_at": "2026-05-23T18:10:37.807167+00:00"
+    "answer_text": "Due to heatwave and devotee rush",
+    "explanation": "The suspension is due to the intense heatwave conditions and large influx of devotees, as well as upcoming major rituals.",
+    "due_at": "2026-05-23T19:17:11.901698+00:00"
   },
   {
-    "reveal_id": "ada510d4fbe447c8b9a19bc69c1e2dcf",
-    "article_title": "India's Economic Resilience",
-    "question": "Which sectors are driving India's economic resilience?",
-    "answer_label": "B",
-    "answer_text": "Industrial and services",
-    "explanation": "The article states that both industrial and services sectors are maintaining steady momentum, driving India's economic resilience.",
-    "due_at": "2026-05-23T18:10:38.409948+00:00"
-  },
-  {
-    "reveal_id": "0fdc55750387496eac3fe855a0d29fe4",
-    "article_title": "Telangana Deputy CM Urges Banks to Support Welfare Initiatives",
-    "question": "What is the total amount of agricultural loans disbursed by banks in Telangana?",
+    "reveal_id": "5d347a0ec63f4d679026e9e88719e241",
+    "article_title": "Puri Jagannath Temple Inventory Process",
+    "question": "What is the purpose of the inventory process of Puri Jagannath Temple's Ratna Bhandar?",
     "answer_label": "C",
-    "answer_text": "Rs 1,68,401 crore",
-    "explanation": "The total amount of agricultural loans disbursed by banks in Telangana is Rs 1,68,401 crore, exceeding the target.",
-    "due_at": "2026-05-23T18:10:45.352945+00:00"
+    "answer_text": "To preserve and document the temple's sacred assets",
+    "explanation": "The purpose is to scientifically document and preserve the temple's valuables for future generations.",
+    "due_at": "2026-05-23T19:17:12.565361+00:00"
   },
   {
-    "reveal_id": "56a0f40d820f4873a5d0fdf8bcab810c",
-    "article_title": "Telangana Deputy CM Urges Banks to Support Welfare Initiatives",
-    "question": "What was the target for agricultural loans in Telangana?",
-    "answer_label": "C",
-    "answer_text": "Rs 1,65,297 crore",
-    "explanation": "The target for agricultural loans in Telangana was Rs 1,65,297 crore.",
-    "due_at": "2026-05-23T18:10:45.955467+00:00"
-  },
-  {
-    "reveal_id": "14ad5bd16e7d4f9db447aac5f12d695d",
-    "article_title": "Telangana Deputy CM Urges Banks to Support Welfare Initiatives",
-    "question": "Who urged banks to support more welfare and development initiatives in Telangana?",
+    "reveal_id": "a02a340eeece4b738159861d5d40b99c",
+    "article_title": "Puri Jagannath Temple Inventory Process",
+    "question": "When is the inventory process of Puri Jagannath Temple's Ratna Bhandar expected to resume?",
     "answer_label": "B",
-    "answer_text": "Telangana Deputy CM",
-    "explanation": "The Telangana Deputy CM urged banks to support more welfare and development initiatives in the state.",
-    "due_at": "2026-05-23T18:10:46.581768+00:00"
+    "answer_text": "In June",
+    "explanation": "The process is expected to resume in June, as announced by the Shree Jagannath Temple Administration.",
+    "due_at": "2026-05-23T19:17:13.276158+00:00"
+  },
+  {
+    "reveal_id": "5a4bec25e3434f07a46a8ba8a2314a76",
+    "article_title": "CJI's Remarks on Environmental Activists",
+    "question": "What was the context of the CJI's remarks that were criticized by former bureaucrats and environmentalists?",
+    "answer_label": "C",
+    "answer_text": "A comment on development projects",
+    "explanation": "The CJI's remarks were related to environmental activists' stance on development projects.",
+    "due_at": "2026-05-23T19:17:20.650599+00:00"
+  },
+  {
+    "reveal_id": "721fbf6b932b43e498a8b639a24bc090",
+    "article_title": "CJI's Remarks on Environmental Activists",
+    "question": "Who criticized the CJI's remarks on environmental activists?",
+    "answer_label": "C",
+    "answer_text": "Both former bureaucrats and environmentalists",
+    "explanation": "Both former bureaucrats and environmentalists criticized the CJI's remarks.",
+    "due_at": "2026-05-23T19:17:21.320604+00:00"
+  },
+  {
+    "reveal_id": "b760930d2aef4aac9efe6ae7eeb18fdc",
+    "article_title": "CJI's Remarks on Environmental Activists",
+    "question": "What is a potential consequence of the CJI's remarks on environmental activists?",
+    "answer_label": "C",
+    "answer_text": "Allegations of bias against the judiciary",
+    "explanation": "The CJI's remarks may lead to allegations of bias against the judiciary.",
+    "due_at": "2026-05-23T19:17:26.177622+00:00"
   }
 ]
