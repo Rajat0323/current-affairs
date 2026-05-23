@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "ff074906c4e24937a128c04c2fee93de",
-    "article_title": "India's First Government IVF Facility",
-    "question": "Where is India's first government IVF facility set to launch?",
+    "reveal_id": "03d211d1383145bc840301fc418508ba",
+    "article_title": "US Considers Military Action Against Iran",
+    "question": "What is the US considering against Iran?",
     "answer_label": "B",
-    "answer_text": "Hubballi",
-    "explanation": "The facility is set to launch in Hubballi, Karnataka, as part of a government initiative to provide affordable IVF services.",
-    "due_at": "2026-05-23T20:27:45.544207+00:00"
+    "answer_text": "Military action",
+    "explanation": "The US is considering new military action against Iran if peace negotiations fail, as per the report.",
+    "due_at": "2026-05-23T21:36:29.366278+00:00"
   },
   {
-    "reveal_id": "4cc36b6fbf35421597abf3fcbda8378d",
-    "article_title": "India's First Government IVF Facility",
-    "question": "What is the current status of the IVF facility in Hubballi?",
-    "answer_label": "C",
-    "answer_text": "Awaiting licence approval",
-    "explanation": "The facility has completed most of its infrastructure development work and is awaiting the final licence approval from authorities.",
-    "due_at": "2026-05-23T20:27:49.293832+00:00"
-  },
-  {
-    "reveal_id": "ab88155d5890439d990a4ba335f5d614",
-    "article_title": "India's First Government IVF Facility",
-    "question": "What is the primary goal of the government IVF facility in Hubballi?",
+    "reveal_id": "c5d778dfd24c4248b9046c7b2f46b6a3",
+    "article_title": "US Considers Military Action Against Iran",
+    "question": "Why is the US considering military action against Iran?",
     "answer_label": "B",
-    "answer_text": "To support family planning and reproductive health",
-    "explanation": "The facility aims to provide affordable IVF services to people in need, supporting family planning and reproductive health in India.",
-    "due_at": "2026-05-23T20:27:49.864065+00:00"
+    "answer_text": "Because of failing peace negotiations",
+    "explanation": "The US is considering military action due to the lack of progress in ongoing diplomatic negotiations with Iran.",
+    "due_at": "2026-05-23T21:36:33.117109+00:00"
   },
   {
-    "reveal_id": "53e9a8b9791448d5b3ac7621f523a0a9",
-    "article_title": "IIT Delhi Graduate Becomes Top Inventor",
-    "question": "How many US patents does Gurtej Sandhu have?",
-    "answer_label": "C",
-    "answer_text": "1,382",
-    "explanation": "Gurtej Sandhu has accumulated 1,382 US patents, as mentioned in the article.",
-    "due_at": "2026-05-23T20:27:56.474406+00:00"
-  },
-  {
-    "reveal_id": "807e686ab5024ddab8597b4a2a109759",
-    "article_title": "IIT Delhi Graduate Becomes Top Inventor",
-    "question": "Who did Gurtej Sandhu surpass in terms of US patents?",
+    "reveal_id": "ee1c48f155ba4076bbb4e7c80dac7fdf",
+    "article_title": "US Considers Military Action Against Iran",
+    "question": "Who held a high-level meeting with senior national security officials?",
     "answer_label": "B",
-    "answer_text": "Thomas Edison",
-    "explanation": "Gurtej Sandhu surpassed Thomas Edison, who held 1,093 patents, as stated in the article.",
-    "due_at": "2026-05-23T20:27:57.066980+00:00"
+    "answer_text": "Donald Trump",
+    "explanation": "Donald Trump held a high-level meeting with senior national security officials to discuss the situation with Iran.",
+    "due_at": "2026-05-23T21:36:33.698139+00:00"
   },
   {
-    "reveal_id": "92abdfb3a6c74d4488f779120d57f423",
-    "article_title": "IIT Delhi Graduate Becomes Top Inventor",
-    "question": "What is Gurtej Sandhu's rank among America's top inventors?",
+    "reveal_id": "d960164fe44b43e08f7f61d3d0c09697",
+    "article_title": "US Secretary of State Visits India",
+    "question": "Who is the US Secretary of State visiting India to reset bilateral ties?",
+    "answer_label": "A",
+    "answer_text": "Marco Rubio",
+    "explanation": "Marco Rubio is the US Secretary of State visiting India to improve strained bilateral ties.",
+    "due_at": "2026-05-23T21:36:40.262138+00:00"
+  },
+  {
+    "reveal_id": "e717d35877694b4f9c00eed65284356f",
+    "article_title": "US Secretary of State Visits India",
+    "question": "Which of the following is a key agenda of the US Secretary of State's visit to India?",
     "answer_label": "C",
-    "answer_text": "7th",
-    "explanation": "Gurtej Sandhu is America's 7th top inventor, according to the article.",
-    "due_at": "2026-05-23T20:27:57.645946+00:00"
+    "answer_text": "Attending the Quad foreign ministers' meeting",
+    "explanation": "The Quad foreign ministers' meeting is a key agenda of the US Secretary of State's visit to India.",
+    "due_at": "2026-05-23T21:36:40.835933+00:00"
+  },
+  {
+    "reveal_id": "e57d7561c0e2482682471b296cbf1203",
+    "article_title": "US Secretary of State Visits India",
+    "question": "Who will the US Secretary of State meet during his visit to India?",
+    "answer_label": "C",
+    "answer_text": "PM Modi and External Affairs Minister S Jaishankar",
+    "explanation": "The US Secretary of State will meet PM Modi and External Affairs Minister S Jaishankar during his visit to India.",
+    "due_at": "2026-05-23T21:36:41.402433+00:00"
   }
 ]
