@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "222cfc79076e4becab3ccb1ccbdc17e6",
-    "article_title": "US Tightens Immigration Rules",
-    "question": "What is the new requirement for most green card applicants in the US?",
+    "reveal_id": "2bc88208c08e44d09b5ea1cc8c010692",
+    "article_title": "Centre Forms Panel to Address Port Bottlenecks",
+    "question": "What is the main purpose of the panel set up by the Centre?",
     "answer_label": "B",
-    "answer_text": "Apply from their home countries",
-    "explanation": "The new policy requires most foreign nationals to complete the green card application process from outside the US.",
-    "due_at": "2026-05-23T09:59:00.452338+00:00"
+    "answer_text": "To address port bottlenecks",
+    "explanation": "The panel aims to resolve container congestion at Jawaharlal Nehru Port Authority.",
+    "due_at": "2026-05-23T11:30:18.866342+00:00"
   },
   {
-    "reveal_id": "1594dcf7d26147d8908e23ebd32892e7",
-    "article_title": "US Tightens Immigration Rules",
-    "question": "Who announced the new US immigration policy?",
+    "reveal_id": "ef918690d802422086e8df3af52543b6",
+    "article_title": "Centre Forms Panel to Address Port Bottlenecks",
+    "question": "Which port is experiencing container congestion?",
     "answer_label": "B",
-    "answer_text": "US President Donald Trump",
-    "explanation": "The new policy was announced by the Trump administration.",
-    "due_at": "2026-05-23T09:59:01.057131+00:00"
+    "answer_text": "Jawaharlal Nehru Port Authority",
+    "explanation": "Jawaharlal Nehru Port Authority in Mumbai is India's busiest container port and is facing congestion issues.",
+    "due_at": "2026-05-23T11:30:19.916310+00:00"
   },
   {
-    "reveal_id": "a1c7e1a072404ab380e25f4745e6a9f2",
-    "article_title": "US Tightens Immigration Rules",
-    "question": "What type of application is affected by the new US immigration policy?",
-    "answer_label": "B",
-    "answer_text": "Green card applications",
-    "explanation": "The new policy affects green card applications, requiring applicants to apply from their home countries.",
-    "due_at": "2026-05-23T09:59:01.690182+00:00"
-  },
-  {
-    "reveal_id": "13fbd7b95567451e934d4bad9d29edeb",
-    "article_title": "SC Refers UAPA Bail Question to Larger Bench",
-    "question": "What is the main issue that led to the SC referring the question to a larger bench?",
-    "answer_label": "A",
-    "answer_text": "Disagreement on UAPA bail due to trial delay",
-    "explanation": "The SC referred the question to a larger bench due to a disagreement between two benches on whether delay in trial can justify bail for those accused under UAPA.",
-    "due_at": "2026-05-23T09:59:08.582137+00:00"
-  },
-  {
-    "reveal_id": "eef7b7e0b8944706800d9da706c3dc61",
-    "article_title": "SC Refers UAPA Bail Question to Larger Bench",
-    "question": "Which act is at the center of the SC's decision to refer the question to a larger bench?",
+    "reveal_id": "0f66731ed007476d9fd99d78cf653bdc",
+    "article_title": "Centre Forms Panel to Address Port Bottlenecks",
+    "question": "What will be the benefit of resolving port bottlenecks?",
     "answer_label": "C",
-    "answer_text": "The Unlawful Activities (Prevention) Act",
-    "explanation": "The Unlawful Activities (Prevention) Act is the act at the center of the SC's decision to refer the question to a larger bench.",
-    "due_at": "2026-05-23T09:59:09.196404+00:00"
+    "answer_text": "Boost to India's trade and economy",
+    "explanation": "Resolving port bottlenecks will improve port efficiency, which will boost India's trade and economy.",
+    "due_at": "2026-05-23T11:30:20.582908+00:00"
   },
   {
-    "reveal_id": "db6bff566d5a4b278cb38fed7e446fee",
-    "article_title": "SC Refers UAPA Bail Question to Larger Bench",
-    "question": "What is the expected outcome of the SC's decision to refer the question to a larger bench?",
+    "reveal_id": "cde6ee40655b46129bd9014550c6af10",
+    "article_title": "New PAN Norms 2026",
+    "question": "What is the new rule for annual cash withdrawals exceeding Rs 10 lakh?",
     "answer_label": "C",
-    "answer_text": "A clarification on the interpretation of UAPA",
-    "explanation": "The expected outcome of the SC's decision to refer the question to a larger bench is a clarification on the interpretation of UAPA.",
-    "due_at": "2026-05-23T09:59:09.803504+00:00"
+    "answer_text": "PAN is mandatory",
+    "explanation": "As per the new Income Tax Rules 2026, PAN is now mandatory for annual cash withdrawals exceeding Rs 10 lakh.",
+    "due_at": "2026-05-23T11:30:24.732598+00:00"
+  },
+  {
+    "reveal_id": "5d9e71ab12614b55a668520af25ae858",
+    "article_title": "New PAN Norms 2026",
+    "question": "Which form replaces Form 60 for declarations without PAN?",
+    "answer_label": "C",
+    "answer_text": "Form 97",
+    "explanation": "Form 97 replaces Form 60 for declarations without PAN as per the new rules.",
+    "due_at": "2026-05-23T11:30:25.468680+00:00"
+  },
+  {
+    "reveal_id": "d71bdb211df24606b9f577d397547f6c",
+    "article_title": "New PAN Norms 2026",
+    "question": "What is the new rule for cash deposits and debit card applications?",
+    "answer_label": "C",
+    "answer_text": "PAN quoting is relaxed",
+    "explanation": "The new Income Tax Rules 2026 have relaxed PAN quoting for several transactions, including cash deposits and debit card applications.",
+    "due_at": "2026-05-23T11:30:29.546151+00:00"
   }
 ]
