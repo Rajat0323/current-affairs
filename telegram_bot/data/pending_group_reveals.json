@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "ae8608116c8a4350b74af8f2f6b33a39",
-    "article_title": "Saline Shortage in Hospitals",
-    "question": "What is the reason for the shortage of saline and essential medicines in West Bengal hospitals?",
+    "reveal_id": "88f4550b0c734634be3dfd2a8b021050",
+    "article_title": "India and Cyprus on Combating Terrorism",
+    "question": "What is the main focus of the joint statement issued by PM Modi and Cyprus President Nikos Christodoulides?",
     "answer_label": "B",
-    "answer_text": "Conflict in West Asia",
-    "explanation": "The conflict in West Asia has disrupted international supply chains, leading to shortages of essential medicines and medical consumables.",
-    "due_at": "2026-05-23T01:51:06.173133+00:00"
+    "answer_text": "Combating terrorism",
+    "explanation": "The joint statement emphasizes the need for global cooperation to combat terrorism.",
+    "due_at": "2026-05-23T05:29:16.520747+00:00"
   },
   {
-    "reveal_id": "9f52099aa1394bb18ca6ba86eff62df6",
-    "article_title": "Saline Shortage in Hospitals",
-    "question": "Which of the following items is affected by the shortage?",
-    "answer_label": "A",
-    "answer_text": "Paracetamol tablets",
-    "explanation": "Paracetamol tablets are one of the essential medicines affected by the shortage due to the conflict in West Asia.",
-    "due_at": "2026-05-23T01:51:09.938168+00:00"
-  },
-  {
-    "reveal_id": "8681e15bd4374f268524124f6bfef29a",
-    "article_title": "Saline Shortage in Hospitals",
-    "question": "How have hospitals been advised to procure the affected items?",
-    "answer_label": "C",
-    "answer_text": "As non-catalogue items",
-    "explanation": "Hospitals have been instructed to procure the affected items as non-catalogue or non-cat materials, meaning they may no longer be available through the usual government supply list.",
-    "due_at": "2026-05-23T01:51:10.563043+00:00"
-  },
-  {
-    "reveal_id": "dd448037505f4ec6831ee1ed6fe87261",
-    "article_title": "Government Sells Stake in Central Bank of India",
-    "question": "What is the main reason for the government to sell an additional stake in Central Bank of India?",
-    "answer_label": "A",
-    "answer_text": "To meet public shareholding rules",
-    "explanation": "The government aims to meet public shareholding rules by selling the additional stake.",
-    "due_at": "2026-05-23T01:51:17.170184+00:00"
-  },
-  {
-    "reveal_id": "b96e452672a443af96676abee9cb26f9",
-    "article_title": "Government Sells Stake in Central Bank of India",
-    "question": "What is the outcome of the strong investor demand for Central Bank of India's stake sale?",
-    "answer_label": "C",
-    "answer_text": "Increase in stake sale from 4% to 8%",
-    "explanation": "The strong investor demand led to an increase in the stake sale from 4% to 8%.",
-    "due_at": "2026-05-23T01:51:17.761644+00:00"
-  },
-  {
-    "reveal_id": "398bcdac322341a8b495f904d30710f6",
-    "article_title": "Government Sells Stake in Central Bank of India",
-    "question": "When will retail investors have a chance to bid for Central Bank of India's stake?",
+    "reveal_id": "1d5b0dcfc9d246f6b8520b2831c71e30",
+    "article_title": "India and Cyprus on Combating Terrorism",
+    "question": "What convention did PM Modi and Cyprus President Nikos Christodoulides call for the adoption of?",
     "answer_label": "B",
-    "answer_text": "On Monday",
-    "explanation": "Retail bidding opens on Monday.",
-    "due_at": "2026-05-23T01:51:18.335003+00:00"
+    "answer_text": "Comprehensive Convention on International Terrorism",
+    "explanation": "The leaders urged for the adoption of the Comprehensive Convention on International Terrorism within the UN framework.",
+    "due_at": "2026-05-23T05:29:20.359515+00:00"
+  },
+  {
+    "reveal_id": "4cd3e74ec455487a8825d2cf1c58db3a",
+    "article_title": "India and Cyprus on Combating Terrorism",
+    "question": "What type of action did PM Modi and Cyprus President Nikos Christodoulides urge for to combat terrorism?",
+    "answer_label": "C",
+    "answer_text": "Multilateral action",
+    "explanation": "The leaders called for strong and concerted multilateral action to combat terrorism.",
+    "due_at": "2026-05-23T05:29:21.008852+00:00"
+  },
+  {
+    "reveal_id": "578e2ccb30a04bfbb8e3a6adea8cb616",
+    "article_title": "India-Cyprus Defence Partnership",
+    "question": "What is the primary focus of the India-Cyprus strategic partnership?",
+    "answer_label": "B",
+    "answer_text": "Defence cooperation",
+    "explanation": "The partnership focuses on defence cooperation, including a five-year defence roadmap and maritime security.",
+    "due_at": "2026-05-23T05:29:28.376278+00:00"
+  },
+  {
+    "reveal_id": "c9fb340ead15484da5adfc00d60db21a",
+    "article_title": "India-Cyprus Defence Partnership",
+    "question": "What is seen as a factor prompting India's defence partnership with Cyprus?",
+    "answer_label": "C",
+    "answer_text": "Increasing Turkiye-Pakistan ties",
+    "explanation": "The growing Turkiye-Pakistan ties are seen as a factor prompting India to strengthen its defence partnership with Cyprus.",
+    "due_at": "2026-05-23T05:29:29.033583+00:00"
+  },
+  {
+    "reveal_id": "8166136827e74f2aa26122129e461c67",
+    "article_title": "India-Cyprus Defence Partnership",
+    "question": "What is a key area of cooperation between India and Cyprus?",
+    "answer_label": "B",
+    "answer_text": "Counterterrorism",
+    "explanation": "Counterterrorism is a key area of cooperation between India and Cyprus, as part of their strategic partnership.",
+    "due_at": "2026-05-23T05:29:29.747912+00:00"
   }
 ]
