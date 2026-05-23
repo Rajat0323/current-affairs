@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "03d211d1383145bc840301fc418508ba",
-    "article_title": "US Considers Military Action Against Iran",
-    "question": "What is the US considering against Iran?",
+    "reveal_id": "7423fbc2b53d4b66be44ee3c2d5e1f87",
+    "article_title": "FIFA World Cup Broadcast Deal for India",
+    "question": "What is the expected price range for the FIFA World Cup broadcast deal in India?",
+    "answer_label": "D",
+    "answer_text": "$35 million",
+    "explanation": "FIFA is considering a deal in the range of $35 million, which is higher than Jio Hotstar's valuation of $20 million.",
+    "due_at": "2026-05-23T22:37:57.932173+00:00"
+  },
+  {
+    "reveal_id": "d3af437e1d4f4487b3a3f3c90f875577",
+    "article_title": "FIFA World Cup Broadcast Deal for India",
+    "question": "Which company has emerged as a strong contender for the FIFA World Cup broadcast deal in India?",
     "answer_label": "B",
-    "answer_text": "Military action",
-    "explanation": "The US is considering new military action against Iran if peace negotiations fail, as per the report.",
-    "due_at": "2026-05-23T21:36:29.366278+00:00"
+    "answer_text": "Zee",
+    "explanation": "Zee has emerged as a strong contender for the broadcast deal, alongside Jio Hotstar.",
+    "due_at": "2026-05-23T22:38:01.795095+00:00"
   },
   {
-    "reveal_id": "c5d778dfd24c4248b9046c7b2f46b6a3",
-    "article_title": "US Considers Military Action Against Iran",
-    "question": "Why is the US considering military action against Iran?",
+    "reveal_id": "1d3caea027044010bff0dd6578a4b803",
+    "article_title": "FIFA World Cup Broadcast Deal for India",
+    "question": "When is the official announcement for the FIFA World Cup broadcast deal in India expected?",
     "answer_label": "B",
-    "answer_text": "Because of failing peace negotiations",
-    "explanation": "The US is considering military action due to the lack of progress in ongoing diplomatic negotiations with Iran.",
-    "due_at": "2026-05-23T21:36:33.117109+00:00"
+    "answer_text": "Next week",
+    "explanation": "The official announcement for the broadcast deal is expected next week.",
+    "due_at": "2026-05-23T22:38:02.479154+00:00"
   },
   {
-    "reveal_id": "ee1c48f155ba4076bbb4e7c80dac7fdf",
-    "article_title": "US Considers Military Action Against Iran",
-    "question": "Who held a high-level meeting with senior national security officials?",
+    "reveal_id": "f41b79ac0bc64e07abfd62a45b1e313a",
+    "article_title": "Market Direction in June Quarter",
+    "question": "What is expected to determine market direction in the coming months?",
+    "answer_label": "D",
+    "answer_text": "All of the above",
+    "explanation": "The market direction is expected to be determined by a combination of factors including crude prices, RBI policy decisions, and Q1 earnings.",
+    "due_at": "2026-05-23T22:38:09.653852+00:00"
+  },
+  {
+    "reveal_id": "0a53adc6bd8d418096e668738a6d7851",
+    "article_title": "Market Direction in June Quarter",
+    "question": "Which sectors are favoured by Sunil Subramaniam?",
     "answer_label": "B",
-    "answer_text": "Donald Trump",
-    "explanation": "Donald Trump held a high-level meeting with senior national security officials to discuss the situation with Iran.",
-    "due_at": "2026-05-23T21:36:33.698139+00:00"
+    "answer_text": "Consumer durables, capital goods, and PSBs",
+    "explanation": "Sunil Subramaniam favours consumer durables, capital goods, and PSBs due to their potential for growth.",
+    "due_at": "2026-05-23T22:38:10.332150+00:00"
   },
   {
-    "reveal_id": "d960164fe44b43e08f7f61d3d0c09697",
-    "article_title": "US Secretary of State Visits India",
-    "question": "Who is the US Secretary of State visiting India to reset bilateral ties?",
-    "answer_label": "A",
-    "answer_text": "Marco Rubio",
-    "explanation": "Marco Rubio is the US Secretary of State visiting India to improve strained bilateral ties.",
-    "due_at": "2026-05-23T21:36:40.262138+00:00"
-  },
-  {
-    "reveal_id": "e717d35877694b4f9c00eed65284356f",
-    "article_title": "US Secretary of State Visits India",
-    "question": "Which of the following is a key agenda of the US Secretary of State's visit to India?",
-    "answer_label": "C",
-    "answer_text": "Attending the Quad foreign ministers' meeting",
-    "explanation": "The Quad foreign ministers' meeting is a key agenda of the US Secretary of State's visit to India.",
-    "due_at": "2026-05-23T21:36:40.835933+00:00"
-  },
-  {
-    "reveal_id": "e57d7561c0e2482682471b296cbf1203",
-    "article_title": "US Secretary of State Visits India",
-    "question": "Who will the US Secretary of State meet during his visit to India?",
-    "answer_label": "C",
-    "answer_text": "PM Modi and External Affairs Minister S Jaishankar",
-    "explanation": "The US Secretary of State will meet PM Modi and External Affairs Minister S Jaishankar during his visit to India.",
-    "due_at": "2026-05-23T21:36:41.402433+00:00"
+    "reveal_id": "3ad99c82179e4dd99d3bd6b15cf7c4b7",
+    "article_title": "Market Direction in June Quarter",
+    "question": "What is a major risk factor for the market in the near term?",
+    "answer_label": "B",
+    "answer_text": "Geopolitical uncertainty",
+    "explanation": "Geopolitical uncertainty is a major risk factor for the market in the near term, as it can impact global economic trends and investor sentiment.",
+    "due_at": "2026-05-23T22:38:11.008634+00:00"
   }
 ]
