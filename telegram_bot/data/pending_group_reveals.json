@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "270b9d3589f44c999f8e96448e072b1b",
-    "article_title": "Honda ZR-V Launch in India",
-    "question": "What type of powertrain does the Honda ZR-V feature?",
+    "reveal_id": "222cfc79076e4becab3ccb1ccbdc17e6",
+    "article_title": "US Tightens Immigration Rules",
+    "question": "What is the new requirement for most green card applicants in the US?",
+    "answer_label": "B",
+    "answer_text": "Apply from their home countries",
+    "explanation": "The new policy requires most foreign nationals to complete the green card application process from outside the US.",
+    "due_at": "2026-05-23T09:59:00.452338+00:00"
+  },
+  {
+    "reveal_id": "1594dcf7d26147d8908e23ebd32892e7",
+    "article_title": "US Tightens Immigration Rules",
+    "question": "Who announced the new US immigration policy?",
+    "answer_label": "B",
+    "answer_text": "US President Donald Trump",
+    "explanation": "The new policy was announced by the Trump administration.",
+    "due_at": "2026-05-23T09:59:01.057131+00:00"
+  },
+  {
+    "reveal_id": "a1c7e1a072404ab380e25f4745e6a9f2",
+    "article_title": "US Tightens Immigration Rules",
+    "question": "What type of application is affected by the new US immigration policy?",
+    "answer_label": "B",
+    "answer_text": "Green card applications",
+    "explanation": "The new policy affects green card applications, requiring applicants to apply from their home countries.",
+    "due_at": "2026-05-23T09:59:01.690182+00:00"
+  },
+  {
+    "reveal_id": "13fbd7b95567451e934d4bad9d29edeb",
+    "article_title": "SC Refers UAPA Bail Question to Larger Bench",
+    "question": "What is the main issue that led to the SC referring the question to a larger bench?",
     "answer_label": "A",
-    "answer_text": "Sports e:HEV",
-    "explanation": "The Honda ZR-V features Honda's Sports e:HEV powertrain, which is a strong-hybrid technology.",
-    "due_at": "2026-05-23T08:09:41.717877+00:00"
+    "answer_text": "Disagreement on UAPA bail due to trial delay",
+    "explanation": "The SC referred the question to a larger bench due to a disagreement between two benches on whether delay in trial can justify bail for those accused under UAPA.",
+    "due_at": "2026-05-23T09:59:08.582137+00:00"
   },
   {
-    "reveal_id": "cd178fcfbebb4f81a332c6d52d9e478f",
-    "article_title": "Honda ZR-V Launch in India",
-    "question": "How is the Honda ZR-V imported to India?",
-    "answer_label": "B",
-    "answer_text": "As a Completely Built Unit",
-    "explanation": "The Honda ZR-V is imported to India as a Completely Built Unit, or CBU.",
-    "due_at": "2026-05-23T08:09:45.514173+00:00"
-  },
-  {
-    "reveal_id": "94b4edd2488b49669622524e8c5ba29c",
-    "article_title": "Honda ZR-V Launch in India",
-    "question": "What is the significance of the Honda ZR-V launch in India?",
+    "reveal_id": "eef7b7e0b8944706800d9da706c3dc61",
+    "article_title": "SC Refers UAPA Bail Question to Larger Bench",
+    "question": "Which act is at the center of the SC's decision to refer the question to a larger bench?",
     "answer_label": "C",
-    "answer_text": "It expands Honda's domestic lineup in India",
-    "explanation": "The launch of the Honda ZR-V expands Honda's domestic lineup in India, introducing a new premium model to the market.",
-    "due_at": "2026-05-23T08:09:46.233654+00:00"
+    "answer_text": "The Unlawful Activities (Prevention) Act",
+    "explanation": "The Unlawful Activities (Prevention) Act is the act at the center of the SC's decision to refer the question to a larger bench.",
+    "due_at": "2026-05-23T09:59:09.196404+00:00"
   },
   {
-    "reveal_id": "80dae2d3b8814d19a4fc1f736e41628e",
-    "article_title": "RBI Surplus Transfer to Government",
-    "question": "What is the amount of surplus transfer approved by the RBI's central board for FY26?",
+    "reveal_id": "db6bff566d5a4b278cb38fed7e446fee",
+    "article_title": "SC Refers UAPA Bail Question to Larger Bench",
+    "question": "What is the expected outcome of the SC's decision to refer the question to a larger bench?",
     "answer_label": "C",
-    "answer_text": "Rs 2.86 lakh crore",
-    "explanation": "The RBI's central board approved a record Rs 2.86 lakh crore surplus transfer to the government for FY26.",
-    "due_at": "2026-05-23T08:09:53.314225+00:00"
-  },
-  {
-    "reveal_id": "fe5304221d4d44b8adc0762579bd6640",
-    "article_title": "RBI Surplus Transfer to Government",
-    "question": "What is the expected impact of the RBI surplus transfer on the government's finances?",
-    "answer_label": "C",
-    "answer_text": "Boost to non-tax revenues",
-    "explanation": "The surplus transfer will provide a significant boost to India's non-tax revenues.",
-    "due_at": "2026-05-23T08:09:53.903845+00:00"
-  },
-  {
-    "reveal_id": "91d8378b2c284429b93bfe7e951e6cff",
-    "article_title": "RBI Surplus Transfer to Government",
-    "question": "Why did the RBI's balance sheet expand, leading to a surplus transfer?",
-    "answer_label": "B",
-    "answer_text": "Increase in gross income",
-    "explanation": "The RBI's balance sheet expanded, and net income rose, supported by increased gross income.",
-    "due_at": "2026-05-23T08:09:54.497446+00:00"
+    "answer_text": "A clarification on the interpretation of UAPA",
+    "explanation": "The expected outcome of the SC's decision to refer the question to a larger bench is a clarification on the interpretation of UAPA.",
+    "due_at": "2026-05-23T09:59:09.803504+00:00"
   }
 ]
