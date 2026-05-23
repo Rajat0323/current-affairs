@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "18a2a621992940a9948a2a0287a3b49b",
-    "article_title": "Fuel Price Hike in India",
-    "question": "What is the increase in petrol price per litre in India?",
-    "answer_label": "B",
-    "answer_text": "87 paise",
-    "explanation": "The petrol price has increased by 87 paise per litre, as per the recent hike.",
-    "due_at": "2026-05-23T16:59:25.941189+00:00"
+    "reveal_id": "0970eb81f9884ecf930fd0339fdea36c",
+    "article_title": "India's Economic Resilience",
+    "question": "What is the current state of India's economic activity?",
+    "answer_label": "C",
+    "answer_text": "Growing",
+    "explanation": "India's economic activity showed continued resilience in April, with both industrial and services sectors maintaining steady momentum.",
+    "due_at": "2026-05-23T18:10:34.020483+00:00"
   },
   {
-    "reveal_id": "f59af02bd4074b42920fd63a65beefb5",
-    "article_title": "Fuel Price Hike in India",
-    "question": "What is the current price of petrol per litre in Delhi?",
+    "reveal_id": "19d2ffdf6895474a8166041e8fb3c75c",
+    "article_title": "India's Economic Resilience",
+    "question": "What is a major factor affecting global economic uncertainty?",
     "answer_label": "B",
-    "answer_text": "\u20b999.51",
-    "explanation": "The current price of petrol per litre in Delhi is \u20b999.51.",
-    "due_at": "2026-05-23T16:59:26.631714+00:00"
+    "answer_text": "Ongoing uncertainty in West Asia",
+    "explanation": "The article mentions ongoing uncertainty in West Asia as a factor affecting global economic uncertainty.",
+    "due_at": "2026-05-23T18:10:37.807167+00:00"
   },
   {
-    "reveal_id": "6b378946577c4a44af2442713755b6c2",
-    "article_title": "Fuel Price Hike in India",
-    "question": "What is the reason for the increase in fuel prices in India?",
+    "reveal_id": "ada510d4fbe447c8b9a19bc69c1e2dcf",
+    "article_title": "India's Economic Resilience",
+    "question": "Which sectors are driving India's economic resilience?",
     "answer_label": "B",
-    "answer_text": "Global oil market fluctuations",
-    "explanation": "The increase in fuel prices is linked to the ongoing tensions and conflict in the Middle East, affecting global oil markets.",
-    "due_at": "2026-05-23T16:59:27.292019+00:00"
+    "answer_text": "Industrial and services",
+    "explanation": "The article states that both industrial and services sectors are maintaining steady momentum, driving India's economic resilience.",
+    "due_at": "2026-05-23T18:10:38.409948+00:00"
   },
   {
-    "reveal_id": "ae726c6ecdad4a01ba6688feb553f4aa",
-    "article_title": "Yarn Price Hike in Tiruppur",
-    "question": "What is the reason for the potential strike in Tiruppur's domestic sector?",
-    "answer_label": "B",
-    "answer_text": "Yarn price hike",
-    "explanation": "The strike is due to the significant rise in yarn prices, affecting the domestic manufacturers' costs.",
-    "due_at": "2026-05-23T16:59:31.774968+00:00"
+    "reveal_id": "0fdc55750387496eac3fe855a0d29fe4",
+    "article_title": "Telangana Deputy CM Urges Banks to Support Welfare Initiatives",
+    "question": "What is the total amount of agricultural loans disbursed by banks in Telangana?",
+    "answer_label": "C",
+    "answer_text": "Rs 1,68,401 crore",
+    "explanation": "The total amount of agricultural loans disbursed by banks in Telangana is Rs 1,68,401 crore, exceeding the target.",
+    "due_at": "2026-05-23T18:10:45.352945+00:00"
   },
   {
-    "reveal_id": "1db4ce40ea5341178bc84e726f1694f6",
-    "article_title": "Yarn Price Hike in Tiruppur",
-    "question": "By how much have yarn prices risen since January?",
-    "answer_label": "D",
-    "answer_text": "Rs 61-65 per kg",
-    "explanation": "Yarn prices have increased by Rs 61-65 per kg since January, as per industry sources.",
-    "due_at": "2026-05-23T16:59:32.465677+00:00"
+    "reveal_id": "56a0f40d820f4873a5d0fdf8bcab810c",
+    "article_title": "Telangana Deputy CM Urges Banks to Support Welfare Initiatives",
+    "question": "What was the target for agricultural loans in Telangana?",
+    "answer_label": "C",
+    "answer_text": "Rs 1,65,297 crore",
+    "explanation": "The target for agricultural loans in Telangana was Rs 1,65,297 crore.",
+    "due_at": "2026-05-23T18:10:45.955467+00:00"
   },
   {
-    "reveal_id": "9adc0085d25f4e36aada368d42b05fd6",
-    "article_title": "Yarn Price Hike in Tiruppur",
-    "question": "Which city's domestic sector is considering a strike due to yarn price hike?",
+    "reveal_id": "14ad5bd16e7d4f9db447aac5f12d695d",
+    "article_title": "Telangana Deputy CM Urges Banks to Support Welfare Initiatives",
+    "question": "Who urged banks to support more welfare and development initiatives in Telangana?",
     "answer_label": "B",
-    "answer_text": "Tiruppur",
-    "explanation": "Tiruppur's domestic sector is moving towards a strike due to the significant rise in yarn prices.",
-    "due_at": "2026-05-23T16:59:33.136730+00:00"
+    "answer_text": "Telangana Deputy CM",
+    "explanation": "The Telangana Deputy CM urged banks to support more welfare and development initiatives in the state.",
+    "due_at": "2026-05-23T18:10:46.581768+00:00"
   }
 ]
