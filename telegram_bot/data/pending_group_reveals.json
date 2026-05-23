@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "97695c4c148247b5b0b7770ef8e73d93",
-    "article_title": "Private Hospitals in Delhi-NCR Face Pricing Issues",
-    "question": "What issue was flagged by the Competition Commission of India in private hospitals in Delhi-NCR?",
+    "reveal_id": "ae8608116c8a4350b74af8f2f6b33a39",
+    "article_title": "Saline Shortage in Hospitals",
+    "question": "What is the reason for the shortage of saline and essential medicines in West Bengal hospitals?",
     "answer_label": "B",
-    "answer_text": "Pricing issues",
-    "explanation": "The Competition Commission of India observed pricing issues in private hospitals in Delhi-NCR, including costly diagnostic tests.",
-    "due_at": "2026-05-22T23:48:20.906989+00:00"
+    "answer_text": "Conflict in West Asia",
+    "explanation": "The conflict in West Asia has disrupted international supply chains, leading to shortages of essential medicines and medical consumables.",
+    "due_at": "2026-05-23T01:51:06.173133+00:00"
   },
   {
-    "reveal_id": "5cdea8447b564648b292e223c89786cd",
-    "article_title": "Private Hospitals in Delhi-NCR Face Pricing Issues",
-    "question": "What effect do patients experience when relying on in-house services in private hospitals?",
-    "answer_label": "B",
-    "answer_text": "Locked-in effect",
-    "explanation": "Patients often depend on in-house services, creating a 'locked-in' effect, making them reliant on the hospital's services.",
-    "due_at": "2026-05-22T23:48:24.647748+00:00"
+    "reveal_id": "9f52099aa1394bb18ca6ba86eff62df6",
+    "article_title": "Saline Shortage in Hospitals",
+    "question": "Which of the following items is affected by the shortage?",
+    "answer_label": "A",
+    "answer_text": "Paracetamol tablets",
+    "explanation": "Paracetamol tablets are one of the essential medicines affected by the shortage due to the conflict in West Asia.",
+    "due_at": "2026-05-23T01:51:09.938168+00:00"
   },
   {
-    "reveal_id": "b6eed9f081a945ea94e43f6bd9d76998",
-    "article_title": "Private Hospitals in Delhi-NCR Face Pricing Issues",
-    "question": "What was the outcome of the proceedings against Sir Ganga Ram Hospital?",
-    "answer_label": "B",
-    "answer_text": "Closed due to insufficient evidence",
-    "explanation": "The proceedings against Sir Ganga Ram Hospital were closed due to insufficient evidence of abusing a dominant position.",
-    "due_at": "2026-05-22T23:48:25.238172+00:00"
-  },
-  {
-    "reveal_id": "ebb42364ddbe41e894e98c2615a17dbb",
-    "article_title": "Allahabad HC Seeks Arms Licence Details",
-    "question": "Which court ordered the UP government to provide arms licence details?",
-    "answer_label": "B",
-    "answer_text": "Allahabad High Court",
-    "explanation": "The Allahabad High Court ordered the UP government to provide arms licence details of 19 individuals.",
-    "due_at": "2026-05-22T23:48:32.143602+00:00"
-  },
-  {
-    "reveal_id": "5ef0c7c4b3644cda9f2b77a9a6788e82",
-    "article_title": "Allahabad HC Seeks Arms Licence Details",
-    "question": "Why did the court order the UP government to provide arms licence details?",
-    "answer_label": "B",
-    "answer_text": "To maintain social harmony",
-    "explanation": "The court ordered to prevent public display of weapons and maintain social harmony.",
-    "due_at": "2026-05-22T23:48:32.728932+00:00"
-  },
-  {
-    "reveal_id": "7147dd1f33214449ac394ee4e73e218d",
-    "article_title": "Allahabad HC Seeks Arms Licence Details",
-    "question": "How many individuals' arms licence details were ordered to be provided by the court?",
+    "reveal_id": "8681e15bd4374f268524124f6bfef29a",
+    "article_title": "Saline Shortage in Hospitals",
+    "question": "How have hospitals been advised to procure the affected items?",
     "answer_label": "C",
-    "answer_text": "19",
-    "explanation": "The court ordered the UP government to provide arms licence details of 19 individuals.",
-    "due_at": "2026-05-22T23:48:33.295281+00:00"
+    "answer_text": "As non-catalogue items",
+    "explanation": "Hospitals have been instructed to procure the affected items as non-catalogue or non-cat materials, meaning they may no longer be available through the usual government supply list.",
+    "due_at": "2026-05-23T01:51:10.563043+00:00"
+  },
+  {
+    "reveal_id": "dd448037505f4ec6831ee1ed6fe87261",
+    "article_title": "Government Sells Stake in Central Bank of India",
+    "question": "What is the main reason for the government to sell an additional stake in Central Bank of India?",
+    "answer_label": "A",
+    "answer_text": "To meet public shareholding rules",
+    "explanation": "The government aims to meet public shareholding rules by selling the additional stake.",
+    "due_at": "2026-05-23T01:51:17.170184+00:00"
+  },
+  {
+    "reveal_id": "b96e452672a443af96676abee9cb26f9",
+    "article_title": "Government Sells Stake in Central Bank of India",
+    "question": "What is the outcome of the strong investor demand for Central Bank of India's stake sale?",
+    "answer_label": "C",
+    "answer_text": "Increase in stake sale from 4% to 8%",
+    "explanation": "The strong investor demand led to an increase in the stake sale from 4% to 8%.",
+    "due_at": "2026-05-23T01:51:17.761644+00:00"
+  },
+  {
+    "reveal_id": "398bcdac322341a8b495f904d30710f6",
+    "article_title": "Government Sells Stake in Central Bank of India",
+    "question": "When will retail investors have a chance to bid for Central Bank of India's stake?",
+    "answer_label": "B",
+    "answer_text": "On Monday",
+    "explanation": "Retail bidding opens on Monday.",
+    "due_at": "2026-05-23T01:51:18.335003+00:00"
   }
 ]
