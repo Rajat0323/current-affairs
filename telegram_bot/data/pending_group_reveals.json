@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "2bc88208c08e44d09b5ea1cc8c010692",
-    "article_title": "Centre Forms Panel to Address Port Bottlenecks",
-    "question": "What is the main purpose of the panel set up by the Centre?",
+    "reveal_id": "99124dee3eb247418b1fba69db38e0a9",
+    "article_title": "India-Cyprus Cooperation",
+    "question": "Which areas of cooperation were highlighted by President Droupadi Murmu between India and Cyprus?",
     "answer_label": "B",
-    "answer_text": "To address port bottlenecks",
-    "explanation": "The panel aims to resolve container congestion at Jawaharlal Nehru Port Authority.",
-    "due_at": "2026-05-23T11:30:18.866342+00:00"
+    "answer_text": "Semiconductors, Space, and Artificial Intelligence",
+    "explanation": "President Droupadi Murmu mentioned semiconductors, space, and Artificial Intelligence as areas of cooperation between India and Cyprus.",
+    "due_at": "2026-05-23T12:36:04.452688+00:00"
   },
   {
-    "reveal_id": "ef918690d802422086e8df3af52543b6",
-    "article_title": "Centre Forms Panel to Address Port Bottlenecks",
-    "question": "Which port is experiencing container congestion?",
+    "reveal_id": "9f098896378e496d87bdd4b8ca645f9a",
+    "article_title": "India-Cyprus Cooperation",
+    "question": "Who is the President of Cyprus who visited India?",
     "answer_label": "B",
-    "answer_text": "Jawaharlal Nehru Port Authority",
-    "explanation": "Jawaharlal Nehru Port Authority in Mumbai is India's busiest container port and is facing congestion issues.",
-    "due_at": "2026-05-23T11:30:19.916310+00:00"
+    "answer_text": "Nikos Christodoulides",
+    "explanation": "Nikos Christodoulides is the President of Cyprus who visited India and met with President Droupadi Murmu.",
+    "due_at": "2026-05-23T12:36:08.237211+00:00"
   },
   {
-    "reveal_id": "0f66731ed007476d9fd99d78cf653bdc",
-    "article_title": "Centre Forms Panel to Address Port Bottlenecks",
-    "question": "What will be the benefit of resolving port bottlenecks?",
+    "reveal_id": "8d608ab06422412c93b2ab768985b4ec",
+    "article_title": "India-Cyprus Cooperation",
+    "question": "What is the expected outcome of cooperation between India and Cyprus in the mentioned areas?",
     "answer_label": "C",
-    "answer_text": "Boost to India's trade and economy",
-    "explanation": "Resolving port bottlenecks will improve port efficiency, which will boost India's trade and economy.",
-    "due_at": "2026-05-23T11:30:20.582908+00:00"
+    "answer_text": "Boost to India's semiconductor and space industries",
+    "explanation": "The cooperation between India and Cyprus is expected to boost India's semiconductor and space industries, among other benefits.",
+    "due_at": "2026-05-23T12:36:08.864454+00:00"
   },
   {
-    "reveal_id": "cde6ee40655b46129bd9014550c6af10",
-    "article_title": "New PAN Norms 2026",
-    "question": "What is the new rule for annual cash withdrawals exceeding Rs 10 lakh?",
-    "answer_label": "C",
-    "answer_text": "PAN is mandatory",
-    "explanation": "As per the new Income Tax Rules 2026, PAN is now mandatory for annual cash withdrawals exceeding Rs 10 lakh.",
-    "due_at": "2026-05-23T11:30:24.732598+00:00"
+    "reveal_id": "a6623f7fcf154f0ca32b1c3ebdd160fc",
+    "article_title": "India's Smart Border Project",
+    "question": "Which countries share borders with India where the 'smart border' project will be implemented?",
+    "answer_label": "B",
+    "answer_text": "Pakistan and Bangladesh",
+    "explanation": "The 'smart border' project aims to enhance security along India's borders with Pakistan and Bangladesh.",
+    "due_at": "2026-05-23T12:36:16.089578+00:00"
   },
   {
-    "reveal_id": "5d9e71ab12614b55a668520af25ae858",
-    "article_title": "New PAN Norms 2026",
-    "question": "Which form replaces Form 60 for declarations without PAN?",
-    "answer_label": "C",
-    "answer_text": "Form 97",
-    "explanation": "Form 97 replaces Form 60 for declarations without PAN as per the new rules.",
-    "due_at": "2026-05-23T11:30:25.468680+00:00"
+    "reveal_id": "8ff39fc2f57a49f19783f71e6984e154",
+    "article_title": "India's Smart Border Project",
+    "question": "What is the primary goal of the 'smart border' project?",
+    "answer_label": "B",
+    "answer_text": "To reduce cross-border crimes and infiltration",
+    "explanation": "The 'smart border' project aims to curb infiltration and reduce cross-border crimes.",
+    "due_at": "2026-05-23T12:36:16.729136+00:00"
   },
   {
-    "reveal_id": "d71bdb211df24606b9f577d397547f6c",
-    "article_title": "New PAN Norms 2026",
-    "question": "What is the new rule for cash deposits and debit card applications?",
-    "answer_label": "C",
-    "answer_text": "PAN quoting is relaxed",
-    "explanation": "The new Income Tax Rules 2026 have relaxed PAN quoting for several transactions, including cash deposits and debit card applications.",
-    "due_at": "2026-05-23T11:30:29.546151+00:00"
+    "reveal_id": "e8cf4ed8ac3e428d89f3132acc0f80cc",
+    "article_title": "India's Smart Border Project",
+    "question": "What technology will be used in the 'smart border' project?",
+    "answer_label": "B",
+    "answer_text": "Advanced surveillance technology",
+    "explanation": "The 'smart border' project will use advanced surveillance technology to enhance security.",
+    "due_at": "2026-05-23T12:36:17.345851+00:00"
   }
 ]
