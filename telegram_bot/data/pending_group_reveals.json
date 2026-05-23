@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "404ce07edd19469ab7703f3f862656eb",
-    "article_title": "National Athletics Competition Affected by Heat",
-    "question": "Where was the National Senior Athletics Federation Competition held?",
+    "reveal_id": "4ca516e68c0640b1b13377bf6879b9af",
+    "article_title": "US Secretary of State Visits Kolkata",
+    "question": "Who visited Mother House in Kolkata?",
     "answer_label": "B",
-    "answer_text": "Ranchi",
-    "explanation": "The competition was held in Ranchi, as mentioned in the article.",
-    "due_at": "2026-05-23T14:31:43.801447+00:00"
+    "answer_text": "US Secretary of State Marco Rubio",
+    "explanation": "Marco Rubio is the US Secretary of State who visited Mother House in Kolkata as part of his maiden four-day visit to India.",
+    "due_at": "2026-05-23T15:46:10.152128+00:00"
   },
   {
-    "reveal_id": "deb963a454614c05999b8408f865ae18",
-    "article_title": "National Athletics Competition Affected by Heat",
-    "question": "How many athletes failed to finish the 10,000m race?",
-    "answer_label": "D",
-    "answer_text": "8",
-    "explanation": "Eight athletes failed to finish the race due to harsh weather conditions.",
-    "due_at": "2026-05-23T14:31:47.558512+00:00"
-  },
-  {
-    "reveal_id": "c14dee0348f44ec5b4ea5fa91d32f1a9",
-    "article_title": "National Athletics Competition Affected by Heat",
-    "question": "Who won the men's 10,000m race at the National Senior Athletics Federation Competition?",
-    "answer_label": "B",
-    "answer_text": "Deepak Bhatt",
-    "explanation": "Deepak Bhatt from Uttarakhand won the men's 10,000m race with a personal-best time.",
-    "due_at": "2026-05-23T14:31:48.167625+00:00"
-  },
-  {
-    "reveal_id": "3314b6afd7f94b8ea7419c9e99a3ca07",
-    "article_title": "US Senator Marco Rubio Visits India",
-    "question": "Who is visiting India for a 4-day trip?",
-    "answer_label": "A",
-    "answer_text": "Marco Rubio",
-    "explanation": "Marco Rubio is a US Senator and a top Trump aide, and this is his first trip to India since taking office.",
-    "due_at": "2026-05-23T14:31:54.754202+00:00"
-  },
-  {
-    "reveal_id": "ec30de008dde4b72b5ca32e6396158af",
-    "article_title": "US Senator Marco Rubio Visits India",
-    "question": "Where will Marco Rubio meet PM Modi and Jaishankar?",
-    "answer_label": "B",
+    "reveal_id": "caf167c6598c4626bc0f0ba1d49cf5aa",
+    "article_title": "US Secretary of State Visits Kolkata",
+    "question": "Where did Marco Rubio's four-day India visit begin?",
+    "answer_label": "C",
     "answer_text": "Kolkata",
-    "explanation": "Marco Rubio will meet PM Modi and Jaishankar in Kolkata during his 4-day visit to India.",
-    "due_at": "2026-05-23T14:31:55.338338+00:00"
+    "explanation": "Marco Rubio's visit to India started in Kolkata, where he visited Mother House.",
+    "due_at": "2026-05-23T15:46:13.934401+00:00"
   },
   {
-    "reveal_id": "16bfd01e5e884edca60cb4c141401b44",
-    "article_title": "US Senator Marco Rubio Visits India",
-    "question": "What global issue may be impacted by Marco Rubio's visit to India?",
+    "reveal_id": "47d993d84cd2498cbd0f1b33583df303",
+    "article_title": "US Secretary of State Visits Kolkata",
+    "question": "Who welcomed Marco Rubio at the Kolkata airport?",
+    "answer_label": "C",
+    "answer_text": "US Ambassador Sergio Gor",
+    "explanation": "US Ambassador Sergio Gor welcomed Marco Rubio at the Kolkata airport.",
+    "due_at": "2026-05-23T15:46:14.642744+00:00"
+  },
+  {
+    "reveal_id": "a579a450666d4efda17a5b5a4eb9ef99",
+    "article_title": "CNG Price Hike in Delhi",
+    "question": "What is the amount by which CNG prices have been hiked in Delhi?",
     "answer_label": "B",
-    "answer_text": "Iran war",
-    "explanation": "The visit may impact India's stance on the Iran war, among other global issues.",
-    "due_at": "2026-05-23T14:31:55.945294+00:00"
+    "answer_text": "Rs 1 per kg",
+    "explanation": "The CNG price hike is by Rs 1 per kg, as per the given information.",
+    "due_at": "2026-05-23T15:46:21.596406+00:00"
+  },
+  {
+    "reveal_id": "facbc77e15014ba188071213395d182e",
+    "article_title": "CNG Price Hike in Delhi",
+    "question": "How many times have CNG prices been hiked in the last 9 days?",
+    "answer_label": "C",
+    "answer_text": "Thrice",
+    "explanation": "The CNG price hike is the third one in 9 days.",
+    "due_at": "2026-05-23T15:46:22.181822+00:00"
+  },
+  {
+    "reveal_id": "c5037ea6e0544094b3d5a71d9417ae3d",
+    "article_title": "CNG Price Hike in Delhi",
+    "question": "What other fuel prices have been increased alongside CNG?",
+    "answer_label": "C",
+    "answer_text": "Both petrol and diesel",
+    "explanation": "The hike in CNG prices is accompanied by increases in petrol and diesel prices.",
+    "due_at": "2026-05-23T15:46:22.772058+00:00"
   }
 ]
