@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "4ca516e68c0640b1b13377bf6879b9af",
-    "article_title": "US Secretary of State Visits Kolkata",
-    "question": "Who visited Mother House in Kolkata?",
+    "reveal_id": "18a2a621992940a9948a2a0287a3b49b",
+    "article_title": "Fuel Price Hike in India",
+    "question": "What is the increase in petrol price per litre in India?",
     "answer_label": "B",
-    "answer_text": "US Secretary of State Marco Rubio",
-    "explanation": "Marco Rubio is the US Secretary of State who visited Mother House in Kolkata as part of his maiden four-day visit to India.",
-    "due_at": "2026-05-23T15:46:10.152128+00:00"
+    "answer_text": "87 paise",
+    "explanation": "The petrol price has increased by 87 paise per litre, as per the recent hike.",
+    "due_at": "2026-05-23T16:59:25.941189+00:00"
   },
   {
-    "reveal_id": "caf167c6598c4626bc0f0ba1d49cf5aa",
-    "article_title": "US Secretary of State Visits Kolkata",
-    "question": "Where did Marco Rubio's four-day India visit begin?",
-    "answer_label": "C",
-    "answer_text": "Kolkata",
-    "explanation": "Marco Rubio's visit to India started in Kolkata, where he visited Mother House.",
-    "due_at": "2026-05-23T15:46:13.934401+00:00"
-  },
-  {
-    "reveal_id": "47d993d84cd2498cbd0f1b33583df303",
-    "article_title": "US Secretary of State Visits Kolkata",
-    "question": "Who welcomed Marco Rubio at the Kolkata airport?",
-    "answer_label": "C",
-    "answer_text": "US Ambassador Sergio Gor",
-    "explanation": "US Ambassador Sergio Gor welcomed Marco Rubio at the Kolkata airport.",
-    "due_at": "2026-05-23T15:46:14.642744+00:00"
-  },
-  {
-    "reveal_id": "a579a450666d4efda17a5b5a4eb9ef99",
-    "article_title": "CNG Price Hike in Delhi",
-    "question": "What is the amount by which CNG prices have been hiked in Delhi?",
+    "reveal_id": "f59af02bd4074b42920fd63a65beefb5",
+    "article_title": "Fuel Price Hike in India",
+    "question": "What is the current price of petrol per litre in Delhi?",
     "answer_label": "B",
-    "answer_text": "Rs 1 per kg",
-    "explanation": "The CNG price hike is by Rs 1 per kg, as per the given information.",
-    "due_at": "2026-05-23T15:46:21.596406+00:00"
+    "answer_text": "\u20b999.51",
+    "explanation": "The current price of petrol per litre in Delhi is \u20b999.51.",
+    "due_at": "2026-05-23T16:59:26.631714+00:00"
   },
   {
-    "reveal_id": "facbc77e15014ba188071213395d182e",
-    "article_title": "CNG Price Hike in Delhi",
-    "question": "How many times have CNG prices been hiked in the last 9 days?",
-    "answer_label": "C",
-    "answer_text": "Thrice",
-    "explanation": "The CNG price hike is the third one in 9 days.",
-    "due_at": "2026-05-23T15:46:22.181822+00:00"
+    "reveal_id": "6b378946577c4a44af2442713755b6c2",
+    "article_title": "Fuel Price Hike in India",
+    "question": "What is the reason for the increase in fuel prices in India?",
+    "answer_label": "B",
+    "answer_text": "Global oil market fluctuations",
+    "explanation": "The increase in fuel prices is linked to the ongoing tensions and conflict in the Middle East, affecting global oil markets.",
+    "due_at": "2026-05-23T16:59:27.292019+00:00"
   },
   {
-    "reveal_id": "c5037ea6e0544094b3d5a71d9417ae3d",
-    "article_title": "CNG Price Hike in Delhi",
-    "question": "What other fuel prices have been increased alongside CNG?",
-    "answer_label": "C",
-    "answer_text": "Both petrol and diesel",
-    "explanation": "The hike in CNG prices is accompanied by increases in petrol and diesel prices.",
-    "due_at": "2026-05-23T15:46:22.772058+00:00"
+    "reveal_id": "ae726c6ecdad4a01ba6688feb553f4aa",
+    "article_title": "Yarn Price Hike in Tiruppur",
+    "question": "What is the reason for the potential strike in Tiruppur's domestic sector?",
+    "answer_label": "B",
+    "answer_text": "Yarn price hike",
+    "explanation": "The strike is due to the significant rise in yarn prices, affecting the domestic manufacturers' costs.",
+    "due_at": "2026-05-23T16:59:31.774968+00:00"
+  },
+  {
+    "reveal_id": "1db4ce40ea5341178bc84e726f1694f6",
+    "article_title": "Yarn Price Hike in Tiruppur",
+    "question": "By how much have yarn prices risen since January?",
+    "answer_label": "D",
+    "answer_text": "Rs 61-65 per kg",
+    "explanation": "Yarn prices have increased by Rs 61-65 per kg since January, as per industry sources.",
+    "due_at": "2026-05-23T16:59:32.465677+00:00"
+  },
+  {
+    "reveal_id": "9adc0085d25f4e36aada368d42b05fd6",
+    "article_title": "Yarn Price Hike in Tiruppur",
+    "question": "Which city's domestic sector is considering a strike due to yarn price hike?",
+    "answer_label": "B",
+    "answer_text": "Tiruppur",
+    "explanation": "Tiruppur's domestic sector is moving towards a strike due to the significant rise in yarn prices.",
+    "due_at": "2026-05-23T16:59:33.136730+00:00"
   }
 ]
