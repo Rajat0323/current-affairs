@@ -52,5 +52,59 @@
     "answer_text": "2.1",
     "explanation": "The replacement level of fertility rate is 2.1, which is the average number of children a woman would have to replace the population.",
     "due_at": "2026-05-24T10:15:49.600225+00:00"
+  },
+  {
+    "reveal_id": "c5ddaa5a25dc4828ae20a12c8d341847",
+    "article_title": "Ebola Outbreak in Africa",
+    "question": "What is the current status of the Ebola outbreak in Africa?",
+    "answer_label": "B",
+    "answer_text": "Over 200 deaths",
+    "explanation": "The Ebola outbreak has resulted in over 200 deaths, indicating a severe public health crisis.",
+    "due_at": "2026-05-24T10:41:06.223067+00:00"
+  },
+  {
+    "reveal_id": "6bba6ca5288948d9b32d562da2bee8fd",
+    "article_title": "Ebola Outbreak in Africa",
+    "question": "Which of the following is a concern for India regarding the Ebola outbreak?",
+    "answer_label": "B",
+    "answer_text": "Risk of infection spread through international travel",
+    "explanation": "India needs to be vigilant about the spread of the disease due to its close ties with African countries and international travel.",
+    "due_at": "2026-05-24T10:41:06.820744+00:00"
+  },
+  {
+    "reveal_id": "886503b7499c4051839e6a7aeb07932d",
+    "article_title": "Ebola Outbreak in Africa",
+    "question": "What is being done to address the Ebola outbreak?",
+    "answer_label": "B",
+    "answer_text": "Health authorities are closely monitoring the situation",
+    "explanation": "Health authorities are closely monitoring the situation to prevent further spread of the disease and take necessary measures.",
+    "due_at": "2026-05-24T10:41:11.585262+00:00"
+  },
+  {
+    "reveal_id": "f357899021f54876ba054dbc02266900",
+    "article_title": "Freshly Cooked Meals at Anganwadis in Punjab",
+    "question": "What is the age group of children who will receive freshly cooked meals at anganwadi centres in Punjab?",
+    "answer_label": "B",
+    "answer_text": "3-6 years",
+    "explanation": "The Punjab government has decided to provide freshly cooked meals to children between 3-6 years at all anganwari centres.",
+    "due_at": "2026-05-24T10:41:15.088895+00:00"
+  },
+  {
+    "reveal_id": "abd5107c12a44b6fa7383ba37a711a75",
+    "article_title": "Freshly Cooked Meals at Anganwadis in Punjab",
+    "question": "Which programme will provide freshly cooked meals to children at anganwadi centres in Punjab?",
+    "answer_label": "B",
+    "answer_text": "Supplementary Nutrition Programme",
+    "explanation": "The Supplementary Nutrition Programme will provide freshly cooked meals to children at anganwadi centres in Punjab.",
+    "due_at": "2026-05-24T10:41:18.868361+00:00"
+  },
+  {
+    "reveal_id": "afb91cf11845441289163a19ddc255e3",
+    "article_title": "Freshly Cooked Meals at Anganwadis in Punjab",
+    "question": "What type of meals were previously provided to children at anganwadi centres in Punjab?",
+    "answer_label": "B",
+    "answer_text": "Pre-cooked meals",
+    "explanation": "Pre-cooked meals were previously provided to children at anganwadi centres in Punjab, but will be replaced by freshly cooked meals.",
+    "due_at": "2026-05-24T10:41:19.458735+00:00"
   }
 ]
