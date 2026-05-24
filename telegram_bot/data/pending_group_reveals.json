@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "cbfa813e310444f8929aa2ad93f45197",
-    "article_title": "Fuel Price Hike Protest",
-    "question": "What was the main reason for the Dharamsala Congress protest?",
+    "reveal_id": "6856f73fb0a64e41af105cfef4e72f5d",
+    "article_title": "Power Cuts in Uttar Pradesh",
+    "question": "What is the current issue in Uttar Pradesh?",
     "answer_label": "B",
-    "answer_text": "Hike in fuel prices",
-    "explanation": "The protest was against the continuous hike in petrol and diesel prices.",
-    "due_at": "2026-05-24T05:15:01.725511+00:00"
+    "answer_text": "Power cuts",
+    "explanation": "The article mentions that Uttar Pradesh is facing intense power cuts, leading to public outcry.",
+    "due_at": "2026-05-24T08:14:18.933833+00:00"
   },
   {
-    "reveal_id": "f2bfac6064d743bd953ae783deeef17a",
-    "article_title": "Fuel Price Hike Protest",
-    "question": "What did the Congress workers demand during the protest?",
+    "reveal_id": "190885a5f0904618b028f1167a8e4921",
+    "article_title": "Power Cuts in Uttar Pradesh",
+    "question": "How have opposition parties reacted to the power cuts in Uttar Pradesh?",
+    "answer_label": "B",
+    "answer_text": "They have called it a structural failure",
+    "explanation": "According to the article, opposition parties have labeled the power cuts as a government failure, specifically a structural failure.",
+    "due_at": "2026-05-24T08:14:22.702504+00:00"
+  },
+  {
+    "reveal_id": "8516d7ca178c41589be27bf37d9bf47c",
+    "article_title": "Power Cuts in Uttar Pradesh",
+    "question": "What are the residents of Uttar Pradesh demanding?",
     "answer_label": "C",
-    "answer_text": "Immediate rollback of fuel price hike",
-    "explanation": "The Congress workers demanded an immediate rollback of the hike in fuel prices.",
-    "due_at": "2026-05-24T05:15:02.427457+00:00"
+    "answer_text": "Immediate action to address power cuts",
+    "explanation": "The article states that residents are demanding immediate action to address the power cuts issue.",
+    "due_at": "2026-05-24T08:14:23.279774+00:00"
   },
   {
-    "reveal_id": "2e862b57330f47b08d79da84b65da09d",
-    "article_title": "Fuel Price Hike Protest",
-    "question": "Who was accused of burdening common people with inflation?",
+    "reveal_id": "09508dfa0682468da2997a781faf4ea8",
+    "article_title": "El Nin\u0303o Impact on India's Monsoon",
+    "question": "What is the predicted trend of the strong El Nin\u0303o event?",
     "answer_label": "B",
-    "answer_text": "Central Government",
-    "explanation": "The Central Government was accused of burdening common people with inflation due to the fuel price hike.",
-    "due_at": "2026-05-24T05:15:03.121123+00:00"
+    "answer_text": "To weaken before 2027 monsoon",
+    "explanation": "Meteorologists predict the strong El Nin\u0303o event to peak this year and weaken before India's 2027 monsoon.",
+    "due_at": "2026-05-24T08:14:30.227620+00:00"
   },
   {
-    "reveal_id": "66b8fa830c1444edb968a832eb45a0e1",
-    "article_title": "Ambala Schools Warned on Summer Classes",
-    "question": "What action will be taken against private schools in Ambala if they hold classes during summer vacation?",
-    "answer_label": "B",
-    "answer_text": "Strict action will be taken",
-    "explanation": "The District Education Officer has warned private schools of strict action if any school is found operating during the summer vacations.",
-    "due_at": "2026-05-24T05:15:10.235930+00:00"
+    "reveal_id": "4e96b906edf84f1b99bddae5f2084ebb",
+    "article_title": "El Nin\u0303o Impact on India's Monsoon",
+    "question": "What is a potential impact of El Nin\u0303o events on India?",
+    "answer_label": "C",
+    "answer_text": "Affected monsoon rainfall",
+    "explanation": "El Nin\u0303o events can affect India's monsoon rainfall, which is crucial for the country's agriculture and water supply.",
+    "due_at": "2026-05-24T08:14:30.810960+00:00"
   },
   {
-    "reveal_id": "9313a08087fe4baea57366f42b6dce55",
-    "article_title": "Ambala Schools Warned on Summer Classes",
-    "question": "When do the summer vacations start in Ambala schools?",
+    "reveal_id": "6fe3aea8304b403d8424a5482042d2c5",
+    "article_title": "El Nin\u0303o Impact on India's Monsoon",
+    "question": "Why is it important for India to understand El Nin\u0303o's impact?",
     "answer_label": "B",
-    "answer_text": "May 25",
-    "explanation": "The summer vacations in Ambala schools start on May 25.",
-    "due_at": "2026-05-24T05:15:10.945724+00:00"
-  },
-  {
-    "reveal_id": "8fc31b9893d842a89fd1309d5fee3a24",
-    "article_title": "Ambala Schools Warned on Summer Classes",
-    "question": "Who has been directed to ensure compliance with government orders in Ambala?",
-    "answer_label": "B",
-    "answer_text": "Block Education Officers",
-    "explanation": "The District Education Officer has directed all six Block Education Officers to ensure strict compliance with government orders within their respective jurisdictions.",
-    "due_at": "2026-05-24T05:15:11.667921+00:00"
+    "answer_text": "To prepare for potential weather-related challenges",
+    "explanation": "Understanding El Nin\u0303o's impact helps India prepare for potential weather-related challenges, such as droughts or floods.",
+    "due_at": "2026-05-24T08:14:31.394695+00:00"
   }
 ]
