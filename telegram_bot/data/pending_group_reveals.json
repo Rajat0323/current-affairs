@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "6856f73fb0a64e41af105cfef4e72f5d",
-    "article_title": "Power Cuts in Uttar Pradesh",
-    "question": "What is the current issue in Uttar Pradesh?",
-    "answer_label": "B",
-    "answer_text": "Power cuts",
-    "explanation": "The article mentions that Uttar Pradesh is facing intense power cuts, leading to public outcry.",
-    "due_at": "2026-05-24T08:14:18.933833+00:00"
+    "reveal_id": "63b2945202ba47c2a6c38b677896cd62",
+    "article_title": "Kapurthala Jail Incident",
+    "question": "Where did the jail incident occur?",
+    "answer_label": "A",
+    "answer_text": "Kapurthala jail, Punjab",
+    "explanation": "The incident occurred in Kapurthala jail, which is located in the state of Punjab.",
+    "due_at": "2026-05-24T10:15:35.235119+00:00"
   },
   {
-    "reveal_id": "190885a5f0904618b028f1167a8e4921",
-    "article_title": "Power Cuts in Uttar Pradesh",
-    "question": "How have opposition parties reacted to the power cuts in Uttar Pradesh?",
+    "reveal_id": "56d9a4e22a974820b9eb3011cdf8ffda",
+    "article_title": "Kapurthala Jail Incident",
+    "question": "What measures did the police use to control the ruckus?",
     "answer_label": "B",
-    "answer_text": "They have called it a structural failure",
-    "explanation": "According to the article, opposition parties have labeled the power cuts as a government failure, specifically a structural failure.",
-    "due_at": "2026-05-24T08:14:22.702504+00:00"
+    "answer_text": "Teargas and cane charge",
+    "explanation": "The police used teargas and cane charge to control the situation in the jail.",
+    "due_at": "2026-05-24T10:15:36.134194+00:00"
   },
   {
-    "reveal_id": "8516d7ca178c41589be27bf37d9bf47c",
-    "article_title": "Power Cuts in Uttar Pradesh",
-    "question": "What are the residents of Uttar Pradesh demanding?",
+    "reveal_id": "2f2d07b12e004f4fbd78d8306463a034",
+    "article_title": "Kapurthala Jail Incident",
+    "question": "How many people were injured in the incident?",
     "answer_label": "C",
-    "answer_text": "Immediate action to address power cuts",
-    "explanation": "The article states that residents are demanding immediate action to address the power cuts issue.",
-    "due_at": "2026-05-24T08:14:23.279774+00:00"
+    "answer_text": "Three",
+    "explanation": "Three people were injured in the incident that occurred in the Kapurthala jail.",
+    "due_at": "2026-05-24T10:15:36.849395+00:00"
   },
   {
-    "reveal_id": "09508dfa0682468da2997a781faf4ea8",
-    "article_title": "El Nin\u0303o Impact on India's Monsoon",
-    "question": "What is the predicted trend of the strong El Nin\u0303o event?",
+    "reveal_id": "021af8260ed043658f1b43d4a9801cd3",
+    "article_title": "India's Fertility Rate Declines",
+    "question": "What is the current total fertility rate in India?",
     "answer_label": "B",
-    "answer_text": "To weaken before 2027 monsoon",
-    "explanation": "Meteorologists predict the strong El Nin\u0303o event to peak this year and weaken before India's 2027 monsoon.",
-    "due_at": "2026-05-24T08:14:30.227620+00:00"
+    "answer_text": "1.9",
+    "explanation": "The total fertility rate has fallen to 1.9, indicating a decline in population growth.",
+    "due_at": "2026-05-24T10:15:43.982146+00:00"
   },
   {
-    "reveal_id": "4e96b906edf84f1b99bddae5f2084ebb",
-    "article_title": "El Nin\u0303o Impact on India's Monsoon",
-    "question": "What is a potential impact of El Nin\u0303o events on India?",
+    "reveal_id": "9ed3c93298f844e1b884ccc11d2828c6",
+    "article_title": "India's Fertility Rate Declines",
+    "question": "How many states have a fertility rate above the replacement level?",
+    "answer_label": "B",
+    "answer_text": "6",
+    "explanation": "Only 6 states now have a fertility rate above the replacement level, indicating a significant decline.",
+    "due_at": "2026-05-24T10:15:44.685514+00:00"
+  },
+  {
+    "reveal_id": "68cadf5a97784f1490baf9b05ced45d5",
+    "article_title": "India's Fertility Rate Declines",
+    "question": "What is the replacement level of fertility rate?",
     "answer_label": "C",
-    "answer_text": "Affected monsoon rainfall",
-    "explanation": "El Nin\u0303o events can affect India's monsoon rainfall, which is crucial for the country's agriculture and water supply.",
-    "due_at": "2026-05-24T08:14:30.810960+00:00"
-  },
-  {
-    "reveal_id": "6fe3aea8304b403d8424a5482042d2c5",
-    "article_title": "El Nin\u0303o Impact on India's Monsoon",
-    "question": "Why is it important for India to understand El Nin\u0303o's impact?",
-    "answer_label": "B",
-    "answer_text": "To prepare for potential weather-related challenges",
-    "explanation": "Understanding El Nin\u0303o's impact helps India prepare for potential weather-related challenges, such as droughts or floods.",
-    "due_at": "2026-05-24T08:14:31.394695+00:00"
+    "answer_text": "2.1",
+    "explanation": "The replacement level of fertility rate is 2.1, which is the average number of children a woman would have to replace the population.",
+    "due_at": "2026-05-24T10:15:49.600225+00:00"
   }
 ]
