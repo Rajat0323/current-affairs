@@ -1,56 +1,56 @@
 [
   {
-    "reveal_id": "7e116e2419f84c77ac49d0ca922e6ab4",
-    "article_title": "India's Development Journey",
-    "question": "What was the occasion on which PM Modi handed over appointment letters to over 51,000 youth?",
+    "reveal_id": "cbfa813e310444f8929aa2ad93f45197",
+    "article_title": "Fuel Price Hike Protest",
+    "question": "What was the main reason for the Dharamsala Congress protest?",
     "answer_label": "B",
-    "answer_text": "19th Employment Fair",
-    "explanation": "The 19th Employment Fair was the occasion when PM Modi handed over appointment letters to over 51,000 youth.",
-    "due_at": "2026-05-24T00:46:02.023176+00:00"
+    "answer_text": "Hike in fuel prices",
+    "explanation": "The protest was against the continuous hike in petrol and diesel prices.",
+    "due_at": "2026-05-24T05:15:01.725511+00:00"
   },
   {
-    "reveal_id": "1d4221cb0d344438a6392a9d4371d4b6",
-    "article_title": "India's Development Journey",
-    "question": "According to PM Modi, what is the basis for new opportunities for the youth?",
-    "answer_label": "B",
-    "answer_text": "Growing international cooperation",
-    "explanation": "PM Modi described growing international cooperation as the basis for new opportunities for the youth.",
-    "due_at": "2026-05-24T00:46:05.790629+00:00"
-  },
-  {
-    "reveal_id": "d6dd2bfbdd2d42e7988b9c83f32b98aa",
-    "article_title": "India's Development Journey",
-    "question": "What is required to fulfill the dream of a developed India, according to PM Modi?",
+    "reveal_id": "f2bfac6064d743bd953ae783deeef17a",
+    "article_title": "Fuel Price Hike Protest",
+    "question": "What did the Congress workers demand during the protest?",
     "answer_label": "C",
-    "answer_text": "Strength of the youth",
-    "explanation": "PM Modi said that the dream of developed India will be fulfilled only by the strength of youth.",
-    "due_at": "2026-05-24T00:46:06.386979+00:00"
+    "answer_text": "Immediate rollback of fuel price hike",
+    "explanation": "The Congress workers demanded an immediate rollback of the hike in fuel prices.",
+    "due_at": "2026-05-24T05:15:02.427457+00:00"
   },
   {
-    "reveal_id": "c452f44632044916abed011aca90a824",
-    "article_title": "Tribal Mobilisation in Delhi",
-    "question": "What was the occasion for the tribal rally in Delhi?",
-    "answer_label": "A",
-    "answer_text": "150th birth anniversary of Bhagwan Birsa Munda",
-    "explanation": "The rally was organised on the 150th birth anniversary of Bhagwan Birsa Munda, a significant figure in tribal history.",
-    "due_at": "2026-05-24T00:46:13.746387+00:00"
-  },
-  {
-    "reveal_id": "3329ac3746d5484cb12607d12ac3efed",
-    "article_title": "Tribal Mobilisation in Delhi",
-    "question": "What is the 'delisting bill' related to?",
+    "reveal_id": "2e862b57330f47b08d79da84b65da09d",
+    "article_title": "Fuel Price Hike Protest",
+    "question": "Who was accused of burdening common people with inflation?",
     "answer_label": "B",
-    "answer_text": "Reservation rights and tribal identity",
-    "explanation": "The 'delisting bill' is related to reservation rights and tribal identity, sparking controversy and debate.",
-    "due_at": "2026-05-24T00:46:14.362196+00:00"
+    "answer_text": "Central Government",
+    "explanation": "The Central Government was accused of burdening common people with inflation due to the fuel price hike.",
+    "due_at": "2026-05-24T05:15:03.121123+00:00"
   },
   {
-    "reveal_id": "ec3e6598f45e465db7f3e87407226703",
-    "article_title": "Tribal Mobilisation in Delhi",
-    "question": "Under which platform was the tribal rally organised?",
-    "answer_label": "A",
-    "answer_text": "Janjati Suraksha Manch",
-    "explanation": "The rally was organised under the Janjati Suraksha Manch, a platform for tribal issues and concerns.",
-    "due_at": "2026-05-24T00:46:14.977520+00:00"
+    "reveal_id": "66b8fa830c1444edb968a832eb45a0e1",
+    "article_title": "Ambala Schools Warned on Summer Classes",
+    "question": "What action will be taken against private schools in Ambala if they hold classes during summer vacation?",
+    "answer_label": "B",
+    "answer_text": "Strict action will be taken",
+    "explanation": "The District Education Officer has warned private schools of strict action if any school is found operating during the summer vacations.",
+    "due_at": "2026-05-24T05:15:10.235930+00:00"
+  },
+  {
+    "reveal_id": "9313a08087fe4baea57366f42b6dce55",
+    "article_title": "Ambala Schools Warned on Summer Classes",
+    "question": "When do the summer vacations start in Ambala schools?",
+    "answer_label": "B",
+    "answer_text": "May 25",
+    "explanation": "The summer vacations in Ambala schools start on May 25.",
+    "due_at": "2026-05-24T05:15:10.945724+00:00"
+  },
+  {
+    "reveal_id": "8fc31b9893d842a89fd1309d5fee3a24",
+    "article_title": "Ambala Schools Warned on Summer Classes",
+    "question": "Who has been directed to ensure compliance with government orders in Ambala?",
+    "answer_label": "B",
+    "answer_text": "Block Education Officers",
+    "explanation": "The District Education Officer has directed all six Block Education Officers to ensure strict compliance with government orders within their respective jurisdictions.",
+    "due_at": "2026-05-24T05:15:11.667921+00:00"
   }
 ]
