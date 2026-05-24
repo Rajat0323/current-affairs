@@ -1,59 +1,5 @@
 [
   {
-    "reveal_id": "63b2945202ba47c2a6c38b677896cd62",
-    "article_title": "Kapurthala Jail Incident",
-    "question": "Where did the jail incident occur?",
-    "answer_label": "A",
-    "answer_text": "Kapurthala jail, Punjab",
-    "explanation": "The incident occurred in Kapurthala jail, which is located in the state of Punjab.",
-    "due_at": "2026-05-24T10:15:35.235119+00:00"
-  },
-  {
-    "reveal_id": "56d9a4e22a974820b9eb3011cdf8ffda",
-    "article_title": "Kapurthala Jail Incident",
-    "question": "What measures did the police use to control the ruckus?",
-    "answer_label": "B",
-    "answer_text": "Teargas and cane charge",
-    "explanation": "The police used teargas and cane charge to control the situation in the jail.",
-    "due_at": "2026-05-24T10:15:36.134194+00:00"
-  },
-  {
-    "reveal_id": "2f2d07b12e004f4fbd78d8306463a034",
-    "article_title": "Kapurthala Jail Incident",
-    "question": "How many people were injured in the incident?",
-    "answer_label": "C",
-    "answer_text": "Three",
-    "explanation": "Three people were injured in the incident that occurred in the Kapurthala jail.",
-    "due_at": "2026-05-24T10:15:36.849395+00:00"
-  },
-  {
-    "reveal_id": "021af8260ed043658f1b43d4a9801cd3",
-    "article_title": "India's Fertility Rate Declines",
-    "question": "What is the current total fertility rate in India?",
-    "answer_label": "B",
-    "answer_text": "1.9",
-    "explanation": "The total fertility rate has fallen to 1.9, indicating a decline in population growth.",
-    "due_at": "2026-05-24T10:15:43.982146+00:00"
-  },
-  {
-    "reveal_id": "9ed3c93298f844e1b884ccc11d2828c6",
-    "article_title": "India's Fertility Rate Declines",
-    "question": "How many states have a fertility rate above the replacement level?",
-    "answer_label": "B",
-    "answer_text": "6",
-    "explanation": "Only 6 states now have a fertility rate above the replacement level, indicating a significant decline.",
-    "due_at": "2026-05-24T10:15:44.685514+00:00"
-  },
-  {
-    "reveal_id": "68cadf5a97784f1490baf9b05ced45d5",
-    "article_title": "India's Fertility Rate Declines",
-    "question": "What is the replacement level of fertility rate?",
-    "answer_label": "C",
-    "answer_text": "2.1",
-    "explanation": "The replacement level of fertility rate is 2.1, which is the average number of children a woman would have to replace the population.",
-    "due_at": "2026-05-24T10:15:49.600225+00:00"
-  },
-  {
     "reveal_id": "c5ddaa5a25dc4828ae20a12c8d341847",
     "article_title": "Ebola Outbreak in Africa",
     "question": "What is the current status of the Ebola outbreak in Africa?",
