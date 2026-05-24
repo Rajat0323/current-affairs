@@ -112,16 +112,15 @@ class TelegramClientMigrationTests(unittest.TestCase):
             [
                 migrated_group_response(),
                 FakeResponse(200, {"ok": True, "result": {"message_id": 1}}),
-                FakeResponse(200, {"ok": True, "result": {"message_id": 2}}),
             ]
         )
 
         reveals = client.broadcast(build_article(), build_generated_post())
 
-        self.assertEqual(len(reveals), 1)
+        self.assertEqual(len(reveals), 0)
         self.assertEqual(
             [call["data"]["chat_id"] for call in client.session.calls],
-            [OLD_GROUP_ID, MIGRATED_GROUP_ID, MIGRATED_GROUP_ID],
+            [OLD_GROUP_ID, MIGRATED_GROUP_ID],
         )
         self.assertEqual(client._resolve_chat_id(OLD_GROUP_ID), MIGRATED_GROUP_ID)
 
@@ -151,7 +150,7 @@ class TelegramClientMigrationTests(unittest.TestCase):
             [OLD_GROUP_ID, MIGRATED_GROUP_ID],
         )
 
-    def test_group_posts_use_messages_only_with_channel_ref_and_hashtags(self) -> None:
+    def test_group_posts_only_current_affairs_with_channel_ref_and_hashtags(self) -> None:
         client = TelegramClient(
             build_settings(
                 telegram_channel_ref="@currentaffairschannel",
@@ -161,20 +160,22 @@ class TelegramClientMigrationTests(unittest.TestCase):
         client.session = FakeSession(
             [
                 FakeResponse(200, {"ok": True, "result": {"message_id": 1}}),
-                FakeResponse(200, {"ok": True, "result": {"message_id": 2}}),
             ]
         )
 
         reveals = client.broadcast(build_article(), build_generated_post())
 
-        self.assertEqual(len(reveals), 1)
+        self.assertEqual(len(reveals), 0)
+        self.assertEqual(len(client.session.calls), 1)
         self.assertTrue(all(call["url"].endswith("/sendMessage") for call in client.session.calls))
         self.assertTrue(all("@currentaffairschannel" in str(call["data"]["text"]) for call in client.session.calls))
         self.assertTrue(
             all("subscribe for more - @currentaffairschannel" in str(call["data"]["text"]) for call in client.session.calls)
         )
         self.assertTrue(all("#CurrentAffairs" in str(call["data"]["text"]) for call in client.session.calls))
+        self.assertTrue(all("National and International Current Affairs" in str(call["data"]["text"]) for call in client.session.calls))
         self.assertTrue(all("Vote in the poll" not in str(call["data"]["text"]) for call in client.session.calls))
+        self.assertTrue(all("Quick Quiz" not in str(call["data"]["text"]) for call in client.session.calls))
 
     def test_group_answer_reveal_includes_channel_ref_and_hashtags(self) -> None:
         client = TelegramClient(build_settings(telegram_channel_ref="@currentaffairschannel"))
@@ -194,7 +195,7 @@ class TelegramClientMigrationTests(unittest.TestCase):
         self.assertIn("subscribe for more - @currentaffairschannel", message)
         self.assertIn("#CurrentAffairs", message)
 
-    def test_channel_text_posts_include_channel_ref_in_all_messages(self) -> None:
+    def test_channel_posts_quiz_only_content_with_channel_ref(self) -> None:
         client = TelegramClient(
             build_settings(
                 telegram_channel_id="@currentaffairschannel",
@@ -218,6 +219,10 @@ class TelegramClientMigrationTests(unittest.TestCase):
             all("subscribe for more - @currentaffairschannel" in str(call["data"]["text"]) for call in client.session.calls)
         )
         self.assertTrue(all("#CurrentAffairs" in str(call["data"]["text"]) for call in client.session.calls))
+        first_message = str(client.session.calls[0]["data"]["text"])
+        self.assertIn("UPSC GK Quiz | Daily Current Affairs MCQ", first_message)
+        self.assertIn("Q1.", first_message)
+        self.assertNotIn("<b>Summary:</b>", first_message)
 
     def test_group_posts_retry_after_rate_limit(self) -> None:
         client = TelegramClient(build_settings())
@@ -225,18 +230,17 @@ class TelegramClientMigrationTests(unittest.TestCase):
             [
                 rate_limited_response(28),
                 FakeResponse(200, {"ok": True, "result": {"message_id": 1}}),
-                FakeResponse(200, {"ok": True, "result": {"message_id": 2}}),
             ]
         )
 
         with patch("current_affairs_bot.telegram_client.time.sleep") as sleep_mock:
             reveals = client.broadcast(build_article(), build_generated_post())
 
-        self.assertEqual(len(reveals), 1)
+        self.assertEqual(len(reveals), 0)
         sleep_mock.assert_called_once_with(28)
         self.assertEqual(
             [call["data"]["chat_id"] for call in client.session.calls],
-            [OLD_GROUP_ID, OLD_GROUP_ID, OLD_GROUP_ID],
+            [OLD_GROUP_ID, OLD_GROUP_ID],
         )
 
 

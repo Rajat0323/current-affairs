@@ -134,6 +134,26 @@ class NewsClientFallbackTests(unittest.TestCase):
 
         self.assertLess(score, 0)
 
+    def test_article_relevance_rejects_local_news_without_national_angle(self) -> None:
+        client = NewsClient(
+            build_settings(
+                preferred_topic_keywords=("government", "policy", "parliament"),
+                blocked_topic_keywords=(),
+            )
+        )
+        article = Article(
+            title="City traffic police announce local road diversion",
+            description="A traffic update for commuters after a road accident.",
+            url="https://www.thehindu.com/example",
+            source="The Hindu",
+            published_at="2026-05-10T10:00:00Z",
+            content="Local government officials issued a city news traffic advisory.",
+        )
+
+        score = client._article_relevance_score(article)
+
+        self.assertLess(score, 0)
+
 
 if __name__ == "__main__":
     unittest.main()

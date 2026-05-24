@@ -106,6 +106,8 @@ class NewsClient:
             return -10
         if self._looks_like_consumer_or_listicle_title(article.title):
             return -10
+        if self._looks_like_local_news(combined_text):
+            return -10
         if self._is_stale(article.published_at):
             return -10
 
@@ -154,6 +156,42 @@ class NewsClient:
             r"\bemi\b",
         )
         return any(re.search(pattern, normalized_title) for pattern in patterns)
+
+    def _looks_like_local_news(self, combined_text: str) -> bool:
+        local_signals = (
+            "local news",
+            "city news",
+            "municipal",
+            "traffic",
+            "road accident",
+            "crime",
+            "robbery",
+            "murder",
+            "school holiday",
+            "power cut",
+            "water supply",
+            "metro delay",
+        )
+        national_or_international_signals = (
+            "central government",
+            "union government",
+            "parliament",
+            "supreme court",
+            "cabinet",
+            "ministry",
+            "national",
+            "international",
+            "foreign policy",
+            "diplomacy",
+            "bilateral",
+            "multilateral",
+            "united nations",
+            "g20",
+            "brics",
+        )
+        has_local_signal = any(signal in combined_text for signal in local_signals)
+        has_wider_relevance = any(signal in combined_text for signal in national_or_international_signals)
+        return has_local_signal and not has_wider_relevance
 
     def _is_stale(self, published_at: str) -> bool:
         if not published_at or self.settings.max_article_age_hours <= 0:

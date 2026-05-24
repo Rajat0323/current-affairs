@@ -194,29 +194,27 @@ class Settings:
             newsdata_api_url=_optional_env("NEWSDATA_API_URL", "https://newsdata.io/api/1/latest"),
             current_affairs_query=_optional_env(
                 "CURRENT_AFFAIRS_QUERY",
-                "India OR government OR economy OR policy OR science",
+                "India government OR parliament OR national politics OR foreign policy OR international relations",
             ),
             newsdata_india_query=_optional_env(
                 "NEWSDATA_INDIA_QUERY",
-                "India OR government OR economy OR policy OR science",
+                "India OR government OR parliament OR politics OR policy",
             ),
             newsdata_world_query=_optional_env(
                 "NEWSDATA_WORLD_QUERY",
-                "government OR economy OR diplomacy OR science OR policy",
+                "international relations OR diplomacy OR geopolitics OR foreign policy",
             ),
             newsdata_india_country=_optional_env("NEWSDATA_INDIA_COUNTRY", "in"),
             preferred_topic_keywords=_csv_env(
                 "PREFERRED_TOPIC_KEYWORDS",
                 (
-                    "india,indian,government,parliament,assembly,cabinet,ministry,ministry of finance,"
-                    "supreme court,high court,judgment,scheme,policy,bill,act,economy,inflation,gdp,"
-                    "rbi,banking,trade,exports,imports,diplomacy,foreign policy,defence,security,"
-                    "summit,agreement,ceasefire,sanction,un,who,wto,imf,world bank,adb,brics,g20,"
-                    "climate,environment,biodiversity,wildlife,science,technology,space,isro,"
-                    "satellite,semiconductor,artificial intelligence,ai,health,disease,vaccine,"
-                    "education,election,census,report,index,road safety,heatwave,monsoon,"
-                    "cyclone,earthquake,agriculture,appointment,committee,commission,regulation,"
-                    "guideline,energy,tax,employment"
+                    "india,indian,national,government,union government,central government,parliament,"
+                    "lok sabha,rajya sabha,cabinet,prime minister,president,ministry,supreme court,"
+                    "judgment,constitution,constitutional,governance,scheme,policy,bill,act,"
+                    "election,election commission,committee,commission,regulation,guideline,"
+                    "diplomacy,foreign policy,international relations,geopolitics,bilateral,"
+                    "multilateral,defence,security,summit,treaty,agreement,ceasefire,sanction,"
+                    "un,united nations,who,wto,imf,world bank,adb,brics,g20,quad,saarc,asean"
                 ),
             ),
             blocked_topic_keywords=_csv_env(
@@ -228,7 +226,9 @@ class Settings:
                     "biopic,fitness method,ufo,astrology,horoscope,reels,instagram,x bio,mother's day,"
                     "wedding look,style tips,skin care,net worth,luxury,launch event,sale today,"
                     "homebuyer,real estate tips,loan emi,buying guide,property advice,"
-                    "astrological,dating,weekend watch,celeb,fan war"
+                    "astrological,dating,weekend watch,celeb,fan war,local news,city news,"
+                    "traffic jam,road accident,crime,robbery,murder,shooting,weather update,"
+                    "school holiday,train delay,metro delay,water supply,power cut"
                 ),
             ),
             allowed_source_domains=_csv_env(
@@ -275,16 +275,16 @@ class Settings:
             ),
             telegram_call_to_action=_optional_env(
                 "TELEGRAM_CALL_TO_ACTION",
-                "Join GKShot Daily for exam-focused current affairs, one-line revision, and UPSC/SSC quiz practice.",
+                "Join GKShot Daily for UPSC current affairs quiz, SSC GK MCQ, polity, history, geography, economy, and exam-focused revision.",
             ),
             telegram_discovery_keywords=_csv_env(
                 "TELEGRAM_DISCOVERY_KEYWORDS",
-                "UPSC current affairs, SSC current affairs, daily current affairs, current affairs MCQ, SSC CGL current affairs, government exam GK",
+                "UPSC current affairs quiz, UPSC GK quiz, daily current affairs MCQ, SSC GK quiz, Indian polity quiz, history GK, geography quiz, UPSC prelims MCQ",
             ),
             group_answer_delay_minutes=_int_env("GROUP_ANSWER_DELAY_MINUTES", 30),
             group_discussion_call_to_action=_optional_env(
                 "GROUP_DISCUSSION_CALL_TO_ACTION",
-                "Reply with your reason or one keyword you would revise from this topic.",
+                "Discuss the national or international exam angle from this current affairs update.",
             ),
         )
 

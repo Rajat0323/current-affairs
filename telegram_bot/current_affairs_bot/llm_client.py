@@ -11,7 +11,7 @@ from current_affairs_bot.models import Article, GeneratedPost, MCQ
 LOGGER = logging.getLogger(__name__)
 
 SYSTEM_PROMPT = """
-You create concise current affairs study material for UPSC and SSC aspirants.
+You create concise, SEO-friendly current affairs and GK quiz material for UPSC and SSC aspirants.
 Return only valid JSON.
 Keep the tone clear, factual, and easy to revise quickly.
 Use only the facts available in the provided article details.
@@ -55,7 +55,7 @@ class LLMClient:
 
     def _build_user_prompt(self, article: Article) -> str:
         return f"""
-Create a UPSC/SSC current affairs digest from this article.
+Create a UPSC/SSC exam digest and GK quiz set from this article.
 
 Return JSON with exactly these keys:
 {{
@@ -73,13 +73,15 @@ Return JSON with exactly these keys:
 }}
 
 Rules:
-- summary must be concise and revision-friendly
-- why_it_matters should have 2 short points
-- create {self.settings.mcqs_per_article} MCQs
+- summary must be concise, factual, and focused on national politics, governance, or international relations
+- why_it_matters should have 2 short UPSC/SSC exam-focused points
+- create {self.settings.mcqs_per_article} MCQs for GK/current affairs revision
 - every MCQ must have exactly 4 options
 - answer_index must be 0, 1, 2, or 3
+- MCQs can connect the article to UPSC topics such as polity, history, geography, economy, science and technology, environment, and international relations when supported by the facts
 - avoid jargon and sensational wording
 - avoid celebrity, gossip, lifestyle, shopping, or entertainment framing
+- avoid local city-level news framing unless it has clear national policy or international relevance
 - rewrite clickbait titles into sober exam-style titles
 - include India relevance whenever the article supports it
 

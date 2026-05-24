@@ -32,7 +32,7 @@ class TelegramClient:
         if self.settings.telegram_channel_id:
             chat_id = self.settings.telegram_channel_id
             try:
-                message = self._build_post_message(chat_id, article, generated_post)
+                message = self._build_channel_quiz_message(article, generated_post)
                 self._send_message(chat_id, message)
                 if self.settings.telegram_send_mcq_polls:
                     for mcq in generated_post.mcqs[: self.settings.mcqs_per_article]:
@@ -47,7 +47,7 @@ class TelegramClient:
         if self.settings.telegram_group_id:
             chat_id = self.settings.telegram_group_id
             try:
-                pending_reveals = self._post_group_discussions(article, generated_post)
+                self._post_group_current_affairs(article, generated_post)
                 successful_chats += 1
                 group_success = True
             except Exception as exc:
@@ -67,24 +67,16 @@ class TelegramClient:
             return
         self._send_message(self.settings.telegram_group_id, self._build_group_answer_reveal(reveal))
 
-    def _post_group_discussions(self, article: Article, generated_post: GeneratedPost) -> list[PendingGroupReveal]:
+    def _post_group_current_affairs(self, article: Article, generated_post: GeneratedPost) -> None:
         group_id = self.settings.telegram_group_id
         if not group_id:
-            return []
+            return
 
-        reveals: list[PendingGroupReveal] = []
-        self._send_message(group_id, self._build_group_starter_message(generated_post))
-        for mcq in generated_post.mcqs[: self.settings.mcqs_per_article]:
-            self._send_message(group_id, self._build_group_question_prompt(generated_post, mcq))
-            self._send_quiz(group_id, mcq)
-            reveals.append(self._build_pending_reveal(generated_post, mcq))
+        self._send_message(group_id, self._build_group_current_affairs_message(article, generated_post))
         LOGGER.info(
-            "Posted %s discussion prompt(s) and %s poll(s) to the Telegram group for article: %s",
-            len(generated_post.mcqs[: self.settings.mcqs_per_article]) + 1,
-            len(generated_post.mcqs[: self.settings.mcqs_per_article]),
+            "Posted current affairs update to the Telegram group for article: %s",
             article.title,
         )
-        return reveals
 
     def _send_message(self, chat_id: str, text: str) -> None:
         response = self._post_with_retry(
@@ -284,6 +276,51 @@ class TelegramClient:
             f"{hashtags}"
         )
 
+    def _build_channel_quiz_message(self, article: Article, generated_post: GeneratedPost) -> str:
+        title = html.escape(generated_post.title)
+        hashtags = self._build_hashtags(article, generated_post)
+        discovery_footer = self._build_discovery_footer(self.settings.telegram_channel_id)
+        source = html.escape(article.source)
+        source_url = html.escape(article.url, quote=True)
+        labels = ["A", "B", "C", "D"]
+
+        sections = [
+            "<b>UPSC GK Quiz | Daily Current Affairs MCQ</b>",
+            "",
+            f"<b>Topic:</b> {title}",
+        ]
+        for index, mcq in enumerate(generated_post.mcqs[: self.settings.mcqs_per_article], start=1):
+            options = "\n".join(
+                f"{labels[option_index]}. {html.escape(option)}"
+                for option_index, option in enumerate(mcq.options)
+            )
+            sections.append(
+                "\n".join(
+                    [
+                        "",
+                        f"<b>Q{index}. {html.escape(mcq.question)}</b>",
+                        options,
+                        f"<b>Answer:</b> {labels[mcq.answer_index]}",
+                        f"<b>Explanation:</b> {html.escape(mcq.explanation)}",
+                    ]
+                )
+            )
+
+        sections.extend(
+            [
+                "",
+                f"<b>Source:</b> <a href=\"{source_url}\">{source}</a>",
+                "",
+                discovery_footer,
+                "",
+                hashtags,
+            ]
+        )
+        return "\n".join(section for section in sections if section)
+
+    def _build_group_current_affairs_message(self, article: Article, generated_post: GeneratedPost) -> str:
+        return self._build_post_message(self.settings.telegram_group_id, article, generated_post)
+
     def _build_group_starter_message(self, generated_post: GeneratedPost) -> str:
         why_it_matters = html.escape(generated_post.why_it_matters[0]) if generated_post.why_it_matters else "Important for exam preparation."
         return self._append_group_footer(
@@ -438,9 +475,9 @@ class TelegramClient:
 
     def _build_intro(self, chat_id: str) -> str:
         if chat_id == self.settings.telegram_channel_id:
-            return "<b>Current Affairs Update</b>"
+            return "<b>UPSC GK Quiz</b>"
         if chat_id == self.settings.telegram_group_id:
-            return "<b>Discussion Post</b>"
+            return "<b>National and International Current Affairs</b>"
         return "<b>Current Affairs Update</b>"
 
     def _build_discovery_footer(self, chat_id: str) -> str:

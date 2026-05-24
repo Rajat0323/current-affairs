@@ -14,10 +14,10 @@ A lightweight Python bot that fetches live news, turns it into short current-aff
   - a short readable current-affairs summary
   - "why it matters" points for government exam aspirants
   - 3 practice MCQs
-- Posts the summary to a Telegram channel and optionally a Telegram group.
+- Posts quiz-only content to a Telegram channel and curated current-affairs updates to a Telegram group.
 - Keeps channel and group content different:
-  - channel gets the full summary + source + hashtags
-  - group gets discussion starters, quiz prompts, polls, and delayed answer reveals
+  - channel gets UPSC/SSC/GK quiz posts, optional Telegram quiz polls, source, hashtags, and search keywords
+  - group gets only national/international current-affairs updates related to politics, governance, policy, and international relations
 - Sends MCQs as Telegram quiz polls, or you can switch them off and keep them as text.
 - Stores posted article URLs in `data/posted_articles.json` to avoid reposting.
 - Adds a branded footer, discovery keywords, and optional public channel/group references to each post.
@@ -130,17 +130,14 @@ Set at least one of `NEWS_API_KEY` or `NEWSDATA_API_KEY`.
 - `MAX_ARTICLES_PER_CYCLE`
 - `REQUEST_TIMEOUT_SECONDS`
 
-### Group behavior
+### Channel and group behavior
 
-- The channel keeps the current full-post format.
-- The group does not receive the same summary post.
+- The channel is quiz-only: UPSC GK quiz, SSC GK quiz, current-affairs MCQ, polity, history, geography, economy, science-tech, and UPSC prelims-style questions.
+- The group is current-affairs-only: national politics, government policy, governance, constitutional developments, and international relations.
+- Local city news, crime, traffic, entertainment, shopping, celebrity, and other non-exam content are filtered out by default.
 - `TELEGRAM_GROUP_REF` is only for public discovery/footer text.
 - Actual group posting always requires `TELEGRAM_GROUP_ID`.
 - If Telegram upgrades a group to a supergroup, it returns a replacement chat id. The bot now retries automatically for that run, but you should still update `TELEGRAM_GROUP_ID` in your secrets or `.env`.
-- For each fresh article, the group now gets:
-  - 1 discussion starter
-  - 1 quiz prompt per MCQ
-  - 1 delayed answer reveal per MCQ in a later cycle
 - Every group message includes hashtags and the channel reference when `TELEGRAM_CHANNEL_REF` is set.
 - Pending answer reveals are stored in `data/pending_group_reveals.json`.
 
