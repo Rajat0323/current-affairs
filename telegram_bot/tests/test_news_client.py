@@ -118,6 +118,22 @@ class NewsClientFallbackTests(unittest.TestCase):
             "India OR government OR economy OR policy OR parliament OR science",
         )
 
+    def test_article_relevance_rejects_consumer_listicle_titles(self) -> None:
+        client = NewsClient(build_settings())
+        article = build_article(url="https://www.thehindu.com/example")
+        article = Article(
+            title="From PMAY to DDA: Government housing schemes every homebuyer should know",
+            description="Consumer-focused housing guide",
+            url=article.url,
+            source="The Hindu",
+            published_at=article.published_at,
+            content="A guide for homebuyers about housing schemes and loan planning.",
+        )
+
+        score = client._article_relevance_score(article)
+
+        self.assertLess(score, 0)
+
 
 if __name__ == "__main__":
     unittest.main()

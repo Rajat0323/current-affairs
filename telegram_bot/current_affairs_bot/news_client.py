@@ -1,4 +1,5 @@
 import logging
+import re
 from collections.abc import Callable
 from datetime import datetime, timezone
 from urllib.parse import urlparse
@@ -103,6 +104,8 @@ class NewsClient:
             return -10
         if any(keyword.lower() in combined_text for keyword in self.settings.blocked_topic_keywords):
             return -10
+        if self._looks_like_consumer_or_listicle_title(article.title):
+            return -10
         if self._is_stale(article.published_at):
             return -10
 
@@ -132,6 +135,25 @@ class NewsClient:
             score -= 1
 
         return score
+
+    def _looks_like_consumer_or_listicle_title(self, title: str) -> bool:
+        normalized_title = title.strip().lower()
+        if not normalized_title:
+            return False
+
+        patterns = (
+            r"\b(?:every|what)\b.{0,40}\bshould know\b",
+            r"\bhow to\b",
+            r"\bguide\b",
+            r"\breview\b",
+            r"\bvs\b",
+            r"\bbest\b",
+            r"\btips?\b",
+            r"\bhomebuyer\b",
+            r"\bbuying\b",
+            r"\bemi\b",
+        )
+        return any(re.search(pattern, normalized_title) for pattern in patterns)
 
     def _is_stale(self, published_at: str) -> bool:
         if not published_at or self.settings.max_article_age_hours <= 0:

@@ -227,6 +227,7 @@ class Settings:
                     "holiday,entertainment,gossip,web3,event promotion,product launch,market report,cagr,"
                     "biopic,fitness method,ufo,astrology,horoscope,reels,instagram,x bio,mother's day,"
                     "wedding look,style tips,skin care,net worth,luxury,launch event,sale today,"
+                    "homebuyer,real estate tips,loan emi,buying guide,property advice,"
                     "astrological,dating,weekend watch,celeb,fan war"
                 ),
             ),
@@ -263,22 +264,22 @@ class Settings:
             telegram_send_mcq_polls=_bool_env("TELEGRAM_SEND_MCQ_POLLS", True),
             mcqs_per_article=_int_env("MCQS_PER_ARTICLE", 3),
             telegram_require_group=_bool_env("TELEGRAM_REQUIRE_GROUP", True),
-            telegram_brand_name=_optional_env("TELEGRAM_BRAND_NAME", "Current Affairs Hub"),
+            telegram_brand_name=_optional_env("TELEGRAM_BRAND_NAME", "GKShot Daily"),
             telegram_channel_ref=_validate_public_ref(
-                _optional_env("TELEGRAM_CHANNEL_REF"),
+                _optional_env("TELEGRAM_CHANNEL_REF", "@gkshotdaily"),
                 "TELEGRAM_CHANNEL_REF",
             ),
             telegram_group_ref=_validate_public_ref(
-                _optional_env("TELEGRAM_GROUP_REF"),
+                _optional_env("TELEGRAM_GROUP_REF", "@gkshotdaily1"),
                 "TELEGRAM_GROUP_REF",
             ),
             telegram_call_to_action=_optional_env(
                 "TELEGRAM_CALL_TO_ACTION",
-                "Follow for daily UPSC/SSC current affairs, exam-focused summaries, and quick MCQ practice.",
+                "Join GKShot Daily for exam-focused current affairs, one-line revision, and UPSC/SSC quiz practice.",
             ),
             telegram_discovery_keywords=_csv_env(
                 "TELEGRAM_DISCOVERY_KEYWORDS",
-                "UPSC current affairs, SSC current affairs, daily current affairs, current affairs quiz, government exam preparation, GK updates",
+                "UPSC current affairs, SSC current affairs, daily current affairs, current affairs MCQ, SSC CGL current affairs, government exam GK",
             ),
             group_answer_delay_minutes=_int_env("GROUP_ANSWER_DELAY_MINUTES", 30),
             group_discussion_call_to_action=_optional_env(
