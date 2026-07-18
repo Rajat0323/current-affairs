@@ -1,12 +1,4 @@
 {
-  "https://www.kyivpost.com/post/77181": {
-    "title": "Zelensky Enacts New Sanctions Aligning with EU Package",
-    "posted_at": "2026-05-30T23:46:04.326933+00:00"
-  },
-  "https://www.newsdrum.in/national/bengal-will-work-with-centre-to-ensure-state-receives-all-benefits-of-double-engine-govt-cm-suvendu-11890475": {
-    "title": "Bengal will work with Centre to ensure state receives all benefits of double-engine govt: CM Suvendu",
-    "posted_at": "2026-05-30T23:46:10.810784+00:00"
-  },
   "https://www.nationalheraldindia.com/national/vietnam-signs-brahmos-missile-deal-indonesia-pact-nearing-completion-defence-secretary": {
     "title": "Vietnam signs BrahMos missile deal, Indonesia pact nearing completion: Defence Secretary",
     "posted_at": "2026-05-31T01:56:35.873892+00:00"
@@ -3998,5 +3990,13 @@
   "https://economictimes.indiatimes.com/news/india/kerala-govt-moves-top-court-against-hc-order-on-waqf/articleshow/132467914.cms": {
     "title": "Kerala govt moves top court against HC order on Waqf",
     "posted_at": "2026-07-18T06:24:58.438655+00:00"
+  },
+  "https://www.newindianexpress.com/editorial/2026/Jul/17/focus-on-shielding-farms-from-monsoon-vagaries": {
+    "title": "Focus on shielding farms from monsoon vagaries",
+    "posted_at": "2026-07-18T08:25:42.003702+00:00"
+  },
+  "https://www.newindianexpress.com/editorial/2026/Jul/17/new-mission-hits-right-note-with-boost-for-chip-design-research": {
+    "title": "New mission hits right note with boost for chip design, research",
+    "posted_at": "2026-07-18T08:25:49.151670+00:00"
   }
 }
