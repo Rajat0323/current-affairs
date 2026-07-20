@@ -1,12 +1,4 @@
 {
-  "https://indianexpress.com/article/cities/chandigarh/canada-supreme-court-intimate-partner-violence-tort-ahluwalia-punjab-woman-abuse-damages-10721373/": {
-    "title": "Punjab woman\u2019s fight against domestic abuse leads to landmark Canadian court ruling",
-    "posted_at": "2026-06-03T19:02:04.226619+00:00"
-  },
-  "https://www.business-standard.com/markets/capital-market-news/ustr-proposes-12-5-additional-duties-on-india-and-53-other-countries-over-forced-labour-import-violations-126060300426_1.html": {
-    "title": "USTR proposes 12.5% additional duties on India and 53 other countries over forced labour import violations",
-    "posted_at": "2026-06-03T19:02:10.527432+00:00"
-  },
   "https://www.hindustantimes.com/india-news/pm-modi-to-become-indias-longest-serving-elected-pm-on-june-10-surpass-nehru-101780480773813.html": {
     "title": "PM Modi to become India's longest-serving elected PM on June 10, surpass Nehru",
     "posted_at": "2026-06-03T22:03:56.557547+00:00"
@@ -3998,5 +3990,13 @@
   "https://timesofindia.indiatimes.com/videos/sports/cricket/virat-kohli-gautam-gambhir-all-smiles-during-dinner-at-high-commission-of-india/videoshow/132493442.cms": {
     "title": "Virat Kohli, Gautam Gambhir all smiles during dinner at High Commission of India",
     "posted_at": "2026-07-19T23:10:28.451243+00:00"
+  },
+  "https://www.deccanherald.com/india/karnataka/mysuru/experts-propose-marginal-design-alternatives-to-save-trees-at-mysuru-expressway-junction-4079434": {
+    "title": "Experts propose marginal design alternatives to save trees at Mysuru expressway junction",
+    "posted_at": "2026-07-20T00:59:07.541451+00:00"
+  },
+  "https://www.hindustantimes.com/trending/us/who-is-uday-ruddarraju-indian-origin-techie-becomes-openais-cto-of-compute-101784464800799.html": {
+    "title": "Who is Uday Ruddarraju? Indian-origin techie becomes OpenAI's CTO of Compute",
+    "posted_at": "2026-07-20T00:59:14.201880+00:00"
   }
 }
