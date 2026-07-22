@@ -1,12 +1,4 @@
 {
-  "https://www.thehawk.in/news/sports/one-off-test-kl-rahul-stands-tall-as-india-reach-2092-at-tea": {
-    "title": "One-off Test: KL Rahul stands tall as India reach 209/2 at tea",
-    "posted_at": "2026-06-06T20:59:07.519891+00:00"
-  },
-  "https://www.firstpost.com/firstcricket/vaibhav-sooryavanshi-dethrones-sachin-tendulkar-india-youngest-cricketer-national-call-up-14019539.html": {
-    "title": "Vaibhav Sooryavanshi dethrones Sachin Tendulkar as India\u2019s youngest cricketer to receive national call-up",
-    "posted_at": "2026-06-06T20:59:14.289643+00:00"
-  },
   "https://www.opindia.com/news-updates/pakistanis-spread-fake-news-claiming-jaishankar-announced-annexing-pok-by-supporting-jaac/": {
     "title": "As anti-Pakistan protests continue in PoK and Joint Awami Action Committee is banned, Pakistanis spread fake news claiming Jaishankar announced annexing the region by supporting JAAC",
     "posted_at": "2026-06-06T22:14:22.254857+00:00"
@@ -3998,5 +3990,13 @@
   "https://theprint.in/world/ukraine-gets-new-top-commander-as-protests-spark-wars-biggest-military-shake-up/2992886/": {
     "title": "Ukraine gets new top commander as protests spark war\u2019s biggest military shake up",
     "posted_at": "2026-07-22T12:01:24.391932+00:00"
+  },
+  "https://www.newindianexpress.com/cities/bengaluru/2026/Jul/22/bengaluru-civic-officials-attacked-during-footpath-clearance-10-arrested": {
+    "title": "Bengaluru civic officials attacked during footpath clearance; 10 arrested",
+    "posted_at": "2026-07-22T14:18:41.527260+00:00"
+  },
+  "https://economictimes.indiatimes.com/news/india/it-is-only-through-deeper-cooperation-we-can-de-risk-and-diversify-jaishankar-at-asean-summit/videoshow/132549726.cms": {
+    "title": "'It is only through deeper cooperation we can de-risk and diversify': Jaishankar at ASEAN summit",
+    "posted_at": "2026-07-22T14:18:45.540431+00:00"
   }
 }
