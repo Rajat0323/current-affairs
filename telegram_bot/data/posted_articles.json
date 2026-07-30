@@ -1,12 +1,4 @@
 {
-  "https://e-pao.net/ge.asp?heading=Sport2&src=190626": {
-    "title": "UAKOM to conduct State team trial",
-    "posted_at": "2026-06-19T11:52:16.204493+00:00"
-  },
-  "https://economictimes.indiatimes.com/tech/technology/delhi-high-court-rejects-telegrams-appeal-against-temporary-blocking-of-app/articleshow/131847595.cms": {
-    "title": "Delhi High Court rejects Telegram's appeal against temporary blocking of app",
-    "posted_at": "2026-06-19T11:52:23.172963+00:00"
-  },
   "https://www.newindianexpress.com/states/andhra-pradesh/2026/Jun/19/45-lakh-houses-handed-over-in-two-years-minister-kolusu-parthasaradhi": {
     "title": "4.5 lakh houses handed over in two years: Minister Kolusu Parthasaradhi",
     "posted_at": "2026-06-19T15:38:20.297304+00:00"
@@ -3998,5 +3990,13 @@
   "https://www.tribuneindia.com/news/punjab/33-8l-ration-kits-given-under-meri-rasoi-plan-in-punjab": {
     "title": "33.8L ration kits given under Meri Rasoi plan in Punjab",
     "posted_at": "2026-07-30T14:27:32.831554+00:00"
+  },
+  "https://economictimes.indiatimes.com/wealth/tax/has-government-scrapped-long-term-capital-gain-ltcg-tax-for-foreign-investors-finance-ministry-replies/articleshow/132734633.cms": {
+    "title": "Has government scrapped Long Term Capital Gain (LTCG) tax for foreign investors? Finance Ministry replies",
+    "posted_at": "2026-07-30T16:11:56.994400+00:00"
+  },
+  "https://www.hindustantimes.com/india-news/not-necessary-but-trump-reacts-to-russia-sanctions-bill-that-threatens-100-per-cent-tariffs-on-india-101785383199335.html": {
+    "title": "\u2018Not necessary, but...\u2019: Trump reacts to Russia sanctions bill that threatens 100% tariffs on India",
+    "posted_at": "2026-07-30T16:12:03.827149+00:00"
   }
 }
