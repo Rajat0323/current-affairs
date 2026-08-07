@@ -1,12 +1,4 @@
 {
-  "https://www.news18.com/agency-feeds/nitte-announces-final-application-phase-for-mca-program-at-nmamit-and-nmit-10179499.html": {
-    "title": "Nitte Announces Final Application Phase for MCA Program at NMAMIT and NMIT",
-    "posted_at": "2026-06-29T19:17:53.177669+00:00"
-  },
-  "https://smestreet.in/infocus/salasar-techno-commissions-two-hybrid-fm-towers-for-air-12116443": {
-    "title": "Salasar Techno Commissions Two Hybrid FM Towers for AIR",
-    "posted_at": "2026-06-29T19:18:00.311200+00:00"
-  },
   "https://smestreet.in/technology/ebg-group-signs-daewoo-brand-deal-with-posco-international-12117003": {
     "title": "EBG Group Signs Daewoo Brand Deal with POSCO International",
     "posted_at": "2026-06-29T21:00:28.262437+00:00"
@@ -3998,5 +3990,13 @@
   "https://www.tribuneindia.com/news/gurugram/gurugram-railway-station-horror-25-year-old-jumps-in-front-of-speeding-train": {
     "title": "Gurugram railway station horror: 25-year-old jumps in front of speeding train",
     "posted_at": "2026-08-07T20:54:46.174599+00:00"
+  },
+  "https://www.thehindubusinessline.com/news/national/tamil-nadu-assembly-passes-unanimous-resolution-on-tax-devolution/article71316879.ece": {
+    "title": "Tamil Nadu Assembly passes unanimous resolution on tax devolution",
+    "posted_at": "2026-08-07T21:51:44.693009+00:00"
+  },
+  "https://economictimes.indiatimes.com/industry/cons-products/fmcg/fssai-directs-pie-foods-to-immediately-stop-selling-two-products/articleshow/133030082.cms": {
+    "title": "FSSAI directs PIE FOODS to immediately stop selling two products",
+    "posted_at": "2026-08-07T21:51:51.175677+00:00"
   }
 }
