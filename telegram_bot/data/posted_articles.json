@@ -1,12 +1,4 @@
 {
-  "https://economictimes.indiatimes.com/tech/artificial-intelligence/japan-plans-sovereign-ai-model-10-million-ai-robots/articleshow/132106486.cms": {
-    "title": "Japan plans sovereign AI model, 10 million AI robots",
-    "posted_at": "2026-07-01T11:47:27.988058+00:00"
-  },
-  "https://timesofindia.indiatimes.com/india/sir-not-fair-done-by-biased-ec-23-opposition-parties-to-cji/articleshow/132103269.cms": {
-    "title": "SIR row escalates: 23 opposition parties write to CJI, question Election Commission's neutrality",
-    "posted_at": "2026-07-01T11:47:34.960789+00:00"
-  },
   "https://www.financialexpress.com/opinion/passports-citizenship-and-the-high-cost-of-confusion/4280473/": {
     "title": "Passports, citizenship and the high cost of confusion",
     "posted_at": "2026-07-01T13:57:45.515239+00:00"
@@ -3998,5 +3990,13 @@
   "https://indianexpress.com/article/world/us-senate-russia-sanctions-bill-100-percent-tariff-india-china-10823146/": {
     "title": "US Senate passes bill for 100% tariffs on India, China over Russian oil; bill heads to House",
     "posted_at": "2026-08-08T11:49:04.463928+00:00"
+  },
+  "https://economictimes.indiatimes.com/news/india/india-flags-concern-over-chinas-tibet-mega-dam-seeks-early-meet-on-trans-border-river-data/articleshow/133030357.cms": {
+    "title": "India seeks river data from China, flags concerns over Tibet mega-dam",
+    "posted_at": "2026-08-08T12:23:23.717628+00:00"
+  },
+  "https://www.tribuneindia.com/news/delhi/delhi-cabinet-clears-draft-bill-to-establish-private-universities": {
+    "title": "Delhi Cabinet clears draft Bill to establish private universities",
+    "posted_at": "2026-08-08T12:23:30.974814+00:00"
   }
 }
