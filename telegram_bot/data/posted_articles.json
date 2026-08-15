@@ -1,12 +1,4 @@
 {
-  "https://www.newsbytesapp.com/news/world/missing-indian-seafarer-confirmed-dead-after-vessel-attack-near-oman/story": {
-    "title": "Missing Indian sailor confirmed dead after ship attacked near Oman",
-    "posted_at": "2026-07-15T17:38:04.100421+00:00"
-  },
-  "https://www.moneycontrol.com/technology/us-europe-japanese-firms-eye-bigger-role-in-india-s-semiconductor-push-as-ism-2-0-to-open-equipment-manufacturing-opportunity-article-13974355.html": {
-    "title": "Global firms eye bigger role as ISM 2.0 to open equipment making opportunity",
-    "posted_at": "2026-07-15T18:48:26.960245+00:00"
-  },
   "https://timesofindia.indiatimes.com/city/delhi/weather-tomorrow-imd-forecasts-heavy-rain-across-several-regions-hot-and-humid-weather-likely-in-delhi-ncr/articleshow/132408554.cms": {
     "title": "Weather tomorrow: IMD forecasts heavy rain across several regions; hot and humid weather likely in Delhi-NCR",
     "posted_at": "2026-07-15T18:48:33.738660+00:00"
@@ -3998,5 +3990,13 @@
   "https://www.indianewsnetwork.com/en/air-india-pilot-drug-test-sparks-aviation-safety-debate-20260815": {
     "title": "Air India Pilot's Drug Test Sparks Aviation Safety Debate",
     "posted_at": "2026-08-15T17:32:27.344299+00:00"
+  },
+  "https://timesofindia.indiatimes.com/technology/tech-news/indias-ai-moment-can-we-lead-the-future/articleshow/133256886.cms": {
+    "title": "India's AI Moment: Can We Lead the Future?",
+    "posted_at": "2026-08-15T17:53:42.869361+00:00"
+  },
+  "https://economictimes.indiatimes.com/industry/auto/cars-uvs/mahindra-launches-be-6-sporteq-with-baas-new-three-screen-cockpit-check-price-and-more-features/articleshow/133256818.cms": {
+    "title": "Mahindra launches BE 6 SPORTEQ with BaaS, new three-screen cockpit: Check price and more features",
+    "posted_at": "2026-08-15T17:53:50.098341+00:00"
   }
 }
